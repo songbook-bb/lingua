@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>¿Quién eres?</foreignWord>
+        <nativeWord>Kim jesteś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Quién es usted?</foreignWord>
+        <nativeWord>Kim pan jest?; Kim pani jest?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué eres?</foreignWord>
+        <nativeWord>Czym się zajmujesz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>¿De dónde eres?</foreignWord>
+        <nativeWord>Skąd jesteś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Cómo es?</foreignWord>
+        <nativeWord>Jaki jest?; Jaka jest?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué es esta casa?</foreignWord>
+        <nativeWord>Co to za dom?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué son estas casas?</foreignWord>
+        <nativeWord>Co to za domy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué es esto?</foreignWord>
+        <nativeWord>Co to jest?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Cómo es esta ciudad?</foreignWord>
+        <nativeWord>Jakie jest to miasto?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Qué bonito es este edificio!</foreignWord>
+        <nativeWord>Jaki ładny jest ten budynek!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Qué moderno es este edificio!</foreignWord>
+        <nativeWord>Jaki nowoczesny jest ten budynek!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>Están en el cine.</foreignWord>
+        <nativeWord>Są w kinie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Cómo es tu habitación?</foreignWord>
+        <nativeWord>Jaki jest twój pokój?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>Estoy contenta con mi casa.</foreignWord>
+        <nativeWord>Jestem zadowolona z mojego domu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>El cine está cerca de aquí.</foreignWord>
+        <nativeWord>Kino jest niedaleko stąd.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>Ahora estamos muy bien.</foreignWord>
+        <nativeWord>Teraz czujemy się bardzo dobrze.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>Estamos muy cómodos aquí.</foreignWord>
+        <nativeWord>Jest nam tutaj bardzo wygodnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Cómo estás?</foreignWord>
+        <nativeWord>Jak się miewasz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Dónde está?</foreignWord>
+        <nativeWord>Gdzie jest?; Gdzie znajduje się?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Cómo estáis?</foreignWord>
+        <nativeWord>Jak się czujecie?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Cómo está usted?</foreignWord>
+        <nativeWord>Jak się pani czuje?; Jak się pan czuje?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>21</idSound>
+    </word>
+    <word>
+        <foreignWord>No estoy en casa.</foreignWord>
+        <nativeWord>Nie ma mnie w domu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>22</idSound>
+    </word>
+    <word>
+        <foreignWord>Estoy en el jardín.</foreignWord>
+        <nativeWord>Jestem w ogrodzie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+    <word>
+        <foreignWord>Estoy mejor.</foreignWord>
+        <nativeWord>Czuję się lepiej.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>24</idSound>
+    </word>
+    <word>
+        <foreignWord>¿En el teatro o en la discoteca?</foreignWord>
+        <nativeWord>W teatrze czy w dyskotece?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>25</idSound>
+    </word>
+    <word>
+        <foreignWord>Los niños están en el jardín.</foreignWord>
+        <nativeWord>Dzieci są w ogrodzie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>26</idSound>
+    </word>
+    <word>
+        <foreignWord>Estamos de vacaciones.</foreignWord>
+        <nativeWord>Mamy wakacje.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>27</idSound>
+    </word>
+    <word>
+        <foreignWord>Estamos de fiesta.</foreignWord>
+        <nativeWord>Mamy święto.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>28</idSound>
+    </word>
+    <word>
+        <foreignWord>Todavía no estamos de vacaciones.</foreignWord>
+        <nativeWord>Jeszcze nie jesteśmy na wakacjach.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>29</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Quién está de vacaciones?</foreignWord>
+        <nativeWord>Kto jest na wakacjach?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>30</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Fuera de aquí!</foreignWord>
+        <nativeWord>Precz stąd!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>31</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Qué familia!</foreignWord>
+        <nativeWord>Co za rodzina!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>32</idSound>
+    </word>
+    <word>
+        <foreignWord>¿De qué color es?</foreignWord>
+        <nativeWord>Jakiego jest koloru?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>33</idSound>
+    </word>
+    <word>
+        <foreignWord>¿De qué color son?</foreignWord>
+        <nativeWord>Jakiego są koloru?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>34</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Qué frío!</foreignWord>
+        <nativeWord>Jak zimno!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>35</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Qué calor!</foreignWord>
+        <nativeWord>Jak ciepło!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>36</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Quiénes son esas señoritas?</foreignWord>
+        <nativeWord>Kim są tamte dziewczyny?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>37</idSound>
+    </word>
+    <word>
+        <foreignWord>¿De qué color es?</foreignWord>
+        <nativeWord>Jakiego jest koloru?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>38</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Está libre esta silla?</foreignWord>
+        <nativeWord>Czy to krzesło jest wolne?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>39</idSound>
+    </word>
+    <word>
+        <foreignWord>Los sillones son muy cómodos.</foreignWord>
+        <nativeWord>Fotele są bardzo wygodne.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>40</idSound>
+    </word>
+    <word>
+        <foreignWord>Las sillas están libres.</foreignWord>
+        <nativeWord>Krzesła są wolne.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>41</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Tienes el periódico de hoy?</foreignWord>
+        <nativeWord>Czy masz dzisiejszą gazetę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>42</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué hay en su habitación?</foreignWord>
+        <nativeWord>Co jest w jego pokoju?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>43</idSound>
+    </word>
+    <word>
+        <foreignWord>Tengo muchos libros sobre España.</foreignWord>
+        <nativeWord>Mam dużo książek o Hiszpanii.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>44</idSound>
+    </word>
+    <word>
+        <foreignWord>Tus llaves no están aquí.</foreignWord>
+        <nativeWord>Nie ma tu twoich kluczy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>45</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Tiene Ud. mi maleta?</foreignWord>
+        <nativeWord>Czy ma pan moją walizkę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>46</idSound>
+    </word>
+    <word>
+        <foreignWord>No tenemos maletas.</foreignWord>
+        <nativeWord>Nie mamy walizek.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>47</idSound>
+    </word>
+    <word>
+        <foreignWord>En mi jardín hay muchas flores.</foreignWord>
+        <nativeWord>W moim ogrodzie jest dużo kwiatów.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>48</idSound>
+    </word>
+</dictionary>

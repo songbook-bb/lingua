@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="1">
+    <word>
+        <foreignWord>guten Morgen</foreignWord>
+        <nativeWord>good morning</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>entschuldige bitte</foreignWord>
+        <nativeWord>sorry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>die Weihnachten</foreignWord>
+        <nativeWord>Christmas</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>Wie geht es {dir / ihnen}?</foreignWord>
+        <nativeWord>How are you?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+</dictionary>

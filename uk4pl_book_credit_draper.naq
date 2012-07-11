@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>abdomen (noun)</foreignWord>
+        <nativeWord>brzuch;odwłok;podbrzusze</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>apron (noun)</foreignWord>
+        <nativeWord>fartuch;przedpole hangaru;skrzynka suportowa;proscenium</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>armpit (noun)</foreignWord>
+        <nativeWord>pacha</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>awkwardly (adv)</foreignWord>
+        <nativeWord>niezgrabnie;niezręcznie;niezdarnie;niefortunnie;niewygodnie;nieraźno;w sposób krępujący</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>barely-furnished (adj)</foreignWord>
+        <nativeWord>słabo umeblowane;ledwo umeblowane</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>beak (noun)</foreignWord>
+        <nativeWord>dziób;belfer;haczykowaty nos;dziob retorty;sędzia w komisariacie;profesor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>beckon (verb)</foreignWord>
+        <nativeWord>kiwać (ręką);przyzwać;skinąć na kogoś ręką;kiwnąć (ręką);przywołać (ręką);skinąć (ręką)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bicarbonate (noun)</foreignWord>
+        <nativeWord>dwuwęglan</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>boast (verb)</foreignWord>
+        <nativeWord>chwalić się;szczycić się;chlubić się;blagować;wychwalać się;łgać;pochlubić się;ociosać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bob (noun)</foreignWord>
+        <nativeWord>kok;wahadło;pion;spławik;ogon latawca;włosy ostrzyżone na pazia;podskok;dyg;szyling;błahostka;szturchnięcie</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bob (verb)</foreignWord>
+        <nativeWord>huśtać się;dygać;szturchać;przyciąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bolt (noun)</foreignWord>
+        <nativeWord>śruba;rygiel;sworzeń;zasuwa;zasuwka;piorun;antaba;zawora;drapnięcie;wyrzynek;beczułka</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>brandish (verb)</foreignWord>
+        <nativeWord>wymachiwać;potrząsnąć;wywijać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bristle (verb)</foreignWord>
+        <nativeWord>kosz;kotlarz;koksiak;mosiężnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bundle (noun)</foreignWord>
+        <nativeWord>pakiet;wiązka;zawiniątko;plik;węzełek;tłumok;tobół;paczka;tobołek;pakunek;pęk;snop;snopek;powięź</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>charring (noun)</foreignWord>
+        <nativeWord>zwęglenie;zwęglenia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>chew (verb)</foreignWord>
+        <nativeWord>żuć;gryźć;pogryźć;zżuć;rozmyślać;zgryźć;mleć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clamber (verb)</foreignWord>
+        <nativeWord>wspiąć się;wdrapać się</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clamour (verb)</foreignWord>
+        <nativeWord>gardłować;wołać;zajazgotać;wrzasnąć;jazgotać;podnieść larum;protestować;rozbijać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clamp (verb)</foreignWord>
+        <nativeWord>ściskać;kopcować;układać w stos;ciężko stąpać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clap (verb)</foreignWord>
+        <nativeWord>klaskać;klepać;poklaskiwać;oklaskiwać;plasnąć;wpakować;pakować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clasp (verb)</foreignWord>
+        <nativeWord>ściskać;obciskać;ogarnąć;objąć;uścisnąć;przytulić;przygarnąć;tulić;ująć;opiąć;cisnąć;przepiąć</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>claw (verb)</foreignWord>
+        <nativeWord>drapać;chwytać w pazury;rozszarpać pazurami</nativeWord>
+        <score>6</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clinging (noun)</foreignWord>
+        <nativeWord>lgnięcie;przywiązanie;trzymanie</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clutch (noun)</foreignWord>
+        <nativeWord>sprzęgło;pazur;chwytanie;chwytak;wyląg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>coarse (adj)</foreignWord>
+        <nativeWord>szorstki;zgrubny;prostacki;ordynarny;toporny;wulgarny;niedelikatny;rubaszny;zgrzebny;pospolity;grubiański;prosty;ostry;trywialny;chamski;drastyczny;soczysty;niecenzuralny;nieokrzesany;gruboskórny;niesmaczny;chropawy</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conscript (verb)</foreignWord>
+        <nativeWord>brać do wojska;rekwirować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cot (noun)</foreignWord>
+        <nativeWord>chata;szałas;chałupa;łóżko składane;łóżko koja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cramped (adj)</foreignWord>
+        <nativeWord>zbity;sztuczny;stłoczony;niezrozumiały</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crane (noun)</foreignWord>
+        <nativeWord>dźwig;żuraw;dźwignica;dźwignik;dźwigar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crude (adj)</foreignWord>
+        <nativeWord>surowy;brutalny;nieokrzesany;niedojrzały;szorstki;gruboskórny;niewprawny;w stanie surowym</nativeWord>
+        <score>4</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crunch (verb)</foreignWord>
+        <nativeWord>schrupać;chrupać;skrzypieć;chrzęścić;trzeszczeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>curtsy (noun)</foreignWord>
+        <nativeWord>głęboki ukłon;dyg;dygnięcie</nativeWord>
+        <score>9</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dab (verb)</foreignWord>
+        <nativeWord>musnąć;dotknąć;lekko uderzyć;dziobać;przykładać;mazać;zbierać rozlany płyn</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>damp (adj)</foreignWord>
+        <nativeWord>wilgotny;mokrawy;zawilgły;duszny</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dart (verb)</foreignWord>
+        <nativeWord>ciskać;kłuć;wbić;ciskać się;wysłać;popędzać;wbijać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dip (verb)</foreignWord>
+        <nativeWord>zanurzać;zamoczyć;pochylać;skąpać;pikować;przechylić;obniżyć się;zniżać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disentangle (verb)</foreignWord>
+        <nativeWord>rozwikłać;wyplątać;rozplątać;wymotać;odmotać;odwikłać;rozgmatwać;rozmotać;rozsupłać;wygmatwać</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dram (noun)</foreignWord>
+        <nativeWord>naparstek;łut;szczypta;jednostka wagi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draper (noun)</foreignWord>
+        <nativeWord>sukiennik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ember (noun)</foreignWord>
+        <nativeWord>niedopałek;nur polarny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>filthy (adj)</foreignWord>
+        <nativeWord>brudny;ohydny;sprośny;paskudny</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>flick (noun)</foreignWord>
+        <nativeWord>prztyczek;strzepnięcie;trzepnięcie;trzaśnięcie;błyskawiczny ruch ręki</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>flinch (verb)</foreignWord>
+        <nativeWord>cofać się;skrzywić się;wzdragać się;zżymać się;tchórzyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fluff (noun)</foreignWord>
+        <nativeWord>puch;puszek;meszek na suknie</nativeWord>
+        <score>3</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fluttering</foreignWord>
+        <nativeWord>trzepotliwy</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>frown (verb)</foreignWord>
+        <nativeWord>marszczyć brwi;krzywić się;boczyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fuzz (noun)</foreignWord>
+        <nativeWord>kędziory;puch;koty kurzu pod meblami;meszek;szpicel</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fuzz (verb)</foreignWord>
+        <nativeWord>skręcać włosy na barana;skędzierzawić</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gangplank (noun)</foreignWord>
+        <nativeWord>trap;pomost</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>giggle (verb)</foreignWord>
+        <nativeWord>chichotać</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>giggle (noun)</foreignWord>
+        <nativeWord>chichot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gleefully (adv)</foreignWord>
+        <nativeWord>radośnie (na literę g)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grainy (adj)</foreignWord>
+        <nativeWord>ziarnisty;słoisty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grasp (verb)</foreignWord>
+        <nativeWord>zrozumieć;pojąć;chwycić;ująć;złapać;schwycić;schwytać;porwać;ogarnąć umysłem;przygarnąć;objąć myślą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grate (noun)</foreignWord>
+        <nativeWord>ruszt;kratownica;palenisko;tarka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grate (verb)</foreignWord>
+        <nativeWord>trzeć;ucierać;zazgrzytać;zgrzytać zębami;okratować;chrobotać;chrypieć;chrzęścić</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>graze (noun)</foreignWord>
+        <nativeWord>otarcie;muśnięcie;zadraśnięcie skóry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grime (noun)</foreignWord>
+        <nativeWord>brud;plugawość;plugastwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gritty (adj)</foreignWord>
+        <nativeWord>piaszczysty;wytrwały;krupiasty;żwirowaty</nativeWord>
+        <score>6</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grumble (verb)</foreignWord>
+        <nativeWord>narzekać;zrzędzić;marudzić;sarkać;mruczeć;kwękać;utyskiwać;gderać;pomrukiwać;pogderać;pokwękać;burczeć;poburczeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gulp (verb)</foreignWord>
+        <nativeWord>łykać;połknąć jednym haustem;hamować;wziąć coś za dobrą monetę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hallway (noun)</foreignWord>
+        <nativeWord>korytarz;sień</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>harshly (adv)</foreignWord>
+        <nativeWord>cierpko;zgryźliwie;opryskliwie;zgrzytliwie;chropawo;chropowato;chrypliwie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>headscarf (noun)</foreignWord>
+        <nativeWord>chusta;apaszka</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hearth (noun)</foreignWord>
+        <nativeWord>palenisko;ognisko;piec;ognisko domowe</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hunch (verb)</foreignWord>
+        <nativeWord>zgarbić się;garbić {/się}</nativeWord>
+        <score>4</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>knead (verb)</foreignWord>
+        <nativeWord>ugniatać;miesić;rozmiesić;gnieść;spajać;ugniatać przy masażu;mieszać;kształcić charakter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>knuckles (noun)</foreignWord>
+        <nativeWord>kostki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lapel (noun)</foreignWord>
+        <nativeWord>klapa;wyłóg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lip (noun)</foreignWord>
+        <nativeWord>warga;brzeg;skraj</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>menacingly (adv)</foreignWord>
+        <nativeWord>groźnie</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mock (verb)</foreignWord>
+        <nativeWord>drwić;przedrzeźniać;kpić;wykpić;udaremniać;oszukać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>moist (adj)</foreignWord>
+        <nativeWord>wilgotny;mokrawy;zawilgły</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mourning (noun)</foreignWord>
+        <nativeWord>żałoba;opłakiwanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mouthful (noun)</foreignWord>
+        <nativeWord>łyk;kęs;kąsek;kupa;ważne słowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>murmur (verb)</foreignWord>
+        <nativeWord>szemrać;mruczeć;pomrukiwać;szeptać;bełkotać;burczeć;huczeć;zaszemrać;szumieć;sarkać;szmerać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mutter (verb)</foreignWord>
+        <nativeWord>mruczeć;przebąkiwać;wybełkotać;mamrotać;burczeć;odburknąć;odbąknąć;bąkać;wybąkać;wymruczeć;wymamlać;zamruczeć</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>myriad (noun)</foreignWord>
+        <nativeWord>mnóstwo;miriada;niezliczoność</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>napkin (noun)</foreignWord>
+        <nativeWord>serwetka;pielucha</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>nip (verb)</foreignWord>
+        <nativeWord>skakać;uszczypnąć;przyciskać;przygryzać;kąsać;{odszczepić/szczepić} {pączki/pędy};zmrozić;popijać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>operatic (adj)</foreignWord>
+        <nativeWord>operowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>overcoat (noun)</foreignWord>
+        <nativeWord>płaszcz;palto;surdut</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>perch (noun)</foreignWord>
+        <nativeWord>okoń;wysokie stanowisko;grzęda;żerdź;wiecha;tyczka;rozwora</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pious (adj)</foreignWord>
+        <nativeWord>pobożny;nabożny;bogobojny;zbożny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pitcher (noun)</foreignWord>
+        <nativeWord>dzban;kufel;zawodnik rzucający piłką;sprzedawca uliczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>plough (noun)</foreignWord>
+        <nativeWord>pług;socha;ziemia uprawna;rolnictwo;odbiornik prądu</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pluck (verb)</foreignWord>
+        <nativeWord>oskubać;zerwać;skubać;szczypać;oberwać;podskubać;wypierzać;spalić przy egzaminie;targać się</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pouch (noun)</foreignWord>
+        <nativeWord>woreczek;torba;kieszeń;ładownica;sakiewka;kieszonka;worek pod oczami;kapciuch na tytoń;torebka nasienna</nativeWord>
+        <score>4</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prickle (noun)</foreignWord>
+        <nativeWord>kolka;cierń;kolec;ukłucie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pursuit (noun)</foreignWord>
+        <nativeWord>pogoń;pościg;gonitwa;zajęcie;dążność;zawód;pogoń za {czymś/kimś}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>quota (noun)</foreignWord>
+        <nativeWord>kontyngent;kwota;udział;norma;część</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rasp (noun)</foreignWord>
+        <nativeWord>tarnik;zgrzyt;skrobaczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>red-rimmed (adj)</foreignWord>
+        <nativeWord>zaczerwieniony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rim (noun)</foreignWord>
+        <nativeWord>obręcz;wieniec;obrzeże;brzeg;obwódka;kołnierz;rąbek;otok;rafa;oprawka;bordiura;burta;cyrkiel</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rouse (verb)</foreignWord>
+        <nativeWord>obudzić;budzić;poderwać;ocucić;rozbudzić;wyrwać;wzbudzać;wypłaszać;przebudzać;pobudzać namiętności;ocknąć z medytacji;rozdrażniać;sprowokować;buntować;prowokować;podnieść</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ruddy (adj)</foreignWord>
+        <nativeWord>rumiany;rudy;czerwonawy;różowy;krwisty;czerstwy;sakramencki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ruffle (verb)</foreignWord>
+        <nativeWord>wzburzyć;nastroszać;mącić;mierzwić;rozczochrać;powichrzyć;rozwichrzyć;gnieść;nastroszać się;wzburzyć się;sfalować;rozbić;najeżyć;potargać;zmarszczyć;rozburzyć;kostrzewić;urazić;rozkudłać;napuszyć;zmącić;zamącić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>scalding (adj)</foreignWord>
+        <nativeWord>wrzący</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>scoop (verb)</foreignWord>
+        <nativeWord>czerpać;zagarnąć;łyżkować;wybierać;drążyć</nativeWord>
+        <score>8</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>scrutinize (verb)</foreignWord>
+        <nativeWord>{badać/analizować} szczegółowo;lustrować;przestudiować;rozpatrywać;Szczegółowo {badać/analizować}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>scurry (verb)</foreignWord>
+        <nativeWord>pędzić;biec;popędzać</nativeWord>
+        <score>4</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Sewn-up (adj)</foreignWord>
+        <nativeWord>uszyty;zszyty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>shawl (noun)</foreignWord>
+        <nativeWord>szal;chusta</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>shriek (verb)</foreignWord>
+        <nativeWord>wrzasnąć;zawrzeszczeć</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>shuffle (verb)</foreignWord>
+        <nativeWord>szurać nogami;człapać;przetasować karty;wahać się;dokonać przesunięć personalnych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>slice (verb)</foreignWord>
+        <nativeWord>pokroić;przeciąć;krajać;krajać na plastry;pokrajać;rozkrajać;płatkować;płatać;płatować;napłatać;uszatkować;szatkować</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>slit (verb)</foreignWord>
+        <nativeWord>rozciąć;rozszczepiać;rozpruć;rozpłatać;poderżnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>slither (verb)</foreignWord>
+        <nativeWord>poślizgnąć się;ślizgać się</nativeWord>
+        <score>2</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>smock (noun)</foreignWord>
+        <nativeWord>kitel;fartuch;bluza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>snap (noun)</foreignWord>
+        <nativeWord>chapnięcie;pstryknięcie;fotka;urwanie się;kłapnięcie;zameczek;ostry ton;żywość;fotografia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>snatch (verb)</foreignWord>
+        <nativeWord>wyrwać;porwać;wydrzeć;uszczknąć;złapać;poderwać;łapać;wychwycić;chapać;capnąć;docierać;sprzątać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>snatch (noun)</foreignWord>
+        <nativeWord>porwanie;chwytanie;urywek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sob (verb)</foreignWord>
+        <nativeWord>szlochać;łkać;chlipać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>soothe (verb)</foreignWord>
+        <nativeWord>łagodzić;złagodzić;koić;uspokajać;załagodzić;uśmierzać;schlebiać</nativeWord>
+        <score>2</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>spittle (noun)</foreignWord>
+        <nativeWord>plwocina</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>squash (noun)</foreignWord>
+        <nativeWord>dynia;sok owocowy;miąższ;miazga;tłok;kabaczek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>squawking (gerund)</foreignWord>
+        <nativeWord>skrzecząc</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>squeeze (verb)</foreignWord>
+        <nativeWord>ściskać;wyciskać;przyciskać;przygniatać;gnieść;sprasować;dusić;wyściskać;stłoczyć;przydusić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stain (verb)</foreignWord>
+        <nativeWord>plamić;kalać;brukać reputację;splamić;poplamić;zaplamić;barwić;zabejcować;powalać;mazać;zbroczyć;brudzić;wybrudzić;napaćkać;babrać;zababrać;zasmolić;kolorować;zbabrać;pokapać;paćkać</nativeWord>
+        <score>2</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stairwell (noun)</foreignWord>
+        <nativeWord>klatka schodowa;schody</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stamping (noun)</foreignWord>
+        <nativeWord>tłoczenie;wytłaczanie;stemplowanie;cechowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stem (noun)</foreignWord>
+        <nativeWord>rdzeń;trzon;ród;dziobnica;łodyga trawy;pień drzewa;szypułka;nóżka kieliszka;cybuch fajki;laska nuty niepełnej;badyl</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stern (adj)</foreignWord>
+        <nativeWord>rufa;zad;ogon psa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sternly (adv)</foreignWord>
+        <nativeWord>surowo;groźnie;ostro;srogo</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stiffen (verb)</foreignWord>
+        <nativeWord>usztywniać;sztywnieć;twardnieć;zesztywnieć;usztywniać się;sprężać się;nakrochmalić;zdrętwieć;krzepnąć;okrzepnąć;zagęszczać;drętwieć;stać się trudniejszym;kołowacieć;lodowacieć;drewnieć</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stinging (adj)</foreignWord>
+        <nativeWord>piekący;kłujący;ostry;zjadliwy;tnący;uszczypliwy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stitch (noun)</foreignWord>
+        <nativeWord>ścieg;szew;oczko;ostry kłujący ból</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>strain (verb)</foreignWord>
+        <nativeWord>odcedzić;wysilać;wytężać;nadwyrężać;filtrować;naciągnąć;naprężać;nadwyrężyć;natężać;napiąć;przesączać;odsączyć;przeciągać;zerwać;deformować;przecedzać;dążyć;prężyć;naderwać;fasować;wycedzić;napocić się;przefiltrować;cedzić;nacedzić;odkształcić;przemęczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stray (verb)</foreignWord>
+        <nativeWord>błądzić;zabłądzić;zabłąkać się;odbić;oderwać;odstać;krążyć</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>streak (verb)</foreignWord>
+        <nativeWord>pokryć smugami;rysować</nativeWord>
+        <score>8</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>strut (verb)</foreignWord>
+        <nativeWord>pysznić się;kroczyć dumnie;dumnie kroczyć;puszyć się</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stubble</foreignWord>
+        <nativeWord>ściernisko;szczecina;rżysko;zarost kilkudniowy;Włosy {/strzyżone} na jeża;jeżyk (włosy)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stumble (verb)</foreignWord>
+        <nativeWord>potknąć się;popełniać błędy;błądzić;przejęzyczać się;zająknąć się;wydukać;mieć skrupuły</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stumble (noun)</foreignWord>
+        <nativeWord>Potknięcie {/się}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>surge (verb)</foreignWord>
+        <nativeWord>falować;wezbrać;burzyć;kipieć;kłębić;kotłować;zakotłować się;wzrastać;buksować</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sway (verb)</foreignWord>
+        <nativeWord>kołysać;kołysać się;kiwać;rządzić;huśtać;rzucać;wywijać;zadecydować;przechylić szalę;zaszamotać się;wachlować;szamotać</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>swish (verb)</foreignWord>
+        <nativeWord>świst;szelest;śmignięcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>swivel (verb)</foreignWord>
+        <nativeWord>obracać {/się}</nativeWord>
+        <score>1</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>swoop (verb)</foreignWord>
+        <nativeWord>runąć;spadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tantalising (adj)</foreignWord>
+        <nativeWord>kuszący</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>temple (noun)</foreignWord>
+        <nativeWord>świątynia;skroń;rozciągacz;bóżnica</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tenement (noun)</foreignWord>
+        <nativeWord>kamienica;kamieniczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>thigh (noun)</foreignWord>
+        <nativeWord>udo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>thud (noun)</foreignWord>
+        <nativeWord>łomot;głuchy odgłos;odgłos kołatki</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tilt (noun)</foreignWord>
+        <nativeWord>plandeka;nachylenie;przechylenie;przechył;płachta nieprzemakalna</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tinkle (verb)</foreignWord>
+        <nativeWord>zadzwonić;brzęczeć;dzwonić;zabrzęczeć</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tip (verb)</foreignWord>
+        <nativeWord>przechylić;tknąć;wysypać;dawać napiwek;trącać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>trundle (verb)</foreignWord>
+        <nativeWord>przetaczać się;z trudem toczyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tuck (verb)</foreignWord>
+        <nativeWord>podwinąć;podwijać;omotać się;wetknąć;schować</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>unwieldy (adj)</foreignWord>
+        <nativeWord>nieporęczny;ociężały;niezwrotny;niepraktyczny;ciężki do obsługi</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>upholster (verb)</foreignWord>
+        <nativeWord>poobijać;tapicerować;wysłać;wytapicerować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>wad (noun)</foreignWord>
+        <nativeWord>tampon;plik;zwitek;wałek;podkład;przybitka w naboju</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>waif (noun)</foreignWord>
+        <nativeWord>podrzutek;bezpańskie zwierzę;rzecz niczyja;porzucone dziecko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>waistband (noun)</foreignWord>
+        <nativeWord>ściągacz;pas;pasek</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Weather-beaten (adj)</foreignWord>
+        <nativeWord>ogorzały</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>wedge (noun)</foreignWord>
+        <nativeWord>klin</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>wriggle (verb)</foreignWord>
+        <nativeWord>wić się;kręcić się;wiercić się;wymigać się</nativeWord>
+        <score>4</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>wriggle (noun)</foreignWord>
+        <nativeWord>wiercenie się;wicie się;kręcenie się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>wedge (verb)</foreignWord>
+        <nativeWord>zaklinować;klinować;wciskać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>unabashed (adj)</foreignWord>
+        <nativeWord>niepohamowany;nie speszony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>perch (verb)</foreignWord>
+        <nativeWord>usadowić się;siadać</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pouch (verb)</foreignWord>
+        <nativeWord>dać łapówkę;uszyć luźno</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prickle (verb)</foreignWord>
+        <nativeWord>kłuć;szczypać</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>slit (noun)</foreignWord>
+        <nativeWord>szczelina;rozcięcie;otwór;rozporek;rozpór</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>snap (verb)</foreignWord>
+        <nativeWord>pstrykać;pstryknąć;łamać;przerwać;zerwać;kłapać;chapnąć;pękać;klapnąć;urwać się;stargać;zdejmować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>squash (verb)</foreignWord>
+        <nativeWord>miażdżyć;zdusić;gnieść</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stern (adj)</foreignWord>
+        <nativeWord>rufowy;srogi;marsowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

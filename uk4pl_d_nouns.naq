@@ -1,0 +1,3482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="3">
+    <word>
+        <foreignWord>dab</foreignWord>
+        <nativeWord>dotknięcie; maźnięcie; grudka (np. farby)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dachshund</foreignWord>
+        <nativeWord>jamnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dad; daddy</foreignWord>
+        <nativeWord>tatuś; tato; tatko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>daffodil</foreignWord>
+        <nativeWord>żonkil</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dagger</foreignWord>
+        <nativeWord>sztylet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dahlia</foreignWord>
+        <nativeWord>dalia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>daily (noun)</foreignWord>
+        <nativeWord>gazeta codzienna; dziennik; sprzątaczka; sprzątacz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dainty (noun)</foreignWord>
+        <nativeWord>smakołyk; przysmak; smaczny kąsek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dairy</foreignWord>
+        <nativeWord>mleczarnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dairymaid</foreignWord>
+        <nativeWord>dójka; kobieta zatrudniona w mleczarni</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dais</foreignWord>
+        <nativeWord>podium</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>daisy</foreignWord>
+        <nativeWord>stokrotka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dale</foreignWord>
+        <nativeWord>dolina</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dalliance</foreignWord>
+        <nativeWord>żarty; krotochwila; flitr (dla zabawy)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dam</foreignWord>
+        <nativeWord>tama; zapora wodna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>damask</foreignWord>
+        <nativeWord>adamaszek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>damnation</foreignWord>
+        <nativeWord>potępienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>damp (noun)</foreignWord>
+        <nativeWord>wilgoć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>damsel</foreignWord>
+        <nativeWord>dziewczyna; panna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dandelion</foreignWord>
+        <nativeWord>mniszek lekarski; mlecz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dandruff</foreignWord>
+        <nativeWord>łupież</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dandy</foreignWord>
+        <nativeWord>dandys; fircyk; modniś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dare-devil</foreignWord>
+        <nativeWord>śmiałek; junak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>daring (noun)</foreignWord>
+        <nativeWord>odwaga; śmiałość; brawura</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dark-room</foreignWord>
+        <nativeWord>ciemnia {/fotograficzna}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dart</foreignWord>
+        <nativeWord>strzałka (do rzucania do tarczy); nagły ruch do przodu; bieg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dash</foreignWord>
+        <nativeWord>plusk; pęd; bieg; atak; odrobina; energia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dashboard</foreignWord>
+        <nativeWord>deska rozdzielcza (samochodu)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dastard</foreignWord>
+        <nativeWord>tyran; osobnik brutalny wobec słabszych i tchórzliwy wobec silniejszych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>data</foreignWord>
+        <nativeWord>dane</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>date</foreignWord>
+        <nativeWord>data; randka; sympatia; dziewczyna; daktyl</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>date-palm</foreignWord>
+        <nativeWord>palma daktylowa; daktylowiec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dative</foreignWord>
+        <nativeWord>celownik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>daughter-in-law</foreignWord>
+        <nativeWord>synowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dawn</foreignWord>
+        <nativeWord>świt; brzask; początek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>day-break</foreignWord>
+        <nativeWord>świt; brzask</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>day-dream</foreignWord>
+        <nativeWord>sen na jawie; mrzonka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>daylight</foreignWord>
+        <nativeWord>światło dzienne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>day-time</foreignWord>
+        <nativeWord>pora dnia; za dnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>daze</foreignWord>
+        <nativeWord>oszołomienie; zamroczenie; otumanienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deacon</foreignWord>
+        <nativeWord>diakon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deadline</foreignWord>
+        <nativeWord>termin (na wykonanie czegoś)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deadlock</foreignWord>
+        <nativeWord>impas (np. w rokowaniach); zakleszczenie; sytuacja bez wyjścia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deal</foreignWord>
+        <nativeWord>transakcja; interes; porozumienie; układ</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dealer</foreignWord>
+        <nativeWord>kupiec; handlarz; handlowiec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dean</foreignWord>
+        <nativeWord>dziekan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dear (noun)</foreignWord>
+        <nativeWord>ukochany; kochana osoba; kochany</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dearth</foreignWord>
+        <nativeWord>brak; niedostatek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deathbed</foreignWord>
+        <nativeWord>łoże śmierci</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>death-rate</foreignWord>
+        <nativeWord>śmiertelność; wskaźnik śmiertelności</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debacle</foreignWord>
+        <nativeWord>katastrofa; klęska; panika; tumult; lawina błota; osuwisko ziemne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debasement</foreignWord>
+        <nativeWord>obniżenie wartości; deprecjacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debauchery</foreignWord>
+        <nativeWord>rozpusta; wyuzdanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debenture</foreignWord>
+        <nativeWord>obligacja przedsiębiorstwa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debility</foreignWord>
+        <nativeWord>słabość; osłabienie; utrata sił</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debris</foreignWord>
+        <nativeWord>gruz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debt</foreignWord>
+        <nativeWord>dług</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debtor</foreignWord>
+        <nativeWord>dłużnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decanter</foreignWord>
+        <nativeWord>karafka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decapitation</foreignWord>
+        <nativeWord>{ścięcie/ucięcie} głowy; dekapitacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decay</foreignWord>
+        <nativeWord>rozpad;gnicie; rozkład; psucie się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decease</foreignWord>
+        <nativeWord>zgon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deceit; deception</foreignWord>
+        <nativeWord>oszustwo; podstęp; fałsz; kłamstwo; wprowadzenie w błąd</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deceiver</foreignWord>
+        <nativeWord>oszust; nabieracz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decency</foreignWord>
+        <nativeWord>przyzwoitość; uczciwość; rzetelność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deck</foreignWord>
+        <nativeWord>pokład; talia kart</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deck-chair</foreignWord>
+        <nativeWord>leżak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>declension</foreignWord>
+        <nativeWord>deklinacja; odmiana przez przypadki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decline</foreignWord>
+        <nativeWord>spadek (np. cen); schyłek (np. państwa); zanik (np. sił); upadek (np. przemysłu)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>declivity</foreignWord>
+        <nativeWord>pochyłość; stok</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decorum</foreignWord>
+        <nativeWord>dobre {maniery / obyczaje}; zachowanie pełne spokojnej godności</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decoy</foreignWord>
+        <nativeWord>przynęta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decree</foreignWord>
+        <nativeWord>dekret; rozporządzenie; rozkaz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deed</foreignWord>
+        <nativeWord>czyn; uczynek; postępek; akt prawny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>default</foreignWord>
+        <nativeWord>niewywiązywanie się z obowiązku; walkower; wartość domyślna; rozwiązanie domyślne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>defeat</foreignWord>
+        <nativeWord>porażka; klęska; fiasko; przegrana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>defect</foreignWord>
+        <nativeWord>wada; defekt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>defection</foreignWord>
+        <nativeWord>odstępstwo; ucieczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>defence; defense</foreignWord>
+        <nativeWord>obrona</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deference</foreignWord>
+        <nativeWord>szacunek; respekt; poważanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>defiance</foreignWord>
+        <nativeWord>nieposłuszeństwo; opór; przekora</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deficiency</foreignWord>
+        <nativeWord>brak; niedostatek; deficyt; niedobór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deficit</foreignWord>
+        <nativeWord>deficyt (ekonomiczny); niedobór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deflation</foreignWord>
+        <nativeWord>wypuszczenie powietrza (np. z dętki); deflacja (ekonomiczna)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>defunct</foreignWord>
+        <nativeWord>martwy; nie działający; nie używany</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deification</foreignWord>
+        <nativeWord>deifikacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deity</foreignWord>
+        <nativeWord>boskość; bóstwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>delicatessen</foreignWord>
+        <nativeWord>delikatesy (sklep)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>delight</foreignWord>
+        <nativeWord>rozkosz; przyjemność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dell</foreignWord>
+        <nativeWord>dolina (zwłaszcza zalesiona)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deluge</foreignWord>
+        <nativeWord>powódź; potop</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>delusion</foreignWord>
+        <nativeWord>złudzenie; iluzja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>demigod</foreignWord>
+        <nativeWord>półbóg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>demise</foreignWord>
+        <nativeWord>zgon (prawniczy)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>den</foreignWord>
+        <nativeWord>legowisko; nora; kryjówka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>denial</foreignWord>
+        <nativeWord>zaprzeczenie; odmowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>denier</foreignWord>
+        <nativeWord>denar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>denim</foreignWord>
+        <nativeWord>drelich</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>denizen</foreignWord>
+        <nativeWord>{osoba/roślina} związana z danym terytorium; zwierzę związane z danym terytorium</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>density</foreignWord>
+        <nativeWord>gęstość; tępota</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dent</foreignWord>
+        <nativeWord>wgłębienie; wygięcie; wgniecenie; uszczerbek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>denture</foreignWord>
+        <nativeWord>proteza zębowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deodorant</foreignWord>
+        <nativeWord>dezodorant</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>department</foreignWord>
+        <nativeWord>dział; wydział; departament; instytut (uniwersytetu)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>departure</foreignWord>
+        <nativeWord>odejście; odjazd; odlot; odpłynięcie; wyjazd</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dependant</foreignWord>
+        <nativeWord>osoba zależna (na utrzymaniu)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depiction</foreignWord>
+        <nativeWord>opis; przedstawienie; odmalowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depletion</foreignWord>
+        <nativeWord>uszczuplenie; naruszenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deportment</foreignWord>
+        <nativeWord>zachowanie się; sposób poruszania</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depot</foreignWord>
+        <nativeWord>skład; magazyn; stacja końcowa (np. kolejowa); zajezdnia; lokomotywownia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depravity</foreignWord>
+        <nativeWord>deprawacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deprecation</foreignWord>
+        <nativeWord>potępienie; przygana; dezaprobata</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depreciation</foreignWord>
+        <nativeWord>obniżenie wartości; deprecjacja; dewaluacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depredation</foreignWord>
+        <nativeWord>zniszczenie; złupienie; zrujnowanie;  splądrowanie; grabież</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depression</foreignWord>
+        <nativeWord>depresja; wgłębienie; niż {/atmosferyczny}; kryzys; melancholia; smutek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deprivation</foreignWord>
+        <nativeWord>pozbawienie; odebranie (np. praw)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>depth</foreignWord>
+        <nativeWord>głębokość; głębia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deputation</foreignWord>
+        <nativeWord>delegacja (grupa delegatów)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>derangement</foreignWord>
+        <nativeWord>dezorganizacja; rozstrojenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dereliction</foreignWord>
+        <nativeWord>zaniedbanie; niedopełnienie (np. obowiązku)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>derision</foreignWord>
+        <nativeWord>szyderstwo; kpina; drwina</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deriviation</foreignWord>
+        <nativeWord>pochodzenie; źródło; derywacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>derogation</foreignWord>
+        <nativeWord>umniejszenie; zmniejszenie (np. władzy); poniżenie (np. godności)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>derrick</foreignWord>
+        <nativeWord>dźwig; żuraw; wieża wiertnicza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>descendant</foreignWord>
+        <nativeWord>potomek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>descend</foreignWord>
+        <nativeWord>obniżanie się; spadek; pochodzenie; opadanie; obniżka; spad; genealogia; schodzenie {/z wysokości}; wytracanie wysokości</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desecration</foreignWord>
+        <nativeWord>zbezczeszczenie; profanacja; sprofanowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desert</foreignWord>
+        <nativeWord>pustynia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deserter</foreignWord>
+        <nativeWord>dezerter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desertion</foreignWord>
+        <nativeWord>dezercja; porzucenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deserts</foreignWord>
+        <nativeWord>zasługa; to, na co się zasługuje</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>design</foreignWord>
+        <nativeWord>plan; wzór; projekt; cel; deseń; dążenie; zamiar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>designation</foreignWord>
+        <nativeWord>nominacja; miano; mianowanie; nazwa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>designer</foreignWord>
+        <nativeWord>projektant; konstruktor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desire</foreignWord>
+        <nativeWord>pragnienie; życzenie; pożądanie; żądza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desk</foreignWord>
+        <nativeWord>biurko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desolation</foreignWord>
+        <nativeWord>samotność; opuszczenie; spustoszenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>despair</foreignWord>
+        <nativeWord>rozpacz; brak nadziei</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>despondency</foreignWord>
+        <nativeWord>melancholia; przygnębienie; prostracja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>despot</foreignWord>
+        <nativeWord>despota; autokrata; tyran</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dessert</foreignWord>
+        <nativeWord>deser</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>destination</foreignWord>
+        <nativeWord>miejsce przeznaczenia; cel {/podróży}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>destiny</foreignWord>
+        <nativeWord>los; przeznaczenie; fatum</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>destruction</foreignWord>
+        <nativeWord>zniszczenie; zagłada; destrukcja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detachment</foreignWord>
+        <nativeWord>odłączenie; obojętność; oddział (wojska); oddzielenie; separacja; dystans</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detail</foreignWord>
+        <nativeWord>szczegół; detal; oddział (w wojsku)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detection</foreignWord>
+        <nativeWord>wykrycie; odkrycie; dostrzeżenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detective</foreignWord>
+        <nativeWord>detektyw</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detention</foreignWord>
+        <nativeWord>areszt; zostawanie za karę po lekcjach</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detergent</foreignWord>
+        <nativeWord>detergent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>determination</foreignWord>
+        <nativeWord>określenie; oznaczenie; ustalenie; zdecydowanie; determinacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deterrent</foreignWord>
+        <nativeWord>środek {zapobiegawczy/odstraszający}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detonation</foreignWord>
+        <nativeWord>wybuch;detonacja; eksplozja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detour</foreignWord>
+        <nativeWord>objazd</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detraction</foreignWord>
+        <nativeWord>umniejszenie; uszczuplenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detriment</foreignWord>
+        <nativeWord>szkoda; uszczerbek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deuce</foreignWord>
+        <nativeWord>diabeł; równowaga (w tenisie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deuterium</foreignWord>
+        <nativeWord>deuter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>devastation</foreignWord>
+        <nativeWord>ruina; dewastacja; spustoszenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>developer</foreignWord>
+        <nativeWord>inwestor budowlany</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>development</foreignWord>
+        <nativeWord>rozwój; rozwinięcie się; postęp; wydarzenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deviation</foreignWord>
+        <nativeWord>zboczenie; odchylenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>device</foreignWord>
+        <nativeWord>plan; pomysł; przyrząd; urządzenie; wynalazek; sztuczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>devil</foreignWord>
+        <nativeWord>diabeł</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>devolution</foreignWord>
+        <nativeWord>przekazanie {władzy / obowiązków} na niższe szczeble (np. administracji)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>devotion</foreignWord>
+        <nativeWord>poświęcenie; oddanie; przywiązanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dew</foreignWord>
+        <nativeWord>rosa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dew-drop</foreignWord>
+        <nativeWord>kropla rosy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dexterity</foreignWord>
+        <nativeWord>zręczność; sprawność (zwłaszcza manualna)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diabetes</foreignWord>
+        <nativeWord>cukrzyca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diabetic</foreignWord>
+        <nativeWord>cukrzyk; diabetyk</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diadem</foreignWord>
+        <nativeWord>diadem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diagnosis (pl. diagnoses)</foreignWord>
+        <nativeWord>rozpoznanie; diagnoza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diagonal</foreignWord>
+        <nativeWord>przekątna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diagram</foreignWord>
+        <nativeWord>wykres; diagram</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dial</foreignWord>
+        <nativeWord>tarcza (zegarka; telefonu)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dialect</foreignWord>
+        <nativeWord>gwara; dialekt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dialogue</foreignWord>
+        <nativeWord>rozmowa; dialog</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diameter</foreignWord>
+        <nativeWord>średnica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diamond</foreignWord>
+        <nativeWord>diament; brylant; romb; karo (w kartach)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diaper</foreignWord>
+        <nativeWord>pieluszka; pielucha</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diaphragm</foreignWord>
+        <nativeWord>przepona; krążek dopochwowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diarrhoea</foreignWord>
+        <nativeWord>sraczka;biegunka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diary</foreignWord>
+        <nativeWord>dziennik; diariusz; pamiętnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dice</foreignWord>
+        <nativeWord>kości do gry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dictate</foreignWord>
+        <nativeWord>nakaz; dyktat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dictation</foreignWord>
+        <nativeWord>dyktando; dyktowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dictator</foreignWord>
+        <nativeWord>dyktator</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diction</foreignWord>
+        <nativeWord>dykcja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dictionary</foreignWord>
+        <nativeWord>słownik; leksykon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>die</foreignWord>
+        <nativeWord>kość do gry; sztanca; matryca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diet</foreignWord>
+        <nativeWord>parlament; sejm; dieta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dietician</foreignWord>
+        <nativeWord>dietetyk</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>difference</foreignWord>
+        <nativeWord>różnica; rozróżnienie; odrębność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>difficulty</foreignWord>
+        <nativeWord>trudność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>difficulties</foreignWord>
+        <nativeWord>trudności; kłopoty; tarapaty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diffraction</foreignWord>
+        <nativeWord>dyfrakcja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diffusion</foreignWord>
+        <nativeWord>szerzenie; rozprzestrzenianie; dyfuzja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dig</foreignWord>
+        <nativeWord>szturchaniec; przytyk; wykopaliska {/archeologiczne}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>digest</foreignWord>
+        <nativeWord>streszczenie; skrót</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>digestion</foreignWord>
+        <nativeWord>trawienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>digit</foreignWord>
+        <nativeWord>cyfra; liczba; palec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dignitary</foreignWord>
+        <nativeWord>dygnitarz; dostojnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dignity</foreignWord>
+        <nativeWord>godność; powaga</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>digression</foreignWord>
+        <nativeWord>dygresja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dike</foreignWord>
+        <nativeWord>rów melioracyjny; grobla; wał przeciwpowodziowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dilemma</foreignWord>
+        <nativeWord>dylemat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dilettante</foreignWord>
+        <nativeWord>amator; dyletant</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diligence</foreignWord>
+        <nativeWord>pilność; staranność; pracowitość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dimension</foreignWord>
+        <nativeWord>rozmiar; wymiar; wielkość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dimple</foreignWord>
+        <nativeWord>dołeczek (na policzku lub podbródku)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>din</foreignWord>
+        <nativeWord>hałas; zgiełk; wrzawa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diner</foreignWord>
+        <nativeWord>gość; klient; {/tania} restauracja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dinghy</foreignWord>
+        <nativeWord>szalupa {/ratunkowa}; ponton</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dining-room</foreignWord>
+        <nativeWord>jadalnia; pokój stołowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dinner</foreignWord>
+        <nativeWord>obiad</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dinner-jacket</foreignWord>
+        <nativeWord>smoking</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dinosaur; dino</foreignWord>
+        <nativeWord>dinozaur</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diocese</foreignWord>
+        <nativeWord>diecezja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dioxide</foreignWord>
+        <nativeWord>dwutlenek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dip</foreignWord>
+        <nativeWord>pochyłość; spadek; kąpiel; pływanie; zbocze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diphtheria</foreignWord>
+        <nativeWord>błonica; dyfteryt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diploma</foreignWord>
+        <nativeWord>dyplom</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diplomacy</foreignWord>
+        <nativeWord>dyplomacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diplomat</foreignWord>
+        <nativeWord>dyplomata</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diptych</foreignWord>
+        <nativeWord>dyptyk (w malarstwie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>direction</foreignWord>
+        <nativeWord>kierunek; reżyseria</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>directions</foreignWord>
+        <nativeWord>dyrektywy; wskazówki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>directive</foreignWord>
+        <nativeWord>dyrektywa; wskazówka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>director</foreignWord>
+        <nativeWord>dyrektor; członek rady nadzorczej; reżyser</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>directorate</foreignWord>
+        <nativeWord>zarząd; dyrekcja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>directory</foreignWord>
+        <nativeWord>{wykaz/katalog} alfabetyczny; {książka/księga} {telefoniczna/adresowa}; katalog</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dirge</foreignWord>
+        <nativeWord>pieśń pogrzebowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dirt</foreignWord>
+        <nativeWord>brud; nieczystość; ziemia; gleba; brudy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dirt road</foreignWord>
+        <nativeWord>polna droga; droga polna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dirt-track</foreignWord>
+        <nativeWord>tor żużlowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disability</foreignWord>
+        <nativeWord>niezdolność; niemożność; kalectwo; inwalidztwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disability pension</foreignWord>
+        <nativeWord>renta inwalidzka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disabled person</foreignWord>
+        <nativeWord>inwalida; kaleka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disadvantage</foreignWord>
+        <nativeWord>wada; niekorzyść; szkoda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disagreement</foreignWord>
+        <nativeWord>niezgoda; niezgodność; różnica zdań</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disappearance</foreignWord>
+        <nativeWord>zniknięcie; zanik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disappointment</foreignWord>
+        <nativeWord>rozczarowanie; zawód</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disapproval</foreignWord>
+        <nativeWord>dezaprobata; niezgoda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disarmament</foreignWord>
+        <nativeWord>rozbrojenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disarray</foreignWord>
+        <nativeWord>nieład; bałagan; nieuporządkowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disaster</foreignWord>
+        <nativeWord>katastrofa; nieszczęście; klęska</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disbelief</foreignWord>
+        <nativeWord>niewiara; brak wiary; niedowierzanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disbursement</foreignWord>
+        <nativeWord>wypłata; płatność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disc</foreignWord>
+        <nativeWord>krążek; dysk; tarcza (np. słoneczna)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discernment</foreignWord>
+        <nativeWord>inteligencja; wnikliwość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discharge</foreignWord>
+        <nativeWord>rozładowanie; rozładunek; wystrzał; strzał; zwolnienie (np. z więzienia); spełnienie (np. obowiązku)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disciple</foreignWord>
+        <nativeWord>zwolennik; uczeń; apostoł</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discipline</foreignWord>
+        <nativeWord>dyscyplina; dziedzina; rygor; porządek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discolouration</foreignWord>
+        <nativeWord>odbarwienie; przebarwienie; spłowienie; wypłowienie; zblaknięcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discomfiture</foreignWord>
+        <nativeWord>zawstydzenie; zażenowanie; zbicie z tropu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discomfort</foreignWord>
+        <nativeWord>niewygoda; przykrość; dolegliwość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discontent</foreignWord>
+        <nativeWord>niezadowolenie; rozgoryczenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discord</foreignWord>
+        <nativeWord>niezgoda; spór; brak harmonii</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discount</foreignWord>
+        <nativeWord>dyskonto; rabat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discouragement</foreignWord>
+        <nativeWord>zniechęcenie; odradzenie (komuś czegoś)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discourse</foreignWord>
+        <nativeWord>dyskurs</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discovery</foreignWord>
+        <nativeWord>odkrycie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discredit</foreignWord>
+        <nativeWord>kompromitacja; niesława; hańba; wątpliwość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discrepancy</foreignWord>
+        <nativeWord>rozbieżność; dysharmonia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discretion</foreignWord>
+        <nativeWord>swoboda; dyskrecja; roztropność; rozwaga</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discrimination</foreignWord>
+        <nativeWord>odróżnienie; rozróżnienie; dyskryminacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discus</foreignWord>
+        <nativeWord>dysk (w sporcie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discussion</foreignWord>
+        <nativeWord>dyskusja; debata</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disdain</foreignWord>
+        <nativeWord>pogarda; lekceważenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disease</foreignWord>
+        <nativeWord>choroba; dolegliwość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disfavour</foreignWord>
+        <nativeWord>niełaska; dezaprobata</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disgrace</foreignWord>
+        <nativeWord>hańba; wstyd; niełaska</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disguise</foreignWord>
+        <nativeWord>przebranie; maska; pozór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disgust</foreignWord>
+        <nativeWord>niesmak; wstręt; odraza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dish</foreignWord>
+        <nativeWord>półmisek; miska; potrawa; danie; naczynie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dishonesty</foreignWord>
+        <nativeWord>nieuczciwość; oszustwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dishonour</foreignWord>
+        <nativeWord>wstyd; hańba; dyshonor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dishwasher</foreignWord>
+        <nativeWord>pomywaczka; zmywarka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disinclination</foreignWord>
+        <nativeWord>niechęć (do zrobienia czegoś); brak {ochoty/chęci}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disinfection</foreignWord>
+        <nativeWord>odkażanie; dezynfekcja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disintegration</foreignWord>
+        <nativeWord>rozdrobnienie; rozpad; rozkruszenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dislike</foreignWord>
+        <nativeWord>niechęć; brak sympatii</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dislocation</foreignWord>
+        <nativeWord>zwichnięcie; dezorganizacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dismay</foreignWord>
+        <nativeWord>konsternacja; oszołomienie; przerażenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dismissal</foreignWord>
+        <nativeWord>zwolnienie (np. z pracy); odprawienie (np. interesanta)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disorder</foreignWord>
+        <nativeWord>nieporządek; chaos; bałagan; zamęt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disparity</foreignWord>
+        <nativeWord>różnica; odmienność; nieporównywalność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dispatch</foreignWord>
+        <nativeWord>wysyłka; przesyłka; depesza; komunikat; relacja; ekspedycja; wysłanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dispersion</foreignWord>
+        <nativeWord>rozproszenie; rozejście; dyspersja; rozproszenie się; rozejście się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>displacement</foreignWord>
+        <nativeWord>przesiedlenie; zastąpienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>display</foreignWord>
+        <nativeWord>pokaz; wystawa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>displeasure</foreignWord>
+        <nativeWord>niezadowolenie; irytacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disposal</foreignWord>
+        <nativeWord>{pozbycie/wyzbycie} się; kontrola; rozporządzenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disposition</foreignWord>
+        <nativeWord>rozmieszczenie; układ; charakter; skłonność; inklinacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dispute</foreignWord>
+        <nativeWord>debata; dyskusja; spór; sprzeczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disrepair</foreignWord>
+        <nativeWord>zły stan techniczny; zapuszczenie (np. budynku)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disrepute</foreignWord>
+        <nativeWord>zła {opinia/reputacja}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disrespect</foreignWord>
+        <nativeWord>brak szacunku; lekceważenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissatisfaction</foreignWord>
+        <nativeWord>niezadowolenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissection</foreignWord>
+        <nativeWord>sekcja (medyczna)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissension</foreignWord>
+        <nativeWord>spór; niezgoda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissent</foreignWord>
+        <nativeWord>niezgoda; sprzeciw</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissertation</foreignWord>
+        <nativeWord>rozprawa; dysertacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissident</foreignWord>
+        <nativeWord>dysydent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissociation</foreignWord>
+        <nativeWord>dysocjacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dissolution</foreignWord>
+        <nativeWord>rozwiązanie (np. małżeństwa; parlamentu); rozkład (np. moralny)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distance</foreignWord>
+        <nativeWord>odległość; dystans; oddalenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distaste</foreignWord>
+        <nativeWord>niesmak; odraza; wstręt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distemper</foreignWord>
+        <nativeWord>nosówka (psia choroba); tempera (malarstwo)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distillation</foreignWord>
+        <nativeWord>destylacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distillery</foreignWord>
+        <nativeWord>gorzelnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distinction</foreignWord>
+        <nativeWord>różnica; rozróżnienie; wybitność; odznaczenie (np. medal); doskonałość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distortion</foreignWord>
+        <nativeWord>zniekształcenie; sfałszowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distraction</foreignWord>
+        <nativeWord>rozproszenie (np. uwagi); czynnik rozpraszający; rozrywka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distress</foreignWord>
+        <nativeWord>strapienie; rozpacz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distribution</foreignWord>
+        <nativeWord>rozdawanie; rozdział; rozdawnictwo; rozmieszczenie; dystrybucja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>district</foreignWord>
+        <nativeWord>obszar; rejon; region; okręg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distrust</foreignWord>
+        <nativeWord>brak zaufania; wątpliwość; podejrzliwość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disturbance</foreignWord>
+        <nativeWord>zakłócenie; wstrząs; niepokój;  zdenerwowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disuse</foreignWord>
+        <nativeWord>niestosowanie; nieużywanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ditch</foreignWord>
+        <nativeWord>rów</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ditto</foreignWord>
+        <nativeWord>to samo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ditty</foreignWord>
+        <nativeWord>piosenka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divergence</foreignWord>
+        <nativeWord>rozbieżność; różnica (np. zdań)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diversion</foreignWord>
+        <nativeWord>odwrócenie; zmiana kierunku; objazd; rozrywka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diversity</foreignWord>
+        <nativeWord>różnorodność; urozmaicenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divident</foreignWord>
+        <nativeWord>dywidenda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dividers</foreignWord>
+        <nativeWord>cyrkiel</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divination</foreignWord>
+        <nativeWord>wróżenie; przepowiadanie przyszłości</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divine</foreignWord>
+        <nativeWord>duchowny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diving-suit</foreignWord>
+        <nativeWord>{kostium/skafander} do nurkowania</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divining-rod</foreignWord>
+        <nativeWord>różdżka (do poszukiwania wody)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>division</foreignWord>
+        <nativeWord>dzielenie; linia podziału; wydział; dywizja (w wojsku); rozdział; sekcja; podział; dział</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divisor</foreignWord>
+        <nativeWord>dzielnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divorce</foreignWord>
+        <nativeWord>rozwód; rozdzielenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divorcee</foreignWord>
+        <nativeWord>rozwodnik; rozwódka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dock</foreignWord>
+        <nativeWord>dok; basen portowy; ława oskarżonych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doctor</foreignWord>
+        <nativeWord>lekarz; doktor (też nauk)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doctrinaire</foreignWord>
+        <nativeWord>doktryner</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doctrine</foreignWord>
+        <nativeWord>doktryna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>document</foreignWord>
+        <nativeWord>dokument; świadectwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dodge</foreignWord>
+        <nativeWord>unik; sztuczka; trik; wykręt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doe</foreignWord>
+        <nativeWord>łania; samica {zająca/królika}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dog</foreignWord>
+        <nativeWord>pies</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doggerel</foreignWord>
+        <nativeWord>nieudolna rymowanka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dogma</foreignWord>
+        <nativeWord>dogmat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dogmatism</foreignWord>
+        <nativeWord>dogmatyzm</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doldrums</foreignWord>
+        <nativeWord>cisza morska; melancholia; przygnębienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dole</foreignWord>
+        <nativeWord>zasiłek dla bezrobotnych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doll</foreignWord>
+        <nativeWord>lalka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dollar</foreignWord>
+        <nativeWord>dolar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dolly</foreignWord>
+        <nativeWord>lalka; lala; laleczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dolphin</foreignWord>
+        <nativeWord>delfin</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dolt</foreignWord>
+        <nativeWord>dureń; głupek; głupiec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>domain</foreignWord>
+        <nativeWord>posiadłość; dziedzina</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dome</foreignWord>
+        <nativeWord>kopuła; sklepienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>domicille</foreignWord>
+        <nativeWord>miejsce zamieszkania</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dominance</foreignWord>
+        <nativeWord>dominacja; przewaga; panowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dominion</foreignWord>
+        <nativeWord>panowanie; władza; dominium; supremacja; zwierzchnictwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>domino</foreignWord>
+        <nativeWord>domino</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>don</foreignWord>
+        <nativeWord>wykładowca uniwersytecki; mafioso; ojciec chrzestny (szef mafii); szef mafii</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>donation</foreignWord>
+        <nativeWord>dar; darowizna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>donjon</foreignWord>
+        <nativeWord>donżon; wieża zamkowa; stołp</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>donkey</foreignWord>
+        <nativeWord>osioł</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>donor</foreignWord>
+        <nativeWord>dawca; darczyńca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doom</foreignWord>
+        <nativeWord>los; fatum; ruina; zguba</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Doomsday</foreignWord>
+        <nativeWord>Sąd Ostateczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>door</foreignWord>
+        <nativeWord>drzwi; wrota; brama</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doorman</foreignWord>
+        <nativeWord>dozorca; portier; odźwierny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doormat</foreignWord>
+        <nativeWord>wycieraczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doorway</foreignWord>
+        <nativeWord>drzwi; wejście</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dope</foreignWord>
+        <nativeWord>narkotyk; cynk; informacja; głupek; idiota; głupiec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dormer-window</foreignWord>
+        <nativeWord>okno mansardowe</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dormouse; dormice</foreignWord>
+        <nativeWord>koszatka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dormitory</foreignWord>
+        <nativeWord>sala sypialna; sypialnia; dom akademicki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dose</foreignWord>
+        <nativeWord>dawka; doza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dossier</foreignWord>
+        <nativeWord>akta; dossier</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dot</foreignWord>
+        <nativeWord>kropka; cętka; plamka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dotage</foreignWord>
+        <nativeWord>zdziecinnienie; demencja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dotard</foreignWord>
+        <nativeWord>osoba z oznakami {demencji starczej/zdziecinnienia starczego}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>double</foreignWord>
+        <nativeWord>podwójna ilość; dwa razy tyle; sobowtór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doublet</foreignWord>
+        <nativeWord>kubrak; kaftan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doubt</foreignWord>
+        <nativeWord>wątpliwość; niepewność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dough</foreignWord>
+        <nativeWord>ciasto (do wypieczenia); forsa; pieniądze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dove</foreignWord>
+        <nativeWord>gołębica; gołąb {/pokoju}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dovetail</foreignWord>
+        <nativeWord>jaskółczy ogon (rodzaj połączenia stolarskiego)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dowager</foreignWord>
+        <nativeWord>wdowa dziedzicząca majątek; starsza pani mająca wysokie mniemanie o sobie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>down</foreignWord>
+        <nativeWord>puch; puszek; meszek; nagi pagórek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>downfall</foreignWord>
+        <nativeWord>ruina; klęska; upadek; ulewa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>downpour</foreignWord>
+        <nativeWord>ulewa; ulewny deszcz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>downtown</foreignWord>
+        <nativeWord>centrum miasta; śródmieście</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dowry</foreignWord>
+        <nativeWord>posag; wiano</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dowsing</foreignWord>
+        <nativeWord>różdżkarstwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dowsing-rod</foreignWord>
+        <nativeWord>różdżka {/do poszukiwania wody}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doze</foreignWord>
+        <nativeWord>drzemka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dozen</foreignWord>
+        <nativeWord>tuzin</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draft</foreignWord>
+        <nativeWord>szkic; rysunek; zarys; weksel; trata; pobór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draftsman</foreignWord>
+        <nativeWord>kreślarz; rysownik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dragon</foreignWord>
+        <nativeWord>smok</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dragon-fly</foreignWord>
+        <nativeWord>ważka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dragoon</foreignWord>
+        <nativeWord>dragon (w wojsku)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drain</foreignWord>
+        <nativeWord>kanał; rów; dren; obciążenie (np. finansowe)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drainage</foreignWord>
+        <nativeWord>odwodnienie; osuszenie; melioracja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drainpipe</foreignWord>
+        <nativeWord>rura odpływowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drake</foreignWord>
+        <nativeWord>kaczor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drama</foreignWord>
+        <nativeWord>dramat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dramatist</foreignWord>
+        <nativeWord>dramaturg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drapery</foreignWord>
+        <nativeWord>kotara; zasłona; draperia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drapes</foreignWord>
+        <nativeWord>zasłony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draught</foreignWord>
+        <nativeWord>przeciąg; łyk; haust</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draughts</foreignWord>
+        <nativeWord>warcaby</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draught-hourse</foreignWord>
+        <nativeWord>koń pociągowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draughtsman</foreignWord>
+        <nativeWord>kreślarz; rysownik; pionek (w warcabach)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>draw</foreignWord>
+        <nativeWord>losowanie; remis (w sporcie); atrakcja; loteria</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawback</foreignWord>
+        <nativeWord>wada; cecha negatywna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawbridge</foreignWord>
+        <nativeWord>most zwodzony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawer</foreignWord>
+        <nativeWord>rysownik; szuflada</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawers</foreignWord>
+        <nativeWord>kalesony; reformy; majtki sięgające do połowy uda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawing</foreignWord>
+        <nativeWord>rysunek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawing-pin</foreignWord>
+        <nativeWord>pinezka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawing-room</foreignWord>
+        <nativeWord>salon; bawialnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drawl</foreignWord>
+        <nativeWord>powolna mowa (z przeciąganiem samogłosek)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dread</foreignWord>
+        <nativeWord>przerażenie; trwoga; strach</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dream</foreignWord>
+        <nativeWord>sen; marzenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dregs</foreignWord>
+        <nativeWord>fusy; męty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dress</foreignWord>
+        <nativeWord>ubranie; strój; ubiór; sukienka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dress coat</foreignWord>
+        <nativeWord>frak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dresser</foreignWord>
+        <nativeWord>kredens; toaletka; garderobiany (w teatrze)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dressing</foreignWord>
+        <nativeWord>ubieranie się; opatrunek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dressing-gown</foreignWord>
+        <nativeWord>szlafrok</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dressmaker</foreignWord>
+        <nativeWord>krawiec damski</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drift</foreignWord>
+        <nativeWord>prąd; spływanie; zaspa; znaczenie; dryf; sens; płynięcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drill</foreignWord>
+        <nativeWord>musztra; świder; wiertło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drink</foreignWord>
+        <nativeWord>napój; trunek; drink</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drip</foreignWord>
+        <nativeWord>kroplówka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dripping</foreignWord>
+        <nativeWord>smalec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drive</foreignWord>
+        <nativeWord>przejażdżka (samochodem); podjazd (przed domem); energia; kampania; akcja; napęd</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>driver</foreignWord>
+        <nativeWord>kierowca; szofer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>driving-belt</foreignWord>
+        <nativeWord>pas transmisyjny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drizzle</foreignWord>
+        <nativeWord>mżawka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dromedary</foreignWord>
+        <nativeWord>dromader; wielbłąd jednogarbny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drone</foreignWord>
+        <nativeWord>truteń; brzęczenie; buczenie; nudziarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drop</foreignWord>
+        <nativeWord>kropla; kropelka; spadek (terenu)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dross</foreignWord>
+        <nativeWord>żużel; szlaka; śmieci (coś bez wartości)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drought</foreignWord>
+        <nativeWord>susza; posucha</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drove</foreignWord>
+        <nativeWord>stado; tłum</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drudge</foreignWord>
+        <nativeWord>osoba zmuszona do ciężkiej monotonnej pracy; wół roboczy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drudgery</foreignWord>
+        <nativeWord>harówka; {ciężka/monotonna} praca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drug</foreignWord>
+        <nativeWord>lek; lekarstwo; narkotyk; środek odurzający</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>druggist</foreignWord>
+        <nativeWord>aptekarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drugstore</foreignWord>
+        <nativeWord>sklep będący połączeniem apteki i drogerii</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drum</foreignWord>
+        <nativeWord>bęben; beczka; baryłka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drummer</foreignWord>
+        <nativeWord>dobosz; bębniarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drunk</foreignWord>
+        <nativeWord>pijak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drunkard</foreignWord>
+        <nativeWord>pijak; alkoholik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dryad</foreignWord>
+        <nativeWord>driada</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duality</foreignWord>
+        <nativeWord>dwoistość; rozdwojenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ducat</foreignWord>
+        <nativeWord>dukat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duchess</foreignWord>
+        <nativeWord>księżna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duchy</foreignWord>
+        <nativeWord>księstwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duck</foreignWord>
+        <nativeWord>kaczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dud</foreignWord>
+        <nativeWord>niewypał</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dude</foreignWord>
+        <nativeWord>facet; gość; typ</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>due</foreignWord>
+        <nativeWord>należność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duel</foreignWord>
+        <nativeWord>pojedynek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dug</foreignWord>
+        <nativeWord>wymię</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dug-out</foreignWord>
+        <nativeWord>ziemianka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duke</foreignWord>
+        <nativeWord>książę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dumbbell</foreignWord>
+        <nativeWord>hantel</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dump</foreignWord>
+        <nativeWord>wysypisko {/śmieci} ; magazyn wojskowy; nora</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dunce</foreignWord>
+        <nativeWord>dureń; tępak; bałwan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dune</foreignWord>
+        <nativeWord>wydma</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dung</foreignWord>
+        <nativeWord>łąjno; gnój</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dungeon</foreignWord>
+        <nativeWord>loch; ciemnica (jako więzienie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duodenum; duodenums; duodena</foreignWord>
+        <nativeWord>dwunastnica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dupe</foreignWord>
+        <nativeWord>naiwniak; ofiara oszustwa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duplicate</foreignWord>
+        <nativeWord>kopia; duplikat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duplicity</foreignWord>
+        <nativeWord>oszustwo; fałsz; nieuczciwość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duration</foreignWord>
+        <nativeWord>czas trwania</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duress</foreignWord>
+        <nativeWord>przymus; bezprawna groźba</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dusk</foreignWord>
+        <nativeWord>zmrok; zmierzch</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dust</foreignWord>
+        <nativeWord>kurz; pył; proch</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dustbin</foreignWord>
+        <nativeWord>{kosz/kubeł} na śmieci</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duster</foreignWord>
+        <nativeWord>{ścierka/ściereczka} do kurzu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dustman</foreignWord>
+        <nativeWord>śmieciarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dutchman</foreignWord>
+        <nativeWord>Holender</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dutchwomen</foreignWord>
+        <nativeWord>Holenderka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duty</foreignWord>
+        <nativeWord>obowiązek; cło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duty-free</foreignWord>
+        <nativeWord>wolnocłowy; bezcłowy; wolny od cła</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dwarf</foreignWord>
+        <nativeWord>karzeł</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dwelling</foreignWord>
+        <nativeWord>siedziba; mieszkanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dye</foreignWord>
+        <nativeWord>barwnik; farba</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dynamite</foreignWord>
+        <nativeWord>dynamit</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dynamo</foreignWord>
+        <nativeWord>prądnica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dynasty</foreignWord>
+        <nativeWord>dynastia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dysentery</foreignWord>
+        <nativeWord>czerwonka; dyzenteria</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

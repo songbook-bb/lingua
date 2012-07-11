@@ -1,0 +1,168 @@
+<project name="LingMEM" default="deploy" basedir=".">
+    <description>
+    	Nauka słówek w mig.
+    </description>
+	
+   <!-- VALUE PROPERTIES -->	
+  <property name="LOG4J" value="log4j.properties"/>			
+  <property name="SHIPMENT" value="shipment.zip"/>	
+  <property name="ANT.BUILD.FILE" value="build.xml"/>	
+  <property name="LEARN.PROG" value="lingmem.bat"/>	
+  <property name="CONVERT.PROG" value="convert.bat"/>
+  <property name="PROG.DIR" value="Lingmem"/>		
+  <property name="PUBLISH" value="publish"/>	
+  <property name="JRE" value="jre"/>	
+	
+  <!-- LOCATION PROPERTIES -->	
+  <property name="src" location="src"/>
+  <property name="root" location="."/>	
+  <property name="build" location="build"/>
+  <property name="publish"  location="publish"/>
+  <property name="jre"  location="publish/${JRE}"/>
+  <property name="lingmem" location="publish/${PROG.DIR}"/>	
+  <property name="lib"  location="lib"/>  	
+  <property name="antlib"  location="antlib"/>	
+  <property name="resource" location="resource"/>
+  <property name="bin" location="bin"/>	
+	
+  <target name="init">
+    <!-- Create the time stamp -->
+    <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+    <mkdir dir="${build}"/>
+  	
+  	<unzip dest="${build}">
+  	    <fileset dir=".">
+  	        <include name="**/*.jar"/>
+  	    </fileset>
+  	</unzip>  	
+  	<copy todir="${build}">
+  	  <fileset dir="${bin}">
+  	    <include name="**/*.properties"/>  	    
+  	  </fileset>
+  	</copy>
+  </target>
+
+  <target name="compile" depends="init" description="compile the source">
+    <!-- Compile the java code from ${src} into ${build} -->
+    <javac encoding="UTF8" srcdir="${src}" debug="true" destdir="${build}"/>
+  </target>	
+	
+  <target name="prod.props">
+  	<copy todir="${build}" file="${resource}/${LOG4J}">  	
+  	</copy>
+  </target>	
+	
+  <target name="prod.deploy" depends="prod.props, deploy"  description="generate test distribution" >
+  </target>  	
+	
+  <target name="deploy" depends="compile"
+        description="generate the distribution" >
+    <mkdir dir="${jre}"/>
+    <!-- Create the distribution directory -->
+    <mkdir dir="${lingmem}"/>  	
+  	<mkdir dir="${lingmem}/resource"/>
+  	<mkdir dir="${lingmem}/resource/mp3"/>
+  	<copy todir="${jre}">
+  	  <fileset dir="${resource}/exe">  	  	  	  	
+  	    <include name="**/*.exe"/>  	    
+  	  </fileset>
+  	</copy>
+  	<copy todir="${publish}">
+  	  <fileset dir="${resource}/script">  	  	  	  	
+  	    <include name="**/*.nsi"/>  	    
+  	  </fileset>
+  	</copy>  	
+  	<copy todir="${lingmem}">
+  	  <fileset dir=".">
+  	  	<include name="*.sh"/>
+  	  	<include name="*.bat"/>  	  	
+  	    <include name="*.dll"/>  	  	
+  	    <include name="*.exe"/>  	  	
+  	    <include name="*.xml"/>  	    
+  	    <include name="*.xsd"/>  	  	
+  	    <include name="*.naq"/>	    
+  	    <include name="*.properties"/>  	  	
+  	  	<exclude name="${ANT.BUILD.FILE}"/>  	  	
+  	  </fileset>  		
+  	</copy>   	  	 
+  	<copy todir="${lingmem}/resource">
+  	  <fileset dir="${resource}">  	  	  	  	
+  	    <include name="**/*.mp3"/>  	    
+	    <include name="**/*.zip"/>  	  	  	  	
+	    <include name="**/*.bat"/>  	  	
+	    <include name="**/*.sh"/>  	  	  	  	
+  	  </fileset>
+  	</copy>
+  	<copy todir="${lingmem}">
+  	  <fileset dir="${resource}">  	  	  	  	
+  	    <include name="**/*.rtf"/>  	    
+  	  </fileset>
+  	</copy>
+  	<jar jarfile="${lingmem}/lingmem.jar">  		
+  		<manifest>  		
+        	<attribute name="Built-By" value="Naqń"/>
+        	<attribute name="Class-Path" value="."/>
+        	<attribute name="Main-Class" value="wordtutor.FrmMain"/>
+  		</manifest>	  		
+  		<fileset dir="${build}">
+  		     <include name="**/*.*"/>
+  		</fileset>  			
+  	</jar> 		
+  	<echo file="${lingmem}/${LEARN.PROG}">java -jar lingmem.jar</echo>  	
+  	<chmod perm="755" type="file">
+  		<fileset dir="${lingmem}">
+  		    <include name="**/*.sh"/>
+  		    <include name="**/*.bat"/>  			
+  		 </fileset>  			
+	</chmod>  		    	
+  </target>
+  	
+  <target name="publish" depends="prod.deploy, exe">
+	<zip destfile="${SHIPMENT}" basedir="${root}" includes="${PUBLISH}/**"/>
+  </target>  	
+	
+  <target name="clean" description="clean up">    
+    <delete dir="${build}"/>
+    <delete dir="${publish}"/>
+  	<delete dir="${bin}"/>
+    <delete file="${root}/${SHIPMENT}"/>  	
+    <delete file="${root}/dir.txt"/>  	
+    <delete file="${root}/log4j.log"/>
+    <delete file="${root}/build.log"/>
+  </target>
+
+  <target name="delete">
+    <delete dir="${lingmem}"/>
+  </target>
+	
+   <taskdef classpath="${antlib}/orangevolt-ant-tasks-1.3.8.jar:${antlib}/roxes-win32forjava-1.1.1.jar" resource="com/orangevolt/tools/ant/taskdefs.properties"/>	
+	
+   <target name="exe">
+	    <jstub
+	      archive="${lingmem}/lingmem.jar"
+	      mode="win32"
+	      execute="java -jar lingmem.exe"
+	      output="${lingmem}/lingmem.exe"
+		  icon="${resource}/icons/claromontana.ico"	    	
+	    /> 	
+        <delete file="${lingmem}/lingmem.bat"/>   	
+	</target>
+
+	<taskdef name="nsis" classname="com.danielreese.nsisant.Task">
+    	<classpath location="${antlib}/nsisant-1.3.jar"/>
+	</taskdef>
+	
+	<target name="installer_win" depends="prod.deploy, exe">
+		<nsis path="nsis_exe" script="publish/lingmem.nsi" verbosity="4" out="build.log" noconfig="yes">
+    		<define name="VERSION" value="2.1"/>
+    		<scriptcmd cmd="AutoCloseWindow true"/>
+    	</nsis>
+	</target>
+	
+	<target name="nsis_linux" depends="prod.deploy,exe">
+		<exec dir="nsis_exe" executable="wine" os="Linux" output="dir.txt">
+		  <arg line=" makensis.exe ../publish/lingmem.nsi "/>
+		</exec>	
+	</target>
+</project>

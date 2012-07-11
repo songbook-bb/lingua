@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="3">
+    <word>
+        <foreignWord>spark (verb)</foreignWord>
+        <nativeWord>iskrzyć {/się};wywoływać iskrzenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>spark (noun)</foreignWord>
+        <nativeWord>iskra;iskierka;skra</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pitch (noun)</foreignWord>
+        <nativeWord>smoła;stopień;poziom;tonacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pitch (verb)</foreignWord>
+        <nativeWord>rozbić (np.namiot);rzucić;unosić;ciskać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pitch of voice</foreignWord>
+        <nativeWord>tembr głosu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mob</foreignWord>
+        <nativeWord>tłum;motłoch;mafia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gap</foreignWord>
+        <nativeWord>przerwa;luka;odstęp;przepaść;przełęcz;różnica zdań;rozdźwięk</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>petty</foreignWord>
+        <nativeWord>mały;drobny;nieistotny;nieważny;małostkowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>precarious</foreignWord>
+        <nativeWord>niepewny;niebezpieczny;ryzykowny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sole (adj)</foreignWord>
+        <nativeWord>jedyny;wyłączny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sole (noun)</foreignWord>
+        <nativeWord>podeszwa;sola (ryba)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>recede</foreignWord>
+        <nativeWord>cofać się;oddalać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>heyday</foreignWord>
+        <nativeWord>szczyt;kwiat;pełnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>warfare</foreignWord>
+        <nativeWord>wojna;działania {wojenne/zbrojne}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>inevitable</foreignWord>
+        <nativeWord>nieunikniony;nieuchronny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lash (verb)</foreignWord>
+        <nativeWord>machać;smagać;uderzyć;atakować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>havoc</foreignWord>
+        <nativeWord>ruina;zniszczenie;zamieszanie;zamęt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hay</foreignWord>
+        <nativeWord>siano</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lash (noun)</foreignWord>
+        <nativeWord>bat;bicz;rzęsa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lascivious</foreignWord>
+        <nativeWord>lubieżny;zmysłowy;pożądliwy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>squarely</foreignWord>
+        <nativeWord>prostopadle</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sullen</foreignWord>
+        <nativeWord>posępny;ponury</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fancifully</foreignWord>
+        <nativeWord>kapryśnie;ekscentrycznie;nierzeczywiście;w sposób {urojony/zmyślony}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sombrely;murkily</foreignWord>
+        <nativeWord>ciemno;posępnie;ponuro;mrocznie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>venture (noun)</foreignWord>
+        <nativeWord>ryzykowne przedsięwzięcie;interes;spekulacja;próba</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dowdy</foreignWord>
+        <nativeWord>zaniedbany;niemodny (zwłaszcza o stroju)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stiffly</foreignWord>
+        <nativeWord>sztywno;trudno;nieugięcie;mocno</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>glow</foreignWord>
+        <nativeWord>łuna;poświata;jasność;rumieniec;zaróżowienie;wypieki (na twarzy)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fingertip</foreignWord>
+        <nativeWord>czubek palca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>faintly</foreignWord>
+        <nativeWord>słabo;ledwie;ledwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mock (verb)</foreignWord>
+        <nativeWord>wyśmiewać {/się};parodiować;przedrzeźniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>patrician</foreignWord>
+        <nativeWord>patrycjuszowski;arystokratyczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tepid</foreignWord>
+        <nativeWord>letni;ciepły</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tangible</foreignWord>
+        <nativeWord>namacalny;materialny;wyraźny;dotykalny;faktyczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>musty</foreignWord>
+        <nativeWord>stęchły;spleśniały;zbutwiały</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>transmute</foreignWord>
+        <nativeWord>przekształcić;przemienić;zmienić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>potion</foreignWord>
+        <nativeWord>napój leczniczy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>philtre</foreignWord>
+        <nativeWord>napój miłosny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>complacency</foreignWord>
+        <nativeWord>samozadowolenie;spokój ducha;błogostan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>commodity</foreignWord>
+        <nativeWord>artykuł handlowy;towar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>flaring</foreignWord>
+        <nativeWord>płomiennie;ogniście;sygnalizacyjnie;wybuchowo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sheath</foreignWord>
+        <nativeWord>pochwa (np.miecza, noża);pochewka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>startled</foreignWord>
+        <nativeWord>przestraszony;zdziwiony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crawl (verb)</foreignWord>
+        <nativeWord>czołgać {/się};pełznąć;posuwać w żółwim tempie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>drivel</foreignWord>
+        <nativeWord>bredzić;mówić od rzeczy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>chauvinist</foreignWord>
+        <nativeWord>szowinista</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pauper</foreignWord>
+        <nativeWord>nędzarz;żebrak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>martyr</foreignWord>
+        <nativeWord>męczennik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>overmuch</foreignWord>
+        <nativeWord>przesada;przecenianie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>folly</foreignWord>
+        <nativeWord>głupota;szaleństwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sparkling</foreignWord>
+        <nativeWord>skrzący się;iskrzący się;musujący;gazowany</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>etiquette</foreignWord>
+        <nativeWord>etykieta;{zasady/zasada} zachowania</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dandy</foreignWord>
+        <nativeWord>dandys;fircyk;modniś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>maroon (adj)</foreignWord>
+        <nativeWord>kasztanowaty;czerwonobrązowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>barren</foreignWord>
+        <nativeWord>jałowy;bezpłodny;bezwartościowy;bezsensowny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>moulder</foreignWord>
+        <nativeWord>rozsypywać się;kruszeć;butwieć;pleśnieć;ulegać zniszczeniu;popadać w ruinę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>startle</foreignWord>
+        <nativeWord>przestraszyć;zdziwić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>stamina</foreignWord>
+        <nativeWord>siła żywotnia;determinacja;wytrwałość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>marvellous</foreignWord>
+        <nativeWord>cudowny;zdumiewający;fenomenalny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>maroon (verb)</foreignWord>
+        <nativeWord>wyrzucić na brzeg;pozostawić samemu sobie (w przenośni)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>foment</foreignWord>
+        <nativeWord>wzbudzać;wywoływać (np.niezadowolenie);podżegać;powiększać (np.złość)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vicious</foreignWord>
+        <nativeWord>występny;rozpustny;zły;złośliwy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vial</foreignWord>
+        <nativeWord>flakon;flakonik;buteleczka;fiolka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crawl (noun)</foreignWord>
+        <nativeWord>czołganie się;pełzanie;powolny ruch;kraul (sport)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

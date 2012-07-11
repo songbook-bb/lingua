@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="3">
+    <word>
+        <foreignWord>In the Name of the Father and of the Son and of the Holy Spirit. Amen.</foreignWord>
+        <nativeWord>W Imię Ojca i Syna i Ducha Świętego. Amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>OUR FATHER</foreignWord>
+        <nativeWord>OJCZE NASZ</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>Our Father, Who art in heaven</foreignWord>
+        <nativeWord>Ojcze nasz, {któryś jest/który jesteś} w niebie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>Hallowed be Thy Name,</foreignWord>
+        <nativeWord>święć się imię Twoje,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>Thy kingdom come,</foreignWord>
+        <nativeWord>przyjdź królestwo Twoje,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>Thy will be done,</foreignWord>
+        <nativeWord>bądź wola Twoja,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>on earth as it is in heaven.</foreignWord>
+        <nativeWord>jako w niebie tak i na ziemi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>Give us this day our daily bread,</foreignWord>
+        <nativeWord>Chleba naszego powszedniego daj nam dzisiaj,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>and forgive us our trespasses,</foreignWord>
+        <nativeWord>i odpuść nam nasze winy,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>as we forgive those who trespass against us,</foreignWord>
+        <nativeWord>jako i my odpuszczamy naszym winowajcom,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>and lead us not into temptation,</foreignWord>
+        <nativeWord>i nie wódź nas na pokuszenie,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>but deliver us from evil. Amen.</foreignWord>
+        <nativeWord>ale nas zbaw ode złego. Amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>HAIL MARY</foreignWord>
+        <nativeWord>ZDROWAŚ MARYJO</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>Hail Mary, full of grace.</foreignWord>
+        <nativeWord>Zdrowaś Maryjo, {łaski/łaskiś} pełna.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>The Lord is with thee.</foreignWord>
+        <nativeWord>Pan z tobą.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>Blessed art thou among women,</foreignWord>
+        <nativeWord>Błogosławionaś ty między niewiastami,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>and blessed is the fruit of thy womb, Jesus.</foreignWord>
+        <nativeWord>i błogosławiony owoc żywota twojego, Jezus.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>Holy Mary, Mother of God,</foreignWord>
+        <nativeWord>Święta Maryjo, Matko Boża,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>pray for us sinners,</foreignWord>
+        <nativeWord>módl się za nami grzesznymi,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>now and at the hour of our death. Amen.</foreignWord>
+        <nativeWord>teraz i w godzinę śmierci naszej. Amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+</dictionary>

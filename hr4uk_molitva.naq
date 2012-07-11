@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="6">
+    <word>
+        <foreignWord>U ime Oca i Sina i Duha Svetoga. Amen.</foreignWord>
+        <nativeWord>In the Name of the Father and of the Son and of the Holy Spirit. Amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>Oče naš</foreignWord>
+        <nativeWord>OUR FATHER</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>Oče naš koji jesi na nebesima</foreignWord>
+        <nativeWord>Our Father, Who art in heaven</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>sveti se ime Tvoje,</foreignWord>
+        <nativeWord>Hallowed be Thy Name,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>dodji kraljevstvo Tvoje,</foreignWord>
+        <nativeWord>Thy kingdom come,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>budi volja Tvoja,</foreignWord>
+        <nativeWord>Thy will be done,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>kako na nebu tako i na zemlji.</foreignWord>
+        <nativeWord>on earth as it is in heaven.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>Kruh naš svagdašnji daj nam danas,</foreignWord>
+        <nativeWord>Give us this day our daily bread,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>i otpusti nam duge naśe,</foreignWord>
+        <nativeWord>and forgive us our trespasses,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>kako i mi otpuśtamo duźnicima naśim,</foreignWord>
+        <nativeWord>as we forgive those who trespass against us,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>i ne odvedi nas u napast,</foreignWord>
+        <nativeWord>and lead us not into temptation,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>nego izbavi nas od zla. Amen.</foreignWord>
+        <nativeWord>but deliver us from evil. Amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+</dictionary>

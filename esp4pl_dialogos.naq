@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>hola</foreignWord>
+        <nativeWord>cześć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>buenos días</foreignWord>
+        <nativeWord>dzień dobry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>buenos tardes</foreignWord>
+        <nativeWord>dobry wieczór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>buenos noches</foreignWord>
+        <nativeWord>dobranoc</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>bueno</foreignWord>
+        <nativeWord>dobry; dobrze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>por favor</foreignWord>
+        <nativeWord>proszę; poproszę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>también</foreignWord>
+        <nativeWord>też; również</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>gracias</foreignWord>
+        <nativeWord>dziękuję</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>sí</foreignWord>
+        <nativeWord>tak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>no</foreignWord>
+        <nativeWord>nie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>más o menos</foreignWord>
+        <nativeWord>mniej więcej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>muy bien</foreignWord>
+        <nativeWord>bardzo dobrze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>encantado; mucho gusto; encantada</foreignWord>
+        <nativeWord>bardzo mi miło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>mucho</foreignWord>
+        <nativeWord>dużo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>sin</foreignWord>
+        <nativeWord>bez</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>con</foreignWord>
+        <nativeWord>z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>a; hasta</foreignWord>
+        <nativeWord>do</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>ya</foreignWord>
+        <nativeWord>już</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>igualmente</foreignWord>
+        <nativeWord>nawzajem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>pasad</foreignWord>
+        <nativeWord>wejdźcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+    <word>
+        <foreignWord>¿dónde?</foreignWord>
+        <nativeWord>gdzie?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>21</idSound>
+    </word>
+    <word>
+        <foreignWord>¿cuánto?</foreignWord>
+        <nativeWord>ile?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>22</idSound>
+    </word>
+    <word>
+        <foreignWord>adiós</foreignWord>
+        <nativeWord>żegnam; żegnaj; do widzenia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+    <word>
+        <foreignWord>mira</foreignWord>
+        <nativeWord>patrz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>24</idSound>
+    </word>
+    <word>
+        <foreignWord>claro</foreignWord>
+        <nativeWord>jasne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>25</idSound>
+    </word>
+    <word>
+        <foreignWord>un poco</foreignWord>
+        <nativeWord>trochę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>26</idSound>
+    </word>
+    <word>
+        <foreignWord>este</foreignWord>
+        <nativeWord>ten</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>27</idSound>
+    </word>
+    <word>
+        <foreignWord>ese</foreignWord>
+        <nativeWord>tamten</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>28</idSound>
+    </word>
+    <word>
+        <foreignWord>pero</foreignWord>
+        <nativeWord>ale</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>29</idSound>
+    </word>
+    <word>
+        <foreignWord>cansado</foreignWord>
+        <nativeWord>zmęczony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>30</idSound>
+    </word>
+    <word>
+        <foreignWord>cansada</foreignWord>
+        <nativeWord>zmęczona</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>31</idSound>
+    </word>
+    <word>
+        <foreignWord>bastante bien</foreignWord>
+        <nativeWord>dosyć dobrze; dość dobrze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>32</idSound>
+    </word>
+    <word>
+        <foreignWord>normalmente</foreignWord>
+        <nativeWord>normalnie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>33</idSound>
+    </word>
+    <word>
+        <foreignWord>¿puedes repetir?</foreignWord>
+        <nativeWord>możesz powtórzyć?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>34</idSound>
+    </word>
+    <word>
+        <foreignWord>un momento</foreignWord>
+        <nativeWord>chwileczkę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>35</idSound>
+    </word>
+    <word>
+        <foreignWord>¡salud!</foreignWord>
+        <nativeWord>zdrowie!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>36</idSound>
+    </word>
+    <word>
+        <foreignWord>¿de verdad?</foreignWord>
+        <nativeWord>naprawdę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>37</idSound>
+    </word>
+    <word>
+        <foreignWord>¡caramba!</foreignWord>
+        <nativeWord>kurczę!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>38</idSound>
+    </word>
+    <word>
+        <foreignWord>sólo</foreignWord>
+        <nativeWord>tylko; samemu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>39</idSound>
+    </word>
+    <word>
+        <foreignWord>¿qué?</foreignWord>
+        <nativeWord>co?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>40</idSound>
+    </word>
+    <word>
+        <foreignWord>donde</foreignWord>
+        <nativeWord>gdzie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>41</idSound>
+    </word>
+    <word>
+        <foreignWord>juntos</foreignWord>
+        <nativeWord>razem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>42</idSound>
+    </word>
+    <word>
+        <foreignWord>buena idea</foreignWord>
+        <nativeWord>dobry pomysł</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>43</idSound>
+    </word>
+    <word>
+        <foreignWord>perdone</foreignWord>
+        <nativeWord>proszę wybaczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>44</idSound>
+    </word>
+    <word>
+        <foreignWord>perdón</foreignWord>
+        <nativeWord>przepraszam</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>45</idSound>
+    </word>
+    <word>
+        <foreignWord>porque</foreignWord>
+        <nativeWord>ponieważ</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>46</idSound>
+    </word>
+    <word>
+        <foreignWord>o</foreignWord>
+        <nativeWord>lub</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>47</idSound>
+    </word>
+    <word>
+        <foreignWord>y</foreignWord>
+        <nativeWord>i</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>48</idSound>
+    </word>
+    <word>
+        <foreignWord>¿por qué?</foreignWord>
+        <nativeWord>dlaczego?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>49</idSound>
+    </word>
+    <word>
+        <foreignWord>entonces</foreignWord>
+        <nativeWord>więc; wtedy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>50</idSound>
+    </word>
+    <word>
+        <foreignWord>aquí</foreignWord>
+        <nativeWord>tu; tutaj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>51</idSound>
+    </word>
+    <word>
+        <foreignWord>vale</foreignWord>
+        <nativeWord>ok; w porządku</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>52</idSound>
+    </word>
+    <word>
+        <foreignWord>hoy</foreignWord>
+        <nativeWord>dzisiaj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>53</idSound>
+    </word>
+    <word>
+        <foreignWord>¿qué más?</foreignWord>
+        <nativeWord>co jeszcze?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>54</idSound>
+    </word>
+    <word>
+        <foreignWord>¿algo más?</foreignWord>
+        <nativeWord>coś jeszcze?; coś więcej?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>55</idSound>
+    </word>
+    <word>
+        <foreignWord>hay</foreignWord>
+        <nativeWord>jest</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>56</idSound>
+    </word>
+    <word>
+        <foreignWord>¿quién?</foreignWord>
+        <nativeWord>kto?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>57</idSound>
+    </word>
+    <word>
+        <foreignWord>¿qué quería?</foreignWord>
+        <nativeWord>czego pani sobie życzy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>58</idSound>
+    </word>
+    <word>
+        <foreignWord>hasta luego</foreignWord>
+        <nativeWord>do następnego razu; do zobaczenia; cześć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>59</idSound>
+    </word>
+    <word>
+        <foreignWord>nada</foreignWord>
+        <nativeWord>nic; wcale nie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>60</idSound>
+    </word>
+    <word>
+        <foreignWord>nada más</foreignWord>
+        <nativeWord>nic więcej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>61</idSound>
+    </word>
+    <word>
+        <foreignWord>gracias a usted</foreignWord>
+        <nativeWord>dziękuję pani; dziękuję panu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>62</idSound>
+    </word>
+    <word>
+        <foreignWord>mejor</foreignWord>
+        <nativeWord>lepiej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>63</idSound>
+    </word>
+    <word>
+        <foreignWord>por ejemplo</foreignWord>
+        <nativeWord>na przykład</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>64</idSound>
+    </word>
+    <word>
+        <foreignWord>algún; alguno; alguna</foreignWord>
+        <nativeWord>jakiś; jakaś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>65</idSound>
+    </word>
+    <word>
+        <foreignWord>puaj</foreignWord>
+        <nativeWord>ble; błe; e tam</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>66</idSound>
+    </word>
+    <word>
+        <foreignWord>otra cosa</foreignWord>
+        <nativeWord>coś innego; inna rzecz; inna sprawa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>67</idSound>
+    </word>
+    <word>
+        <foreignWord>ahora</foreignWord>
+        <nativeWord>teraz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>68</idSound>
+    </word>
+    <word>
+        <foreignWord>mi</foreignWord>
+        <nativeWord>mój</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>69</idSound>
+    </word>
+    <word>
+        <foreignWord>malo; mala</foreignWord>
+        <nativeWord>zły; zła</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>70</idSound>
+    </word>
+    <word>
+        <foreignWord>quedar bien</foreignWord>
+        <nativeWord>dobrze pasować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>71</idSound>
+    </word>
+    <word>
+        <foreignWord>quedar mal</foreignWord>
+        <nativeWord>nie pasować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>72</idSound>
+    </word>
+    <word>
+        <foreignWord>ante</foreignWord>
+        <nativeWord>przed</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>73</idSound>
+    </word>
+    <word>
+        <foreignWord>cada uno</foreignWord>
+        <nativeWord>każdy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>74</idSound>
+    </word>
+    <word>
+        <foreignWord>casi</foreignWord>
+        <nativeWord>prawie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>75</idSound>
+    </word>
+    <word>
+        <foreignWord>a la semana</foreignWord>
+        <nativeWord>na tydzień</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>76</idSound>
+    </word>
+    <word>
+        <foreignWord>varias veces</foreignWord>
+        <nativeWord>często; kilka razy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>77</idSound>
+    </word>
+    <word>
+        <foreignWord>¿cómo?</foreignWord>
+        <nativeWord>jak?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>78</idSound>
+    </word>
+    <word>
+        <foreignWord>la vez</foreignWord>
+        <nativeWord>raz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>79</idSound>
+    </word>
+    <word>
+        <foreignWord>nunca</foreignWord>
+        <nativeWord>nigdy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>80</idSound>
+    </word>
+    <word>
+        <foreignWord>al mes</foreignWord>
+        <nativeWord>na miesiąc</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>81</idSound>
+    </word>
+    <word>
+        <foreignWord>poco</foreignWord>
+        <nativeWord>mało; rzadko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>82</idSound>
+    </word>
+    <word>
+        <foreignWord>a pie</foreignWord>
+        <nativeWord>pieszo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>83</idSound>
+    </word>
+    <word>
+        <foreignWord>tan poco</foreignWord>
+        <nativeWord>tak mało</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>84</idSound>
+    </word>
+    <word>
+        <foreignWord>de vez en cuando</foreignWord>
+        <nativeWord>od czasu do czasu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>85</idSound>
+    </word>
+    <word>
+        <foreignWord>corto; corta</foreignWord>
+        <nativeWord>krótki; krótka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>86</idSound>
+    </word>
+    <word>
+        <foreignWord>siempre</foreignWord>
+        <nativeWord>zawsze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>87</idSound>
+    </word>
+    <word>
+        <foreignWord>propio; propia</foreignWord>
+        <nativeWord>własny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>88</idSound>
+    </word>
+    <word>
+        <foreignWord>de casa</foreignWord>
+        <nativeWord>z domu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>89</idSound>
+    </word>
+    <word>
+        <foreignWord>unos; unas</foreignWord>
+        <nativeWord>jakieś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>90</idSound>
+    </word>
+    <word>
+        <foreignWord>sobre</foreignWord>
+        <nativeWord>o; na temat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>91</idSound>
+    </word>
+    <word>
+        <foreignWord>el día a día</foreignWord>
+        <nativeWord>dzień codzienny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>92</idSound>
+    </word>
+    <word>
+        <foreignWord>tu</foreignWord>
+        <nativeWord>twój</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>93</idSound>
+    </word>
+    <word>
+        <foreignWord>cerca</foreignWord>
+        <nativeWord>blisko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>94</idSound>
+    </word>
+    <word>
+        <foreignWord>temprano</foreignWord>
+        <nativeWord>wcześnie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>95</idSound>
+    </word>
+    <word>
+        <foreignWord>a eso de las doce</foreignWord>
+        <nativeWord>około godziny dwunastej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>96</idSound>
+    </word>
+    <word>
+        <foreignWord>durante</foreignWord>
+        <nativeWord>podczas</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>97</idSound>
+    </word>
+    <word>
+        <foreignWord>además</foreignWord>
+        <nativeWord>poza tym; ponadto</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>98</idSound>
+    </word>
+    <word>
+        <foreignWord>por la tarde</foreignWord>
+        <nativeWord>po południu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>99</idSound>
+    </word>
+    <word>
+        <foreignWord>por la noche</foreignWord>
+        <nativeWord>w nocy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>100</idSound>
+    </word>
+    <word>
+        <foreignWord>si</foreignWord>
+        <nativeWord>jeśli</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>101</idSound>
+    </word>
+    <word>
+        <foreignWord>tengo que</foreignWord>
+        <nativeWord>muszę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>102</idSound>
+    </word>
+    <word>
+        <foreignWord>famoso; famosa</foreignWord>
+        <nativeWord>znany; znana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>103</idSound>
+    </word>
+    <word>
+        <foreignWord>como</foreignWord>
+        <nativeWord>jak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>104</idSound>
+    </word>
+    <word>
+        <foreignWord>difícil</foreignWord>
+        <nativeWord>trudny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>105</idSound>
+    </word>
+    <word>
+        <foreignWord>alto; alta</foreignWord>
+        <nativeWord>wysoki; wysoka; późny; późna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>106</idSound>
+    </word>
+    <word>
+        <foreignWord>por</foreignWord>
+        <nativeWord>przez; z powodu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>107</idSound>
+    </word>
+    <word>
+        <foreignWord>todo recto</foreignWord>
+        <nativeWord>prosto</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>108</idSound>
+    </word>
+    <word>
+        <foreignWord>a la derecha</foreignWord>
+        <nativeWord>po prawej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>109</idSound>
+    </word>
+    <word>
+        <foreignWord>a la izquierda</foreignWord>
+        <nativeWord>po lewej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>110</idSound>
+    </word>
+    <word>
+        <foreignWord>el final; el fin</foreignWord>
+        <nativeWord>koniec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>111</idSound>
+    </word>
+    <word>
+        <foreignWord>eso es</foreignWord>
+        <nativeWord>właśnie tak; dokładnie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>112</idSound>
+    </word>
+    <word>
+        <foreignWord>de nada</foreignWord>
+        <nativeWord>nie ma za co</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>113</idSound>
+    </word>
+    <word>
+        <foreignWord>vaya</foreignWord>
+        <nativeWord>rety; o rany</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>114</idSound>
+    </word>
+    <word>
+        <foreignWord>allí; allá; ahí</foreignWord>
+        <nativeWord>tam</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>115</idSound>
+    </word>
+    <word>
+        <foreignWord>para</foreignWord>
+        <nativeWord>dla; aby</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>116</idSound>
+    </word>
+    <word>
+        <foreignWord>con mucho gusto</foreignWord>
+        <nativeWord>z dużą przyjemnością</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>117</idSound>
+    </word>
+    <word>
+        <foreignWord>la buena suerte; la suerte</foreignWord>
+        <nativeWord>szczęście</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>118</idSound>
+    </word>
+    <word>
+        <foreignWord>contigo</foreignWord>
+        <nativeWord>z tobą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>119</idSound>
+    </word>
+    <word>
+        <foreignWord>impar</foreignWord>
+        <nativeWord>nieparzysty; samotny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>120</idSound>
+    </word>
+    <word>
+        <foreignWord>¿diga?</foreignWord>
+        <nativeWord>halo?; słucham?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>121</idSound>
+    </word>
+    <word>
+        <foreignWord>algo</foreignWord>
+        <nativeWord>coś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>122</idSound>
+    </word>
+    <word>
+        <foreignWord>así</foreignWord>
+        <nativeWord>w ten sposób; tak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>123</idSound>
+    </word>
+    <word>
+        <foreignWord>al lado de</foreignWord>
+        <nativeWord>obok</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>124</idSound>
+    </word>
+    <word>
+        <foreignWord>la cosa</foreignWord>
+        <nativeWord>rzecz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>125</idSound>
+    </word>
+    <word>
+        <foreignWord>joven</foreignWord>
+        <nativeWord>młody</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>126</idSound>
+    </word>
+    <word>
+        <foreignWord>más joven</foreignWord>
+        <nativeWord>młodszy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>127</idSound>
+    </word>
+    <word>
+        <foreignWord>próximo; próxima</foreignWord>
+        <nativeWord>najbliższy; najbliższa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>128</idSound>
+    </word>
+    <word>
+        <foreignWord>la aventura</foreignWord>
+        <nativeWord>przygoda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>129</idSound>
+    </word>
+    <word>
+        <foreignWord>todavía no</foreignWord>
+        <nativeWord>jeszcze nie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>130</idSound>
+    </word>
+    <word>
+        <foreignWord>tampoco</foreignWord>
+        <nativeWord>też nie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>131</idSound>
+    </word>
+    <word>
+        <foreignWord>quizá; quizás; a lo mejor</foreignWord>
+        <nativeWord>może</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>132</idSound>
+    </word>
+    <word>
+        <foreignWord>el tipo</foreignWord>
+        <nativeWord>typ; rodzaj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>133</idSound>
+    </word>
+    <word>
+        <foreignWord>de todo tipo</foreignWord>
+        <nativeWord>każdego rodzaju</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>134</idSound>
+    </word>
+    <word>
+        <foreignWord>la sorpresa</foreignWord>
+        <nativeWord>niespodzianka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>135</idSound>
+    </word>
+    <word>
+        <foreignWord>cada</foreignWord>
+        <nativeWord>każdy; każda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>136</idSound>
+    </word>
+    <word>
+        <foreignWord>diferente</foreignWord>
+        <nativeWord>różny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>137</idSound>
+    </word>
+    <word>
+        <foreignWord>alguien</foreignWord>
+        <nativeWord>ktoś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>138</idSound>
+    </word>
+    <word>
+        <foreignWord>igual</foreignWord>
+        <nativeWord>taki sam; obojętny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>139</idSound>
+    </word>
+    <word>
+        <foreignWord>la sonrisa</foreignWord>
+        <nativeWord>uśmiech</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>140</idSound>
+    </word>
+    <word>
+        <foreignWord>entre los dos</foreignWord>
+        <nativeWord>we dwoje</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>141</idSound>
+    </word>
+    <word>
+        <foreignWord>entre</foreignWord>
+        <nativeWord>pomiędzy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>142</idSound>
+    </word>
+    <word>
+        <foreignWord>segurísimo</foreignWord>
+        <nativeWord>z całą pewnością</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>143</idSound>
+    </word>
+    <word>
+        <foreignWord>desgraciadamente</foreignWord>
+        <nativeWord>niestety</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>144</idSound>
+    </word>
+    <word>
+        <foreignWord>cara o cruz</foreignWord>
+        <nativeWord>orzeł i reszka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>145</idSound>
+    </word>
+    <word>
+        <foreignWord>basta</foreignWord>
+        <nativeWord>wystarczy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>146</idSound>
+    </word>
+    <word>
+        <foreignWord>pan con tomate</foreignWord>
+        <nativeWord>chleb z pomidorem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>147</idSound>
+    </word>
+    <word>
+        <foreignWord>lleno; llena</foreignWord>
+        <nativeWord>pełny; pełna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>148</idSound>
+    </word>
+    <word>
+        <foreignWord>¿qué hay?</foreignWord>
+        <nativeWord>co jest?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>149</idSound>
+    </word>
+    <word>
+        <foreignWord>¿qué te pongo?</foreignWord>
+        <nativeWord>co podać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>150</idSound>
+    </word>
+    <word>
+        <foreignWord>exquisito</foreignWord>
+        <nativeWord>wyśmienity</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>151</idSound>
+    </word>
+    <word>
+        <foreignWord>lo único</foreignWord>
+        <nativeWord>jedynie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>152</idSound>
+    </word>
+    <word>
+        <foreignWord>buenísimo</foreignWord>
+        <nativeWord>bardzo dobry; wspaniały</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>153</idSound>
+    </word>
+    <word>
+        <foreignWord>la forma</foreignWord>
+        <nativeWord>sposób</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>154</idSound>
+    </word>
+    <word>
+        <foreignWord>simple</foreignWord>
+        <nativeWord>prosty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>155</idSound>
+    </word>
+    <word>
+        <foreignWord>anterior</foreignWord>
+        <nativeWord>poprzedni</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>156</idSound>
+    </word>
+    <word>
+        <foreignWord>suficiente</foreignWord>
+        <nativeWord>wystarczająco</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>157</idSound>
+    </word>
+    <word>
+        <foreignWord>exacto</foreignWord>
+        <nativeWord>dokładnie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>158</idSound>
+    </word>
+    <word>
+        <foreignWord>¿qué le pasa?</foreignWord>
+        <nativeWord>co panu dolega?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>159</idSound>
+    </word>
+    <word>
+        <foreignWord>un poquito</foreignWord>
+        <nativeWord>troszeczkę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>160</idSound>
+    </word>
+    <word>
+        <foreignWord>fuerte</foreignWord>
+        <nativeWord>mocny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>161</idSound>
+    </word>
+    <word>
+        <foreignWord>hacia</foreignWord>
+        <nativeWord>w kierunku</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>162</idSound>
+    </word>
+    <word>
+        <foreignWord>adelante</foreignWord>
+        <nativeWord>do przodu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>163</idSound>
+    </word>
+    <word>
+        <foreignWord>abajo</foreignWord>
+        <nativeWord>w dół</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>164</idSound>
+    </word>
+    <word>
+        <foreignWord>todavía; aún</foreignWord>
+        <nativeWord>jeszcze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>165</idSound>
+    </word>
+    <word>
+        <foreignWord>ayer</foreignWord>
+        <nativeWord>wczoraj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>166</idSound>
+    </word>
+    <word>
+        <foreignWord>pobre</foreignWord>
+        <nativeWord>biedny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>167</idSound>
+    </word>
+    <word>
+        <foreignWord>largo</foreignWord>
+        <nativeWord>długi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>168</idSound>
+    </word>
+    <word>
+        <foreignWord>pasado; pasada</foreignWord>
+        <nativeWord>zeszły; zeszła</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>169</idSound>
+    </word>
+    <word>
+        <foreignWord>menos</foreignWord>
+        <nativeWord>mniej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>170</idSound>
+    </word>
+    <word>
+        <foreignWord>grave</foreignWord>
+        <nativeWord>poważny; ciężki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>171</idSound>
+    </word>
+    <word>
+        <foreignWord>menos mal</foreignWord>
+        <nativeWord>całe szczęście</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>172</idSound>
+    </word>
+    <word>
+        <foreignWord>ninguno; ninguna</foreignWord>
+        <nativeWord>żaden; żadna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>173</idSound>
+    </word>
+    <word>
+        <foreignWord>aquel</foreignWord>
+        <nativeWord>ów; tamten</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>174</idSound>
+    </word>
+    <word>
+        <foreignWord>aquella</foreignWord>
+        <nativeWord>owa; tamta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>175</idSound>
+    </word>
+    <word>
+        <foreignWord>demasiado</foreignWord>
+        <nativeWord>zbyt; za bardzo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>176</idSound>
+    </word>
+    <word>
+        <foreignWord>peligroso</foreignWord>
+        <nativeWord>niebezpieczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>177</idSound>
+    </word>
+    <word>
+        <foreignWord>eso</foreignWord>
+        <nativeWord>to</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>178</idSound>
+    </word>
+    <word>
+        <foreignWord>nadie</foreignWord>
+        <nativeWord>nikt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>179</idSound>
+    </word>
+    <word>
+        <foreignWord>esi sí</foreignWord>
+        <nativeWord>to na pewno; zgadza się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>180</idSound>
+    </word>
+    <word>
+        <foreignWord>detrás de</foreignWord>
+        <nativeWord>za</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>181</idSound>
+    </word>
+    <word>
+        <foreignWord>por último</foreignWord>
+        <nativeWord>na koniec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>182</idSound>
+    </word>
+    <word>
+        <foreignWord>don</foreignWord>
+        <nativeWord>pan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>183</idSound>
+    </word>
+    <word>
+        <foreignWord>doña</foreignWord>
+        <nativeWord>pani</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>184</idSound>
+    </word>
+    <word>
+        <foreignWord>cual</foreignWord>
+        <nativeWord>który</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>185</idSound>
+    </word>
+    <word>
+        <foreignWord>desde; de</foreignWord>
+        <nativeWord>od</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>186</idSound>
+    </word>
+    <word>
+        <foreignWord>mayor</foreignWord>
+        <nativeWord>starszy; najstarszy; główny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>187</idSound>
+    </word>
+    <word>
+        <foreignWord>incluso</foreignWord>
+        <nativeWord>nawet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>188</idSound>
+    </word>
+    <word>
+        <foreignWord>igual que</foreignWord>
+        <nativeWord>tak jak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>189</idSound>
+    </word>
+    <word>
+        <foreignWord>a rayas</foreignWord>
+        <nativeWord>w paski</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>190</idSound>
+    </word>
+    <word>
+        <foreignWord>con tiempo</foreignWord>
+        <nativeWord>zawczasu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>191</idSound>
+    </word>
+    <word>
+        <foreignWord>de vuelta</foreignWord>
+        <nativeWord>z powrotem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>192</idSound>
+    </word>
+    <word>
+        <foreignWord>a tiempo completo</foreignWord>
+        <nativeWord>na pełen etat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>193</idSound>
+    </word>
+    <word>
+        <foreignWord>en caso de</foreignWord>
+        <nativeWord>w przypadku; jeśli</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>194</idSound>
+    </word>
+    <word>
+        <foreignWord>ojalá</foreignWord>
+        <nativeWord>oby</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>195</idSound>
+    </word>
+    <word>
+        <foreignWord>de nuevo</foreignWord>
+        <nativeWord>od nowa; ponownie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>196</idSound>
+    </word>
+    <word>
+        <foreignWord>sobre todo</foreignWord>
+        <nativeWord>przede wszystkim</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>197</idSound>
+    </word>
+    <word>
+        <foreignWord>por eso</foreignWord>
+        <nativeWord>dlatego</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>198</idSound>
+    </word>
+    <word>
+        <foreignWord>excepto</foreignWord>
+        <nativeWord>za wyjątkiem; z wyjątkiem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>199</idSound>
+    </word>
+    <word>
+        <foreignWord>yo misma</foreignWord>
+        <nativeWord>ja sama</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>200</idSound>
+    </word>
+    <word>
+        <foreignWord>yo mismo</foreignWord>
+        <nativeWord>ja sam</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>201</idSound>
+    </word>
+    <word>
+        <foreignWord>mismo; misma</foreignWord>
+        <nativeWord>sam; ten sam</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>202</idSound>
+    </word>
+    <word>
+        <foreignWord>ajá</foreignWord>
+        <nativeWord>aha</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>203</idSound>
+    </word>
+    <word>
+        <foreignWord>semejante</foreignWord>
+        <nativeWord>podobny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>204</idSound>
+    </word>
+    <word>
+        <foreignWord>venga</foreignWord>
+        <nativeWord>przestań; daj spokój</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>205</idSound>
+    </word>
+    <word>
+        <foreignWord>hasta pronto</foreignWord>
+        <nativeWord>do zobaczenia {niebawem/wkrótce}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

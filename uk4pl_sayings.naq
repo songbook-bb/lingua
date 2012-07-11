@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="3">
+    <word>
+        <foreignWord>Paper endures all.</foreignWord>
+        <nativeWord>Papier przyjmie wszystko.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Store is no sore.;Plenty is no plague.</foreignWord>
+        <nativeWord>Od przybytku głowa nie boli.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Poverty is no sin.</foreignWord>
+        <nativeWord>Ubóstwo nie hańbi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Punishment is lame but it comes.</foreignWord>
+        <nativeWord>Choć się kara wlecze, zbrodnia przed nią nie uciecze.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Rome was not built in a day.</foreignWord>
+        <nativeWord>Nie od razu rzym zbudowano.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>So many countries so many customs.</foreignWord>
+        <nativeWord>Co kraj to obyczaj.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Spare the rod and spoil the child.</foreignWord>
+        <nativeWord>Kto dobrze kocha, karci surowo.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Still waters runs deep.</foreignWord>
+        <nativeWord>Cicha woda brzegi rwie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Strike while the iron is hot.</foreignWord>
+        <nativeWord>Kuj żelazo póki gorące.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Such a life, such a death.</foreignWord>
+        <nativeWord>Jakie życie, taka śmierć.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Sweep before your own door.</foreignWord>
+        <nativeWord>Najpierw zamieć przed {swoim progiem / swoimi drzwiami}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Talk of the devil, and he is sure to appear.</foreignWord>
+        <nativeWord>O wilku mowa, a wilk tuż tuż.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The answer is suited to the question.</foreignWord>
+        <nativeWord>Jakie pytanie taka odpowiedź.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The devil is not so black as he is painted.</foreignWord>
+        <nativeWord>Nie taki diabeł straszny, jak go malują.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The die is cast.</foreignWord>
+        <nativeWord>Kości zostały rzucone.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The end justifies the means.</foreignWord>
+        <nativeWord>Cel uświęca środki.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The exception proves the rule.</foreignWord>
+        <nativeWord>Wyjątek potwierdza regułę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The eye is the mirror of the soul.</foreignWord>
+        <nativeWord>Oczy zwierciadłem duszy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The game is not worth the candle.</foreignWord>
+        <nativeWord>Gra nie warta świeczki.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The greater talkers are the least doers.</foreignWord>
+        <nativeWord>Kto wiele mówi mało czyni.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The middle way of measure is ever golden.</foreignWord>
+        <nativeWord>Złoty środek w każdej rzeczy najlepszy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The miser is always in want.</foreignWord>
+        <nativeWord>Skąpy nigdy nie ma dość.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The more you stir the more it will stinks.</foreignWord>
+        <nativeWord>Nie ruszaj gówna, bo śmierdzi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The early bird catches the worm.;The morning hour has gold in its mouth.</foreignWord>
+        <nativeWord>Kto rano wstaje temu pan Bóg daje.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The pot calling the kettle black.</foreignWord>
+        <nativeWord>Przyganiał kocioł garnkowi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The priest forgets that he was a clerk.</foreignWord>
+        <nativeWord>Zapomniał wół, jak cielęciem był.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The quarrels of lovers are the renoval of love.</foreignWord>
+        <nativeWord>Kto się czubi ten się lubi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The shoemaker's wife is worst shod, the tailer's wife worst clad.</foreignWord>
+        <nativeWord>Szewcy chodzą bez butów, krawcy bez surdutów.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The third time is lucky.</foreignWord>
+        <nativeWord>Do trzech razy sztuka.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The voice of the people the voice of the god.</foreignWord>
+        <nativeWord>Głos ludu głosem Boga.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>The wise head gives in.</foreignWord>
+        <nativeWord>Mądry głupiemu ustąpi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>There is a measure in all things.;Measure is treasure.</foreignWord>
+        <nativeWord>Przysłowie to stare - we wszystkim miej miarę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>There is no accounting for tastes.</foreignWord>
+        <nativeWord>O gusta nie warto się spierać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>There is no joy without annoy.</foreignWord>
+        <nativeWord>Nie ma radości bez smutku.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>There is no little enemy.</foreignWord>
+        <nativeWord>Najmniejszego nieprzyjaciela nie trzeba lekceważyć.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>There is no place like home.</foreignWord>
+        <nativeWord>Wszędzie dobrze, ale w domu najlepiej.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>There is no smoke without fire.</foreignWord>
+        <nativeWord>Nie ma dymu bez ognia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Time softeness all grief.</foreignWord>
+        <nativeWord>Czas wszystko łagodzi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To be a dog in the manger.</foreignWord>
+        <nativeWord>Być jak pies ogrodnika.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To be a good loser.;To put a good face on a bad business.</foreignWord>
+        <nativeWord>Robić dobrą minę do złej gry.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To be afraid of one's own shadow.</foreignWord>
+        <nativeWord>Bać się własnego cienia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To be on pins and needles.</foreignWord>
+        <nativeWord>Siedzi jak na szpilkach.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To buy a pig in a poke.</foreignWord>
+        <nativeWord>Kupować kota w worku.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To cast pearls before swine.</foreignWord>
+        <nativeWord>Rzucać perły przed wieprze.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To err is human.</foreignWord>
+        <nativeWord>Błąd ludzka rzecz.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To fight with windmills.</foreignWord>
+        <nativeWord>Walczyć z wiatrakami.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To have one foot in grave.</foreignWord>
+        <nativeWord>Być jedną nogą w grobie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To lead somebody by the nose.</foreignWord>
+        <nativeWord>Wodzić kogoś za nos.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To look for a needle in a haystack.</foreignWord>
+        <nativeWord>Szukać igły w stogu siana.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To make a rod for one's own back.</foreignWord>
+        <nativeWord>Bicz na siebie kręcić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To promise great wonders.</foreignWord>
+        <nativeWord>Obiecywać złote góry.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To rule with a rod of iron.</foreignWord>
+        <nativeWord>Trzymać żelazną rękę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To shut the stable - door when the steed is stolen.</foreignWord>
+        <nativeWord>Zamknął stajnię, jak mu konia ukradli.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To stand still is to move back.</foreignWord>
+        <nativeWord>Kto stoi w miejscu, ten się cofa.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To waste his breath.</foreignWord>
+        <nativeWord>Rzucać słowia na wiatr.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Today gold, tommorow dust.</foreignWord>
+        <nativeWord>Dziś się żyje, jutro gnije.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Too many cooks spoil the broth.</foreignWord>
+        <nativeWord>Gdzie kucharek sześc tam nie ma co jeść.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Too much laughter discovers folly.</foreignWord>
+        <nativeWord>Poznać głupiego po śmiechu jego.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Two dogs strive for a bone and the third runs away with it.</foreignWord>
+        <nativeWord>Gdzie dwóch się bije, tam trzeci korzysta.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Two wrongs don't make a right.</foreignWord>
+        <nativeWord>Nie należy odpłacać pięknym za nadobne.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>U must not teach fish to swim.</foreignWord>
+        <nativeWord>Nie ucz ryby pływać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Walls have ears.</foreignWord>
+        <nativeWord>Ściany mają uszy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wedlock is a padlock.</foreignWord>
+        <nativeWord>Jeden dzień wesele - całe życie bieda.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>What eye sees not, the heart craves not.</foreignWord>
+        <nativeWord>Czego oko nie widzi tego sercu nie żal.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>What must be - must be.</foreignWord>
+        <nativeWord>Co ma być to będzie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>What soberness conceals drunkenness reveals.</foreignWord>
+        <nativeWord>Co u trzeźwego na myśli, u pianego na jezyku.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>What you lose on swings you gain on the roundabouts.</foreignWord>
+        <nativeWord>Wychodzić na swoje.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>What's done cannot be undone.</foreignWord>
+        <nativeWord>Co się stalo, nie odstanie się.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>When the cat's away the mice will play.</foreignWord>
+        <nativeWord>Myszy tańcują kiedy kota nie czują.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>When wine is in wit is out.</foreignWord>
+        <nativeWord>Po winie rozum ginie, a od wódki rozum krótki.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Where the devil cannot he will send a woman.</foreignWord>
+        <nativeWord>Gdzie diabeł nie może tam babę pośle.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Where there's a will there's a way.</foreignWord>
+        <nativeWord>Dla chcącego nic trudnego.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Whom god loves, his bitch brings forth pigs.</foreignWord>
+        <nativeWord>Kto ma szczęście, temu i wół ciele urodzi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Will you, nill you.</foreignWord>
+        <nativeWord>Chcąc nie chcą musiał.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>You cackle often but never lay an egg.</foreignWord>
+        <nativeWord>Krowa która dużo ryczy, mało mleka daje.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>You cannnot say A without B.</foreignWord>
+        <nativeWord>Kto powiedział A, musi powiedzieć B.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>You live and learn.</foreignWord>
+        <nativeWord>Człowiek uczy się całe życie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Youth will have its course.</foreignWord>
+        <nativeWord>Młodość musi się wyszaleć.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

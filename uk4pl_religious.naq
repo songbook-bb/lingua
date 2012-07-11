@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>Immaculate Conception</foreignWord>
+        <nativeWord>Niepokalane poczęcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Virgin Mary</foreignWord>
+        <nativeWord>Dziewica Maryja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Advent</foreignWord>
+        <nativeWord>Adwent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Lent</foreignWord>
+        <nativeWord>Wielki Post</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Easter</foreignWord>
+        <nativeWord>Wielkanoc</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Triduum</foreignWord>
+        <nativeWord>Triduum</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Redemption</foreignWord>
+        <nativeWord>Zbawienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Paschal Mystery</foreignWord>
+        <nativeWord>Misterium Paschalne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>the Twelve Disciples</foreignWord>
+        <nativeWord>dwunastu apostołów</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>our Lord Jesus Christ</foreignWord>
+        <nativeWord>nasz Pan Jezus Chrystus</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>the Redeemer of Man</foreignWord>
+        <nativeWord>Odkupiciel człowieka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Lamb of God</foreignWord>
+        <nativeWord>Baranek Boży</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Have mercy on us.</foreignWord>
+        <nativeWord>Zmiłuj się nad nami.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Grant us peace.</foreignWord>
+        <nativeWord>Obdarz nas pokojem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Behold the Lamb of God</foreignWord>
+        <nativeWord>Oto Baranek Boży</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Lord, I am not worthy</foreignWord>
+        <nativeWord>Panie, nie jestem godzien</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>that you should enter under my roof</foreignWord>
+        <nativeWord>abyś przyszedł {do mnie/pod mój dach}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>but only say the word</foreignWord>
+        <nativeWord>ale powiedz tylko Słowo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>and my soul shall be healed.</foreignWord>
+        <nativeWord>a będzie uzdrowiona dusza moja.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>glorify the Lord</foreignWord>
+        <nativeWord>wysławiać Pana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>adore the Lord</foreignWord>
+        <nativeWord>adorować Pana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>worship the Lord</foreignWord>
+        <nativeWord>uwielbiać Pana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Baptism</foreignWord>
+        <nativeWord>Chrzest</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Confirmation</foreignWord>
+        <nativeWord>Bierzmowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Eucharist</foreignWord>
+        <nativeWord>Eucharystia;Najświętszy Sakrament</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Penance; Reconciliation</foreignWord>
+        <nativeWord>Spowiedź</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Anointing of the Sick</foreignWord>
+        <nativeWord>Namaszczenie Chorych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Holy Orders</foreignWord>
+        <nativeWord>Kapłaństwo;Święcenia Kapłańskie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Marriage;Matrimony</foreignWord>
+        <nativeWord>Małżeństwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>the New Evangelisation</foreignWord>
+        <nativeWord>Nowa Ewangelizacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>our salvation</foreignWord>
+        <nativeWord>nasze odkupienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Christ our Lord</foreignWord>
+        <nativeWord>Chrystus nasz Pan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>purify</foreignWord>
+        <nativeWord>oczyścić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>the Resurrection</foreignWord>
+        <nativeWord>Zmartwychwstanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>great gift of grace</foreignWord>
+        <nativeWord>wielki dar łaski</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Saviour was promised</foreignWord>
+        <nativeWord>{obiecany/obiecywany} {Odkupiciel/Zbawiciel}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

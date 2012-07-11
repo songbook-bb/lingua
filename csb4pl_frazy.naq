@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="2">
+    <word>
+        <foreignWord>Bëlné słowò òtmikô serce.</foreignWord>
+        <nativeWord>Dobre słowo otwiera serce.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>Chto w pòlu òrze, nie wié, co to mòrze.</foreignWord>
+        <nativeWord>Kto w polu orze, nie wie, co to morze.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>Czej kôzogrësc zakwitô, wies bòcóna witô.</foreignWord>
+        <nativeWord>Gdy zawilec zakwita, wieś bociana wita.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>Dëtczi nikògò nie zbawią.</foreignWord>
+        <nativeWord>Pieniądze nikogo nie zbawią.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>Drãgò je ùczëc sã kaszëbiznë bez słowarza.</foreignWord>
+        <nativeWord>Trudno jest uczyć się kaszubskiego bez słownika.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>Biôłé jak łońsczi sniég.</foreignWord>
+        <nativeWord>Białe jak zeszłoroczny śnieg.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>Miec mitką głowã.</foreignWord>
+        <nativeWord>Mieć pojętną głowę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>Na Dłudżim Rënkù dwadzesce piãc tësãcy gduńszczónów zrobiło so òdjimk.</foreignWord>
+        <nativeWord>Na Długim Targu dwadzieścia pięć tysięcy gdańszczan zrobiło sobie zdjęcie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+</dictionary>

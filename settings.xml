@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <wordsInLesson>8</wordsInLesson>
+    <autoSuggest>0</autoSuggest>
+    <maxScore>0</maxScore>
+    <incScore>1</incScore>
+    <decScore>0</decScore>
+    <direction>0</direction>
+    <strictMode>0</strictMode>
+    <examMode>0</examMode>
+    <keyboard>3</keyboard>
+    <unlearned>1</unlearned>
+    <hardest>0</hardest>
+    <random>1</random>
+</settings>

@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>la flor</foreignWord>
+        <nativeWord>kwiat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>el rastrillo</foreignWord>
+        <nativeWord>grabie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>la pala</foreignWord>
+        <nativeWord>łopata</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>el caballón</foreignWord>
+        <nativeWord>grządka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>la cuerda</foreignWord>
+        <nativeWord>sznur</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>la linterna</foreignWord>
+        <nativeWord>latarka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>el cuadro</foreignWord>
+        <nativeWord>obraz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>la imagen</foreignWord>
+        <nativeWord>podobizna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>la pintura</foreignWord>
+        <nativeWord>malunek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>el pintor</foreignWord>
+        <nativeWord>malarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>el pintor de brocha gorda</foreignWord>
+        <nativeWord>malarz pokojowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>la fotografía</foreignWord>
+        <nativeWord>zdjęcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>el lápiz; el lapicero</foreignWord>
+        <nativeWord>ołówek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>el micrófono</foreignWord>
+        <nativeWord>mikrofon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>el auricular</foreignWord>
+        <nativeWord>słuchawka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>el libro</foreignWord>
+        <nativeWord>książka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>el libro de cocina</foreignWord>
+        <nativeWord>książka kucharska</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>el altavoz</foreignWord>
+        <nativeWord>głośnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>el despertador</foreignWord>
+        <nativeWord>budzik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>la prueba</foreignWord>
+        <nativeWord>dowód</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+    <word>
+        <foreignWord>el carné de identidad</foreignWord>
+        <nativeWord>dowód osobisty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>21</idSound>
+    </word>
+    <word>
+        <foreignWord>el permiso de circulación</foreignWord>
+        <nativeWord>dowód rejestracyjny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>22</idSound>
+    </word>
+    <word>
+        <foreignWord>el título de propiedad</foreignWord>
+        <nativeWord>dowód właśności</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+    <word>
+        <foreignWord>las gafas</foreignWord>
+        <nativeWord>okulary</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>24</idSound>
+    </word>
+    <word>
+        <foreignWord>el papel</foreignWord>
+        <nativeWord>papier</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>25</idSound>
+    </word>
+    <word>
+        <foreignWord>el papel de carta</foreignWord>
+        <nativeWord>papier listowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>26</idSound>
+    </word>
+    <word>
+        <foreignWord>el papel de lija</foreignWord>
+        <nativeWord>papier ścierny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>27</idSound>
+    </word>
+    <word>
+        <foreignWord>el botón; el pulsador</foreignWord>
+        <nativeWord>przycisk</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>28</idSound>
+    </word>
+    <word>
+        <foreignWord>el bolígrafo; el boli</foreignWord>
+        <nativeWord>długopis</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>29</idSound>
+    </word>
+    <word>
+        <foreignWord>el rotulador</foreignWord>
+        <nativeWord>flamaster</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>31</idSound>
+    </word>
+    <word>
+        <foreignWord>la pila; la batería</foreignWord>
+        <nativeWord>bateria</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>32</idSound>
+    </word>
+    <word>
+        <foreignWord>la silla</foreignWord>
+        <nativeWord>krzesło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>33</idSound>
+    </word>
+    <word>
+        <foreignWord>la camisa</foreignWord>
+        <nativeWord>koszula</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>34</idSound>
+    </word>
+    <word>
+        <foreignWord>el cancionero</foreignWord>
+        <nativeWord>śpiewnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>30</idSound>
+    </word>
+    <word>
+        <foreignWord>la toalla</foreignWord>
+        <nativeWord>ręcznik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>35</idSound>
+    </word>
+    <word>
+        <foreignWord>el jabón</foreignWord>
+        <nativeWord>mydło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>36</idSound>
+    </word>
+    <word>
+        <foreignWord>el bocadillo; el bocata</foreignWord>
+        <nativeWord>kanapka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>37</idSound>
+    </word>
+    <word>
+        <foreignWord>la barra de pan</foreignWord>
+        <nativeWord>bułka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>38</idSound>
+    </word>
+    <word>
+        <foreignWord>el pan</foreignWord>
+        <nativeWord>chleb</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>39</idSound>
+    </word>
+    <word>
+        <foreignWord>el pan de cada día</foreignWord>
+        <nativeWord>chleb powszedni</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>40</idSound>
+    </word>
+    <word>
+        <foreignWord>el pan fresco</foreignWord>
+        <nativeWord>świeży chleb</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>41</idSound>
+    </word>
+    <word>
+        <foreignWord>la fiesta</foreignWord>
+        <nativeWord>bal</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>42</idSound>
+    </word>
+    <word>
+        <foreignWord>la revista</foreignWord>
+        <nativeWord>czasopismo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>43</idSound>
+    </word>
+    <word>
+        <foreignWord>la mañana</foreignWord>
+        <nativeWord>jutro</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>44</idSound>
+    </word>
+    <word>
+        <foreignWord>hoy en día</foreignWord>
+        <nativeWord>dziś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>45</idSound>
+    </word>
+    <word>
+        <foreignWord>ayer</foreignWord>
+        <nativeWord>wczoraj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>46</idSound>
+    </word>
+    <word>
+        <foreignWord>los pantalones</foreignWord>
+        <nativeWord>spodenki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>47</idSound>
+    </word>
+    <word>
+        <foreignWord>la lámpara</foreignWord>
+        <nativeWord>lampa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>48</idSound>
+    </word>
+    <word>
+        <foreignWord>el billete</foreignWord>
+        <nativeWord>bilet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>49</idSound>
+    </word>
+    <word>
+        <foreignWord>el billete de ida y vuelta</foreignWord>
+        <nativeWord>bilet w obie strony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>50</idSound>
+    </word>
+    <word>
+        <foreignWord>la inscripción</foreignWord>
+        <nativeWord>napis</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>51</idSound>
+    </word>
+    <word>
+        <foreignWord>el árbol</foreignWord>
+        <nativeWord>drzewo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>52</idSound>
+    </word>
+    <word>
+        <foreignWord>la campana</foreignWord>
+        <nativeWord>dzwon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>53</idSound>
+    </word>
+    <word>
+        <foreignWord>el escaparate</foreignWord>
+        <nativeWord>okno wystawowe</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>54</idSound>
+    </word>
+    <word>
+        <foreignWord>la ventana</foreignWord>
+        <nativeWord>okno</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>55</idSound>
+    </word>
+    <word>
+        <foreignWord>el alféizar</foreignWord>
+        <nativeWord>parapet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>56</idSound>
+    </word>
+    <word>
+        <foreignWord>el diccionario</foreignWord>
+        <nativeWord>słownik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>57</idSound>
+    </word>
+    <word>
+        <foreignWord>la guitarra</foreignWord>
+        <nativeWord>gitara</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>58</idSound>
+    </word>
+    <word>
+        <foreignWord>el picaporte</foreignWord>
+        <nativeWord>klamka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>59</idSound>
+    </word>
+    <word>
+        <foreignWord>la medicina; el medicamento; el remedio</foreignWord>
+        <nativeWord>lekarstwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>60</idSound>
+    </word>
+    <word>
+        <foreignWord>la bebida</foreignWord>
+        <nativeWord>napój</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>61</idSound>
+    </word>
+    <word>
+        <foreignWord>el refresco</foreignWord>
+        <nativeWord>napój chłodzący</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>62</idSound>
+    </word>
+    <word>
+        <foreignWord>la bombilla</foreignWord>
+        <nativeWord>żarówka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>63</idSound>
+    </word>
+    <word>
+        <foreignWord>la manta</foreignWord>
+        <nativeWord>koc</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>64</idSound>
+    </word>
+    <word>
+        <foreignWord>el saco de dormir</foreignWord>
+        <nativeWord>śpiwór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>65</idSound>
+    </word>
+    <word>
+        <foreignWord>el quemador</foreignWord>
+        <nativeWord>palnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>66</idSound>
+    </word>
+    <word>
+        <foreignWord>las gafas</foreignWord>
+        <nativeWord>okulary</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>67</idSound>
+    </word>
+    <word>
+        <foreignWord>las gafas de sol</foreignWord>
+        <nativeWord>okulary przeciwsłoneczne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>68</idSound>
+    </word>
+    <word>
+        <foreignWord>las sandalias</foreignWord>
+        <nativeWord>sandały</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>69</idSound>
+    </word>
+    <word>
+        <foreignWord>la escultura</foreignWord>
+        <nativeWord>rzeźba</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>70</idSound>
+    </word>
+    <word>
+        <foreignWord>el relieve del suelo</foreignWord>
+        <nativeWord>rzeżba terenu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>71</idSound>
+    </word>
+    <word>
+        <foreignWord>el barranco</foreignWord>
+        <nativeWord>wąwóz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>72</idSound>
+    </word>
+    <word>
+        <foreignWord>la maleza</foreignWord>
+        <nativeWord>gąszcz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>73</idSound>
+    </word>
+    <word>
+        <foreignWord>la fiebre</foreignWord>
+        <nativeWord>gorączka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>74</idSound>
+    </word>
+    <word>
+        <foreignWord>la fiebre del oro</foreignWord>
+        <nativeWord>gorączka złota</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>75</idSound>
+    </word>
+    <word>
+        <foreignWord>la puerta</foreignWord>
+        <nativeWord>drzwi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>76</idSound>
+    </word>
+    <word>
+        <foreignWord>la escalera</foreignWord>
+        <nativeWord>schody</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>77</idSound>
+    </word>
+    <word>
+        <foreignWord>la escalera mecánica</foreignWord>
+        <nativeWord>schody ruchome</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>78</idSound>
+    </word>
+    <word>
+        <foreignWord>el ascensor</foreignWord>
+        <nativeWord>winda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>79</idSound>
+    </word>
+    <word>
+        <foreignWord>la salida del sol</foreignWord>
+        <nativeWord>wschód słońca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>80</idSound>
+    </word>
+    <word>
+        <foreignWord>el este; el oriente; el levante</foreignWord>
+        <nativeWord>wschód</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>81</idSound>
+    </word>
+    <word>
+        <foreignWord>el grifo</foreignWord>
+        <nativeWord>kran</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>82</idSound>
+    </word>
+    <word>
+        <foreignWord>la fuente</foreignWord>
+        <nativeWord>źródło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>83</idSound>
+    </word>
+    <word>
+        <foreignWord>el puente</foreignWord>
+        <nativeWord>most</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>84</idSound>
+    </word>
+    <word>
+        <foreignWord>el agua</foreignWord>
+        <nativeWord>woda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>85</idSound>
+    </word>
+    <word>
+        <foreignWord>el agua potable</foreignWord>
+        <nativeWord>woda pitna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>86</idSound>
+    </word>
+    <word>
+        <foreignWord>el agua mineral</foreignWord>
+        <nativeWord>woda mineralne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>87</idSound>
+    </word>
+    <word>
+        <foreignWord>el hielo</foreignWord>
+        <nativeWord>lód</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>88</idSound>
+    </word>
+    <word>
+        <foreignWord>el aceite de oliva</foreignWord>
+        <nativeWord>oliwa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>89</idSound>
+    </word>
+    <word>
+        <foreignWord>el huevo</foreignWord>
+        <nativeWord>jajko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>90</idSound>
+    </word>
+    <word>
+        <foreignWord>el huevo pasado por agua</foreignWord>
+        <nativeWord>jajko na miękko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>91</idSound>
+    </word>
+    <word>
+        <foreignWord>el puerto</foreignWord>
+        <nativeWord>port</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>92</idSound>
+    </word>
+    <word>
+        <foreignWord>el aeropuerto</foreignWord>
+        <nativeWord>port lotniczy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>93</idSound>
+    </word>
+    <word>
+        <foreignWord>la playa</foreignWord>
+        <nativeWord>plaża</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>94</idSound>
+    </word>
+    <word>
+        <foreignWord>la curva</foreignWord>
+        <nativeWord>zakręt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>95</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche; el automóvil</foreignWord>
+        <nativeWord>samochód</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>96</idSound>
+    </word>
+    <word>
+        <foreignWord>el camión</foreignWord>
+        <nativeWord>samochód ciężarowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>97</idSound>
+    </word>
+    <word>
+        <foreignWord>las señales de tráfico</foreignWord>
+        <nativeWord>znaki drogowe</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>98</idSound>
+    </word>
+    <word>
+        <foreignWord>el mundo</foreignWord>
+        <nativeWord>świat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>99</idSound>
+    </word>
+    <word>
+        <foreignWord>la concha</foreignWord>
+        <nativeWord>muszla</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>100</idSound>
+    </word>
+    <word>
+        <foreignWord>el dinero</foreignWord>
+        <nativeWord>pieniądze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>101</idSound>
+    </word>
+    <word>
+        <foreignWord>el dinero suelto</foreignWord>
+        <nativeWord>drobne pieniądze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>102</idSound>
+    </word>
+    <word>
+        <foreignWord>la cruz</foreignWord>
+        <nativeWord>krzyż</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>103</idSound>
+    </word>
+    <word>
+        <foreignWord>la señal de la cruz</foreignWord>
+        <nativeWord>znak krzyża</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>104</idSound>
+    </word>
+    <word>
+        <foreignWord>el lumbago</foreignWord>
+        <nativeWord>bóle krzyża</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>105</idSound>
+    </word>
+    <word>
+        <foreignWord>el apoyo</foreignWord>
+        <nativeWord>oparcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>106</idSound>
+    </word>
+    <word>
+        <foreignWord>la gracia</foreignWord>
+        <nativeWord>łaska</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>107</idSound>
+    </word>
+    <word>
+        <foreignWord>la gratitud</foreignWord>
+        <nativeWord>wdzięczność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>108</idSound>
+    </word>
+    <word>
+        <foreignWord>la hospitalidad</foreignWord>
+        <nativeWord>gościnność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>109</idSound>
+    </word>
+    <word>
+        <foreignWord>la bondad</foreignWord>
+        <nativeWord>dobroć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>110</idSound>
+    </word>
+    <word>
+        <foreignWord>la paciencia</foreignWord>
+        <nativeWord>cierpliwość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>111</idSound>
+    </word>
+    <word>
+        <foreignWord>el paso</foreignWord>
+        <nativeWord>przejście</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>112</idSound>
+    </word>
+    <word>
+        <foreignWord>el paso de peatones</foreignWord>
+        <nativeWord>przejście dla pieszych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>113</idSound>
+    </word>
+    <word>
+        <foreignWord>el paso subterráneo</foreignWord>
+        <nativeWord>przejście podziemne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>114</idSound>
+    </word>
+    <word>
+        <foreignWord>la capilla</foreignWord>
+        <nativeWord>kapliczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>115</idSound>
+    </word>
+    <word>
+        <foreignWord>la montaña; el monte</foreignWord>
+        <nativeWord>góra</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>116</idSound>
+    </word>
+    <word>
+        <foreignWord>la sierra</foreignWord>
+        <nativeWord>góry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>117</idSound>
+    </word>
+    <word>
+        <foreignWord>el iceberg</foreignWord>
+        <nativeWord>góra lodowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>118</idSound>
+    </word>
+    <word>
+        <foreignWord>el río</foreignWord>
+        <nativeWord>rzeka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>119</idSound>
+    </word>
+    <word>
+        <foreignWord>río abajo</foreignWord>
+        <nativeWord>w dół rzeki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>120</idSound>
+    </word>
+    <word>
+        <foreignWord>río arriba</foreignWord>
+        <nativeWord>w górę rzeki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>121</idSound>
+    </word>
+    <word>
+        <foreignWord>el descenso</foreignWord>
+        <nativeWord>spływ</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>122</idSound>
+    </word>
+</dictionary>

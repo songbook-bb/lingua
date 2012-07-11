@@ -1,0 +1,4476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>abandono abandonas abandona abandonamos abandonáis abandonan</foreignWord>
+        <nativeWord>opuszczać; porzucać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abordo abordas aborda abordamos abordáis abordan</foreignWord>
+        <nativeWord>przybijać; podchodzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aborto abortas aborta abortamos abortáis abortan</foreignWord>
+        <nativeWord>odrzucać; poronić; dokonać aborcji</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abrazo abrazas abraza abrazamos abrazáis abrazan</foreignWord>
+        <nativeWord>ściskać; obejmować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abro abres abre abrimos abrís abren</foreignWord>
+        <nativeWord>otwierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aburro aburres aburre aburrimos aburrís aburren</foreignWord>
+        <nativeWord>męczyć; nudzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me aburro te aburres se aburre nos aburrimos os aburrís se aburren</foreignWord>
+        <nativeWord>nudzić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abuso abusas abusa abusamos abusáis abusan</foreignWord>
+        <nativeWord>nadużywać; przeginać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acabo acabas acaba acabamos acabáis acaban</foreignWord>
+        <nativeWord>kończyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acampo acampas acampa acampamos acampáis acampan</foreignWord>
+        <nativeWord>być na kempingu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acepto aceptas acepta aceptamos aceptáis aceptan</foreignWord>
+        <nativeWord>akceptować; zgadzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acerco acercas acerca acercamos acercáis acercan</foreignWord>
+        <nativeWord>przysuwać, przybliżać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me acerco te acercas se acerca nos acercamos os acercáis se acercan</foreignWord>
+        <nativeWord>zbliżać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acompaño acompañas acompaña acompañamos acompañáis acompañan</foreignWord>
+        <nativeWord>towarzyszyć; eskortować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aconsejo aconsejas aconseja aconsejamos aconsejáis aconsejan</foreignWord>
+        <nativeWord>radzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acontezco aconteces acontece acontecemos acontecéis acontecen</foreignWord>
+        <nativeWord>zdarzać, występować, pojawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acuerdo acuerdas acuerda acordamos acordáis acuerdan</foreignWord>
+        <nativeWord>rozwiązywać; decydować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me acuerdo te acuerdas se acuerda nos acordamos os acordáis se acuerdan</foreignWord>
+        <nativeWord>pamiętać (się)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acorto acortas acorta acortamos acortáis acortan</foreignWord>
+        <nativeWord>skracać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acuesto acuestas acuesta acostamos acostáis acuestan</foreignWord>
+        <nativeWord>położyć do łóżka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me acuesto te acuestas se acuesta nos acostamos os acostáis se acuestan</foreignWord>
+        <nativeWord>kłaść się spać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>acostumbro acostumbras acostumbra acostumbramos acostumbráis acostumbran</foreignWord>
+        <nativeWord>przyzwyczajać; zaznajamiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me acostumbro te acostumbras se acostumbra nos acostumbramos os acostumbráis se acostumbran</foreignWord>
+        <nativeWord>przyzwyczajać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>actúo actúas actúa actuamos actuáis actúan</foreignWord>
+        <nativeWord>występować; przeprowadzać; operować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>adivino adivinas adivina adivinamos adivináis adivinan</foreignWord>
+        <nativeWord>zgadywać; przepowiadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>admiro admiras admira admiramos admiráis admiran</foreignWord>
+        <nativeWord>uwielbiać; podziwiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>admito admites admite admitimos admitís admiten</foreignWord>
+        <nativeWord>zgadzać; akceptować; zezwalać; rozpoznawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>adoro adoras adora adoramos adoráis adoran</foreignWord>
+        <nativeWord>adorować; uwielbiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>adorno adornas adorna adornamos adornáis adornan</foreignWord>
+        <nativeWord>dekorować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>advierto adviertes advierte advertimos advertís advierten</foreignWord>
+        <nativeWord>zauważać; obserwować; ostrzegać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>afeito afeitas afeita afeitamos afeitáis afeitan</foreignWord>
+        <nativeWord>golić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me afeito te afeitas se afeita nos afeitamos os afeitáis se afeitan</foreignWord>
+        <nativeWord>golić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>afirmo afirmas afirma afirmamos afirmáis afirman</foreignWord>
+        <nativeWord>uspokajać; umacniać; utwierdzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aflijo afliges aflige afligimos afligís afligen</foreignWord>
+        <nativeWord>doświadczać; ubolewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>agüero agüeras agüera agoramos agoráis agüeran</foreignWord>
+        <nativeWord>przewidywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>agrado agradas agrada agradamos agradáis agradan</foreignWord>
+        <nativeWord>sprawiać {radość / przyjemność}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>agradezco agradeces agradece agradecemos agradecéis agradecen</foreignWord>
+        <nativeWord>dziękować; być wdzięcznym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aguanto aguantas aguanta aguantamos aguantáis aguantan</foreignWord>
+        <nativeWord>znosić; wytrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ahorco ahorcas ahorca ahorcamos ahorcáis ahorcan</foreignWord>
+        <nativeWord>wieszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ahorro ahorras ahorra ahorramos ahorráis ahorran</foreignWord>
+        <nativeWord>oszczędzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>alcanzo alcanzas alcanza alcanzamos alcanzáis alcanzan</foreignWord>
+        <nativeWord>osiągać; chwytać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>alegro alegras alegra alegramos alegráis alegran</foreignWord>
+        <nativeWord>rozweselać; cieszyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me alegro te alegras se alegra nos alegramos os alegráis se alegran</foreignWord>
+        <nativeWord>cieszyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aliento alientas alienta alentamos alentáis alientan</foreignWord>
+        <nativeWord>podnosić na duchu; inspirować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>alivio alivias alivia aliviamos aliviáis alivian</foreignWord>
+        <nativeWord>ułatwiać; ulżyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>almuerzo almuerzas almuerza almorzamos almorzáis almuerzan</foreignWord>
+        <nativeWord>jeść lekki posiłek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>alquilo alquilas alquila alquilamos alquiláis alquilan</foreignWord>
+        <nativeWord>wynajmować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>amanezco amaneces amanece amanecemos amanecéis amanecen</foreignWord>
+        <nativeWord>budzić; uświadomić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>amo amas ama amamos amáis aman</foreignWord>
+        <nativeWord>miłować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>amenazo amenazas amenaza amenazamos amenazáis amenazan</foreignWord>
+        <nativeWord>zagrażać; straszyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ando andas anda andamos andáis andan</foreignWord>
+        <nativeWord>spacerować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>anhelo anhelas anhela anhelamos anheláis anhelan</foreignWord>
+        <nativeWord>tęsknić; pragnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>anuncio anuncias anuncia anunciamos anunciáis anuncian</foreignWord>
+        <nativeWord>ogłaszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>apago apagas apaga apagamos apagáis apagan</foreignWord>
+        <nativeWord>wyłączać; znikać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aparezco apareces aparece aparecemos aparecéis aparecen</foreignWord>
+        <nativeWord>pokazywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aplaudo aplaudes aplaude aplaudimos aplaudís aplauden</foreignWord>
+        <nativeWord>klaskać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aplico aplicas aplica aplicamos aplicáis aplican</foreignWord>
+        <nativeWord>aplikować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>apuesto apuestas apuesta apostamos apostáis apuestan</foreignWord>
+        <nativeWord>zakładać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>apoyo apoyas apoya apoyamos apoyáis apoyan</foreignWord>
+        <nativeWord>wspierać; podtrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aprecio aprecias aprecia apreciamos apreciáis aprecian</foreignWord>
+        <nativeWord>cenić; wyceniać; szacować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aprendo aprendes aprende aprendemos aprendéis aprenden</foreignWord>
+        <nativeWord>uczyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aprieto aprietas aprieta apretamos apretáis aprietan</foreignWord>
+        <nativeWord>ścieśniać; ściskać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>apruebo apruebas aprueba aprobamos aprobáis aprueban</foreignWord>
+        <nativeWord>udowadniać; zdawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>arreglo arreglas arregla arreglamos arregláis arreglan</foreignWord>
+        <nativeWord>ustawiać; naprawiać; porządkować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me arrepiento te arrepientes se arrepiente nos arrepentimos os arrepentís se arrepienten</foreignWord>
+        <nativeWord>zmienić się; pokutować; żałować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>arrojo arrojas arroja arrojamos arrojáis arrojan</foreignWord>
+        <nativeWord>rzucać; ciskać; podrzucać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>asisto asistes asiste asistimos asistís asisten</foreignWord>
+        <nativeWord>przystępować; uczęszczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>asocio asocias asocia asociamos asociáis asocian</foreignWord>
+        <nativeWord>łączyć; powiązywać; grupować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aspiro aspiras aspira aspiramos aspiráis aspiran</foreignWord>
+        <nativeWord>oddychać; inhalować; aspirować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>asusto asustas asusta asustamos asustáis asustan</foreignWord>
+        <nativeWord>straszyć; przerażać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me asusto te asustas se asusta nos asustamos os asustáis se asustan</foreignWord>
+        <nativeWord>przerażać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ataco atacas ataca atacamos atacáis atacan</foreignWord>
+        <nativeWord>atakować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>atiendo atiendes atiende atendemos atendéis atienden</foreignWord>
+        <nativeWord>zwracać uwagę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>atraigo atraes atrae atraemos atraéis atraen</foreignWord>
+        <nativeWord>pociągać; nęcić; kusić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>atravieso atraviesas atraviesa atravesamos atravesáis atraviesan</foreignWord>
+        <nativeWord>przechodzić; przekraczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me atrevo te atreves se atreve nos atrevemos os atrevéis se atreven</foreignWord>
+        <nativeWord>ośmielać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aumento aumentas aumenta aumentamos aumentáis aumentan</foreignWord>
+        <nativeWord>zwiększać; podnosić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>avanzo avanzas avanza avanzamos avanzáis avanzan</foreignWord>
+        <nativeWord>wgłębiać; wnikać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>averiguo averiguas averigua averiguamos averiguáis averiguan</foreignWord>
+        <nativeWord>odkrywać; odnajdywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aviso avisas avisa avisamos avisáis avisan</foreignWord>
+        <nativeWord>ostrzegać; informować; powiadamiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ayudo ayudas ayuda ayudamos ayudáis ayudan</foreignWord>
+        <nativeWord>pomagać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>añado añades añade añadimos añadís añaden</foreignWord>
+        <nativeWord>dodawać; zwiększać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bailo bailas baila bailamos bailáis bailan</foreignWord>
+        <nativeWord>tańczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bajo bajas baja bajamos bajáis bajan</foreignWord>
+        <nativeWord>zniżać; opadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>barro barres barre barremos barréis barren</foreignWord>
+        <nativeWord>zamiatać; zmiatać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bato bates bate batimos batís baten</foreignWord>
+        <nativeWord>uderzać; walić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bautizo bautizas bautiza bautizamos bautizáis bautizan</foreignWord>
+        <nativeWord>chrzcić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>baño bañas baña bañamos bañáis bañan</foreignWord>
+        <nativeWord>kąpać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me baño te bañas se baña nos bañamos os bañáis se bañan</foreignWord>
+        <nativeWord>kąpać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bebo bebes bebe bebemos bebéis beben</foreignWord>
+        <nativeWord>pić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bendigo bendices bendice bendecimos bendecís bendicen</foreignWord>
+        <nativeWord>błogosławić; prorokować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>beso besas besa besamos besáis besan</foreignWord>
+        <nativeWord>całować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bordo bordas borda bordamos bordáis bordan</foreignWord>
+        <nativeWord>haftować; wyszywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>borro borras borra borramos borráis borran</foreignWord>
+        <nativeWord>kasować; usuwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>brillo brillas brilla brillamos brilláis brillan</foreignWord>
+        <nativeWord>świecić; błyszczeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>brindo brindas brinda brindamos brindáis brindan</foreignWord>
+        <nativeWord>wznosić toast; ofiarować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me bronceo te bronceas se broncea nos bronceamos os bronceáis se broncean</foreignWord>
+        <nativeWord>opalać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>buceo buceas bucea buceamos buceáis bucean</foreignWord>
+        <nativeWord>farbować; barwić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>burlo burlas burla burlamos burláis burlan</foreignWord>
+        <nativeWord>oszukiwać; zwodzić; wykiwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me burlo te burlas se burla nos burlamos os burláis se burlan</foreignWord>
+        <nativeWord>imitować (się); udawać; wykpiwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>busco buscas busca buscamos buscáis buscan</foreignWord>
+        <nativeWord>poszukiwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>quepo cabes cabe cabemos cabéis caben</foreignWord>
+        <nativeWord>pasować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>caigo caes cae caemos caéis caen</foreignWord>
+        <nativeWord>upadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>calculo calculas calcula calculamos calculáis calculan</foreignWord>
+        <nativeWord>obliczać; kalkulować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>caliento calientas calienta calentamos calentáis calientan</foreignWord>
+        <nativeWord>grzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me caliento te calientas se calienta nos calentamos os calentáis se calientan</foreignWord>
+        <nativeWord>ogrzać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>callo callas calla callamos calláis callan</foreignWord>
+        <nativeWord>przemilczeć; uciszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me callo te callas se calla nos callamos os calláis se callan</foreignWord>
+        <nativeWord>uciszyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>calmo calmas calma calmamos calmáis calman</foreignWord>
+        <nativeWord>uspokoić; uciszyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me calmo te calmas se calma nos calmamos os calmáis se calman</foreignWord>
+        <nativeWord>uspokoić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cambio cambias cambia cambiamos cambiáis cambian</foreignWord>
+        <nativeWord>zamienić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>camino caminas camina caminamos camináis caminan</foreignWord>
+        <nativeWord>iść; wędrować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cancelo cancelas cancela cancelamos canceláis cancelan</foreignWord>
+        <nativeWord>anulować; wykreślić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>canso cansas cansa cansamos cansáis cansan</foreignWord>
+        <nativeWord>męczyć; fatygować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me canso te cansas se cansa nos cansamos os cansáis se cansan</foreignWord>
+        <nativeWord>męczyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>canto cantas canta cantamos cantáis cantan</foreignWord>
+        <nativeWord>śpiewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>caracterizo caracterizas caracteriza caracterizamos caracterizáis caracterizan</foreignWord>
+        <nativeWord>charakteryzować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cargo cargas carga cargamos cargáis cargan</foreignWord>
+        <nativeWord>dźwigać; obciążać; ładować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>caso casas casa casamos casáis casan</foreignWord>
+        <nativeWord>żenić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me caso te casas se casa nos casamos os casáis se casan</foreignWord>
+        <nativeWord>żenić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>castigo castigas castiga castigamos castigáis castigan</foreignWord>
+        <nativeWord>karać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>causo causas causa causamos causáis causan</foreignWord>
+        <nativeWord>powodować; tworzyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cazo cazas caza cazamos cazáis cazan</foreignWord>
+        <nativeWord>polować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>celebro celebras celebra celebramos celebráis celebran</foreignWord>
+        <nativeWord>celebrować; wychwalać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ceno cenas cena cenamos cenáis cenan</foreignWord>
+        <nativeWord>jeść kolację; jeść obiad</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>censuro censuras censura censuramos censuráis censuran</foreignWord>
+        <nativeWord>cenzurować; obwiniać; krytykować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cepillo cepillas cepilla cepillamos cepilláis cepillan</foreignWord>
+        <nativeWord>szczotkować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cierro cierras cierra cerramos cerráis cierran</foreignWord>
+        <nativeWord>zamykać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ceso cesas cesa cesamos cesáis cesan</foreignWord>
+        <nativeWord>zaprzestawać; zatrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>charlo charlas charla charlamos charláis charlan</foreignWord>
+        <nativeWord>gawędzić; rozmawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>chismeo chismeas chismea chismeamos chismeáis chismean</foreignWord>
+        <nativeWord>plotkować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>choco chocas choca chocamos chocáis chocan</foreignWord>
+        <nativeWord>szokować; zadziwiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>civilizo civilizas civiliza civilizamos civilizáis civilizan</foreignWord>
+        <nativeWord>cywilizować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clarifico clarificas clarifica clarificamos clarificáis clarifican</foreignWord>
+        <nativeWord>wyjaśniać; tłumaczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>clasifico clasificas clasifica clasificamos clasificáis clasifican</foreignWord>
+        <nativeWord>klasyfikować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cobro cobras cobra cobramos cobráis cobran</foreignWord>
+        <nativeWord>obciążać; zbierać; gromadzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cocino cocinas cocina cocinamos cocináis cocinan</foreignWord>
+        <nativeWord>gotować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cojo coges coge cogemos cogéis cogen</foreignWord>
+        <nativeWord>łapać; chytać; trzymać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cuelgo cuelgas cuelga colgamos colgáis cuelgan</foreignWord>
+        <nativeWord>wieszać; wisiec; zawieszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>coloco colocas coloca colocamos colocáis colocan</foreignWord>
+        <nativeWord>umieszczać; lokować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>colonizo colonizas coloniza colonizamos colonizáis colonizan</foreignWord>
+        <nativeWord>kolonizować; osiedlać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>combato combates combate combatimos combatís combaten</foreignWord>
+        <nativeWord>walczyć; atakować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>comienzo comienzas comienza comenzamos comenzáis comienzan</foreignWord>
+        <nativeWord>rozpoczynać; zaczynać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>como comes come comemos coméis comen</foreignWord>
+        <nativeWord>jeść</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>comparto compartes comparte compartimos compartís comparten</foreignWord>
+        <nativeWord>dzielić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>compito compites compite competimos competís compiten</foreignWord>
+        <nativeWord>rywalizować; współzawodniczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>compongo compones compone componemos componéis componen</foreignWord>
+        <nativeWord>komponować; składać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>compro compras compra compramos compráis compran</foreignWord>
+        <nativeWord>kupować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>comprendo comprendes comprende comprendemos comprendéis comprenden</foreignWord>
+        <nativeWord>rozumieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>comunico comunicas comunica comunicamos comunicáis comunican</foreignWord>
+        <nativeWord>komunikować; mówić; przekazywać; ogłaszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me comunico te comunicas se comunica nos comunicamos os comunicáis se comunican</foreignWord>
+        <nativeWord>komunikować się; być w kontakcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>condeno condenas condena condenamos condenáis condenan</foreignWord>
+        <nativeWord>skazywać; posądzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conduzco conduces conduce conducimos conducís conducen</foreignWord>
+        <nativeWord>jechać; prowadzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>confieso confiesas confiesa confesamos confesáis confiesan</foreignWord>
+        <nativeWord>zeznawać; wyznawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>confío confías confía confiamos confiáis confían</foreignWord>
+        <nativeWord>ufać; zaufać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>confirmo confirmas confirma confirmamos confirmáis confirman</foreignWord>
+        <nativeWord>potwierdzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>confisco confiscas confisca confiscamos confiscáis confiscan</foreignWord>
+        <nativeWord>konfiskować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conjugo conjugas conjuga conjugamos conjugáis conjugan</foreignWord>
+        <nativeWord>koniugować; odmieniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conozco conoces conoce conocemos conocéis conocen</foreignWord>
+        <nativeWord>znać; wiedzieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conquisto conquistas conquista conquistamos conquistáis conquistan</foreignWord>
+        <nativeWord>podbijać; zwyciężać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>consigo consigues consigue conseguimos conseguís consiguen</foreignWord>
+        <nativeWord>otrzymywać; uzyskiwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>consiento consientes consiente consentimos consentís consienten</foreignWord>
+        <nativeWord>zezwalać; zgadzać; tolerować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conservo conservas conserva conservamos conserváis conservan</foreignWord>
+        <nativeWord>zachowywać; konserwować; przechowywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>consisto consistes consiste consistimos consistís consisten</foreignWord>
+        <nativeWord>składać się z; być złożonym z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>constituyo constituyes constituye constituimos constituís constituyen</foreignWord>
+        <nativeWord>konstytuować; stanowić; tworzyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>construyo construyes construye construimos construís construyen</foreignWord>
+        <nativeWord>budować; konstruować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>consumo consumes consume consumimos consumís consumen</foreignWord>
+        <nativeWord>konsumować; spożywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>contamino contaminas contamina contaminamos contamináis contaminan</foreignWord>
+        <nativeWord>zanieczyszczać; niszczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cuento cuentas cuenta contamos contáis cuentan</foreignWord>
+        <nativeWord>liczyć; odnosić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>contengo contienes contiene contenemos contenéis contienen</foreignWord>
+        <nativeWord>zawierać; przechowywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>contesto contestas contesta contestamos contestáis contestan</foreignWord>
+        <nativeWord>odpowiadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>continúo continúas continúa continuamos continuáis continúan</foreignWord>
+        <nativeWord>kontynuować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>contribuyo contribuyes contribuye contribuimos contribuís contribuyen</foreignWord>
+        <nativeWord>przyczyniać się; wspierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>controlo controlas controla controlamos controláis controlan</foreignWord>
+        <nativeWord>kontrolować; nadzorować; sprawdzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>convenzo convences convence convencemos convencéis convencen</foreignWord>
+        <nativeWord>przekonywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>convengo convienes conviene convenimos convenís convienen</foreignWord>
+        <nativeWord>zgadzać; pasować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>converso conversas conversa conversamos conversáis conversan</foreignWord>
+        <nativeWord>konwersować; rozmawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>convierto conviertes convierte convertimos convertís convierten</foreignWord>
+        <nativeWord>nawracać; przeliczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>convido convidas convida convidamos convidáis convidan</foreignWord>
+        <nativeWord>zapraszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>copio copias copia copiamos copiáis copian</foreignWord>
+        <nativeWord>kopiować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>corrijo corriges corrige corregimos corregís corrigen</foreignWord>
+        <nativeWord>poprawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>corro corres corre corremos corréis corren</foreignWord>
+        <nativeWord>biegać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>corto cortas corta cortamos cortáis cortan</foreignWord>
+        <nativeWord>ciąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>coso coses cose cosemos coséis cosen</foreignWord>
+        <nativeWord>szyć; zszywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cuesto cuestas cuesta costamos costáis cuestan</foreignWord>
+        <nativeWord>kosztować; mieć wartość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>creo creas crea creamos creáis crean</foreignWord>
+        <nativeWord>tworzyć; robić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crezco creces crece crecemos crecéis crecen</foreignWord>
+        <nativeWord>rosnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>creo crees cree creemos creéis creen</foreignWord>
+        <nativeWord>wierzyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crío crías cría criamos criáis crían</foreignWord>
+        <nativeWord>wychowywać; hodować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me crío te crías se cría nos criamos os criáis se crían</foreignWord>
+        <nativeWord>dorastać (się); być wychowywanym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>critico criticas critica criticamos criticáis critican</foreignWord>
+        <nativeWord>krytykować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>crucifico crucificas crucifica crucificamos crucificáis crucifican</foreignWord>
+        <nativeWord>ukrzyżować; krzyżować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cruzo cruzas cruza cruzamos cruzáis cruzan</foreignWord>
+        <nativeWord>przecinać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cubro cubres cubre cubrimos cubrís cubren</foreignWord>
+        <nativeWord>przykrywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cuido cuidas cuida cuidamos cuidáis cuidan</foreignWord>
+        <nativeWord>doglądać; troszczyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>culpo culpas culpa culpamos culpáis culpan</foreignWord>
+        <nativeWord>winić; podejrzewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cultivo cultivas cultiva cultivamos cultiváis cultivan</foreignWord>
+        <nativeWord>kultywować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cumplo cumples cumple cumplimos cumplís cumplen</foreignWord>
+        <nativeWord>wypełniać; osiągać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>curo curas cura curamos curáis curan</foreignWord>
+        <nativeWord>leczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doy das da damos dais dan</foreignWord>
+        <nativeWord>dać; dawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>debo debes debe debemos debéis deben</foreignWord>
+        <nativeWord>musieć; być winnym; powinienem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decido decides decide decidimos decidís deciden</foreignWord>
+        <nativeWord>decydować; ustalać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me decido te decides se decide nos decidimos os decidís se deciden</foreignWord>
+        <nativeWord>decydować się; ustalać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>digo dices dice decimos decís dicen</foreignWord>
+        <nativeWord>powiedzieć; mówić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>declaro declaras declara declaramos declaráis declaran</foreignWord>
+        <nativeWord>deklarować; oferować; licytować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decoro decoras decora decoramos decoráis decoran</foreignWord>
+        <nativeWord>dekorować; zdobić; przystrajać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dedico dedicas dedica dedicamos dedicáis dedican</foreignWord>
+        <nativeWord>dedykować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me dedico te dedicas se dedica nos dedicamos os dedicáis se dedican</foreignWord>
+        <nativeWord>oddawać się; poświęcać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>defiendo defiendes defiende defendemos defendéis defienden</foreignWord>
+        <nativeWord>bronić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dejo dejas deja dejamos dejáis dejan</foreignWord>
+        <nativeWord>opuszczać; zostawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>demuestro demuestras demuestra demostramos demostráis demuestran</foreignWord>
+        <nativeWord>demonstrować; pokazywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dependo dependes depende dependemos dependéis dependen</foreignWord>
+        <nativeWord>zależeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deposito depositas deposita depositamos depositáis depositan</foreignWord>
+        <nativeWord>deponować; umieszczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deprimo deprimes deprime deprimimos deprimís deprimen</foreignWord>
+        <nativeWord>deprymować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>derrito derrites derrite derretimos derretís derriten</foreignWord>
+        <nativeWord>topnieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desagrado desagradas desagrada desagradamos desagradáis desagradan</foreignWord>
+        <nativeWord>urażać; drażnić; dotykać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desagradezco desagradeces desagradece desagradecemos desagradecéis desagradecen</foreignWord>
+        <nativeWord>nie doceniać; być niewdzięcznym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desaparezco desapareces desaparece desaparecemos desaparecéis desaparecen</foreignWord>
+        <nativeWord>znikać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desarrollo desarrollas desarrolla desarrollamos desarrolláis desarrollan</foreignWord>
+        <nativeWord>wytwarzać; rozszerzać; rozwijać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me desarrollo te desarrollas se desarrolla nos desarrollamos os desarrolláis se desarrollan</foreignWord>
+        <nativeWord>rozwijać się; ewoluować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desayuno desayunas desayuna desayunamos desayunáis desayunan</foreignWord>
+        <nativeWord>jeść śniadanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>descanso descansas descansa descansamos descansáis descansan</foreignWord>
+        <nativeWord>odpoczywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desciendo desciendes desciende descendemos descendéis descienden</foreignWord>
+        <nativeWord>opadać; zniżać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>describo describes describe describimos describís describen</foreignWord>
+        <nativeWord>opisywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>descubro descubres descubre descubrimos descubrís descubren</foreignWord>
+        <nativeWord>odkrywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deseo deseas desea deseamos deseáis desean</foreignWord>
+        <nativeWord>pożądać; pragnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>deshago deshaces deshace deshacemos deshacéis deshacen</foreignWord>
+        <nativeWord>cofać czynność; odwrócić czynność; rujnować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>despido despides despide despedimos despedís despiden</foreignWord>
+        <nativeWord>żegnać; zwalniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>despierto despiertas despierta despertamos despertáis despiertan</foreignWord>
+        <nativeWord>budzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me despierto te despiertas se despierta nos despertamos os despertáis se despiertan</foreignWord>
+        <nativeWord>budzić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>destruyo destruyes destruye destruimos destruís destruyen</foreignWord>
+        <nativeWord>niszczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detengo detienes detiene detenemos detenéis detienen</foreignWord>
+        <nativeWord>zatrzymywać; wstrzymać; aresztować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me detengo te detienes se detiene nos detenemos os detenéis se detienen</foreignWord>
+        <nativeWord>zatrzymać się; nie spieszyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>detesto detestas detesta detestamos detestáis detestan</foreignWord>
+        <nativeWord>nie cierpieć; nienawidzieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>devuelvo devuelves devuelve devolvemos devolvéis devuelven</foreignWord>
+        <nativeWord>zwracać; oddać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>devoro devoras devora devoramos devoráis devoran</foreignWord>
+        <nativeWord>pochłaniać; połykać; pożerać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dibujo dibujas dibuja dibujamos dibujáis dibujan</foreignWord>
+        <nativeWord>rysować; kreślić; obrazować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dirijo diriges dirige dirigimos dirigís dirigen</foreignWord>
+        <nativeWord>skierowywać; kierować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diseño diseñas diseña diseñamos diseñáis diseñan</foreignWord>
+        <nativeWord>projektować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disfruto disfrutas disfruta disfrutamos disfrutáis disfrutan</foreignWord>
+        <nativeWord>cieszyć się; znajdować upodobanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disgusto disgustas disgusta disgustamos disgustáis disgustan</foreignWord>
+        <nativeWord>przeszkadzać; męczyć; degustować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disminuyo disminuyes disminuye disminuimos disminuís disminuyen</foreignWord>
+        <nativeWord>zanikać; maleć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distingo distingues distingue distinguimos distinguís distinguen</foreignWord>
+        <nativeWord>rozeznawać; rozpoznawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>distribuyo distribuyes distribuye distribuimos distribuís distribuyen</foreignWord>
+        <nativeWord>rozdawać; rozsyłać; dystrybuować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divierto diviertes divierte divertimos divertís divierten</foreignWord>
+        <nativeWord>rozbawiać; zabawiać; radować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me divierto te diviertes se divierte nos divertimos os divertís se divierten</foreignWord>
+        <nativeWord>radować się; mieć radość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divorcio divorcias divorcia divorciamos divorciáis divorcian</foreignWord>
+        <nativeWord>rozwodzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me divorcio te divorcias se divorcia nos divorciamos os divorciáis se divorcian</foreignWord>
+        <nativeWord>rozwodzić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>doblo doblas dobla doblamos dobláis doblan</foreignWord>
+        <nativeWord>podwajać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duelo dueles duele dolemos doléis duelen</foreignWord>
+        <nativeWord>boleć; dolegać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duermo duermes duerme dormimos dormís duermen</foreignWord>
+        <nativeWord>spać; pójść spać; nocować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me duermo te duermes se duerme nos dormimos os dormís se duermen</foreignWord>
+        <nativeWord>zasypiać (się); być ospałym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ducho duchas ducha duchamos ducháis duchan</foreignWord>
+        <nativeWord>brać prysznic; brać tusz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me ducho te duchas se ducha nos duchamos os ducháis se duchan</foreignWord>
+        <nativeWord>brać prysznic (się); brać tusz (się)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dudo dudas duda dudamos dudáis dudan</foreignWord>
+        <nativeWord>wątpić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duro duras dura duramos duráis duran</foreignWord>
+        <nativeWord>trwać; kontynuować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>echo echas echa echamos echáis echan</foreignWord>
+        <nativeWord>rzucać; podrzucać; ciskać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me echo te echas se echa nos echamos os echáis se echan</foreignWord>
+        <nativeWord>rzucać się; ciskać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>educo educas educa educamos educáis educan</foreignWord>
+        <nativeWord>edukować; uczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>efectúo efectúas efectúa efectuamos efectuáis efectúan</foreignWord>
+        <nativeWord>oddziaływać; wywoływać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ejerzo ejerces ejerce ejercemos ejercéis ejercen</foreignWord>
+        <nativeWord>ćwiczyć; sprawować; prowadzić; dzierżyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>elijo eliges elige elegimos elegís eligen</foreignWord>
+        <nativeWord>wybierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>elimino eliminas elimina eliminamos elimináis eliminan</foreignWord>
+        <nativeWord>eliminować; usuwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>emborracho emborrachas emborracha emborrachamos emborracháis emborrachan</foreignWord>
+        <nativeWord>upijać; odurzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me emborracho te emborrachas se emborracha nos emborrachamos os emborracháis se emborrachan</foreignWord>
+        <nativeWord>upijać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>emigro emigras emigra emigramos emigráis emigran</foreignWord>
+        <nativeWord>emigrować; migrować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>empiezo empiezas empieza empezamos empezáis empiezan</foreignWord>
+        <nativeWord>zaczynać; startować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>empleo empleas emplea empleamos empleáis emplean</foreignWord>
+        <nativeWord>zatrudniać; używać; stosować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enamoro enamoras enamora enamoramos enamoráis enamoran</foreignWord>
+        <nativeWord>rozmiłować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me enamoro te enamoras se enamora nos enamoramos os enamoráis se enamoran</foreignWord>
+        <nativeWord>rozmiłować się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>encanto encantas encanta encantamos encantáis encantan</foreignWord>
+        <nativeWord>zachwycać, rozkoszować; oczarowywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enciendo enciendes enciende encendemos encendéis encienden</foreignWord>
+        <nativeWord>palić; zapalać; włączać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>encuentro encuentras encuentra encontramos encontráis encuentran</foreignWord>
+        <nativeWord>wyszukiwać; natrafiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enfado enfadas enfada enfadamos enfadáis enfadan</foreignWord>
+        <nativeWord>gniewać; irytować; wkurzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me enfado te enfadas se enfada nos enfadamos os enfadáis se enfadan</foreignWord>
+        <nativeWord>gniewać się; irytować się; wkurzać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enfermo enfermas enferma enfermamos enfermáis enferman</foreignWord>
+        <nativeWord>zarażać; infekować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me enfermo te enfermas se enferma nos enfermamos os enfermáis se enferman</foreignWord>
+        <nativeWord>zarażać się; infekować się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enflaquezco enflaqueces enflaquece enflaquecemos enflaquecéis enflaquecen</foreignWord>
+        <nativeWord>wycieńczać; słabnąć; wyczerpywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me enflaquezco te enflaqueces se enflaquece nos enflaquecemos os enflaquecéis se enflaquecen</foreignWord>
+        <nativeWord>wycieńczać się; wyczerpywać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>engaño engañas engaña engañamos engañáis engañan</foreignWord>
+        <nativeWord>oszukiwać; szwindlować; mataczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enojo enojas enoja enojamos enojáis enojan</foreignWord>
+        <nativeWord>drażnić; denerwować; niepokoić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me enojo te enojas se enoja nos enojamos os enojáis se enojan</foreignWord>
+        <nativeWord>drażnić się; denerwować się; niepokoić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enriquezco enriqueces enriquece enriquecemos enriquecéis enriquecen</foreignWord>
+        <nativeWord>bogacić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me enriquezco te enriqueces se enriquece nos enriquecemos os enriquecéis se enriquecen</foreignWord>
+        <nativeWord>bogacić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enseño enseñas enseña enseñamos enseñáis enseñan</foreignWord>
+        <nativeWord>instruować; uczyć; trenować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ensucio ensucias ensucia ensuciamos ensuciáis ensucian</foreignWord>
+        <nativeWord>brudzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>entiendo entiendes entiende entendemos entendéis entienden</foreignWord>
+        <nativeWord>rozumieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me entero te enteras se entera nos enteramos os enteráis se enteran</foreignWord>
+        <nativeWord>dowiadywać się; uczyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>entro entras entra entramos entráis entran</foreignWord>
+        <nativeWord>wchodzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>entrego entregas entrega entregamos entregáis entregan</foreignWord>
+        <nativeWord>dostarczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>entretengo entretienes entretiene entretenemos entretenéis entretienen</foreignWord>
+        <nativeWord>zabawiać; bawić; gościć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>entrevisto entrevistas entrevista entrevistamos entrevistáis entrevistan</foreignWord>
+        <nativeWord>przeprowadzać wywiad; przeprowadzać kwalifikację; wypytywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>entusiasmo entusiasmas entusiasma entusiasmamos entusiasmáis entusiasman</foreignWord>
+        <nativeWord>ekscytować; zachwycać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me entusiasmo te entusiasmas se entusiasma nos entusiasmamos os entusiasmáis se entusiasman</foreignWord>
+        <nativeWord>ekscytować się; zachwycać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>envejezco envejeces envejece envejecemos envejecéis envejecen</foreignWord>
+        <nativeWord>starzeć; postarzeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me envejezco te envejeces se envejece nos envejecemos os envejecéis se envejecen</foreignWord>
+        <nativeWord>starzeć się; postarzeć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>envío envías envía enviamos enviáis envían</foreignWord>
+        <nativeWord>wysyłać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>equivoco equivocas equivoca equivocamos equivocáis equivocan</foreignWord>
+        <nativeWord>mylić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me equivoco te equivocas se equivoca nos equivocamos os equivocáis se equivocan</foreignWord>
+        <nativeWord>mylić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>yerro yerras yerra erramos erráis yerran</foreignWord>
+        <nativeWord>błądzić; popełniać błędy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>escojo escoges escoge escogemos escogéis escogen</foreignWord>
+        <nativeWord>wybierać; dobierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>escondo escondes esconde escondemos escondéis esconden</foreignWord>
+        <nativeWord>ukrywać; zatajać; skrywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me escondo te escondes se esconde nos escondemos os escondéis se esconden</foreignWord>
+        <nativeWord>ukrywać się; być ukrytym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>escribo escribes escribe escribimos escribís escriben</foreignWord>
+        <nativeWord>pisać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>escucho escuchas escucha escuchamos escucháis escuchan</foreignWord>
+        <nativeWord>słuchać; słyszeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>espero esperas espera esperamos esperáis esperan</foreignWord>
+        <nativeWord>mieć nadzieję; ufać; spodziewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>esquío esquías esquía esquiamos esquiáis esquían</foreignWord>
+        <nativeWord>jeździć na nartach</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>establezco estableces establece establecemos establecéis establecen</foreignWord>
+        <nativeWord>zakładać; ustanawiać; nawiązywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>estoy estás está estamos estáis están</foreignWord>
+        <nativeWord>być; mieć stan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>estimo estimas estima estimamos estimáis estiman</foreignWord>
+        <nativeWord>szanować; szacować; uznawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>estudio estudias estudia estudiamos estudiáis estudian</foreignWord>
+        <nativeWord>studiować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>evacuo evacuas evacua evacuamos evacuáis evacuan</foreignWord>
+        <nativeWord>ewakuować; wypróżniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>evito evitas evita evitamos evitáis evitan</foreignWord>
+        <nativeWord>omijać; unikać; przeciwdziałać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>exhibo exhibes exhibe exhibimos exhibís exhiben</foreignWord>
+        <nativeWord>pokazywać; wystawiać; prezentować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>exijo exiges exige exigimos exigís exigen</foreignWord>
+        <nativeWord>żądać; wymagać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>explico explicas explica explicamos explicáis explican</foreignWord>
+        <nativeWord>tłumaczyć; wykładać; objaśniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>exploro exploras explora exploramos exploráis exploran</foreignWord>
+        <nativeWord>eksplorować; odkrywać; badać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>exploto explotas explota explotamos explotáis explotan</foreignWord>
+        <nativeWord>eksplodować; eksploatować; wydobywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>expongo expones expone exponemos exponéis exponen</foreignWord>
+        <nativeWord>eksponować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>exporto exportas exporta exportamos exportáis exportan</foreignWord>
+        <nativeWord>eksportować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>expreso expresas expresa expresamos expresáis expresan</foreignWord>
+        <nativeWord>wyrażać; wypowiadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>extiendo extiendes extiende extendemos extendéis extienden</foreignWord>
+        <nativeWord>rozwijać; szerzyć; rozpowszechniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>extingo extingues extingue extinguimos extinguís extinguen</foreignWord>
+        <nativeWord>gasić; tłumić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fabrico fabricas fabrica fabricamos fabricáis fabrican</foreignWord>
+        <nativeWord>produkować; wytwarzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>falto faltas falta faltamos faltáis faltan</foreignWord>
+        <nativeWord>brakować; być nieobecnym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fascino fascinas fascina fascinamos fascináis fascinan</foreignWord>
+        <nativeWord>fascynować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>felicito felicitas felicita felicitamos felicitáis felicitan</foreignWord>
+        <nativeWord>gratulować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fijo fijas fija fijamos fijáis fijan</foreignWord>
+        <nativeWord>zamocowywać; przyklejać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>finjo finges finge fingimos fingís fingen</foreignWord>
+        <nativeWord>fingować; udawać; pozorować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>firmo firmas firma firmamos firmáis firman</foreignWord>
+        <nativeWord>podpisywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>florezco floreces florece florecemos florecéis florecen</foreignWord>
+        <nativeWord>kwitnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>formo formas forma formamos formáis forman</foreignWord>
+        <nativeWord>formować; kształtować; wychowywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fortalezco fortaleces fortalece fortalecemos fortalecéis fortalecen</foreignWord>
+        <nativeWord>fortyfikować; wzmacniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>frío fríes fríe freímos freís fríen</foreignWord>
+        <nativeWord>smażyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fumo fumas fuma fumamos fumáis fuman</foreignWord>
+        <nativeWord>palić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>funciono funcionas funciona funcionamos funcionáis funcionan</foreignWord>
+        <nativeWord>funkcjonować; chodzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gano ganas gana ganamos ganáis ganan</foreignWord>
+        <nativeWord>wygrywać; uzyskiwać; zarabiać; zdobywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gasto gastas gasta gastamos gastáis gastan</foreignWord>
+        <nativeWord>wydawać; zużywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>generalizo generalizas generaliza generalizamos generalizáis generalizan</foreignWord>
+        <nativeWord>rozpowszechniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>glorifico glorificas glorifica glorificamos glorificáis glorifican</foreignWord>
+        <nativeWord>sławić; chlubić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gobierno gobiernas gobierna gobernamos gobernáis gobiernan</foreignWord>
+        <nativeWord>rządzić; sterować; kierować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gradúo gradúas gradúa graduamos graduáis gradúan</foreignWord>
+        <nativeWord>stopniować; skalować; nadawać stopień</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me gradúo te gradúas se gradúa nos graduamos os graduáis se gradúan</foreignWord>
+        <nativeWord>uzyskiwać stopień naukowy (się)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grito gritas grita gritamos gritáis gritan</foreignWord>
+        <nativeWord>krzyczeć; nakrzyczeć; wygwizdywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gruño gruñes gruñe gruñimos gruñís gruñen</foreignWord>
+        <nativeWord>chrząkać; warczeć; mruczeć; skrzypieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>guardo guardas guarda guardamos guardáis guardan</foreignWord>
+        <nativeWord>pilnować; strzec; zabezpieczać; zachowywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>guío guías guía guiamos guiáis guían</foreignWord>
+        <nativeWord>prowadzić; kierować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gusto gustas gusta gustamos gustáis gustan</foreignWord>
+        <nativeWord>lubić; podobać; smakować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>he has ha hemos habéis han</foreignWord>
+        <nativeWord>mieć; mieć miejsce; wydarzać się; znajdować się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hablo hablas habla hablamos habláis hablan</foreignWord>
+        <nativeWord>mówić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hago haces hace hacemos hacéis hacen</foreignWord>
+        <nativeWord>robić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hallo hallas halla hallamos halláis hallan</foreignWord>
+        <nativeWord>znaleźć; wynaleźć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me hallo te hallas se halla nos hallamos os halláis se hallan</foreignWord>
+        <nativeWord>znajdować się; odnajdywać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hielo hielas hiela helamos heláis hielan</foreignWord>
+        <nativeWord>mrozić; chłodzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>heredo heredas hereda heredamos heredáis heredan</foreignWord>
+        <nativeWord>dziedziczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hiero hieres hiere herimos herís hieren</foreignWord>
+        <nativeWord>ranić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hiervo hierves hierve hervimos hervís hierven</foreignWord>
+        <nativeWord>wrzeć; gotować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>huyo huyes huye huimos huís huyen</foreignWord>
+        <nativeWord>uciekać; zmykać; oddalać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ilustro ilustras ilustra ilustramos ilustráis ilustran</foreignWord>
+        <nativeWord>ilustrować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>importo importas importa importamos importáis importan</foreignWord>
+        <nativeWord>importować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>imprimo imprimes imprime imprimimos imprimís imprimen</foreignWord>
+        <nativeWord>drukować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>incluyo incluyes incluye incluimos incluís incluyen</foreignWord>
+        <nativeWord>zawierać; włączać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>indico indicas indica indicamos indicáis indican</foreignWord>
+        <nativeWord>wskazywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>induzco induces induce inducimos inducís inducen</foreignWord>
+        <nativeWord>wnioskować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>influyo influyes influye influimos influís influyen</foreignWord>
+        <nativeWord>wpływać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>informo informas informa informamos informáis informan</foreignWord>
+        <nativeWord>informować; obwieszczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>inicio inicias inicia iniciamos iniciáis inician</foreignWord>
+        <nativeWord>zaczynać; wtajemniczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>inmigro inmigras inmigra inmigramos inmigráis inmigran</foreignWord>
+        <nativeWord>imigrować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>insisto insistes insiste insistimos insistís insisten</foreignWord>
+        <nativeWord>nalegać; żądać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>instalo instalas instala instalamos instaláis instalan</foreignWord>
+        <nativeWord>instalować; podłączać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>insulto insultas insulta insultamos insultáis insultan</foreignWord>
+        <nativeWord>znieważyć; zwymyślać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>intento intentas intenta intentamos intentáis intentan</foreignWord>
+        <nativeWord>próbować; zamierzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>intereso interesas interesa interesamos interesáis interesan</foreignWord>
+        <nativeWord>interesować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>interpreto interpretas interpreta interpretamos interpretáis interpretan</foreignWord>
+        <nativeWord>interpretować; tłumaczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>introduzco introduces introduce introducimos introducís introducen</foreignWord>
+        <nativeWord>wprowadzać; umieszczać; wrzucać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>invado invades invade invadimos invadís invaden</foreignWord>
+        <nativeWord>najeżdżać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>invento inventas inventa inventamos inventáis inventan</foreignWord>
+        <nativeWord>wynaleźć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>invierto inviertes invierte invertimos invertís invierten</foreignWord>
+        <nativeWord>inwestować; lokować; odwracać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>investigo investigas investiga investigamos investigáis investigan</foreignWord>
+        <nativeWord>dochodzić; wnikać; badać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>invito invitas invita invitamos invitáis invitan</foreignWord>
+        <nativeWord>zapraszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>invoco invocas invoca invocamos invocáis invocan</foreignWord>
+        <nativeWord>wzywać; wywoływać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>voy vas va vamos vais van</foreignWord>
+        <nativeWord>iść</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me voy te vas se va nos vamos os vais se van</foreignWord>
+        <nativeWord>odchodzić (się); opuszczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me jacto te jactas se jacta nos jactamos os jactáis se jactan</foreignWord>
+        <nativeWord>chełpić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>juego juegas juega jugamos jugáis juegan</foreignWord>
+        <nativeWord>grać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>junto juntas junta juntamos juntáis juntan</foreignWord>
+        <nativeWord>zbliżać; łączyć; jednoczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me junto te juntas se junta nos juntamos os juntáis se juntan</foreignWord>
+        <nativeWord>zbliżać się; łączyć się; jednoczyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>juro juras jura juramos juráis juran</foreignWord>
+        <nativeWord>przysięgać; przeklinać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ladro ladras ladra ladramos ladráis ladran</foreignWord>
+        <nativeWord>szczekać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lamento lamentas lamenta lamentamos lamentáis lamentan</foreignWord>
+        <nativeWord>opłakiwać; rozpaczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lanzo lanzas lanza lanzamos lanzáis lanzan</foreignWord>
+        <nativeWord>rzucać; wprowadzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lastimo lastimas lastima lastimamos lastimáis lastiman</foreignWord>
+        <nativeWord>ranić; obrażać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lavo lavas lava lavamos laváis lavan</foreignWord>
+        <nativeWord>myć; zmywać; prać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me lavo te lavas se lava nos lavamos os laváis se lavan</foreignWord>
+        <nativeWord>myć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>leo lees lee leemos leéis leen</foreignWord>
+        <nativeWord>czytać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>legalizo legalizas legaliza legalizamos legalizáis legalizan</foreignWord>
+        <nativeWord>legalizować; poświadczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>levanto levantas levanta levantamos levantáis levantan</foreignWord>
+        <nativeWord>podnosić; budzić; wznosić; uchylać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me levanto te levantas se levanta nos levantamos os levantáis se levantan</foreignWord>
+        <nativeWord>podnosić się; wstawać; burzyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>limpio limpias limpia limpiamos limpiáis limpian</foreignWord>
+        <nativeWord>sprzątać; czyścić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>llamo llamas llama llamamos llamáis llaman</foreignWord>
+        <nativeWord>wołać; nazywać; wzywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me llamo te llamas se llama nos llamamos os llamáis se llaman</foreignWord>
+        <nativeWord>nazywać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>llego llegas llega llegamos llegáis llegan</foreignWord>
+        <nativeWord>przyjechać; dostać; dotrwać; dosięgać; wystarczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lleno llenas llena llenamos llenáis llenan</foreignWord>
+        <nativeWord>wypełniać; najadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>llevo llevas lleva llevamos lleváis llevan</foreignWord>
+        <nativeWord>nieść; podwozić; zabierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lloro lloras llora lloramos lloráis lloran</foreignWord>
+        <nativeWord>płakać; opłakiwać; lamentować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>llueve</foreignWord>
+        <nativeWord>padać (deszcz)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>logro logras logra logramos lográis logran</foreignWord>
+        <nativeWord>osiągać; zdobyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lucho luchas lucha luchamos lucháis luchan</foreignWord>
+        <nativeWord>walczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>maduro maduras madura maduramos maduráis maduran</foreignWord>
+        <nativeWord>dojrzewać; rozważać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mando mandas manda mandamos mandáis mandan</foreignWord>
+        <nativeWord>kazać; nakazać; zarządzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>manejo manejas maneja manejamos manejáis manejan</foreignWord>
+        <nativeWord>operować; obsługiwać; posługiwać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mantengo mantienes mantiene mantenemos mantenéis mantienen</foreignWord>
+        <nativeWord>utrzymywać; zachowywać; podtrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>maquillo maquillas maquilla maquillamos maquilláis maquillan</foreignWord>
+        <nativeWord>robić makijaż; szminkować; maskować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me maquillo te maquillas se maquilla nos maquillamos os maquilláis se maquillan</foreignWord>
+        <nativeWord>robić sobie makijaż (się); szminkować się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>marco marcas marca marcamos marcáis marcan</foreignWord>
+        <nativeWord>znakować; etykietować; wybijać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mastico masticas mastica masticamos masticáis mastican</foreignWord>
+        <nativeWord>żuć; przeżuwać; przemyśliwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mato matas mata matamos matáis matan</foreignWord>
+        <nativeWord>zabijać; zarzynać; likwidować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>matriculo matriculas matricula matriculamos matriculáis matriculan</foreignWord>
+        <nativeWord>zarejestrować; zapisać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me matriculo te matriculas se matricula nos matriculamos os matriculáis se matriculan</foreignWord>
+        <nativeWord>zapisać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mido mides mide medimos medís miden</foreignWord>
+        <nativeWord>mierzyć; szacować; ważyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>miento mientes miente mentimos mentís mienten</foreignWord>
+        <nativeWord>kłamać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>merezco mereces merece merecemos merecéis merecen</foreignWord>
+        <nativeWord>zasługiwać; zasłużyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>meriendo meriendas merienda merendamos merendáis meriendan</foreignWord>
+        <nativeWord>jeść podwieczorek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>meto metes mete metemos metéis meten</foreignWord>
+        <nativeWord>wstawiać; wkładać; lokować; wciskać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mezclo mezclas mezcla mezclamos mezcláis mezclan</foreignWord>
+        <nativeWord>mieszać; pomieszać; pomylić; wplątać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>miro miras mira miramos miráis miran</foreignWord>
+        <nativeWord>patrzeć; obserwować; przeglądać; uważać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>modifico modificas modifica modificamos modificáis modifican</foreignWord>
+        <nativeWord>zmieniać; modyfikować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>molesto molestas molesta molestamos molestáis molestan</foreignWord>
+        <nativeWord>dokuczać; utrudniać; przeszkadzać; denerwować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>monto montas monta montamos montáis montan</foreignWord>
+        <nativeWord>wsiadać; jechać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>muero mueres muere morimos morís mueren</foreignWord>
+        <nativeWord>umierać; ginąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>muestro muestras muestra mostramos mostráis muestran</foreignWord>
+        <nativeWord>pokazywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>muevo mueves mueve movemos movéis mueven</foreignWord>
+        <nativeWord>poruszać; machać; potrząsać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me muevo te mueves se mueve nos movemos os movéis se mueven</foreignWord>
+        <nativeWord>ruszać się; zabierać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mudo mudas muda mudamos mudáis mudan</foreignWord>
+        <nativeWord>zmieniać; zmienić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me mudo te mudas se muda nos mudamos os mudáis se mudan</foreignWord>
+        <nativeWord>przeprowadzać się; przebrać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>nazco naces nace nacemos nacéis nacen</foreignWord>
+        <nativeWord>wstawać; urodzić się; wynikać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>nado nadas nada nadamos nadáis nadan</foreignWord>
+        <nativeWord>pływać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>navego navegas navega navegamos navegáis navegan</foreignWord>
+        <nativeWord>żeglować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>necesito necesitas necesita necesitamos necesitáis necesitan</foreignWord>
+        <nativeWord>potrzebować; musieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>niego niegas niega negamos negáis niegan</foreignWord>
+        <nativeWord>negować; zaprzeczać; odmawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me niego te niegas se niega nos negamos os negáis se niegan</foreignWord>
+        <nativeWord>wzbraniać się; wypierać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>negocio negocias negocia negociamos negociáis negocian</foreignWord>
+        <nativeWord>handlować; negocjować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>nieva</foreignWord>
+        <nativeWord>padać (śnieg)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>noto notas nota notamos notáis notan</foreignWord>
+        <nativeWord>zauważać; czuć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>obedezco obedeces obedece obedecemos obedecéis obedecen</foreignWord>
+        <nativeWord>słuchać; ulegać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>obligo obligas obliga obligamos obligáis obligan</foreignWord>
+        <nativeWord>obligować; zmuszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>obtengo obtienes obtiene obtenemos obtenéis obtienen</foreignWord>
+        <nativeWord>uzyskiwać; otrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ocurro ocurres ocurre ocurrimos ocurrís ocurren</foreignWord>
+        <nativeWord>wydarzać; zdarzać; występować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>odio odias odia odiamos odiáis odian</foreignWord>
+        <nativeWord>nienawidzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ofendo ofendes ofende ofendemos ofendéis ofenden</foreignWord>
+        <nativeWord>obrażać; razić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ofrezco ofreces ofrece ofrecemos ofrecéis ofrecen</foreignWord>
+        <nativeWord>oferować; proponować; ofiarować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>huelo hueles huele olemos oléis huelen</foreignWord>
+        <nativeWord>pachnieć; wąchać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>olvido olvidas olvida olvidamos olvidáis olvidan</foreignWord>
+        <nativeWord>zapominać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me olvido te olvidas se olvida nos olvidamos os olvidáis se olvidan</foreignWord>
+        <nativeWord>zapominać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>opongo opones opone oponemos oponéis oponen</foreignWord>
+        <nativeWord>przeciwstawiać; sprzeciwiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me opongo te opones se opone nos oponemos os oponéis se oponen</foreignWord>
+        <nativeWord>przeciwstawiać się; sprzeciwiać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>organizo organizas organiza organizamos organizáis organizan</foreignWord>
+        <nativeWord>organizować; porządkować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>oigo oyes oye oímos oís oyen</foreignWord>
+        <nativeWord>słyszeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>padezco padeces padece padecemos padecéis padecen</foreignWord>
+        <nativeWord>cierpieć; wytrzymywać; znosić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pago pagas paga pagamos pagáis pagan</foreignWord>
+        <nativeWord>płacić; wypłacać; spłacać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>paro paras para paramos paráis paran</foreignWord>
+        <nativeWord>przestawać; zatrzymywać; kończyć; zablokować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>parezco pareces parece parecemos parecéis parecen</foreignWord>
+        <nativeWord>wyglądać; wydawać się; zdawać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>participo participas participa participamos participáis participan</foreignWord>
+        <nativeWord>uczestniczyć; mieć udział</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>paso pasas pasa pasamos pasáis pasan</foreignWord>
+        <nativeWord>pasować; przechodzić; przejeżdżać; wydarzyć się; przenosić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>patino patinas patina patinamos patináis patinan</foreignWord>
+        <nativeWord>jeździć; ślizgać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pido pides pide pedimos pedís piden</foreignWord>
+        <nativeWord>prosić; żądać; wymagać; zlecać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pego pegas pega pegamos pegáis pegan</foreignWord>
+        <nativeWord>przyklejać; zszywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>peino peinas peina peinamos peináis peinan</foreignWord>
+        <nativeWord>czesać; stroić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me peino te peinas se peina nos peinamos os peináis se peinan</foreignWord>
+        <nativeWord>czesać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>peleo peleas pelea peleamos peleáis pelean</foreignWord>
+        <nativeWord>walczyć; kłócić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pienso piensas piensa pensamos pensáis piensan</foreignWord>
+        <nativeWord>myśleć; rozmyślać; sądzić; przypuszczać; zamierzać; obmyślać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pierdo pierdes pierde perdemos perdéis pierden</foreignWord>
+        <nativeWord>zgubić; marnotrawić; tracić; płowieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>perdono perdonas perdona perdonamos perdonáis perdonan</foreignWord>
+        <nativeWord>wybaczać; odpuszczać; darować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>permanezco permaneces permanece permanecemos permanecéis permanecen</foreignWord>
+        <nativeWord>siedzieć; być spokojnym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>permito permites permite permitimos permitís permiten</foreignWord>
+        <nativeWord>pozwalać; dopuszczać; tolerować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>persigo persigues persigue perseguimos perseguís persiguen</foreignWord>
+        <nativeWord>ścigać; prześladować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pertenezco perteneces pertenece pertenecemos pertenecéis pertenecen</foreignWord>
+        <nativeWord>należeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>peso pesas pesa pesamos pesáis pesan</foreignWord>
+        <nativeWord>ważyć; ciążyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pesco pescas pesca pescamos pescáis pescan</foreignWord>
+        <nativeWord>łowić; łapać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pico picas pica picamos picáis pican</foreignWord>
+        <nativeWord>parzyć; palić; dogryzać; swędzieć; pukać; kłuć; kąsać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pinto pintas pinta pintamos pintáis pintan</foreignWord>
+        <nativeWord>malować; ozdabiać; obrazować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>plancho planchas plancha planchamos plancháis planchan</foreignWord>
+        <nativeWord>prasować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>planto plantas planta plantamos plantáis plantan</foreignWord>
+        <nativeWord>sadzić; wbijać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>platico platicas platica platicamos platicáis platican</foreignWord>
+        <nativeWord>rozmawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>puedo puedes puede podemos podéis pueden</foreignWord>
+        <nativeWord>móc; dawać radę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pongo pones pone ponemos ponéis ponen</foreignWord>
+        <nativeWord>umieszczać; kłaść; przyklejać; przygotowywać; sprawiać; stawiać; okazywać; traktować; wystawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me pongo te pones se pone nos ponemos os ponéis se ponen</foreignWord>
+        <nativeWord>ubierać się; zachodzić; czuć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>practico practicas practica practicamos practicáis practican</foreignWord>
+        <nativeWord>wykonywać; uprawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>predigo predices predice predecimos predecís predicen</foreignWord>
+        <nativeWord>przepowiadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prefiero prefieres prefiere preferimos preferís prefieren</foreignWord>
+        <nativeWord>preferować; woleć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pregunto preguntas pregunta preguntamos preguntáis preguntan</foreignWord>
+        <nativeWord>pytać; odpytywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me pregunto te preguntas se pregunta nos preguntamos os preguntáis se preguntan</foreignWord>
+        <nativeWord>pytać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>preparo preparas prepara preparamos preparáis preparan</foreignWord>
+        <nativeWord>przygotowywać; sporządzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me preparo te preparas se prepara nos preparamos os preparáis se preparan</foreignWord>
+        <nativeWord>przygotowywać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>presento presentas presenta presentamos presentáis presentan</foreignWord>
+        <nativeWord>prezentować; pokazywać; przedstawiać; proponować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>presiento presientes presiente presentimos presentís presienten</foreignWord>
+        <nativeWord>przeczuwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>preservo preservas preserva preservamos preserváis preservan</foreignWord>
+        <nativeWord>chronić; zabezpieczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>preveo prevés prevé prevemos prevéis prevén</foreignWord>
+        <nativeWord>przewidywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pruebo pruebas prueba probamos probáis prueban</foreignWord>
+        <nativeWord>wypróbowywać; sprawdzać; testować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>produzco produces produce producimos producís producen</foreignWord>
+        <nativeWord>produkować; wytwarzać; powodować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prohíbo prohíbes prohíbe prohibimos prohibís prohíben</foreignWord>
+        <nativeWord>zabraniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prometo prometes promete prometemos prometéis prometen</foreignWord>
+        <nativeWord>obiecywać; ślubować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>propongo propones propone proponemos proponéis proponen</foreignWord>
+        <nativeWord>proponować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prosigo prosigues prosigue proseguimos proseguís prosiguen</foreignWord>
+        <nativeWord>kontynuować; utrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>protejo proteges protege protegemos protegéis protegen</foreignWord>
+        <nativeWord>protegować; ochraniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>protesto protestas protesta protestamos protestáis protestan</foreignWord>
+        <nativeWord>protestować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>provoco provocas provoca provocamos provocáis provocan</foreignWord>
+        <nativeWord>prowokować; drażnić; pobudzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>publico publicas publica publicamos publicáis publican</foreignWord>
+        <nativeWord>publikować; ogłaszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>purifico purificas purifica purificamos purificáis purifican</foreignWord>
+        <nativeWord>oczyszczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>quiebro quiebras quiebra quebramos quebráis quiebran</foreignWord>
+        <nativeWord>łamać; przerywać; zrywać; bankrutować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me quiebro te quiebras se quiebra nos quebramos os quebráis se quiebran</foreignWord>
+        <nativeWord>złamać się; załamać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>quedo quedas queda quedamos quedáis quedan</foreignWord>
+        <nativeWord>zostawać; pozostawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me quedo te quedas se queda nos quedamos os quedáis se quedan</foreignWord>
+        <nativeWord>ostać się; naigrywać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me quejo te quejas se queja nos quejamos os quejáis se quejan</foreignWord>
+        <nativeWord>skarżyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>quemo quemas quema quemamos quemáis queman</foreignWord>
+        <nativeWord>spalić; przypalać; podpalać; spiekać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me quemo te quemas se quema nos quemamos os quemáis se queman</foreignWord>
+        <nativeWord>palić się; przypalać się; sparzyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>quiero quieres quiere queremos queréis quieren</foreignWord>
+        <nativeWord>pragnąć; kochać; chcieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>realizo realizas realiza realizamos realizáis realizan</foreignWord>
+        <nativeWord>realizować; urzeczywistniać; spełniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rechazo rechazas rechaza rechazamos rechazáis rechazan</foreignWord>
+        <nativeWord>odpierać; odrzucać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>recibo recibes recibe recibimos recibís reciben</foreignWord>
+        <nativeWord>przyjmować; podejmować; witać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reciclo reciclas recicla reciclamos recicláis reciclan</foreignWord>
+        <nativeWord>przetwarzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>recojo recoges recoge recogemos recogéis recogen</foreignWord>
+        <nativeWord>gromadzić; zbierać; odbierać; chować; chomikować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>recomiendo recomiendas recomienda recomendamos recomendáis recomiendan</foreignWord>
+        <nativeWord>zalecać; radzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reconozco reconoces reconoce reconocemos reconocéis reconocen</foreignWord>
+        <nativeWord>rozpoznawać; przyznawać; uznawać; zauważać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>recuerdo recuerdas recuerda recordamos recordáis recuerdan</foreignWord>
+        <nativeWord>pamiętać; przypominać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reduzco reduces reduce reducimos reducís reducen</foreignWord>
+        <nativeWord>redukować; zmniejszać; ograniczać; skracać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>regalo regalas regala regalamos regaláis regalan</foreignWord>
+        <nativeWord>darować; rozpieszczać; pieścić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>riego riegas riega regamos regáis riegan</foreignWord>
+        <nativeWord>podlewać; polewać; nawadniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>regateo regateas regatea regateamos regateáis regatean</foreignWord>
+        <nativeWord>targować; wytargować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rijo riges rige regimos regís rigen</foreignWord>
+        <nativeWord>rządzić; regulować; zarządzać; działać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>registro registras registra registramos registráis registran</foreignWord>
+        <nativeWord>sprawdzać; zapisywać; rejestrować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me registro te registras se registra nos registramos os registráis se registran</foreignWord>
+        <nativeWord>zapisywać się; badać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>regreso regresas regresa regresamos regresáis regresan</foreignWord>
+        <nativeWord>wracać; zwracać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>regulo regulas regula regulamos reguláis regulan</foreignWord>
+        <nativeWord>porządkować; ustalać; nastawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rehúso rehúsas rehúsa rehusamos rehusáis rehúsan</foreignWord>
+        <nativeWord>odrzucać; odmawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reino reinas reina reinamos reináis reinan</foreignWord>
+        <nativeWord>dominować; panować; rządzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>renazco renaces renace renacemos renacéis renacen</foreignWord>
+        <nativeWord>odżywać; narodzić się ponownie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>renuevo renuevas renueva renovamos renováis renuevan</foreignWord>
+        <nativeWord>odnawiać; wznawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>renuncio renuncias renuncia renunciamos renunciáis renuncian</foreignWord>
+        <nativeWord>zrzec; zrzekać; rezygnować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reparo reparas repara reparamos reparáis reparan</foreignWord>
+        <nativeWord>naprawiać; rekompensować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>repaso repasas repasa repasamos repasáis repasan</foreignWord>
+        <nativeWord>cerować; zszywać; powtarzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>repito repites repite repetimos repetís repiten</foreignWord>
+        <nativeWord>powtarzać; odbijać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>replico replicas replica replicamos replicáis replican</foreignWord>
+        <nativeWord>odpowiadać; replikować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reporto reportas reporta reportamos reportáis reportan</foreignWord>
+        <nativeWord>zgłaszać; powstrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>requiero requieres requiere requerimos requerís requieren</foreignWord>
+        <nativeWord>wymagać; oznajmiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reservo reservas reserva reservamos reserváis reservan</foreignWord>
+        <nativeWord>rezerwować; zachować; oszczędzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>resuelvo resuelves resuelve resolvemos resolvéis resuelven</foreignWord>
+        <nativeWord>rozwiązywać; postanawiać; rozpuszczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>respeto respetas respeta respetamos respetáis respetan</foreignWord>
+        <nativeWord>szanować; przestrzegać; wzbudzać szacunek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>respiro respiras respira respiramos respiráis respiran</foreignWord>
+        <nativeWord>oddychać; odetchnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>respondo respondes responde respondemos respondéis responden</foreignWord>
+        <nativeWord>odpowiadać; reagować; ręczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>resulto resultas resulta resultamos resultáis resultan</foreignWord>
+        <nativeWord>wynikać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>revelo revelas revela revelamos reveláis revelan</foreignWord>
+        <nativeWord>odkrywać; ujawniać; objawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rezo rezas reza rezamos rezáis rezan</foreignWord>
+        <nativeWord>modlić; odmawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>río ríes ríe reímos reís ríen</foreignWord>
+        <nativeWord>śmiać; uśmiechać; rozśmieszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>riño riñes riñe reñimos reñís riñen</foreignWord>
+        <nativeWord>ganić; kłócić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>robo robas roba robamos robáis roban</foreignWord>
+        <nativeWord>okradać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ruego ruegas ruega rogamos rogáis ruegan</foreignWord>
+        <nativeWord>błagać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rompo rompes rompe rompemos rompéis rompen</foreignWord>
+        <nativeWord>rozbijać; tłuc; torować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sé sabes sabe sabemos sabéis saben</foreignWord>
+        <nativeWord>wiedzieć; umieć; znać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>saco sacas saca sacamos sacáis sacan</foreignWord>
+        <nativeWord>wyjmować; wyciągać; zdobywać; serwować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sacrifico sacrificas sacrifica sacrificamos sacrificáis sacrifican</foreignWord>
+        <nativeWord>ofiarowywać; składać; poświęcać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sacudo sacudes sacude sacudimos sacudís sacuden</foreignWord>
+        <nativeWord>trząść; wstrząsać; trzepać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>salgo sales sale salimos salís salen</foreignWord>
+        <nativeWord>wychodzić; pójść; wyruszać; wypływać; kipieć; przeciekać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>salto saltas salta saltamos saltáis saltan</foreignWord>
+        <nativeWord>przeskakiwać; wskakiwać; wysadzić; wybuchnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>saludo saludas saluda saludamos saludáis saludan</foreignWord>
+        <nativeWord>witać; salutować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>salvo salvas salva salvamos salváis salvan</foreignWord>
+        <nativeWord>ratować; zbawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>satirizo satirizas satiriza satirizamos satirizáis satirizan</foreignWord>
+        <nativeWord>wyśmiewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>satisfago satisfaces satisface satisfacemos satisfacéis satisfacen</foreignWord>
+        <nativeWord>spełniać; zaspokajać; wynagradzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>seco secas seca secamos secáis secan</foreignWord>
+        <nativeWord>suszyć; osuszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me seco te secas se seca nos secamos os secáis se secan</foreignWord>
+        <nativeWord>suszyć się; wycierać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sigo sigues sigue seguimos seguís siguen</foreignWord>
+        <nativeWord>naśladować; kontynuować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>siento sientas sienta sentamos sentáis sientan</foreignWord>
+        <nativeWord>sadzac; wpływać; pasować; leżeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me siento te sientas se sienta nos sentamos os sentáis se sientan</foreignWord>
+        <nativeWord>usadowić się; siadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>siento sientes siente sentimos sentís sienten</foreignWord>
+        <nativeWord>czuć; ubolewać; mieć wrażenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me siento te sientes se siente nos sentimos os sentís se sienten</foreignWord>
+        <nativeWord>czuć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>soy eres es somos sois son</foreignWord>
+        <nativeWord>być; istnieć; znajdować się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sirvo sirves sirve servimos servís sirven</foreignWord>
+        <nativeWord>służyć; być pomocnym; obsługiwać; zaopatrywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>señalo señalas señala señalamos señaláis señalan</foreignWord>
+        <nativeWord>sygnalizować; informować; wskazywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>significo significas significa significamos significáis significan</foreignWord>
+        <nativeWord>znaczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>simbolizo simbolizas simboliza simbolizamos simbolizáis simbolizan</foreignWord>
+        <nativeWord>symbolizować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sitúo sitúas sitúa situamos situáis sitúan</foreignWord>
+        <nativeWord>sytuować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sobrevivo sobrevives sobrevive sobrevivimos sobrevivís sobreviven</foreignWord>
+        <nativeWord>przeżyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>suelo sueles suele solemos soléis suelen</foreignWord>
+        <nativeWord>mieć zwyczaj; być przyzwyczajonym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sueno suenas suena sonamos sonáis suenan</foreignWord>
+        <nativeWord>dzwonić; brzmieć; burczeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sonrío sonríes sonríe sonreímos sonreís sonríen</foreignWord>
+        <nativeWord>uśmiechać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>soporto soportas soporta soportamos soportáis soportan</foreignWord>
+        <nativeWord>podtrzymywać; wytrzymywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sorprendo sorprendes sorprende sorprendemos sorprendéis sorprenden</foreignWord>
+        <nativeWord>zaskakiwać; zdumiewać; zadziwiać; przyłapać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sueño sueñas sueña soñamos soñáis sueñan</foreignWord>
+        <nativeWord>śnić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>subo subes sube subimos subís suben</foreignWord>
+        <nativeWord>piąć; unosić; wschodzić; rosnąć; podnosić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sucedo sucedes sucede sucedemos sucedéis suceden</foreignWord>
+        <nativeWord>następować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sufro sufres sufre sufrimos sufrís sufren</foreignWord>
+        <nativeWord>doświadczać; cierpieć; tolerować; znosić;</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sugiero sugieres sugiere sugerimos sugerís sugieren</foreignWord>
+        <nativeWord>sugerować; proponować; insynuować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>supongo supones supone suponemos suponéis suponen</foreignWord>
+        <nativeWord>przedkładać; przypuszczać; sądzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>surjo surges surge surgimos surgís surgen</foreignWord>
+        <nativeWord>wytryskiwać; powstawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>suspiro suspiras suspira suspiramos suspiráis suspiran</foreignWord>
+        <nativeWord>wzdychać; tęsknić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sustituyo sustituyes sustituye sustituimos sustituís sustituyen</foreignWord>
+        <nativeWord>wymieniać; zmieniać; zastępować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tapo tapas tapa tapamos tapáis tapan</foreignWord>
+        <nativeWord>okrywać; przykrwać; zatykać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tardo tardas tarda tardamos tardáis tardan</foreignWord>
+        <nativeWord>zużywać; zwlekać; opóźniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>taño tañes tañe tañemos tañéis tañen</foreignWord>
+        <nativeWord>bębnić; grać; bić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>temo temes teme tememos teméis temen</foreignWord>
+        <nativeWord>przeczuwać; bać; obawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tengo tienes tiene tenemos tenéis tienen</foreignWord>
+        <nativeWord>mieć; posiadać; zawierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>termino terminas termina terminamos termináis terminan</foreignWord>
+        <nativeWord>kończyć; ukończyć; upływać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tiro tiras tira tiramos tiráis tiran</foreignWord>
+        <nativeWord>ciągnąć; przyciągać; strzelać; rzucać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>toco tocas toca tocamos tocáis tocan</foreignWord>
+        <nativeWord>grać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tomo tomas toma tomamos tomáis toman</foreignWord>
+        <nativeWord>brać; spożywać; pojmować; podbić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tuerzo tuerces tuerce torcemos torcéis tuercen</foreignWord>
+        <nativeWord>skręcać; wyginać; krzywić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>toso toses tose tosemos toséis tosen</foreignWord>
+        <nativeWord>kaszleć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>trabajo trabajas trabaja trabajamos trabajáis trabajan</foreignWord>
+        <nativeWord>pracować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>traduzco traduces traduce traducimos traducís traducen</foreignWord>
+        <nativeWord>tłumaczyć; przekładać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>traigo traes trae traemos traéis traen</foreignWord>
+        <nativeWord>przynosić; nosić; martwić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>trago tragas traga tragamos tragáis tragan</foreignWord>
+        <nativeWord>połykać; pochłaniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>trato tratas trata tratamos tratáis tratan</foreignWord>
+        <nativeWord>traktować; leczyć; obrabiać; omawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>triunfo triunfas triunfa triunfamos triunfáis triunfan</foreignWord>
+        <nativeWord>triumfować; odnosić sukcesy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tropiezo tropiezas tropieza tropezamos tropezáis tropiezan</foreignWord>
+        <nativeWord>potykać; uderzyć; sprzeczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ubico ubicas ubica ubicamos ubicáis ubican</foreignWord>
+        <nativeWord>znajdować; usytuować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>uno unes une unimos unís unen</foreignWord>
+        <nativeWord>łączyć; jednoczyć; integrować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>unto untas unta untamos untáis untan</foreignWord>
+        <nativeWord>smarować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>uso usas usa usamos usáis usan</foreignWord>
+        <nativeWord>używać; korzystać; przestrzegać; nosić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>utilizo utilizas utiliza utilizamos utilizáis utilizan</foreignWord>
+        <nativeWord>pożytkować; wykorzystywać; korzystać; używać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vacío vacías vacía vaciamos vaciáis vacían</foreignWord>
+        <nativeWord>opróżniać; usuwać; wylewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>valgo vales vale valemos valéis valen</foreignWord>
+        <nativeWord>mieć wartość; równać; pasować; sięgać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>varío varías varía variamos variáis varían</foreignWord>
+        <nativeWord>zmieniać; różnić; urozmaicać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>venzo vences vence vencemos vencéis vencen</foreignWord>
+        <nativeWord>zwyciężać; pokonywać; wygasać; tracić ważność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vendo vendes vende vendemos vendéis venden</foreignWord>
+        <nativeWord>sprzedawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vengo vienes viene venimos venís vienen</foreignWord>
+        <nativeWord>przybywać; nadchodzić; pochodzić; upływać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>veo ves ve vemos veis ven</foreignWord>
+        <nativeWord>widzieć; rozumieć; sprawdzać; oglądać; spoglądać;</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>verifico verificas verifica verificamos verificáis verifican</foreignWord>
+        <nativeWord>weryfikować; sprawdzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>visto vistes viste vestimos vestís visten</foreignWord>
+        <nativeWord>ubierać; nosić; zakładać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me visto te vistes se viste nos vestimos os vestís se visten</foreignWord>
+        <nativeWord>ubierać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>viajo viajas viaja viajamos viajáis viajan</foreignWord>
+        <nativeWord>podróżować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>violo violas viola violamos violáis violan</foreignWord>
+        <nativeWord>gwałcić; naruszyć; zrywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>visito visitas visita visitamos visitáis visitan</foreignWord>
+        <nativeWord>odwiedzać; zwiedzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vivo vives vive vivimos vivís viven</foreignWord>
+        <nativeWord>żyć; mieszkać; przeżyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vuelo vuelas vuela volamos voláis vuelan</foreignWord>
+        <nativeWord>latać; odlatywać; fruwać; znikać; wysadzać; wkurzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vuelvo vuelves vuelve volvemos volvéis vuelven</foreignWord>
+        <nativeWord>wracać; zawracać; odwracać; obracać; przewracać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vomito vomitas vomita vomitamos vomitáis vomitan</foreignWord>
+        <nativeWord>wymiotować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>voto votas vota votamos votáis votan</foreignWord>
+        <nativeWord>głosować; przegłosować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>yazco yaces yace yacemos yacéis yacen</foreignWord>
+        <nativeWord>leżeć; spoczywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>me zambullo te zambulles se zambulle nos zambullimos os zambullís se zambullen</foreignWord>
+        <nativeWord>zanurzać się; zagłębiać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

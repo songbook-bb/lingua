@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="4">
+    <word>
+        <foreignWord>rompere</foreignWord>
+        <nativeWord>rwać; tłuc; łamać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>esagerare</foreignWord>
+        <nativeWord>przesadzać; przejaskrawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>annunziare</foreignWord>
+        <nativeWord>ogłaszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dimagrire</foreignWord>
+        <nativeWord>schudnąć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>trovare</foreignWord>
+        <nativeWord>znajdować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prestare</foreignWord>
+        <nativeWord>pożyczać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>servire</foreignWord>
+        <nativeWord>służyć; być przydatnym</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>promettere</foreignWord>
+        <nativeWord>obiecywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>coinvolgere</foreignWord>
+        <nativeWord>wmieszać; wciągać w coś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>reagiscere</foreignWord>
+        <nativeWord>reagować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>elencare</foreignWord>
+        <nativeWord>wyliczać; wyszczególniać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>utilizzare</foreignWord>
+        <nativeWord>użytkować; wykorzystać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>scegliere</foreignWord>
+        <nativeWord>wybierać; przebierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dedicare a</foreignWord>
+        <nativeWord>poświęcać na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>svolgere</foreignWord>
+        <nativeWord>rozwijać; odkręcać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>partecipare</foreignWord>
+        <nativeWord>uczestniczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>parere</foreignWord>
+        <nativeWord>zdawać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>strappare</foreignWord>
+        <nativeWord>rwać; drzeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>impegnare</foreignWord>
+        <nativeWord>dawać w zastaw; zobowiązywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>perdere</foreignWord>
+        <nativeWord>tracić; gubić; przegrywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>urlare</foreignWord>
+        <nativeWord>wydzierać się; drzeć się; wrzeszczeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>regalare</foreignWord>
+        <nativeWord>dać w prezencie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sciare</foreignWord>
+        <nativeWord>jezdzić na nartach</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>iniziare a</foreignWord>
+        <nativeWord>zaczynać coś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>smettere</foreignWord>
+        <nativeWord>przestawać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>basare su</foreignWord>
+        <nativeWord>opierać na; bazować na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diventare</foreignWord>
+        <nativeWord>stawać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>staccare</foreignWord>
+        <nativeWord>odczepiać; odrywać; rozłączać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>asciugarsi</foreignWord>
+        <nativeWord>wycierać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>finire di inf</foreignWord>
+        <nativeWord>kończyć coś robić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cercare di</foreignWord>
+        <nativeWord>szukać czegoś; usiłować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>continuare a</foreignWord>
+        <nativeWord>kontynuować coś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>bolire</foreignWord>
+        <nativeWord>wrzeć; gotować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>recitare</foreignWord>
+        <nativeWord>grać w teatrze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sedersi</foreignWord>
+        <nativeWord>siadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>spiare</foreignWord>
+        <nativeWord>szpiegować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>si svolgere da</foreignWord>
+        <nativeWord>rozwijać się od; trwać od; odbywać się od</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mandare a</foreignWord>
+        <nativeWord>kazać; polecić komuś coś do zrobienia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>seguire</foreignWord>
+        <nativeWord>iść za kimś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>innamorare di</foreignWord>
+        <nativeWord>zakochać się w</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>consegnare a</foreignWord>
+        <nativeWord>dostarczyć komuś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sfoliare</foreignWord>
+        <nativeWord>przejrzeć; przekartkować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>restituire</foreignWord>
+        <nativeWord>oddać; zwracać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ridare</foreignWord>
+        <nativeWord>oddać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>consegnare</foreignWord>
+        <nativeWord>dostarczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gridare</foreignWord>
+        <nativeWord>ogłaszać; wrzeszczeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>allogiare</foreignWord>
+        <nativeWord>lokować się; zamieszkać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cominciare a</foreignWord>
+        <nativeWord>zaczynać coś robić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>comprare</foreignWord>
+        <nativeWord>kupować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>convalidare; timbrare</foreignWord>
+        <nativeWord>kasować (bilet)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>trovarsi</foreignWord>
+        <nativeWord>znajdować się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>imbucare</foreignWord>
+        <nativeWord>wrzucać do skrzynki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>spedire</foreignWord>
+        <nativeWord>wysyłać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>suonare</foreignWord>
+        <nativeWord>rozbrzmiewać; dzwięczeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mandare</foreignWord>
+        <nativeWord>nadawać (list)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>evitare di</foreignWord>
+        <nativeWord>unikać czegoś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>avvenire</foreignWord>
+        <nativeWord>dziać się; zdarzać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>inventare</foreignWord>
+        <nativeWord>wynalezć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ospitare</foreignWord>
+        <nativeWord>gościć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>godere di</foreignWord>
+        <nativeWord>cieszyć się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>passeggiare</foreignWord>
+        <nativeWord>spacerować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>discutere di</foreignWord>
+        <nativeWord>dyskutować o</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>nominare</foreignWord>
+        <nativeWord>nazywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>raggiungere</foreignWord>
+        <nativeWord>osiągnąć; dopędzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>scolare</foreignWord>
+        <nativeWord>cedzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>volare</foreignWord>
+        <nativeWord>latać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>suggerire</foreignWord>
+        <nativeWord>podpowiadać; doradzać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sottolineare</foreignWord>
+        <nativeWord>podkreślać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>appartenere a</foreignWord>
+        <nativeWord>należeć do</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rifiutare</foreignWord>
+        <nativeWord>odmówić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>restare</foreignWord>
+        <nativeWord>zostać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>immaginare</foreignWord>
+        <nativeWord>wyobrażać sobie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prenotare</foreignWord>
+        <nativeWord>zapisywać; zajmować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>augurare</foreignWord>
+        <nativeWord>życzyć; żywić nadzieję</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>viaggiare</foreignWord>
+        <nativeWord>podróżować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>impiegare</foreignWord>
+        <nativeWord>zatrudniać; lokować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ringraziare</foreignWord>
+        <nativeWord>dziękować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tirare</foreignWord>
+        <nativeWord>ciągnąć; rzucać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>collegare</foreignWord>
+        <nativeWord>łączyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>includere</foreignWord>
+        <nativeWord>zawierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>differiscere</foreignWord>
+        <nativeWord>różnić się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ottenere</foreignWord>
+        <nativeWord>otrzymać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>prevedere</foreignWord>
+        <nativeWord>przewidywać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>durare</foreignWord>
+        <nativeWord>trwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>comprendere</foreignWord>
+        <nativeWord>zawierać; obejmować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rendere</foreignWord>
+        <nativeWord>oddawać; zwracać; wyświadczać (przysługę)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>iscriversi</foreignWord>
+        <nativeWord>zapisać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conoscersi</foreignWord>
+        <nativeWord>poznać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ordinare</foreignWord>
+        <nativeWord>zamawiać; porządkować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>osservare</foreignWord>
+        <nativeWord>obserwować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>impiegare</foreignWord>
+        <nativeWord>używać; zatrudniać; stosować; lokować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abbinare a</foreignWord>
+        <nativeWord>łączyć; ustawiać parami</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>camminare</foreignWord>
+        <nativeWord>chodzić; kroczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fregare</foreignWord>
+        <nativeWord>trzeć; pocierać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>contare su</foreignWord>
+        <nativeWord>liczyć na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>insegnare</foreignWord>
+        <nativeWord>nauczać; uczyć; wykładać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>scrivere su</foreignWord>
+        <nativeWord>pisać dla</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lavorare a</foreignWord>
+        <nativeWord>pracować dla; w</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>annoiare</foreignWord>
+        <nativeWord>nudzić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>riguardare</foreignWord>
+        <nativeWord>dotyczyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>uscire da</foreignWord>
+        <nativeWord>wychodzić do</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>indossare</foreignWord>
+        <nativeWord>wkładać na siebie; wdziewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>apprezzare</foreignWord>
+        <nativeWord>szacować; cenić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aggiungere a</foreignWord>
+        <nativeWord>dodawać; dołączać; dorzucać do</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cuocere</foreignWord>
+        <nativeWord>gotować; piec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>arricchire</foreignWord>
+        <nativeWord>wzbogacać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>togliere</foreignWord>
+        <nativeWord>usuwać; zabierać;  zdejmować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mescolare</foreignWord>
+        <nativeWord>mieszać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rosolare</foreignWord>
+        <nativeWord>przyrumienić; przypiekać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rinunciare a</foreignWord>
+        <nativeWord>zrezygnować z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>impartire</foreignWord>
+        <nativeWord>udzielać; dawać (i ordini)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>provenire da</foreignWord>
+        <nativeWord>pochodzić z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sognare di</foreignWord>
+        <nativeWord>śnić o; marzyć o</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pregiare</foreignWord>
+        <nativeWord>cenić; poważać; chełpić się; mieć zaszczyt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>censurare</foreignWord>
+        <nativeWord>cenzurować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>costruire</foreignWord>
+        <nativeWord>budować; konstruować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>decidere</foreignWord>
+        <nativeWord>postanawiać; decydować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>precipitare</foreignWord>
+        <nativeWord>strącić; zrzucić; rzucić się; runąć; (chem) osadzać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abbaiare</foreignWord>
+        <nativeWord>szczekać; ujadać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>salvare</foreignWord>
+        <nativeWord>ratować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sopportare</foreignWord>
+        <nativeWord>podpierać; znosić; wytrzymwać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>guadanare</foreignWord>
+        <nativeWord>zarabiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>allenare</foreignWord>
+        <nativeWord>trenować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rimandare</foreignWord>
+        <nativeWord>przesunąć; odłożyć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

@@ -1,0 +1,3209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="2">
+    <word>
+        <foreignWord>Pòzdrówczi i przënôleżné, spòsobné zwrotë.</foreignWord>
+        <nativeWord>Pozdrowienia i zwroty grzecznościowe.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Niech { mdze / bądze / bãdze } pòchwôlony Jezës Christus.</foreignWord>
+        <nativeWord>Niech będzie pochwalony Jezus Chrystus.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Na wieczi wieków, amen.</foreignWord>
+        <nativeWord>Na wieki wieków, amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòchwôlony Jezës Christus.</foreignWord>
+        <nativeWord>Pochwalony Jezus Chrystus.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Na wieczi wieków.</foreignWord>
+        <nativeWord>Na wieki wieków.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dobri dzéń.; Dzéń dobri.</foreignWord>
+        <nativeWord>Dzień dobry.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Witóm.; Witómë.</foreignWord>
+        <nativeWord>Witam.; Witamy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bóg zapłac.; Pón Bóg zapłac.</foreignWord>
+        <nativeWord>Bóg zapłać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Witôjże.</foreignWord>
+        <nativeWord>Witaj.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czesc.; Witôj.; Witôjże.</foreignWord>
+        <nativeWord>Cześć.; Serwus.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Witôjtaż.</foreignWord>
+        <nativeWord>Witajcie. (do kilku osób)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Witôjceż.</foreignWord>
+        <nativeWord>Witam { pana / panią }.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô baro serdeczno { witóm / witóm waju } wszëtczich.</foreignWord>
+        <nativeWord>Bardzo serdecznie { witam / witam was } wszystkich.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bòże (wama) pòmagôj.</foreignWord>
+        <nativeWord>Szczęść (wam) Boże.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bòże (ce / tobie) przeżegnôj.</foreignWord>
+        <nativeWord>Smacznego (tobie).</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bòże wama przeżegnôj.</foreignWord>
+        <nativeWord>Smacznego wam wszystkim.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dobri wieczór.</foreignWord>
+        <nativeWord>Dobry wieczór.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak sã { môsz / miéwôsz }?</foreignWord>
+        <nativeWord>Jak się { masz / miewasz }?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, jakùż wa sã miéwôta?</foreignWord>
+        <nativeWord>No, jak się macie? (do kilku osób).</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak wë sã miéwôce?</foreignWord>
+        <nativeWord>Jak się { pan / pani } miewa?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, jakùż më sã miéwómë?</foreignWord>
+        <nativeWord>No, jak się mamy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, { jak / jakże / jakùż } tam { cë / tobie } jidze?</foreignWord>
+        <nativeWord>No, jak tam { ci / tobie } leci?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, {jak / jakże / jakùż} {wami / wóm} (ew. do osób obcych, nie znających kaszubskiego: panu / pani) {jidze / lecy}?</foreignWord>
+        <nativeWord>No, jak tam {panu / pani} leci?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në i {cëż / co} tam nowégò je czëc?</foreignWord>
+        <nativeWord>No i co tam nowego słychać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co nowégò ù waju, doma?</foreignWord>
+        <nativeWord>Co nowego u was w domu?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Wszëtkò / Wszëstkò} w pòrządkù?</foreignWord>
+        <nativeWord>Wszystko w porządku?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wszëtkò graje?</foreignWord>
+        <nativeWord>Wszystko gra?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Do ùzdrzeniô.; Do ùzdrzeniégò.</foreignWord>
+        <nativeWord>Do widzenia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Do {witra / jitra}.; Do {witerka / jiterka}.</foreignWord>
+        <nativeWord>Do jutra.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, {kò / tak} tej do {witra / witerka}.</foreignWord>
+        <nativeWord>Zatem do jutra.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dobri nocë.; Dobranoc.</foreignWord>
+        <nativeWord>Dobranoc.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Më sã {wnet / wnetka / niedługò} {znôu / zôs / znowa} {ùzdrzimë / òbôczimë}.</foreignWord>
+        <nativeWord>Wkrótce się znowu zobaczymy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Czej / Czedë} më sã {znôu / zôs / znowa} ùzdrzimë?; Czej më sã {ùzdrzimë / òbôczimë}?</foreignWord>
+        <nativeWord>Kiedy się znowu zobaczymy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Z Bògã.</foreignWord>
+        <nativeWord>Z Bogiem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Òstańta / Òstanita / Bądzta / Bãdzta} z Bògã.</foreignWord>
+        <nativeWord>Zostańcie z Bogiem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Niech {cë / ce / tobie} dobrze jidze.</foreignWord>
+        <nativeWord>Życzę ci powodzenia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tej niech {wami / panu / pani} dobrze jidze.</foreignWord>
+        <nativeWord>Więc życzę {panu / pani} powodzenia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wszëtczégò {dobrego / nôlepszégò / bëlnégò}.</foreignWord>
+        <nativeWord>Wszystkiego {dobrego / najlepszego}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Szczeslëwi drodżi.</foreignWord>
+        <nativeWord>Szczęśliwej {drogi / podróży}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Trzëmôj sã.; Trzim sã.</foreignWord>
+        <nativeWord>Trzymaj się.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Trzëmôjta sã.; Trzimta sã.</foreignWord>
+        <nativeWord>Trzymajcie się.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Miéj / Miewôj} sã dobrze.</foreignWord>
+        <nativeWord>{Miej / Miewaj} się dobrze.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, {co je / cëż je}?</foreignWord>
+        <nativeWord>Proszę, co takiego?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ò co {chòdzy / jidze}?</foreignWord>
+        <nativeWord>O co chodzi?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ò co sã rozchòdzy?</foreignWord>
+        <nativeWord>O co się rozchodzi?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co sã stało? Cëż sã stało?</foreignWord>
+        <nativeWord>Co się stało? Cóż się stało?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Wszëtkò / Wszëstkò} je w pòrządkù?</foreignWord>
+        <nativeWord>Wszystko w porządku?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Wszëtkò / Wszëstkò} graje?</foreignWord>
+        <nativeWord>Wszystko gra?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã baro ceszã, że...; Jô jem baro rôd, że...</foreignWord>
+        <nativeWord>Bardzo się cieszę, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To {fëjn/je fëjno}.</foreignWord>
+        <nativeWord>To fajnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To {dobrze/je dobrze}.</foreignWord>
+        <nativeWord>To dobrze.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wezta so...; Na, wezta so...</foreignWord>
+        <nativeWord>Proszę sobie wziąć...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòczestujta sã...; Na, wezta, pòczestujta sã...; Naczkôjta że...; Wezkôjta {so/sobie}...</foreignWord>
+        <nativeWord>Proszę poczęstować się...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wezce so.; Pòczestujce sã.; Na, {wezce / pòczestujce sã}.; Naczkôjce.; Wezkôjce {so/sobie}.</foreignWord>
+        <nativeWord>Proszę {sobie wziąć / poczęstować się}. (do kogoś starszego z uszanowaniem).</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wez!; Naczkôj!</foreignWord>
+        <nativeWord>Weź!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môsz!; Môszkôj!</foreignWord>
+        <nativeWord>Masz!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Na!; Wezkôj!</foreignWord>
+        <nativeWord>Na!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Proszã!</foreignWord>
+        <nativeWord>Proszę!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dôj!</foreignWord>
+        <nativeWord>Daj!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Òddôj!</foreignWord>
+        <nativeWord>Oddaj!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Pòdôjta / pòdôjta że} mie!</foreignWord>
+        <nativeWord>Proszę mi podać! (do większej liczby osób)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòdôjce (że) mie, jo.; Pòdôjce {/że} mie.</foreignWord>
+        <nativeWord>Niech mi {pan / pani} poda.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòdôj {/że} mie!; Pòdôczkôj {/że} mie! (zdrobniale)</foreignWord>
+        <nativeWord>{Podaj/Podajże} mi!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Pòdôj/Pòdôj że/Pòdôjczkôj że} mie tã ksążkã!</foreignWord>
+        <nativeWord>Podaj mi tę książkę!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dzãkùjã!</foreignWord>
+        <nativeWord>Dziękuję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dzãka!</foreignWord>
+        <nativeWord>Dzięki.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bóg zapłac.</foreignWord>
+        <nativeWord>Bóg zapłać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô dzãkùjã.</foreignWord>
+        <nativeWord>Ja dziękuję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To jô dzãkùjã.</foreignWord>
+        <nativeWord>To ja dziękuję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô wami baro dzãkùjã.; Jô baro {panu / pani} dzãkùjã.</foreignWord>
+        <nativeWord>Bardzo dziękuję {panu / pani}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô {ce / cë / tobie} dzãkùjã.</foreignWord>
+        <nativeWord>Dziękuję tobie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dzãka.</foreignWord>
+        <nativeWord>Dzięki.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Wiôlgô / Serdecznô} dzãka za wszëtkò.</foreignWord>
+        <nativeWord>{Wielkie / Serdeczne} dzięki za wszystko.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Serdeczné 'Bóg zapłac' za wszëtkò.</foreignWord>
+        <nativeWord>Serdeczne 'Bóg zapłać' za wszystko.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô wama {/wszëtczima} serdeczno dzãkùjã.</foreignWord>
+        <nativeWord>Ja wam {/wszystkim} serdecznie dziękuję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem wama {/wszëtczima} baro wdzãczny.</foreignWord>
+        <nativeWord>Jestem wam {/wszystkim} bardzo wdzięczny.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem ce wdzãczny, za...</foreignWord>
+        <nativeWord>Jestem ci wdzięczny, za...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Jô bë ce béł baro wdzãczny / Jô bë ce bëła wdzãczno}, czejbës mie...</foreignWord>
+        <nativeWord>{Byłbym ci bardzo wdzięczny / Byłabym ci wdzięczna}, gdybyś mi...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem {wami / panu / pani} baro wdzãczny.</foreignWord>
+        <nativeWord>Jestem {panu / pani} bardzo wdzięczny.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Przeprôszóm.</foreignWord>
+        <nativeWord>Przepraszam.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô baro przeprôszóm.</foreignWord>
+        <nativeWord>Przepraszam bardzo.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pardon (wym. pardą).</foreignWord>
+        <nativeWord>Pardon.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã czëjã baro {ùczestniony / wëróżniony}, że...</foreignWord>
+        <nativeWord>Czuję się bardzo zaszczycony, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To je dlô mie wiôlgô {czesc / érã / wiôldżé ùczestnienié / wëróżnienié / wiôldżi zaszczit}, że...</foreignWord>
+        <nativeWord>To dla mnie wielki zaszczyt, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòzdrówce {òde/òd} mie swòjëch {starszich / rodzyców}.; Niech {pón / pani} pòzdrowi {òd/òde} mie swòjëch {starszich / rodzyców}.</foreignWord>
+        <nativeWord>Niech {pan / pani} pozdrowi ode mnie swoich rodziców.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Pòzdrowi / Pòzdrów / (zdrobniale) Pòzdrôwkôj że} òd mie {domôcëch / nôblëższich}.</foreignWord>
+        <nativeWord>Pozdrów ode mnie {domowników / najbliższych}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Pòzdrówta / Pòzdrawiôjta} òd nas {mëma / tatã / (zdrobniale) mëmkã / tatka}.</foreignWord>
+        <nativeWord>{Pozdrówcie / Pozdrawiajcie} od nas {mamę / tatę}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{/Të} Môsz {pozdrówk / pòzdrowienia} òd mòji sostrë.</foreignWord>
+        <nativeWord>Masz pozdrowienia od mojej siostry. Moja siostra cię pozdrawia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòja sostra ce {dôwô / da / dała} pòzdrawiac.</foreignWord>
+        <nativeWord>Moja siostra ciebie pozdrawia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë môce {pòzdrówk / pòzdrowienia} òd...</foreignWord>
+        <nativeWord>Ma {pan / pani} pozdrowienia od...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Staszk prosył, żebë cebie pòzdrowic.</foreignWord>
+        <nativeWord>Staszek prosił, żeby ciebie pozdrowić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Staszk cebie {daje / dôwô / dôł / kôzôł} pòzdrawiac.; Staszk kôzôł przekazac {pòzdrowienia / pòzdrówk} dlô cebie.</foreignWord>
+        <nativeWord>Staszek kazał przekazać pozdrowienia dla ciebie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Staszk cebie serdeczno pòzdrôwiô.</foreignWord>
+        <nativeWord>Staszek ciebie serdecznie pozdrawia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Rozpòczãcé rozmòwë</foreignWord>
+        <nativeWord>Rozpoczęcie rozmowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, {jak / jakùż / jakże} tam {ce / tobie} jidze?</foreignWord>
+        <nativeWord>No, jak tam ci leci?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co nowégò je czëc?</foreignWord>
+        <nativeWord>I co nowego słychać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Cëż tam ù waji je czëc?</foreignWord>
+        <nativeWord>Cóż tam u was słychać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak sã {miéwómë / môsz / miéwôsz}?</foreignWord>
+        <nativeWord>Jak się mamy?; Jak się masz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dosc dobrze, jakòs jidze.</foreignWord>
+        <nativeWord>Dosyć dobrze, jakoś leci.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jakò takò. Jidze wëtrzëmac.</foreignWord>
+        <nativeWord>Jako tako, można wytrzymać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dosc mòżlëwie.; Nié tak lëchò.</foreignWord>
+        <nativeWord>Dosyć znośnie, nie najgorzej.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Stôrô biéda.</foreignWord>
+        <nativeWord>Stara bieda.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wiedno {równo / jednakò}.</foreignWord>
+        <nativeWord>Wciąż tak samo.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak tam {ta / na} twòja 'stôrô'?</foreignWord>
+        <nativeWord>Jak tam twoja 'stara'?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>'Mòja stôrô'?</foreignWord>
+        <nativeWord>'Moja stara'?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>A ta le dërch szëje i rozôrô...</foreignWord>
+        <nativeWord>Ta wciąż no szyje i rozpruwa... (odpowiedź żartobliwa)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jakùż wami jidze?</foreignWord>
+        <nativeWord>Jak się {panu / pani} powodzi?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>A dëcht czësto dobrze.; Dosc dobrze.</foreignWord>
+        <nativeWord>Całkiem nieźle.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã baro ceszã, że...</foreignWord>
+        <nativeWord>Bardzo się cieszę, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Kògò / Kògóm} jô widzã...</foreignWord>
+        <nativeWord>Kogo ja widzę...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Chto / Chtëż} bë sã spòdzôł, że...</foreignWord>
+        <nativeWord>{Kto / Któż} by się spodziewał, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To bë sã nich nie {spòdzéwôł / spòdzôł}, że...</foreignWord>
+        <nativeWord>Nikt by się nie spodziewał, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, w kùńcu të sã {pòkôzôł / pòkôza}.</foreignWord>
+        <nativeWord>Wreszcie się {pokazałeś / pokazałaś}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, kùrëszce jô ce dostôł.</foreignWord>
+        <nativeWord>No, nareszcie ciebie zastałem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>W końcu wë sã zjawilë.; W kùńcu pón przëszed.; W kùńcu pani przëszła.</foreignWord>
+        <nativeWord>W końcu pan się zjawił.; W końcu pani się zjawiła.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czej të przëjachôł?</foreignWord>
+        <nativeWord>Kiedy przyjechałeś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czej të przëjacha?</foreignWord>
+        <nativeWord>Kiedy przyjechałaś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czej wë przëjachelë?</foreignWord>
+        <nativeWord>Kiedy pan przyjechał?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czej wë przëjachelë?</foreignWord>
+        <nativeWord>Kiedy pani przyjechała?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czej wa przëjacha?; Czedë wa przëjachała?</foreignWord>
+        <nativeWord>Kiedy przyjechaliście?; Kiedy przyjechałyście?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak długò wa mëslita tu òstac?</foreignWord>
+        <nativeWord>Jak długo zamierzacie zostać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co të mëslisz tu terô robic?</foreignWord>
+        <nativeWord>Co zamierzasz tu teraz robić?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co wa pòrobjôta?; Co të porobisz?</foreignWord>
+        <nativeWord>Co porabiacie?; Co porabiasz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã ceszã, że jô was znôu (mów: zneł) widzã.</foreignWord>
+        <nativeWord>Cieszę się, że znów {pana / panią} widzę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã ceszã, że jô waju {/wszëtczich} widzã razã, w {zdrowim / zdrowiu}.</foreignWord>
+        <nativeWord>Cieszę się, że was {/wszystkich} widzę razem, w zdrowiu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To baro fajno, że të jes.</foreignWord>
+        <nativeWord>To bardzo fajnie, że jesteś.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To baro fajno, że wa jesta.</foreignWord>
+        <nativeWord>To bardzo fajnie, że jesteście.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dobrze, że wa przëjacha, bò prawie...</foreignWord>
+        <nativeWord>Dobrze, że państwo przyjechaliście, bo właśnie...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nôprzód jô mùszã wama rzec, że...</foreignWord>
+        <nativeWord>Najpierw muszę wam powiedzieć, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô ò waju prawie mëslôł.</foreignWord>
+        <nativeWord>Własnie o was myślałem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Zapòznanié sã.</foreignWord>
+        <nativeWord>Zawarcie znajomości.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòże jô sã nôprzód przedstawiã.</foreignWord>
+        <nativeWord>Może najpierw się przedstawię.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã chcã wama przedstawic.</foreignWord>
+        <nativeWord>Chcę się wam przedstawić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë sã chcôł przedstawic.</foreignWord>
+        <nativeWord>Chciałbym się przedstawić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë {chca / chcała} wama przedstawic drëcha Janka...</foreignWord>
+        <nativeWord>Chciałabym wam przedstawić kolegę Janka...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jankù, mòże të sã sóm przedstawisz.</foreignWord>
+        <nativeWord>Janku, może się sam przedstawisz.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã nazéwóm Jan Krefta.</foreignWord>
+        <nativeWord>Nazywam się Jan Krefta.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô nie doczëła.</foreignWord>
+        <nativeWord>Niedosłyszałam.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak wë môce na nôzwëskò?; Jaczé wë môce nôzwëskò?</foreignWord>
+        <nativeWord>Jakie jest pańskie nazwisko?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak të môsz na {miono / jimiã / jimiono}?</foreignWord>
+        <nativeWord>Jak masz na imię?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô móm miono Staszk.</foreignWord>
+        <nativeWord>Mam na imię Staszek.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô móm dwa {miona / jimiona}...</foreignWord>
+        <nativeWord>Mam dwa imiona...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã baro ceszã, że mògã sã z {tobą / wami} zapòznac.</foreignWord>
+        <nativeWord>Bardzo się cieszę, że mogę {cię / pana /panią} poznać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô chcã waju ze sobą zapòznac.</foreignWord>
+        <nativeWord>Chcę {państwa / was} ze soba zapoznać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak prôwda rzec, jô was znajã z opowiadaniô, òd najëch pòspólnëch znajomków i drëchów.</foreignWord>
+        <nativeWord>Prawdę mówiąc, ja znam {pana / panią} z opowiadań naszych znajomych i przyjaciół.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô móm ò waju wż wiele dobrégò czëti.</foreignWord>
+        <nativeWord>Ja też o was dużo dobrego słyszałem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mie sã tak wëdôwô, że më sã ju rôz czedës, gdzes pòtkelë.</foreignWord>
+        <nativeWord>Wydaje mi się, że już gdzieś, kiedyś się spotkaliśmy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To mòże bëc.</foreignWord>
+        <nativeWord>Być może.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Skądkaż më sã znajemë?</foreignWord>
+        <nativeWord>Skąd my się znamy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Më sã ju wierã znajemë, nié?</foreignWord>
+        <nativeWord>Chyba się już znamy, co?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nie wiém.</foreignWord>
+        <nativeWord>Nie wiem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ale Wiera {gdzes / dzes} jesmë sã widzelë.</foreignWord>
+        <nativeWord>Ale chyba gdzieś się widzieliśmy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô ju wiém.</foreignWord>
+        <nativeWord>Ja już wiem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jesmë sã widzelë gwësno łoni, kòle Władka.</foreignWord>
+        <nativeWord>Widzieliśmy sie pewnie w zeszłym roku, u Władka.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To nie je wôżny.</foreignWord>
+        <nativeWord>To nie ważne.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak abò jinak, dzes sã mómë ju widzóny.</foreignWord>
+        <nativeWord>Tak czy inaczej, gdzieś się już widzieliśmy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wezta sã zapòznôjta.</foreignWord>
+        <nativeWord>Poznajcie się.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Kòlega / Drëch} Flórk- mòja białka.</foreignWord>
+        <nativeWord>Kolega Florek- moja żona.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô ju was znajã.</foreignWord>
+        <nativeWord>Ja już pana znam.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jank mie ò {panu / was} òpòwiôdôł.</foreignWord>
+        <nativeWord>Janek mi o poanu opowiadał.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Chcemë so gadac pò jimieniu.</foreignWord>
+        <nativeWord>Mówmy sobie po imieniu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Zapitania, dowiadiwanié sã, prosbë</foreignWord>
+        <nativeWord>Pytania, informowanie się, prośby</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kùli?; Kùliż? Wiele?; Wieleż?</foreignWord>
+        <nativeWord>Ile?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Za wiele?; Za wieleż?; Za kùli?; Za kùliż?</foreignWord>
+        <nativeWord>Za ile?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Za wiele / Za kùli} të chce to przedac?</foreignWord>
+        <nativeWord>Za ile chcesz to sprzedać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kùliż to kòsztô?; Wieleż to kòsztëje?</foreignWord>
+        <nativeWord>Ile to kosztuje?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak drodżi to, wedle was, je?; Wieleż wë za to chcece mieć?</foreignWord>
+        <nativeWord>Na ile {pan / pani} sobie to ceni?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Kùli / Wiele} to bądze kòsztowało?</foreignWord>
+        <nativeWord>Ile to będzie kosztowało?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wieleż te bë chcôł za to miec?</foreignWord>
+        <nativeWord>Ile sobie życzysz za to?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Wiele / Wieleż / Kùli / Kùliż} jô płacã?</foreignWord>
+        <nativeWord>Ile płacę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nie je to za drogò.</foreignWord>
+        <nativeWord>Czy to nie za drogo?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nie {je / mdze} to drogò?</foreignWord>
+        <nativeWord>Nie {jest / będzie} to drogo?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czemù?; Dlôcze?</foreignWord>
+        <nativeWord>Dlaczego?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pò co?; Na co?; Do cze? Za czim?</foreignWord>
+        <nativeWord>Po co?; Na co?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>W jaczé sprawie?</foreignWord>
+        <nativeWord>W jakiej sprawie?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kòmù?</foreignWord>
+        <nativeWord>Komu?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dlô kògò?</foreignWord>
+        <nativeWord>Dla kogo?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Z czim?; Z kògóm?</foreignWord>
+        <nativeWord>Z kim?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>W jaczim {znaczenim / znaczeniu}?</foreignWord>
+        <nativeWord>W jakim {sensie / znaczeniu}?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kąd?; Kądka?; Kądkaż?</foreignWord>
+        <nativeWord>Którędy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kądka më pùdzemë?</foreignWord>
+        <nativeWord>Którędy pójdziemy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kądka jô móm jic?</foreignWord>
+        <nativeWord>Którędy mam pójść?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kąd të chcesz jic?</foreignWord>
+        <nativeWord>Którędy chcesz pójść?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dokąd?; Dokądka?; Dokądkaż?; Dokąd'że?</foreignWord>
+        <nativeWord>Dokąd?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dze?; Gdze?</foreignWord>
+        <nativeWord>Gdzie?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak?</foreignWord>
+        <nativeWord>Jak?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czej? Czedë?</foreignWord>
+        <nativeWord>Kiedy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Na jak długò?</foreignWord>
+        <nativeWord>Na jak długo?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Do tegò tu hewò môla?</foreignWord>
+        <nativeWord>Do tego oto miejsca?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Donąd?; Dotąd?; Donądka?; Dotądka?</foreignWord>
+        <nativeWord>Dotąd?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jachôł òn {donąd / donądka}, czë {nazôd / nazôdka}?</foreignWord>
+        <nativeWord>Jechał on w tamtą stronę, (np. do miasta) czy z powrotem?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Dokąd / Dokądka} të jidzesz?; {Dze / gdze} të jidzesz?</foreignWord>
+        <nativeWord>Dokąd idziesz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dze të sã wëbiérôsz?; (A: szportã:) Dze rëgniesz?</foreignWord>
+        <nativeWord>Gdzie się wybierasz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dze wë jidzece?</foreignWord>
+        <nativeWord>Dokąd {pan / pani} idzie?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Dokądka / Dze} wë sã wëbiérôce?</foreignWord>
+        <nativeWord>{Dokąd / Gdzie} się {pan / pani} wybiera?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Do {kògò / kògóm}?</foreignWord>
+        <nativeWord>Do kogo?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Do {czegò / cze}?</foreignWord>
+        <nativeWord>Do czego?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dlô {kògò / kògóm}?</foreignWord>
+        <nativeWord>Dla kogo?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ù kògò?; Kòle kògò?; Kòl kògò?</foreignWord>
+        <nativeWord>U kogo?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Słëchôjce le, co to je?</foreignWord>
+        <nativeWord>Proszę {pana / pani}, co to jest?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co wë ò tim mëslice?</foreignWord>
+        <nativeWord>Co pani o tym sądzi?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòwiédz mie, co të ò tim mëslisz?</foreignWord>
+        <nativeWord>Powiedz mi, co o tym myślisz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mògã jô sã ò cos spëtac?</foreignWord>
+        <nativeWord>Czy mogę {pana / panią} o coś zapytać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë sã chcôł waju {/wsztczich} spëtac, czë...?</foreignWord>
+        <nativeWord>Chciałbym się państwa {/wszystkich} spytać, czy...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mógł bë të mie rzec, czë...?</foreignWord>
+        <nativeWord>Mógłbyś mi powiedzieć, czy...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, a ò co {chòdzy / jidze}?</foreignWord>
+        <nativeWord>Tak, a o co chodzi?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòglë wë bë mie pòwtórzëc?</foreignWord>
+        <nativeWord>Mógłby mi pan to powtórzyć?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë chcôł, żebë të mie to pòwtórzył.</foreignWord>
+        <nativeWord>Chciałbym, żebyś mi to powtórzył.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë chcôł, żebë të mie to powtórzyła.</foreignWord>
+        <nativeWord>Chciałbym, żebyś mi to powtórzyła.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Wez / Wezże} mie to {pòwtórz / pòwtórzë}!</foreignWord>
+        <nativeWord>Powtórz mi to!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë {prosił / prosył}, żebë wë mie to jesz rôz powtórzelë.; Jô bë {prosił / prosył}, żebë pani mie to jesz rôz pòwtórzëła.</foreignWord>
+        <nativeWord>Prosiłabym, aby mi to pani powtórzyła.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mógł bë të gadac pòmali?</foreignWord>
+        <nativeWord>Mogłabyś mówić wolniej?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mògła të bë përznã pòmali {gadac / mówic}?</foreignWord>
+        <nativeWord>Mogłabyś nieco wolniej mówić?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czejbë wë chcelë tak përznã pòmali gadac, tej jô bë lepi rozmiôł.</foreignWord>
+        <nativeWord>Gdyby pan zechciał mówić nieco wolniej, lepiej bym zrozumiał.; Gdyby pani zechciała mówić nieco wolniej, lepiej bym zrozumiał.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Mówce / gadôjce} perzinkã pòmalij. Jo? Bò jô ni mògã was tak bëlno rozmiôc?</foreignWord>
+        <nativeWord>Niech pan mówi nieco wolniej, bo trudno mi pana zrozumieć.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Mówce / gadôjce} perzinkã pòmalij. Jo? Bò jô ni mògã was tak bëlno rozmiôc?</foreignWord>
+        <nativeWord>Niech pani mówi nieco wolniej, bo trudno mi panią zrozumieć.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Mów / mówkôj / gadôj} kąsk pòmali, jo?</foreignWord>
+        <nativeWord>Mów nieco wolniej, dobrze?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, a ò co chòdzy?</foreignWord>
+        <nativeWord>Słucham, o co chodzi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, ò co jidze?; ò czim të gôdôsz?; ò czim wa gôdôta?</foreignWord>
+        <nativeWord>Tak, o {co idzie / czym jest mowa}?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ò {czim / ò kògóm} wa {gôdôta / mówita}?</foreignWord>
+        <nativeWord>O kim mówicie?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kògò {të môsz / wë môce} na mëslë?</foreignWord>
+        <nativeWord>Kogo {masz /ma pan /ma pani} na myśli?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ò {czim / kògóm} të mëslisz?</foreignWord>
+        <nativeWord>O kim myślisz?; Kogo masz na myśli?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ò czim të terô {mëslisz / rozmiszlôsz}?</foreignWord>
+        <nativeWord>O czym teraz {myślisz / rozmyślasz}?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>W jaczi sprawie wë przëszlë?; Z czim wë przëszlë?</foreignWord>
+        <nativeWord>W jakiej sprawie pani przybyła?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co wë brëkùjece?</foreignWord>
+        <nativeWord>Co {pan/ pani} potrzebuje?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czegò {wami / wóm} je trzeba?</foreignWord>
+        <nativeWord>Co {panu / pani} potrzeba?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Za czim të przëszed?</foreignWord>
+        <nativeWord>Po co przyszedłeś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Za czim të przëszła?</foreignWord>
+        <nativeWord>Po co przyszłaś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>W jaczi sprawie?</foreignWord>
+        <nativeWord>W jakiej sprawie?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môsz të jaką sprawã do niegò?</foreignWord>
+        <nativeWord>Masz jakąś sprawę (do załatwienia) z nim?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môsz të jaką sprawã do ni?</foreignWord>
+        <nativeWord>Masz jakąś sprawę (do załatwienia) z nią?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co të chcesz?</foreignWord>
+        <nativeWord>Co chcesz?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co të chcôł?</foreignWord>
+        <nativeWord>Co chciałeś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Co të {chca / chcała}?</foreignWord>
+        <nativeWord>Co chciałaś?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mògã jô...?</foreignWord>
+        <nativeWord>Czy mogę...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòżemë më...?</foreignWord>
+        <nativeWord>Czy możemy...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mógbe jô...?</foreignWord>
+        <nativeWord>Czy mógłbym...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mògłabë jô...?; Mògła jô bë...?</foreignWord>
+        <nativeWord>Czy mogłabym..?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòóglë më bë...?</foreignWord>
+        <nativeWord>Czy moglibyśmy...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mògła wa bë...?; Mògłabë wa...?</foreignWord>
+        <nativeWord>Czy moglibyście...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môta wa tu gdze telefón?</foreignWord>
+        <nativeWord>Czy macie tu gdzieś telefon?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dze tu ù waju je {szituz / bùdka / ùsôdka / ùstãp}?</foreignWord>
+        <nativeWord>Gdzie tu u was jest ubikacja?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë chcôł ùmëc rãce.</foreignWord>
+        <nativeWord>Chciałbym umyć ręce.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Gdze tu je ùmiwalka?</foreignWord>
+        <nativeWord>Gdzie jest umywalka?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dze je ù waju {kątnica / łazienka}?</foreignWord>
+        <nativeWord>Gdzie jest u was łazienka?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòże tu ù waju sã dze {ùmëc / wëkąpac}?</foreignWord>
+        <nativeWord>Czy można skorzystać z łazienki?; Można tu u was gdzieś się {umyć / wykąpać}?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Naléze sã ù {ce / cebie} cos do {pisaniô / pisaniégò}?</foreignWord>
+        <nativeWord>Czy znajdzie się u ciebie coś do pisania?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jaczi {pióro / blifk}?</foreignWord>
+        <nativeWord>Jakieś {pióro / ołówek}?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ni môsz të czegò do {picô / napicô / napicégò}?</foreignWord>
+        <nativeWord>Nie masz tam czegoś do picia?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czejbë tak bëło përznã pitkù?</foreignWord>
+        <nativeWord>Gdyby tak było trochę napoju.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môce wë mòże...?</foreignWord>
+        <nativeWord>Ma {pan /pani} może...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ni môce wë dze, czasã...?</foreignWord>
+        <nativeWord>Nie ma {pan / pani} przypadkiem...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môta wa tu mòże...?</foreignWord>
+        <nativeWord>Macie tu może...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòglë wë bë mie {halac / przëniesc} cos do {picô / picégò}?</foreignWord>
+        <nativeWord>Mogłaby mi pani przynieść coś do picia?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dôjta mie pic!; Dôjta cos do {picô / picégò}.</foreignWord>
+        <nativeWord>Dajcie mi cos do picia?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Chcece wë sã napic kawë?</foreignWord>
+        <nativeWord>Napije się {pan / pani} kawy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>A mòze lepi arbatë?</foreignWord>
+        <nativeWord>A może lepiej herbaty?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë pijice kôwkã?</foreignWord>
+        <nativeWord>{Pan / Pani} pije kawę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë bë wòlëlë (mów: łelëlë) arbatkã?</foreignWord>
+        <nativeWord>Pan wolałby herbatkę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dôj mie lepi cos zëmnégò.</foreignWord>
+        <nativeWord>Dôj mi raczej cos zimnego.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tej mòże òranżadã?</foreignWord>
+        <nativeWord>Więc może oranżadę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak wë {chcece / wòlice}.</foreignWord>
+        <nativeWord>Jak {pan / pani} woli.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak të so żëczisz.</foreignWord>
+        <nativeWord>Jak sobie życzysz.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Prosbë i zëczbë</foreignWord>
+        <nativeWord>Prośby i życzenia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô żëczã tobie.</foreignWord>
+        <nativeWord>Życzę ci.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Më żëczimë wama.</foreignWord>
+        <nativeWord>Życzymy wam:</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wszëtczégò nôlepszégò!</foreignWord>
+        <nativeWord>Wszystkiego najlepszego!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dobrégò {zdrowiô / zdrowiégò}!</foreignWord>
+        <nativeWord>Dobrego zdrowia!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wiele zdrówka!</foreignWord>
+        <nativeWord>Wiele zdrówka!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Żebë ce dobrze szło!</foreignWord>
+        <nativeWord>Powodzenia tobie!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Żebë wama dobrze szło!</foreignWord>
+        <nativeWord>Powodzenia wam!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Żebë wami dobrze szło!</foreignWord>
+        <nativeWord>Powodzenia panu!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wiele zwënégów w robòce!</foreignWord>
+        <nativeWord>Wiele sukcesów w pracy!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bòże przeżegnôj!</foreignWord>
+        <nativeWord>Smacznego!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Szczestlëwi drodżi!</foreignWord>
+        <nativeWord>Szczęśliwej podróży!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wiesołëch Swiãt!</foreignWord>
+        <nativeWord>Wesołych Świąt!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Ùbëtkù / Zmiru} i Bòżégò żegnaniô na {Gòdë / Bòżé Narodzenié}!</foreignWord>
+        <nativeWord>Spokoju i Bożego błogosławieństwa na Boże Narodzenie!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Szczëstlëwégò Nowego Rokù!</foreignWord>
+        <nativeWord>Szczęśliwego Nowego Roku!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Na {Jastrë / Wiôlgą Noc}, amacznygò jôjka i bëlnégò dëgùsa!</foreignWord>
+        <nativeWord>Na Wielkanoc, smacznego jajka i porządnego dyngusa!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Z leżnotë jimieninów zjiszczniô sã pragniączk.</foreignWord>
+        <nativeWord>Z okazji imienin spełnienia pragnień.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Z leżnotë roczëznë zjiszczniô sã pragniączk.</foreignWord>
+        <nativeWord>Z okazji urodzin spełnienia pragnień.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Chùtczégò wëzdrowieniô!</foreignWord>
+        <nativeWord>Szybkiego wyzdrowienia!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Żebë jes chùtkò nazôd béł zdrów!</foreignWord>
+        <nativeWord>Żebyś prędko powrócił do zdrowia!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Żebë jes chùtkò nazôd bëła zdrów!</foreignWord>
+        <nativeWord>Żebyś prędko powróciła do zdrowia!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dobrégò bawieniô!</foreignWord>
+        <nativeWord>Przyjemnej zabawy!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Bawi / Bawijta} sã dobrze {miło / fajno}.</foreignWord>
+        <nativeWord>{Baw / Bawcie} się {dobrze / mile / fajnie}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòwiédz le mie...</foreignWord>
+        <nativeWord>Powiedz no mi...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Słëchôj le, mòżesz të ie rzec...?</foreignWord>
+        <nativeWord>Słuchaj no, możesz mi powiedzieć...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòglë we bë mie rzec, czë...?</foreignWord>
+        <nativeWord>Może mi {pan / pani} powie, czy...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Słëchôjce le, pòwiédzce mie, czë...?</foreignWord>
+        <nativeWord>Proszę, niech {pan / pani} mi powie, czy...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mògła të bë mie rzec, czë...?</foreignWord>
+        <nativeWord>Mogłabyś mi powiedzieć, czy...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòwiédzce {/leno} mie, czë...?; Rzeczëce mie {/leno}, czë...?</foreignWord>
+        <nativeWord>Niech {/no} mi pan/i powie czy...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô móm do {ce / cebie} taka prosbã...</foreignWord>
+        <nativeWord>Mam do ciebie taką prośbę...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô móm do was taką wiôlga prosbã.</foreignWord>
+        <nativeWord>Mam do {pana / pani} wielką prośbę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czejbë wë bëlë tak dobri...; Czejbë pani bëła takô dobrô...</foreignWord>
+        <nativeWord>Gdyby była pani {tak / taka} uprzejma...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czejbë wë bëlë tak dobri...</foreignWord>
+        <nativeWord>Gdyby był pan tak uprzejmy...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë miôł do ce prosbã.</foreignWord>
+        <nativeWord>Miałbym do ciebie prośbę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Miôłbë të përznã czasu?; Miôł të bë përzinkã czasu?</foreignWord>
+        <nativeWord>Czy miałbyś trochę czasu?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Miabë të përznã czasu?; Mia të bë përzinkã czasu?</foreignWord>
+        <nativeWord>Czy miałabyś trochę czasu?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môce wë czas?</foreignWord>
+        <nativeWord>Czy ma {pan / pani} czas?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Môsz të czas?</foreignWord>
+        <nativeWord>Masz czas?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë chcôł...; Jô bë jem chcôł...</foreignWord>
+        <nativeWord>Chciałbym...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë chcała...; Jô bë chca...; Jô bë jem {chcała / chca}...</foreignWord>
+        <nativeWord>Chciałabym...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Chcôł të bë...?</foreignWord>
+        <nativeWord>Czy zechciałbyś...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòże të bë chcôł...?</foreignWord>
+        <nativeWord>Może byś chciał...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nie chcôł të bë...?</foreignWord>
+        <nativeWord>Nie chciałbyś...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Chca të bë...?; Mòże wa bë chcała...?</foreignWord>
+        <nativeWord>Czy zechciałabyś...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nie chca bë të czasã...?</foreignWord>
+        <nativeWord>Nie chciałabyś czasem...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Chca wa bë...?; Mòże wa bë chcała...?</foreignWord>
+        <nativeWord>Czy chcielibyście...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòże wë bë chcelë...?; Mòże pón bë chcôł...?</foreignWord>
+        <nativeWord>Zechciałby pan może...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nie chcelë wë bë...?; Mòże pani bë chcała...?</foreignWord>
+        <nativeWord>Czy nie zechciałaby pani...?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòże wë bë bëlë tak dobri i mie pòdelë tã torbã?</foreignWord>
+        <nativeWord>Może byłby pan tak uprzejmy i podał mi tę torbę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòglë wë bë mie pòmòc?; Mòżecë wë mie pòmòc?</foreignWord>
+        <nativeWord>Czy mógłby mi pan pomóc?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Bądzecë / Bãdzecë} wë mie mòglë pòmòc?</foreignWord>
+        <nativeWord>Będzie mi pan mógł pomóc?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòmòżesz të mie?</foreignWord>
+        <nativeWord>Pomożesz mi?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòmòżece wë mie?</foreignWord>
+        <nativeWord>Pomoże mi {pan/pani}?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòmòglë wë bë mie?; Mòże pón bë mie pòmógł?</foreignWord>
+        <nativeWord>Pomógłby mi pan?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòmòglë wë bë mie?; Mòże pani bë mie pòmògła?</foreignWord>
+        <nativeWord>Pomogłaby mi pani?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô przeprôszóm, że tak {wami zabiéróm czas / wami zawrôcóm głowã / wë mùszice sã przë mie tak mãczëc / wë môce tu ze mną robòtã / wë môce tu ze mną kłopòt}.</foreignWord>
+        <nativeWord>Przepraszam, że {pana / panią} fatyguję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô bë ce ò to baro prosył.</foreignWord>
+        <nativeWord>Bardzo bym cię o to prosił.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô was ò to baro proszã.</foreignWord>
+        <nativeWord>Bardzo {pana / panią} o to proszę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mie na tim baro zanôleżi.; Mie ò to baro chòdzy.</foreignWord>
+        <nativeWord>Bardzo mi na tym zależy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dlô mie to je baro wôżné.</foreignWord>
+        <nativeWord>Dla mnie to jest bardzo ważne.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòdzãkòwania</foreignWord>
+        <nativeWord>Podziękowania</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dzãkùjã.</foreignWord>
+        <nativeWord>Dziękuję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô baro dzãkùjã.</foreignWord>
+        <nativeWord>Bardzo dziękuję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wiôlgô dzãka!</foreignWord>
+        <nativeWord>Wielkie dzięki!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bóg zapłac.</foreignWord>
+        <nativeWord>Bóg zapłać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>'Bóg zapłac' wiele razy.</foreignWord>
+        <nativeWord>Wielokrotne 'Bóg zapłać'.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ni ma za co.</foreignWord>
+        <nativeWord>Nie ma za co.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To tam nie je nic.</foreignWord>
+        <nativeWord>To drobiazg.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nick nie szkòdzy.</foreignWord>
+        <nativeWord>Nic nie szkodzi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ni ma ò czim gadac.</foreignWord>
+        <nativeWord>Nie ma o czym mówić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô wama bãdã baro {dzãcznô / wdzãcznô / dłëżnô}.</foreignWord>
+        <nativeWord>Zostanę {panu / pani} zobowiązana.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Më jesmë wami {dzãczny / wdzãczny}.</foreignWord>
+        <nativeWord>Jesteśmy {panu / pani} wdzięczni.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô nie wiém, jak jô sã {òdwdzãczã / òdpłacã}.</foreignWord>
+        <nativeWord>Nie wiem, jak się {odwdzięczę / odpłacę}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wezta serdeczno pòdzãkùjta òd nas.</foreignWord>
+        <nativeWord>Podziękujcie serdecznie w naszym imieniu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wezta serdeczno pòdzãkùjta òd nas tim wajim drëchóm.</foreignWord>
+        <nativeWord>Proszę waszym kolegom serdecznie podziękować.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak tej jesz rôz za wszëtkò baro dzãkùjã.</foreignWord>
+        <nativeWord>Zatem jeszcze raz za wszystko bardzo dziękuję.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Òdpòwiescë twierdzącé, przëswiôdczającé, zgôdzanié sã.</foreignWord>
+        <nativeWord>Odpowiedzi twierdzace, wyrażające zgodę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo.</foreignWord>
+        <nativeWord>Tak.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, jo.</foreignWord>
+        <nativeWord>Tak, tak.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në jo.</foreignWord>
+        <nativeWord>No tak.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak je.; Jo, tak to je.; Tak to je.</foreignWord>
+        <nativeWord>Tak jest.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kò jo.; Prôwda je.; To je prôwda.</foreignWord>
+        <nativeWord>Słusznie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ale pewno.; Kò pewno.; Jo, gwësno.; Gwës jo.; Ale, kò gwës.; Pewno, że jo.</foreignWord>
+        <nativeWord>Naturalnie.; Oczywiście.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak nôbarżi.</foreignWord>
+        <nativeWord>Jak najbardziej.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Na pewno.; Gwësno. (òbôcz: Naturalnie)</foreignWord>
+        <nativeWord>Na pewno.; Niewątpliwie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To sã rozmieje samò przez sebie.</foreignWord>
+        <nativeWord>To się rozumie samo przez się.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, kò to je widzec.; Ne kò to kòżdi wié.</foreignWord>
+        <nativeWord>Przecież to jasne, oczywiste.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Baro proszã.; Jô baro proszã.</foreignWord>
+        <nativeWord>Proszę bardzo.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>A {jak / jakùż}!; Kò pewno!</foreignWord>
+        <nativeWord>A jakże!; Oczywiście!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Baro chãtno.; Baro rôd.</foreignWord>
+        <nativeWord>Bardzo chętnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Z miłą chãcą.</foreignWord>
+        <nativeWord>Z miłą chęcią.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô, chãtno.; Jô, ale, baro rôd.</foreignWord>
+        <nativeWord>Chętnie.; Z przyjemnością.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, dobrze, ale...</foreignWord>
+        <nativeWord>Owszem, ale...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, të môsz prôwdã.</foreignWord>
+        <nativeWord>Tak, masz rację.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jo, wë môce prôwdã.</foreignWord>
+        <nativeWord>Ma {pan / pani} rację.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wa wszëtcë môta prôwdã.</foreignWord>
+        <nativeWord>Wszyscy macie rację.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ni ma sã ò co spierac.</foreignWord>
+        <nativeWord>Nie ma się co sprzeczać.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To je jasnô sprawa.</foreignWord>
+        <nativeWord>To sprawa jasna.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To je pewné.; To je gwësné.</foreignWord>
+        <nativeWord>To jest pewne.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To je piãkno.; Fejno.; To je fejn.</foreignWord>
+        <nativeWord>Świetnie. Fajnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To mie sã widzy.</foreignWord>
+        <nativeWord>To mi się podoba.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Zgòda.</foreignWord>
+        <nativeWord>Zgoda.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã co do tegò zgôdzóm.; Co to te, jô jem zgòdą.</foreignWord>
+        <nativeWord>Zgadzam się co do tego.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã z tobą {zgôdzóm / zgôdzajã}.</foreignWord>
+        <nativeWord>Zgadzam się z tobą.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tu jô sã z tobą zgòdzã.</foreignWord>
+        <nativeWord>Zgodzę się tu z tobą.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tu jô sã mògã z wami agòdzëc.</foreignWord>
+        <nativeWord>Tu mogę się z {panem / panią} zgodzić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Żelë jidze ò nã sprawã, to jô sã z wama zgôdzóm.</foreignWord>
+        <nativeWord>Zgadzam się z wami, jeśli chodzi o tę sprawę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem za tim.; Jô za tim jem.</foreignWord>
+        <nativeWord>Jestem za tym.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô téż jem za tim.; Jô téż za tim jem.</foreignWord>
+        <nativeWord>Ja także za tym jestem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô ni móm nick procëm temù.</foreignWord>
+        <nativeWord>Nie mam nic przeciwko temu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô nie jem temù procëm.; Jô procëm temù nie jem.</foreignWord>
+        <nativeWord>Nie jestem temu przeciwny.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem te samégò {zdaniô / zdaniégò}.; Jô jem ti sami {ùdbë / nôdbë}.</foreignWord>
+        <nativeWord>Jestem tego samego zdania.; Mam taki sam pogląd.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô móm no jistné zdanié, jak të môsz.</foreignWord>
+        <nativeWord>Mam takie samo zdanie, jak ty.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô widzã, że tu, co do ti sprawë, më sã zgôdzómë.</foreignWord>
+        <nativeWord>Widzę, że co do tego się zgadzamy oboje.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô zrobiã wszëtkò, co bądã mógł.</foreignWord>
+        <nativeWord>Zrobię wszystko, co będę mógł.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô zrobiã wszëtkò, co bądã mògła.</foreignWord>
+        <nativeWord>Zrobię wszystko, co będę mogła.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë mòżecë na mie rëchòwac.</foreignWord>
+        <nativeWord>Może {pan / pani} na mnie liczyć.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë mòżecë sã na mie {zdac / spùscëc}.</foreignWord>
+        <nativeWord>Zostaw to mnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Òstaw / Òstawi} to mie. ;Rechùj le na mie.; Spùscë le sã na mie.; Wez le sã na mie zdôj.; Dôj le sa to mie.</foreignWord>
+        <nativeWord>Zdaj {/no} się na mnie.; Zostaw to mnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô mëslã, ze wszëtkò pùdze dobrze.</foreignWord>
+        <nativeWord>Myślę, że wszystko pójdzie dobrze.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô mëslã, ze wszëtkò pùdze wedle naszi {mëslë / ùdbë}.</foreignWord>
+        <nativeWord>Myślę, że wszystko pójdzie po naszej myśli.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Më jesmë {pòdobnégò / wnetk tegò samégò} zdaniô.</foreignWord>
+        <nativeWord>Jesteśmy podobnego zdania.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Kò tej chcemë le bëc dobri mëslë.</foreignWord>
+        <nativeWord>A więc bądźmy dobrej myśli.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòżemë miec nôdzejã, że...</foreignWord>
+        <nativeWord>Możemy mieć nadzieję, że...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô téż tak samò mëslã.</foreignWord>
+        <nativeWord>I ja tak samo myślę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To są jakbë mòje {mëslë / słowa}.</foreignWord>
+        <nativeWord>Jakby mi to z ust wyjął.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem ò tim przekònóny</foreignWord>
+        <nativeWord>Jestem o tym przekonany.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem ò tim przekònónô.</foreignWord>
+        <nativeWord>Jestem o tym przekonana.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã sóm ò tim {dokònôł / przekònôł}.; Jo, jô sã móm ò tim przekònóné.</foreignWord>
+        <nativeWord>Tak, sam się o tym przekonałem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë mie przekònelë.</foreignWord>
+        <nativeWord>Przekonał mnie pan.; Przekonała mnie pani.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tim të mie terô przekònôł.</foreignWord>
+        <nativeWord>Tym, teraz mnie przekonałeś.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tim të mie terô przekòna.</foreignWord>
+        <nativeWord>Tym, teraz mnie przekonałaś.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem ò tim czësto przekònóny</foreignWord>
+        <nativeWord>Jestem o tym zupełnie przekonany.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem ò tim czësto przekònónô.</foreignWord>
+        <nativeWord>Jestem o tym zupełnie przekonana.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã tegò dokònôł.</foreignWord>
+        <nativeWord>Doswiadczyłem tego.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô sã tegò {dokòna/ dokònała}.; Jô sã móm tegò dokònóné.</foreignWord>
+        <nativeWord>Doświadczyłam tego.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Òdpòwiescë niéczącé, przékùjącé</foreignWord>
+        <nativeWord>Odpowiedzi przeczące</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nié. Nijak nié.</foreignWord>
+        <nativeWord>Nie, wcale nie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Na pewno nié.; Gwësno nié.</foreignWord>
+        <nativeWord>Na pewno nie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To nie dô radë.; To nie pùdze.; To sã nie dô.; To nie je mòżlëwé.; To je niemòżebné.</foreignWord>
+        <nativeWord>To wykluczone.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ale skąd.; Ale gdze tam.; Ale, gdzeż tam.; Ale, gdzebë tam.</foreignWord>
+        <nativeWord>Ale, skadże.; Gdzieżby tam.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To sã nie dô.; To nie wchôdô w rechùbã.</foreignWord>
+        <nativeWord>To nie wchodzi w rachubę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ò tim ni ma co nawet mëslëc.</foreignWord>
+        <nativeWord>Nawet nie ma co o tym marzyć.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>W niżódnym przëpôdkù.</foreignWord>
+        <nativeWord>W żadnym wypadku.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>W niżóden spòsób.; Na niżóden ôrt.</foreignWord>
+        <nativeWord>W żaden sposób.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô jem {jinégò / jinszégò} {zdaniô / zdaniégò}.; Jô jem {jiny / jinszi} ùdbë.</foreignWord>
+        <nativeWord>Jestem innego zdania.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô móm {përznã / kąsk} {jinszé zdanié / jinszą nôdbã / jiną ùdbã} ò {ti / ny} sprawie.</foreignWord>
+        <nativeWord>Mam nieco inne {zdanie / pogląd} na tę sprawę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mie je przikro, ale jô mùszã òdmówic.</foreignWord>
+        <nativeWord>Jest mi przykro, ale muszę odmówić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Në, mie je przikro, ale...; Trudno, ale...</foreignWord>
+        <nativeWord>Niestety, ale...</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nié, jô sã nie zgôdzóm.</foreignWord>
+        <nativeWord>Nie, nie zgadzam się.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Të ni môsz prôwdë.</foreignWord>
+        <nativeWord>Nie masz racji.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë ni môce prôwdë.</foreignWord>
+        <nativeWord>Nie ma {pan / pani} racji.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Të sã milisz, to nie je tak.</foreignWord>
+        <nativeWord>Mylisz się, to nie tak.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wë sã milicë.; Wë jesce w błãdze.</foreignWord>
+        <nativeWord>{Pan / Pani} się myli.; {Pan / Pani} jest w błędzie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To nie je tak, jak wë mëslice.</foreignWord>
+        <nativeWord>To nie jest tak, jak {pan / pani} myśli.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To wëzdrzi czësto jinaczi.</foreignWord>
+        <nativeWord>To wygląda zupełnie inaczej.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak më ni mòżimë robic.; Nié, tak më nie mdzemë robilë.</foreignWord>
+        <nativeWord>Nie wolno nam tak postępować.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nié, tak sã nie pòstãpùje.</foreignWord>
+        <nativeWord>Nie, tak się nie postępuje.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak sã nie robi.</foreignWord>
+        <nativeWord>Tak się nie robi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak wa ni mùszita robic.; Wa tak nie róbta.; Tak wa ni mòzeta robic.</foreignWord>
+        <nativeWord>Nie wolno wam tak postępować.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tak të ni mòżesz robic.</foreignWord>
+        <nativeWord>Tak nie możesz postępować.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Më ni mómë prawa tak {pòstãpic / zrobic}.; Tak më ni mòżemë zrobic.</foreignWord>
+        <nativeWord>Nie mamy prawa tak postąpić.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Òdpòczink na Kaszëbach</foreignWord>
+        <nativeWord>Wypoczynek na Kaszubach</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô przëjachôł do waju na ùrlop.</foreignWord>
+        <nativeWord>Przyjechałem do was na urlop.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Më sã baro ceszimë.</foreignWord>
+        <nativeWord>Bardzo się cieszymy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ò wiele më mdzemë mòglë, më wama chãtno pòmòżimë.</foreignWord>
+        <nativeWord>W miarę możliwości chętnie wam pomożemy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô mëslã bëc ù waju tak długò, jaż wa mie nie wënëkôta.</foreignWord>
+        <nativeWord>Zamierzam być u was tak długo, aż mnie nie wypędzicie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Chcemë le mieć nôdzejã, że pògòda sã {ùtrzimô / ùtrzimie}.</foreignWord>
+        <nativeWord>Miejmy nadzieję, że pogoda się utrzyma.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Gdze më bë mòglë jesc pôłnia?</foreignWord>
+        <nativeWord>Gdzie moglibyśmy jadać obiady?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nama sã tuwò baro widzy!</foreignWord>
+        <nativeWord>Bardzo nam się tutaj podoba!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wanoga - wëlecënk</foreignWord>
+        <nativeWord>Wycieczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dokądka më pòjedzemë na wanogã?</foreignWord>
+        <nativeWord>Dokąd pojedziemy na wycieczkę?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòdjedzemë sztëk autôłã.</foreignWord>
+        <nativeWord>Podjedziemy kawałek autem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nie {zabôczë / zabądze} wząc dëczi!</foreignWord>
+        <nativeWord>Nie zapomnij zabrać koca!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Òstóniemë òb noc ù cotczi.</foreignWord>
+        <nativeWord>Zostaniemy na noc u cioci.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wòlisz wanożëc czë jezdzëc na kòle?</foreignWord>
+        <nativeWord>Wolisz chodzić pieszo czy jeździć rowerem?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pòmali!</foreignWord>
+        <nativeWord>Wolniej!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nié tak chùtkò!</foreignWord>
+        <nativeWord>Nie tak prędko!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô rëchùjã, że më zdążimë przed wieczorã.</foreignWord>
+        <nativeWord>Mam nadzieję, że zdążymy przed wieczorem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tuńc</foreignWord>
+        <nativeWord>Taniec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Lubicë wë tëńcowac?</foreignWord>
+        <nativeWord>Czy lubi {pan /pani} tańczyć?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Lubisz të tëńcowac?</foreignWord>
+        <nativeWord>Lubisz tańczyć?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mòże më so zatëńcëjemë?</foreignWord>
+        <nativeWord>Może sobie zatańczymy?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Të baro fejn tëńcëjesz!</foreignWord>
+        <nativeWord>Świetnie tańczysz!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Bóg zapłac za pòchwałã!</foreignWord>
+        <nativeWord>Dziękuję za komplement!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jak të môsz na miono?</foreignWord>
+        <nativeWord>Jak masz na imię?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Jô tak nie jem na te nowé tuńce.</foreignWord>
+        <nativeWord>Nie przepadam za tymi nowymi tańcami.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Czë më bë sã mògła witro gdze spòtkac?</foreignWord>
+        <nativeWord>Czy moglibyśmy się jutro gdzieś spotkać?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wiodro.; Pògòda.</foreignWord>
+        <nativeWord>Pogoda.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mómë dzysô piãkné wiodro!</foreignWord>
+        <nativeWord>Piękną mamy dziś pogodę!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To jidze na deszcz.</foreignWord>
+        <nativeWord>Idzie deszcz.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Taczi kòmùdny dzéń.</foreignWord>
+        <nativeWord>Taki ponury dzień.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ale to sã łiskało!</foreignWord>
+        <nativeWord>Ale się błyskało!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>To jidze dôka.; Mgła sã zwlôkô.</foreignWord>
+        <nativeWord>Mgła nadciąga.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ale dzysô je {chëc / skwôr / spór / ceplëzna / gòrąc / praga / gòrączka}.</foreignWord>
+        <nativeWord>Ale dziś upał.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

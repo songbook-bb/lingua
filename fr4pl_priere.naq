@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="5">
+    <word>
+        <foreignWord>NOTRE PÈRE</foreignWord>
+        <nativeWord>OJCZE NASZ</nativeWord>
+        <score>4</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Notre Père qui es aux cieux{!/.}</foreignWord>
+        <nativeWord>Ojcze nasz, {któryś jest/który jesteś} w niebie</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Que ton nom soit sanctifié,</foreignWord>
+        <nativeWord>święć się imię Twoje,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>que ton règne vienne,</foreignWord>
+        <nativeWord>przyjdź królestwo Twoje,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>que ta volonté soit faite</foreignWord>
+        <nativeWord>bądź wola Twoja,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sur la terre comme au ciel.</foreignWord>
+        <nativeWord>jako w niebie tak i na ziemi.</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Donne-nous aujourd'hui notre pain quotidien,</foreignWord>
+        <nativeWord>Chleba naszego powszedniego daj nam dzisiaj,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pardonne-nous nos offenses,</foreignWord>
+        <nativeWord>i odpuść nam nasze winy,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>comme nous aussi nous pardonnons à ceux qui nous ont offensés,</foreignWord>
+        <nativeWord>jako i my odpuszczamy naszym winowajcom,</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ne nous induis pas en tentation,</foreignWord>
+        <nativeWord>i nie wódź nas na pokuszenie,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mais délivre-nous du malin. Amen.</foreignWord>
+        <nativeWord>ale nas zbaw ode złego. Amen.</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

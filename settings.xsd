@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:element name = "settings" type = "settingsType"/>
+
+<xsd:complexType name = "settingsType">
+  <xsd:sequence>
+   <xsd:element name = "wordsInLesson" type = "xsd:int" />
+   <xsd:element name = "maxScore" type = "xsd:int" />
+   <xsd:element name = "incScore" type = "xsd:int" />
+   <xsd:element name = "decScore" type = "xsd:int" />
+   <xsd:element name = "direction" type = "xsd:int" />
+   <xsd:element name = "strictMode" type = "xsd:int"/>
+  </xsd:sequence>
+</xsd:complexType>
+</xsd:schema>
+
