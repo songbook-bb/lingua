@@ -11,7 +11,7 @@
 Name "LingMEM"
 
 ; The file to write
-OutFile "lingMEM-v1-18.exe"
+OutFile "LingMEM-v1-23.exe"
 
 ; The default installation directory
 #InstallDir $PROGRAMFILES\LingMEM
@@ -42,7 +42,7 @@ UninstPage instfiles
 
 ; The stuff to install
 Section "LingMEM (required)"
-
+  
   IfFileExists $INSTDIR\*.* 0 overWriteInstall
    MessageBox MB_YESNO "W systemie jest ju¿ obecna wersja programu LingMEM. Mam kontynuowaæ mimo to?" IDYES overWriteInstall
      Quit
@@ -56,13 +56,27 @@ Section "LingMEM (required)"
   ; Put files there
   SetOverwrite On  
   File /r LingMEM  
-  
-  SetOutPath $TEMP
-  File /r jre
-  ExecWait "$TEMP\jre\java_jre_i586.exe"
-  Delete "$TEMP\jre\java_jre_i586.exe"  
 
   SetOutPath $INSTDIR\LingMEM
+
+; Definitions for Java 1.6 Detection
+!define JRE_VERSION "1.6"
+!define JRE_URL "http://javadl.sun.com/webapps/download/AutoDL?BundleId=52261"
+  
+  ReadRegStr $2 HKLM "SOFTWARE\JavaSoft\Java Runtime Environment" \
+             "CurrentVersion"
+  StrCmp $2 ${JRE_VERSION} skipJREInstall
+  StrCmp $2 "" runJREInstall  
+  goto skipJREInstall 
+      ; MessageBox MB_YESNO "W systemie jest ju¿ obecna Java JRE w wersji $2. Czy mam zainstalowaæ wersjê ${JRE_VERSION} mimo to?" IDYES runJREInstall
+  
+runJREInstall:
+
+  Call DownloadAndInstallJRE
+ ; FOR off-line Installer 
+ ; Call CopyAndInstallJRE
+  
+skipJREInstall:
 
   WriteRegStr HKLM SOFTWARE\NSIS_LingMEM "Install_Dir" "$INSTDIR"
     
@@ -106,3 +120,22 @@ Section "Uninstall"
     Quit
   finishDeinstall:  
 SectionEnd
+
+Function DownloadAndInstallJRE
+        MessageBox MB_OK "LingMEM u¿ywa darmowego œrodowiska Java JRE w wersji ${JRE_VERSION}, zostanie ono pobrane i zainstalowane."
+        StrCpy $2 "$TEMP\Java_JRE_1.6.exe"
+        NSISdl::download /TIMEOUT=30000 "${JRE_URL}" "$2"
+        Pop $R0 ;Get the return value
+                StrCmp $R0 "success" +3
+                MessageBox MB_OK "B³¹d podczas pobierania : $R0"
+                Quit
+        ExecWait $2
+        Delete $2
+FunctionEnd
+
+Function CopyAndInstallJRE
+  ;SetOutPath $TEMP
+  ;File /r jre
+  ;ExecWait "$TEMP\jre\java_jre_i586.exe"
+  ;Delete "$TEMP\jre\java_jre_i586.exe"  
+FunctionEnd
