@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <settings>
-    <wordsInLesson>8</wordsInLesson>
+    <wordsInLesson>10</wordsInLesson>
     <autoSuggest>0</autoSuggest>
     <maxScore>0</maxScore>
     <incScore>1</incScore>

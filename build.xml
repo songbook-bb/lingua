@@ -11,14 +11,15 @@
   <property name="CONVERT.PROG" value="convert.bat"/>
   <property name="PROG.DIR" value="Lingmem"/>		
   <property name="PUBLISH" value="publish"/>	
-  <property name="JRE" value="jre"/>	
+	<!--  <property name="JRE" value="jre"/> -->	
 	
   <!-- LOCATION PROPERTIES -->	
   <property name="src" location="src"/>
+  <property name="test" location="test"/>
   <property name="root" location="."/>	
   <property name="build" location="build"/>
   <property name="publish"  location="publish"/>
-  <property name="jre"  location="publish/${JRE}"/>
+  <!-- <property name="jre"  location="publish/${JRE}"/> -->
   <property name="lingmem" location="publish/${PROG.DIR}"/>	
   <property name="lib"  location="lib"/>  	
   <property name="antlib"  location="antlib"/>	
@@ -35,9 +36,10 @@
   	    <fileset dir=".">
   	        <include name="**/*.jar"/>
   	    </fileset>
-  	</unzip>  	
+  	</unzip>
+  	
   	<copy todir="${build}">
-  	  <fileset dir="${bin}">
+  	  <fileset dir="${src}">
   	    <include name="**/*.properties"/>  	    
   	  </fileset>
   	</copy>
@@ -46,6 +48,7 @@
   <target name="compile" depends="init" description="compile the source">
     <!-- Compile the java code from ${src} into ${build} -->
     <javac encoding="UTF8" srcdir="${src}" debug="true" destdir="${build}"/>
+  	
   </target>	
 	
   <target name="prod.props">
@@ -58,16 +61,16 @@
 	
   <target name="deploy" depends="compile"
         description="generate the distribution" >
-    <mkdir dir="${jre}"/>
+    <!-- <mkdir dir="${jre}"/> -->
     <!-- Create the distribution directory -->
     <mkdir dir="${lingmem}"/>  	
   	<mkdir dir="${lingmem}/resource"/>
   	<mkdir dir="${lingmem}/resource/mp3"/>
-  	<copy todir="${jre}">
+  	<!-- <copy todir="${jre}">
   	  <fileset dir="${resource}/exe">  	  	  	  	
   	    <include name="**/*.exe"/>  	    
   	  </fileset>
-  	</copy>
+  	</copy> -->
   	<copy todir="${publish}">
   	  <fileset dir="${resource}/script">  	  	  	  	
   	    <include name="**/*.nsi"/>  	    
@@ -164,5 +167,21 @@
 		<exec dir="nsis_exe" executable="wine" os="Linux" output="dir.txt">
 		  <arg line=" makensis.exe ../publish/lingmem.nsi "/>
 		</exec>	
-	</target>
+	</target>	
+		
+	 <path id="cp">
+	   <pathelement location="antlib/testng-6.8.jar"/>
+	   <pathelement location="build"/>
+	 </path>
+	 
+	 <taskdef name="testng" classpathref="cp" classname="org.testng.TestNGAntTask" />
+	 
+	 <target name="test">
+	 	<mkdir dir="${build}"/>
+	 	<javac encoding="UTF8" srcdir="${test}" debug="true" destdir="${build}"/>
+	 	<testng classpathref="cp" groups="fast">
+	     <classfileset dir="build" includes="wordtutor/*.class"/>
+	   </testng>
+	 </target>
+	
 </project>

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[pl]=
+Comment=
+Exec=java -jar lingmem.jar
+GenericName[pl]=
+GenericName=
+Icon=/home/tomek/.local/share/icons/lingMEM.xpm
+MimeType=
+Name[pl]=LingMEM
+Name=LingMEM
+Path=/home/tomek/.wine/drive_c/LingMEM/Lingmem
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
