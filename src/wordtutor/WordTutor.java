@@ -1,6 +1,7 @@
 package wordtutor;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
@@ -101,7 +102,7 @@ public class WordTutor implements IWTSerializable {
    * @param file
    */  
   public void preparation(String file) {
-    currentDictFile = file;
+    setCurrentDictFile(file);
     direction = TranslateDirection.STRAIGHT;
     settings.loadFromXML();
 //    buildCurrentSoundSampleCoverMapIndex();    
@@ -190,6 +191,21 @@ public class WordTutor implements IWTSerializable {
   public void addWordInImport(String foreignWord, String nativeWord) {
     words.add(foreignWord, nativeWord, 0);
   }
+
+  /**
+   * add new word by while importing from csv file
+   */
+  public void addWordInImport(String foreignWord, String nativeWord, String soundWord) {
+	Integer soundId = 0;  
+	try {
+		soundId = Integer.parseInt(soundWord);		
+	} catch (NumberFormatException nfe) {
+		logger.error(nfe.getMessage(), nfe);
+		System.exit(-1);
+	}
+    words.add(foreignWord, nativeWord, soundId);
+  }
+  
   
   public String chooseSoundSampleFileName() {
 //	  	logger.debug("fnMAP:"+getCurrentSoundSampleCoverMap());
@@ -208,6 +224,31 @@ public class WordTutor implements IWTSerializable {
   }
     
   
+  public void duplicateAllSoundFiles() throws IOException {
+	  buildCurrentSoundSampleCoverMapIndex();	  
+	  char startCharacterOffsetValue = 95;
+	  File lessonSampleDirectory = new File(Util.getAppProperties().getProperty("RESOURCE.PATH") + File.separator + Util.getAppProperties().getProperty("MP3.PATH") + File.separator+this.getCurrentDictFile().substring(0, this.getCurrentDictFile().indexOf(".")) + File.separator);
+	  if (lessonSampleDirectory.isDirectory()) {
+		  for (int i=1; i <= words.size(); i++) {
+			  int j = currentSoundSampleCoverMap.get(i);
+			  // copying only when there is at least one sample
+			  if (j>0) {
+				  int letterValue = (++j) + startCharacterOffsetValue;
+				  String currentDir = System.getProperty("user.dir");
+				  String srcFilePath = currentDir+File.separator+lessonSampleDirectory+File.separator+""+i+".mp3";
+				  String destFilePath = currentDir+File.separator+lessonSampleDirectory+File.separator+""+i+Character.toString((char)letterValue)+".mp3";
+				  File srcFile = new File(srcFilePath);
+				  File destFile = new File(destFilePath);
+				  logger.info(srcFilePath);
+				  logger.info(destFilePath);
+				  FileUtils.copyFile(srcFile, destFile);				  
+			  }
+		  }		  
+	  }
+	  
+	  
+  }
+  
 	/** Seek mp3 in certain resource directory 
 	 * 
 	 * This method alters hashMap - currentSoundSampleMap - key (is word phrase index)
@@ -218,7 +259,7 @@ public class WordTutor implements IWTSerializable {
 	public void buildCurrentSoundSampleCoverMapIndex() {
 		int maxWordsInLesson = words.size();
 		// maximum allowed number of sound samples 
-		int maxSamplesCounter = 5; 
+		int maxSamplesCounter = 7; 
 		char startCharacterOffsetValue = 95;
 		String[] extensions = { "mp3" };		
 		File lessonSampleDirectory = new File(Util.getAppProperties().getProperty("RESOURCE.PATH") + File.separator + Util.getAppProperties().getProperty("MP3.PATH") + File.separator+this.getCurrentDictFile().substring(0, this.getCurrentDictFile().indexOf(".")) + File.separator);
@@ -339,15 +380,28 @@ public class WordTutor implements IWTSerializable {
     return tmpId;
 
   }
-
-  public void addYetAnotherAnswer(String yetAnotherAnswer) {	  
-	  
+  /** Adds just typed answer to list of right answers  
+   * 
+   * @param yetAnotherAnswer - right phrase
+   * @param addToEnd - true (adds onto the end, false onto the beginning
+   */
+  public void addYetAnotherAnswer(String yetAnotherAnswer, boolean addToEnd) {
+  	// trim it first 
+  yetAnotherAnswer = yetAnotherAnswer.trim();
 	if (direction == TranslateDirection.STRAIGHT) {
-		String previousAnswer =  getIndexedWord(wordIndex).getNativeWord();		
-		getIndexedWord(wordIndex).setNativeWord(yetAnotherAnswer+Util.PHRASE_DELIMITER+previousAnswer);
+		String previousAnswer =  getIndexedWord(wordIndex).getNativeWord().trim();		
+		if (addToEnd) {
+			getIndexedWord(wordIndex).setNativeWord(previousAnswer+Util.PHRASE_DELIMITER+Util.SPACE+yetAnotherAnswer);			
+		} else {
+			getIndexedWord(wordIndex).setNativeWord(yetAnotherAnswer+Util.PHRASE_DELIMITER+Util.SPACE+previousAnswer);
+		}
 	} else {
-		String previousAnswer =  getIndexedWord(wordIndex).getForeignWord();		
-		getIndexedWord(wordIndex).setForeignWord(yetAnotherAnswer+Util.PHRASE_DELIMITER+previousAnswer);				
+		String previousAnswer =  getIndexedWord(wordIndex).getForeignWord();
+		if (addToEnd) {
+			getIndexedWord(wordIndex).setForeignWord(previousAnswer+Util.PHRASE_DELIMITER+Util.SPACE+yetAnotherAnswer);
+		} else {			
+			getIndexedWord(wordIndex).setForeignWord(yetAnotherAnswer+Util.PHRASE_DELIMITER+Util.SPACE+previousAnswer);			
+		}
 	}
 	// do not count last mistake (because the answer was OK)
 	Integer lastScore = getIndexedWord(wordIndex).getScore();
@@ -825,6 +879,7 @@ public class WordTutor implements IWTSerializable {
   }
 
   public void setCurrentDictFile(String currentDictFile) {
+	Util.setAppProperty("CURRENT.TEST.FILE", currentDictFile);  
     this.currentDictFile = currentDictFile;
   }
 

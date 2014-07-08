@@ -51,8 +51,19 @@ public class TestUtil extends TestCase {
 
 	@Test
 	public void test() {
-		Util.setupPropertyFile();
+		Util.loadAppProperties();
 		System.out.println(Util.getAppProperties());
 	}
+	@Test
+	public void testTabsWithPhraseDelimiter() {
+		String inputTestString = " \t ";
+		String resultTestString = Util.replaceTabsWithPhraseDelimiter(inputTestString);
+		assertEquals(resultTestString, Util.PHRASE_DELIMITER+Util.SPACE);
+		inputTestString = "Tomasz 	 Kazimierz 	 Vincent 	 Nakonieczny";
+		resultTestString = Util.replaceTabsWithPhraseDelimiter(inputTestString);
+		assertEquals(resultTestString, "Tomasz"+Util.PHRASE_DELIMITER+Util.SPACE+ 	 "Kazimierz"+Util.PHRASE_DELIMITER+Util.SPACE+ 	 "Vincent"+Util.PHRASE_DELIMITER+Util.SPACE+ 	 "Nakonieczny");		
+		//System.out.println(Util.getAppProperties());
+	}
 
+	
 }

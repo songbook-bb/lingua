@@ -163,6 +163,10 @@ public class Settings implements IWTSerializable {
 			return KeyboardButtonType.FRENCH;
 		case 6:
 			return KeyboardButtonType.CROATIAN;
+		case 7:
+			return KeyboardButtonType.LITHUANIAN;
+		case 8:
+			return KeyboardButtonType.NORWEGIAN;			
 			// ADD NEW KEYBOARD HERE	
 		}
 		return KeyboardButtonType.SPANISH;
@@ -176,6 +180,8 @@ public class Settings implements IWTSerializable {
 		if (keyboardEnumeration == KeyboardButtonType.ITALIAN) return 4;
 		if (keyboardEnumeration == KeyboardButtonType.FRENCH) return 5;
 		if (keyboardEnumeration == KeyboardButtonType.CROATIAN) return 6;
+		if (keyboardEnumeration == KeyboardButtonType.LITHUANIAN) return 7;
+		if (keyboardEnumeration == KeyboardButtonType.NORWEGIAN) return 8;
 		// ADD NEW KEYBOARD HERE
 		return 0;
 	}	

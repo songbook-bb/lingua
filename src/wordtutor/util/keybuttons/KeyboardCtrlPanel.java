@@ -81,6 +81,20 @@ public class KeyboardCtrlPanel {
   final String CHR = "\u010D";
   final String CHRR = "\u0107";  
   final String ZHR = "\u017E";
+  // LITEWSKIE
+  final String AL = "\u0105";
+  final String CL = "\u010D";    
+  final String EL = "\u0119";
+  final String ELL = "\u0117";  
+  final String IL = "\u012F";
+  final String SL = "\u0161";
+  final String UL = "\u0173";
+  final String ULL = "\u016B";
+  final String ZL = "\u017E";
+  // NORWESKIE 
+  final String NAE = "\u00E6";
+  final String NO = "\u00F8";    
+  final String NNA = "\u00E5";
   // NEW KEYBOARD KEYS DEFINITION HERE
   private final JPanel pLetters;
 
@@ -175,6 +189,20 @@ public class KeyboardCtrlPanel {
         addButtonToPanel(CHR, pLetters);
         addButtonToPanel(CHRR, pLetters);
         addButtonToPanel(ZHR, pLetters);        
+    } else if (langEnum == KeyboardButtonType.LITHUANIAN) {
+    		addButtonToPanel(AL, pLetters);
+        addButtonToPanel(CL, pLetters);
+        addButtonToPanel(EL, pLetters);
+        addButtonToPanel(ELL, pLetters);
+        addButtonToPanel(IL, pLetters);        
+        addButtonToPanel(SL, pLetters);
+        addButtonToPanel(UL, pLetters);
+        addButtonToPanel(ULL, pLetters);
+        addButtonToPanel(ZL, pLetters);        
+    } else if (langEnum == KeyboardButtonType.NORWEGIAN) {
+  		addButtonToPanel(NAE, pLetters);
+      addButtonToPanel(NO, pLetters);
+      addButtonToPanel(NNA, pLetters);    	
     }
     // ADD NEW KEYBOARD PANEL
   }

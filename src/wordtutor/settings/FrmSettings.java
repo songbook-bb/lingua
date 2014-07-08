@@ -64,6 +64,8 @@ public class FrmSettings extends JDialog implements ActionListener {
 	private JRadioButton rbItalian;
 	private JRadioButton rbFrench;
 	private JRadioButton rbCroatian;
+	private JRadioButton rbLithuanian;
+	private JRadioButton rbNorwegian;
 	// 	ADD NEW KEYBOARD button HERE
 	private boolean isEnabled = true;
 	
@@ -145,7 +147,11 @@ public class FrmSettings extends JDialog implements ActionListener {
           settings.setKeyboardType(KeyboardButtonType.FRENCH);
 		} else if(rbCroatian.isSelected()) {
 		  settings.setKeyboardType(KeyboardButtonType.CROATIAN);
-		} 
+		} else if(rbLithuanian.isSelected()) {
+			  settings.setKeyboardType(KeyboardButtonType.LITHUANIAN);
+		} else if(rbNorwegian.isSelected()) {
+			  settings.setKeyboardType(KeyboardButtonType.NORWEGIAN);
+		}  
 		// ADD NEW KEYBOARD selection HERE
 		settings.saveToXML();
 				
@@ -276,6 +282,10 @@ public class FrmSettings extends JDialog implements ActionListener {
      panelKeyboards.add(rbFrench);
      rbCroatian = new JRadioButton(Util.getLocalizedString("SETTINGS.RADIO.CROATIAN"));
      panelKeyboards.add(rbCroatian);
+     rbLithuanian = new JRadioButton(Util.getLocalizedString("SETTINGS.RADIO.LITHUANIAN"));
+     panelKeyboards.add(rbLithuanian);
+     rbNorwegian = new JRadioButton(Util.getLocalizedString("SETTINGS.RADIO.NORWEGIAN"));
+     panelKeyboards.add(rbNorwegian);
      // ADD NEW KEYBOARD init radio button HERE
      ButtonGroup bgKeyboards = new ButtonGroup();
      bgKeyboards.add(rbSpanish);
@@ -284,7 +294,9 @@ public class FrmSettings extends JDialog implements ActionListener {
      bgKeyboards.add(rbKashubian);
      bgKeyboards.add(rbItalian);
      bgKeyboards.add(rbFrench);
-     bgKeyboards.add(rbCroatian);     
+     bgKeyboards.add(rbCroatian);
+     bgKeyboards.add(rbLithuanian);
+     bgKeyboards.add(rbNorwegian);
      // ADD NEW KEYBOARD radio button HERE     
      switch (settings.getKeyboardType())
      {
@@ -294,7 +306,9 @@ public class FrmSettings extends JDialog implements ActionListener {
        case POLISH: rbPolish.setSelected(true);break;       
        case ITALIAN: rbItalian.setSelected(true);break;
        case FRENCH: rbFrench.setSelected(true);break;
-       case CROATIAN: rbCroatian.setSelected(true);break;       
+       case CROATIAN: rbCroatian.setSelected(true);break;
+       case LITHUANIAN: rbLithuanian.setSelected(true);break;
+       case NORWEGIAN: rbNorwegian.setSelected(true);break;
        // ADD NEW KEYBOARD setSelect HERE 
      }    	
      
@@ -318,6 +332,9 @@ public class FrmSettings extends JDialog implements ActionListener {
      
      setVisible(true);
      
+     // new JComboBox(Mood.values());
+     //  JComboBox<Mood> comboBox = new JComboBox<>();
+     //comboBox.setModel(new DefaultComboBoxModel<>(Mood.values()));
     }
     
   class CheckBoxListener implements ItemListener {

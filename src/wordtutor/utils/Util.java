@@ -3,7 +3,9 @@ package wordtutor.utils;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 import java.nio.ByteBuffer;
 import java.nio.charset.CharacterCodingException;
 import java.nio.charset.Charset;
@@ -25,16 +27,17 @@ import javax.media.PlugInManager;
 import javax.media.Time;
 import javax.media.format.AudioFormat;
 
+import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 
 public class Util {
-	public static final String programVersion = "1.18";
+	Logger logger = Logger.getLogger(Util.class);
+	public static final String programVersion = "1.23";
+	public static final String appconfigproperties = "appconfig.properties";
 	public static final String authorInfo = "Tomek Nakonieczny";
 	public static final String contactEmail = "tomek.nakonieczny@gmail.com";
-	//public static final String thanksList = "Paqui Garces, Zygmunt Hallman, Ludmiła Gołąbek, Mateusz Sondej, Ania Kierbedź, \n                          Kieran Diels & ";	
-	public static final String thanksList = "Paqui Garces, Zygmunt Hallman, Ludmiła Gołąbek, Mateusz Sondej, Ania Kierbedź, \n                         Paweł Studziński, Kieran Diels, Jill Lewis, Fr Brian McGinley, Madhubi Rita Gomes,\n                         Josipa Hudić, Sabine Zuch-Haischmann & Richard Baldock"; 
-	//public static final String thanksList = "Paqui Garces & Zygmuntowi Hallmanowi \n                              za użyczenie głosów i swego czasu.\n                              Ludmile Gołąbek za materiał po kaszubsku.\n                              Mateuszowi Sondej za muzykę w intro.\n                              Ani Kierbedź za korektę angielskiego.\n                              Kieranowi Diels za menu po flamandzku.\n";	
+	public static final String thanksList = "Paqui Garces, Zygmunt Hallman, Ludmiła Gołąbek, Mateusz Sondej, Ania Kierbedź, \n                         Paweł Studziński, Kieran Diels, Jill Lewis, Fr Brian McGinley, Madhubi Rita Gomes,\n                         Josipa Hudić, Sabine Zuch-Haischmann, Richard Baldock, Paulius Medziukevičius, \n                         Eustace Ugo, Basia Błasiak, Paul Noordveld, Eric Thierrij, Gerrit Mulder, Chantal Duijvelaar, \n                         Dennis Kasius, Alice Muhoza"; 
 	public static final int xMainPosition = 10; // 50
 	public static final int yMainPosition = 10; // 220
 	public static final int xMainSize = 780; // 880
@@ -95,12 +98,12 @@ public class Util {
 	public Util() {
 	}
 
-	public static void setupPropertyFile() {
+	public static void loadAppProperties() {
 		Logger logger = Logger.getLogger(Util.class);
 		if (appProperties == null) {
 			appProperties = new Properties();
 			try {
-				FileInputStream in = new FileInputStream("appconfig.properties");
+				FileInputStream in = new FileInputStream(appconfigproperties);
 				appProperties.load(in);
 				in.close();
 			} catch (Exception e) {
@@ -115,6 +118,24 @@ public class Util {
 		}
 	}
 
+
+	/**
+	 *  Store appconfig.properties values in file
+	 */
+	public static void storeAppProperties() {
+		Logger logger = Logger.getLogger(Util.class);
+		if (appProperties != null) {
+			try {
+				FileOutputStream out = new FileOutputStream(appconfigproperties);
+				appProperties.store(out, "Saved on program exit.");	
+			} catch (Exception e) {
+				e.printStackTrace();
+				logger.error(e, e);	
+				System.exit(-1);
+			}
+		}
+	}
+
 	/**
 	 * Gives an application property value on return
 	 * 
@@ -124,13 +145,35 @@ public class Util {
 	 */
 	public static String getAppProperty(String appProperty) {
 		String returnProperty = appProperties.getProperty(appProperty);
-		if (returnProperty == null || returnProperty.length() == 0) {
+		if ("CURRENT.TEST.FILE".equals(appProperty)) {
+			if (returnProperty != null) return returnProperty;
+		}
+		if (StringUtils.isBlank(returnProperty)) {
 			System.err.println("Missing prop " + appProperty + " in file appconfig.properties");
 			System.exit(-1);
 		}
 		return returnProperty;
 	}
 
+	/**
+	 * Gives an application property value on return
+	 * 
+	 * @param appProperty
+	 *          - String with property name
+	 *          value - its value
+	 * @return
+	 */
+	public static void setAppProperty(String appProperty, String value) {
+		if (appProperties != null) {
+			appProperties.setProperty(appProperty, value);			
+		} else {
+			// TODO write more clear description error info
+			System.err.println("File appconfig.properties is null.");
+			System.exit(-1);			
+		}
+	}
+	
+	
 	/**
 	 * Plays mp3 file from the given location
 	 * 
@@ -472,5 +515,24 @@ public class Util {
 	
 	public static String newLineToDelim(String text, String delimiter) {
 		return text.replaceAll(Util.PATTERN_REGEXP_NEW_LINE, delimiter);
+	}
+
+	public static String replaceTabsWithPhraseDelimiter(String inputTestString) {
+		return inputTestString.replaceAll(" \t ", Util.PHRASE_DELIMITER+Util.SPACE);
+	}
+
+	public static String replaceNewLineWithPhraseDelimiter(String inputTestString) {
+		return inputTestString.replaceAll("\n", Util.PHRASE_DELIMITER+Util.SPACE);
+	}
+	public static String toHex(String arg) {
+		try {
+			return Hex.encodeHexString(arg.getBytes("UTF8"));	
+		} catch (UnsupportedEncodingException uex) {
+			return "";
+		}		
+	}
+	
+	public static String formatNewlyAddedWords(String words) {
+		return replaceNewLineWithPhraseDelimiter(replaceTabsWithPhraseDelimiter(words)).trim();
 	}
 }

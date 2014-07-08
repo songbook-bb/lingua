@@ -51,10 +51,11 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	private static final long serialVersionUID = 1278330304433235395L;
 	public static String expandedAllRightAnswers = "";
 	public static int defaultTextareaRows = 4;
+	public static boolean CTRL_IS_PRESSED = false;
 	public static final Color DEFAULT_SCROLL_COLOR = new Color(238, 238, 238);
 	public static final Color BROWSE_QUESTION_SCROLL_COLOR = Color.BLUE;
-	public static final Color BROWSE_RESPONSE_SCROLL_COLOR = Color.RED;	
-	public static final Color BUTTON_YET_ANOTHER_ANSWER_COLOR = Color.GREEN;	
+	public static final Color BROWSE_RESPONSE_SCROLL_COLOR = Color.RED;
+	public static final Color BUTTON_YET_ANOTHER_ANSWER_COLOR = Color.GREEN;
 	private static ArrayList<ArrayList<String>> wholeAnswerList = new ArrayList<ArrayList<String>>();
 	Logger logger = Logger.getLogger(FrmLesson.class);
 
@@ -72,8 +73,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	private JTextArea questionWord;
 	private JTextArea responseWord;
 	private JScrollPane responseScroll;
-	private JScrollPane questionScroll;	
-
+	private JScrollPane questionScroll;
 
 	/**
 	 * mp3 player tool
@@ -102,21 +102,22 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		}
 	}
 
-
 	/**
 	 * it s called when the button was pressed
 	 */
 	public void button() {
 		Player player = null;
 		answerWord.setEditable(true);
-		addYetAnotherAnswer.setVisible(false);		
+		addYetAnotherAnswer.setVisible(false);
 		questionScroll.getVerticalScrollBar().setBackground(DEFAULT_SCROLL_COLOR);
-		responseScroll.getVerticalScrollBar().setBackground(DEFAULT_SCROLL_COLOR);		
+		responseScroll.getVerticalScrollBar().setBackground(DEFAULT_SCROLL_COLOR);
 		if (mode == ActMode.ANSWER)// if the mode is answer
 		{
 			String complexFileName = tutor.chooseSoundSampleFileName();
-			logger.debug("complexFileName:"+complexFileName);
-			//String complexFileName = tutor.getCurrentDictFile().substring(0, tutor.getCurrentDictFile().indexOf(".")) + File.separator + tutor.getIdSound() + Util.getAppProperty("MP3.EXTENSION");
+			logger.debug("complexFileName:" + complexFileName);
+			// String complexFileName = tutor.getCurrentDictFile().substring(0,
+			// tutor.getCurrentDictFile().indexOf(".")) + File.separator +
+			// tutor.getIdSound() + Util.getAppProperty("MP3.EXTENSION");
 			answerWord.setEditable(false);
 			if (isGoodAnswer(tutor.getRightAnswer(), answerWord.getText())) {
 				// JUST SETTING LEARNED FLAG ONLY
@@ -131,60 +132,50 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 					responseWord.setForeground(Color.BLUE);
 					responseWord.setText(Util.getLocalizedString("LESSON.ALL.RIGHT"));
 					String fullAnswerText = expandAll(tutor.getRightAnswer(), Util.REMOVE_COMMENT);
-					answerWord.setText(fullAnswerText.replaceAll(Util.PHRASE_DELIMITER, Util.PHRASE_DELIMITER+Util.SPACE));
+					answerWord.setText(fullAnswerText.replaceAll(Util.PHRASE_DELIMITER, Util.PHRASE_DELIMITER + Util.SPACE));
 					Caret answerWordCaret = answerWord.getCaret();
 					answerWordCaret.setDot(0);
 					answerWord.setCaret(answerWordCaret);
 				}
 				tutor.proceedWord(); // proceeding the word in the tutor
-			} else {									
+			} else {
 				// increase the counter of committed mistakes
-				tutor.incScore();				
+				tutor.incScore();
 				//
-				if (!settings.isExamMode()) {										
+				if (!settings.isExamMode()) {
 					if (tutor.getIdSound() > 0 && !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
 						Util.playSound(player, complexFileName);
-					}					
+					}
 					// shows all good answers
 					responseWord.setForeground(Color.RED);
-					//responseWord.setText(expandedAllRightAnswers);					
+					// responseWord.setText(expandedAllRightAnswers);
 					fillResponseAreaAndMarkScrollBrowse(expandedAllRightAnswers);
 					responseWord.setCaretPosition(0);
 					// IF CORRECTOR MODE
 					if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("CORRECTION.MODE"))) {
 						// only if the answer string is not empty
 						if (!StringUtils.isBlank(answerWord.getText())) {
-							addYetAnotherAnswer.setVisible(true);							
-						}				        
-					}				
-					
+							addYetAnotherAnswer.setVisible(true);
+						}
+					}
+
 				} else {
-					// gdy tryb egzaminu - remove this word not to ask again					
-					tutor.proceedWord();				
+					// gdy tryb egzaminu - remove this word not to ask again
+					tutor.proceedWord();
 				}
 			}
-			//SelectAnswer();
+			// SelectAnswer();
 			SetMode(ActMode.NEXT); // setting the mode
-			
+
 			if (tutor.isLessonEmpty()) {
-				/** Zrobic okno statystyk dla lekcji i dla egzaminu
+				/**
+				 * Zrobic okno statystyk dla lekcji i dla egzaminu
 				 * 
 				 */
 				if (!settings.isExamMode()) {
-		   			JOptionPane.showMessageDialog(
-		   	   	            this,
-		   	   	            MessageFormat.format(Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE1"), settings.getWordsInLesson())+"\n" +
-		   	   	            MessageFormat.format(Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE2"), tutor.calcLessonStatistics(), tutor.getCurrentDictFile() ),
-		   	   	            Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.NAME"),
-		   	   	            JOptionPane.PLAIN_MESSAGE,
-		   	   	            null);
+					JOptionPane.showMessageDialog(this, MessageFormat.format(Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE1"), settings.getWordsInLesson()) + "\n" + MessageFormat.format(Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE2"), tutor.calcLessonStatistics(), tutor.getCurrentDictFile()), Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.NAME"), JOptionPane.PLAIN_MESSAGE, null);
 				} else {
-		   			JOptionPane.showMessageDialog(
-		   	   	            this,
-		   	   	            MessageFormat.format(Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.MESSAGE"), tutor.calcExamStatistics()),		   	   	            		
-		   	   	            Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.NAME"),
-		   	   	            JOptionPane.PLAIN_MESSAGE,
-		   	   	            null); 					
+					JOptionPane.showMessageDialog(this, MessageFormat.format(Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.MESSAGE"), tutor.calcExamStatistics()), Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.NAME"), JOptionPane.PLAIN_MESSAGE, null);
 				}
 				/** TODO poprawić nakładanie się odtwarzania */
 				// utl.playSound(player, new
@@ -194,9 +185,9 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			}
 		} else if (mode == ActMode.NEXT) // if the mode is Next
 		{
-			tutor.chooseWord(); // choose the word			
-			// fills question TextArea  and marks scroll 
-			fillQuestionAreaAndMarkScrollBrowse(tutor.getQuestion());			
+			tutor.chooseWord(); // choose the word
+			// fills question TextArea and marks scroll
+			fillQuestionAreaAndMarkScrollBrowse(tutor.getQuestion());
 			questionWord.setCaretPosition(0);
 			answerWord.setText("");
 			responseWord.setText("");
@@ -206,7 +197,13 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	}
 
 	public void keyPressed(KeyEvent e) {
-		
+		switch (e.getKeyCode()) {
+		case KeyEvent.VK_CONTROL:
+			CTRL_IS_PRESSED = true;
+			break;
+		default:
+			break;
+		}
 	}
 
 	/**
@@ -216,19 +213,24 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		switch (e.getKeyCode()) {
 		case KeyEvent.VK_ENTER:
 			button();
-			break;
+			break;			
 		case KeyEvent.VK_ESCAPE:
 			this.dispose();
 			break;
+		case KeyEvent.VK_CONTROL:
+			CTRL_IS_PRESSED = false;
+			break;			
 		default:
 			// nie podpowiadamy na egzaminie :)
 			// warunek > 0 bo ma WCALE nie podpowiadac gdy klepie pusty string
 			if (!settings.isExamMode() && settings.getAutoSuggest() > 0 && answerWord.getText().length() >= settings.getAutoSuggest()) {
-				//logger.debug(" "+answerWord.getText()+" "+answerWord.getText().length()+" auto : "+canAutoSuggest(tutor.getRightAnswer(), answerWord.getText()));				
-				//Cursor cursor = answerWord.getCursor();
+				// logger.debug(" "+answerWord.getText()+" "+answerWord.getText().length()+" auto : "+canAutoSuggest(tutor.getRightAnswer(),
+				// answerWord.getText()));
+				// Cursor cursor = answerWord.getCursor();
 				canAutoSuggest(tutor.getRightAnswer(), answerWord);
-				//answerWord.setText(canAutoSuggest(tutor.getRightAnswer(), answerWord.getText()));
-				//answerWord.setCursor(cursor);
+				// answerWord.setText(canAutoSuggest(tutor.getRightAnswer(),
+				// answerWord.getText()));
+				// answerWord.setCursor(cursor);
 			}
 			break;
 		}
@@ -242,19 +244,16 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	 */
 	public void actionPerformed(ActionEvent event) {
 		String commandString = event.getActionCommand();
-		if(commandString.equals("yetAnotherAnswer"))
-		{
+		if (commandString.equals("yetAnotherAnswer")) {
 			addYetAnotherAnswer();
-		}		
+		}
 		button();
-	}	
-	
-	public void addYetAnotherAnswer()
-	{
-		tutor.addYetAnotherAnswer(answerWord.getText());	
 	}
 
-	
+	public void addYetAnotherAnswer() {
+		tutor.addYetAnotherAnswer(answerWord.getText(), CTRL_IS_PRESSED);
+	}
+
 	/**
 	 * default constructor. places the components to the form and starts the
 	 * lesson
@@ -272,23 +271,23 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		answerWord = new JTextField("");
 		Font font = new Font(answerWord.getFont().getName(), Font.PLAIN, 16);
 		answerWord.setFont(font);
-		//SelectAnswer();
+		// SelectAnswer();
 		centralPanel = new JPanel();
 		centralPanel.setLayout(new BorderLayout());
 		centralPanel.setVisible(true);
 		centralPanel.add(answerWord, BorderLayout.CENTER);
 		addYetAnotherAnswer = new JButton(Util.getLocalizedString("LESSON.BUTTON.ADD.YET.ANOTHER.ANSWER"));
-		addYetAnotherAnswer.setActionCommand("yetAnotherAnswer");		
+		addYetAnotherAnswer.setActionCommand("yetAnotherAnswer");
 		addYetAnotherAnswer.setToolTipText(Util.getLocalizedString("LESSON.BUTTON.ADD.YET.ANOTHER.ANSWER.TIP"));
 		addYetAnotherAnswer.addActionListener(this);
-		addYetAnotherAnswer.setBackground(BUTTON_YET_ANOTHER_ANSWER_COLOR);		
+		addYetAnotherAnswer.setBackground(BUTTON_YET_ANOTHER_ANSWER_COLOR);
 		centralPanel.add(addYetAnotherAnswer, BorderLayout.EAST);
 		addYetAnotherAnswer.setVisible(false);
 		add(centralPanel, BorderLayout.CENTER);
 		// panel z dodatkową klawiaturą na buttonach
 		KeyboardCtrlPanel kb = new KeyboardCtrlPanel(settings.getKeyboardType());
 		KeyboardBtnListener buttonListener = new KeyboardBtnListener(this.answerWord);
-		kb.addListenerToAll(buttonListener);		
+		kb.addListenerToAll(buttonListener);
 		add(kb.getPanel(), BorderLayout.NORTH);
 		panel = new JPanel();
 		panel.setLayout(new BorderLayout());
@@ -299,7 +298,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		questionWord.setEditable(false);
 		questionWord.setFocusable(false);
 		questionWord.setRows(defaultTextareaRows);
-		//JScrollPane 
+		// JScrollPane
 		questionScroll = new JScrollPane(questionWord, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
 		panel.add(questionScroll, BorderLayout.NORTH);
 		answer = new JButton(Util.getLocalizedString("LESSON.BUTTON.ANSWER"));
@@ -308,24 +307,24 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		answer.setFocusable(false);
 		responseWord = new JTextArea("");
 		responseWord.setRows(defaultTextareaRows);
-		responseWord.setEditable(false);		
+		responseWord.setEditable(false);
 		responseWord.setFocusable(false);
-		//JScrollPane 
+		// JScrollPane
 		responseScroll = new JScrollPane(responseWord, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
 		font = new Font(responseWord.getFont().getName(), Font.PLAIN, 16);
 		responseWord.setFont(font);
 		panel.add(responseScroll, BorderLayout.CENTER);
 		this.tutor.startLesson();
 		this.tutor.chooseWord();
-		//questionWord.setText(produceExpandedInput(tutor.getQuestion()));
+		// questionWord.setText(produceExpandedInput(tutor.getQuestion()));
 		questionScroll.getVerticalScrollBar().setBackground(DEFAULT_SCROLL_COLOR);
-		fillQuestionAreaAndMarkScrollBrowse(tutor.getQuestion());		
+		fillQuestionAreaAndMarkScrollBrowse(tutor.getQuestion());
 		questionWord.setCaretPosition(0);
 		answerWord.addKeyListener(this);
 		answerWord.setCaretPosition(0);
-		setVisible(true);		
+		setVisible(true);
 		answerWord.setFocusable(true);
-		answerWord.requestFocus();		
+		answerWord.requestFocus();
 	}
 
 	/**
@@ -343,16 +342,16 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		logger.debug("rightAnswer : " + rightAnswer);
 		// split and put into an array
 		rightAnswer = rightAnswer.toUpperCase();
-		ArrayList<String> rightAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(rightAnswer,Util.PHRASE_DELIMITER)));
+		ArrayList<String> rightAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(rightAnswer, Util.PHRASE_DELIMITER)));
 		// remove punctuation
 		rightAnswerList = Util.removePunctuation(rightAnswerList);
-		//then sort
+		// then sort
 		Collections.sort(rightAnswerList);
 		// USER ANSWER TRIMMING (comments are remove before matching)
 		userAnswer = Util.removeUnwantedDelimiters(userAnswer, Util.REMOVE_COMMENT);
 		userAnswer = Util.removeWhiteSpaces(userAnswer);
 		userAnswer = userAnswer.toUpperCase();
-		ArrayList<String> userAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(userAnswer,Util.PHRASE_DELIMITER)));
+		ArrayList<String> userAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(userAnswer, Util.PHRASE_DELIMITER)));
 		// remove punctuation
 		userAnswerList = Util.removePunctuation(userAnswerList);
 		// then sort
@@ -375,23 +374,24 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			return true;
 		}
 	}
-	/** Produce autocomplete = right matched answer string 
+
+	/**
+	 * Produce autocomplete = right matched answer string
 	 * 
 	 * sets component Text on end if matched
 	 */
 	public void canAutoSuggest(String rightAnswer, JTextField shortAnswer) {
 		rightAnswer = expandAll(rightAnswer, Util.REMOVE_COMMENT);
-		ArrayList<String> rightAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(rightAnswer,Util.PHRASE_DELIMITER)));		
+		ArrayList<String> rightAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(rightAnswer, Util.PHRASE_DELIMITER)));
 		for (String matchingAnswer : rightAnswerList) {
 			if (matchingAnswer.toUpperCase().startsWith(shortAnswer.getText().toUpperCase())) {
-				shortAnswer.setText(matchingAnswer); 
+				shortAnswer.setText(matchingAnswer);
 				shortAnswer.setEditable(false);
-			} 
+			}
 		}
-		//return shortAnswer;		
+		// return shortAnswer;
 	}
-	
-	
+
 	/**
 	 * Calculates cartesianProduct
 	 * 
@@ -453,9 +453,9 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	 */
 	public static String expandAll(String rightAnswerText, boolean removeComment) {
 		String allExpanded = "";
-		for (String oneToExpand : Util.improvedSplitter(rightAnswerText,Util.PHRASE_DELIMITER)) {
+		for (String oneToExpand : Util.improvedSplitter(rightAnswerText, Util.PHRASE_DELIMITER)) {
 			allExpanded += expandOnlyOneExpression(oneToExpand);
-		}		
+		}
 		allExpanded = Util.removeUnwantedDelimiters(allExpanded, removeComment);
 		return Util.removeWhiteSpaces(allExpanded);
 	}
@@ -508,19 +508,22 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		wholeAnswerString = wholeAnswerString.replaceAll(Util.QUOTE_REPLACE, Util.QUOTE);
 		return wholeAnswerString;
 	}
-	/** Show all expanded questions with comments in brackets
+
+	/**
+	 * Show all expanded questions with comments in brackets
 	 * 
 	 * @param text
 	 * @return
 	 */
-	public String produceExpandedInput(String text) {	
+	public String produceExpandedInput(String text) {
 		String rightText = expandAll(Util.newLineToDelim(text, Util.PHRASE_DELIMITER), Util.SHOW_COMMENT);
 		return Util.delimToNewLine(rightText, Util.PHRASE_DELIMITER);
-		//return rightText.replace(Util.PHRASE_DELIMITER, Util.NEW_LINE_DELIMITER); 
+		// return rightText.replace(Util.PHRASE_DELIMITER, Util.NEW_LINE_DELIMITER);
 	}
 
-	/** fills question TextArea  sets scroll
-	 *	and marks if scroll is has something to browse  
+	/**
+	 * fills question TextArea sets scroll and marks if scroll is has something to
+	 * browse
 	 * 
 	 * @param text
 	 */
@@ -529,29 +532,30 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		// show all expanded questions
 		String allExpandedQuestions = produceExpandedInput(text);
 		int numOfLines = StringUtils.countMatches(allExpandedQuestions, Util.NEW_LINE_DELIMITER);
-		questionWord.setText(allExpandedQuestions);					
-		if (numOfLines >= defaultTextareaRows) {			
+		questionWord.setText(allExpandedQuestions);
+		if (numOfLines >= defaultTextareaRows) {
 			questionScroll.getVerticalScrollBar().setBackground(BROWSE_QUESTION_SCROLL_COLOR);
-		}			
+		}
 	}
-	
-	/** fills response TextArea  sets scroll
-	 *	and marks if scroll has something to browse  
+
+	/**
+	 * fills response TextArea sets scroll and marks if scroll has something to
+	 * browse
 	 * 
 	 * @param text
 	 */
 	public void fillResponseAreaAndMarkScrollBrowse(String text) {
 		// fill the text into fields and areas
 		// show all expanded questions
-		logger.debug(" text '"+text+"'");		
+		logger.debug(" text '" + text + "'");
 		String allExpandedQuestions = produceExpandedInput(text);
-		//logger.debug(" allExpandedQuestions '"+allExpandedQuestions + "'");
+		// logger.debug(" allExpandedQuestions '"+allExpandedQuestions + "'");
 		int numOfLines = StringUtils.countMatches(allExpandedQuestions, Util.NEW_LINE_DELIMITER);
-		//logger.debug("numOfLines "+numOfLines);		
-		responseWord.setText(allExpandedQuestions);					
-		if (numOfLines >= defaultTextareaRows) {			
+		// logger.debug("numOfLines "+numOfLines);
+		responseWord.setText(allExpandedQuestions);
+		if (numOfLines >= defaultTextareaRows) {
 			responseScroll.getVerticalScrollBar().setBackground(BROWSE_RESPONSE_SCROLL_COLOR);
-		}			
+		}
 	}
-	
+
 }

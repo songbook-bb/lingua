@@ -53,7 +53,7 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 	private JButton buttonCancel;
 	private Settings settings = new Settings();
 
-	public void AssignWordData(WordData wordData)
+	public void assignWordData(WordData wordData)
 	{
 		this.wordData = wordData;
 	}
@@ -62,9 +62,9 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 	 */
 	private void Save()
 	{
-		wordData.foreignWord = textForeignWord.getText().trim();
-		wordData.nativeWord  = textNativeWord.getText().trim();		
-		wordData.isSaved = textForeignWord.getText().length() > 0 && textNativeWord.getText().length() > 0 ? true : false;
+		wordData.foreignWord = Util.formatNewlyAddedWords(textForeignWord.getText());
+		wordData.nativeWord  = Util.formatNewlyAddedWords(textNativeWord.getText());		
+		wordData.isSaved = wordData.foreignWord.length() > 0 && wordData.nativeWord.length() > 0 ? true : false;
 		if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("RECORD.SOUND"))) { 			
 			wordData.addSound = mAudioPanel.getClipRecordedSize() > 0  ? cbAddSound.isSelected() : false;		
 		}	
@@ -133,13 +133,13 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 	 //set the main panel
 	 setLocation(Util.xAddWordPosition,Util.yAddWordPosition);
 	 setSize(Util.xAddWordSize,Util.yAddWordSize);	 
-	 AssignWordData(wordData);
+	 assignWordData(wordData);
 	 panelWords = new JPanel(new GridLayout(3,2,5,5));
 	 this.add(panelWords,BorderLayout.CENTER);
 	 labForeignWord = new JLabel(Util.getLocalizedString("ADD.LABEL.FOREIGN"));
 	 panelWords.add(labForeignWord);
 	 textForeignWord = new JTextField(this.wordData.foreignWord);
-	 Font font = new Font(textForeignWord.getFont().getName(), Font.PLAIN, 27);
+	 Font font = new Font(textForeignWord.getFont().getName(), Font.PLAIN, 15);
 	 textForeignWord.setFont(font);
 	 textForeignWord.setForeground(new Color(20,100,120));
 

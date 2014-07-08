@@ -129,17 +129,22 @@ public class FrmImportXls extends JDialog implements ActionListener {
 						continue;
 						// throw new Exception ("Row for i = "+i+" is null. And maxRows is = "+maxRows);
 					}
-					Cell questionCell = row.getCell(0);
+					Cell soundCell = row.getCell(0);
+					String soundString = "";
+					if (soundCell != null && soundCell.getCellType() == Cell.CELL_TYPE_NUMERIC) {
+						soundString = ""+new Double(soundCell.getNumericCellValue()).intValue();						
+					}
+					Cell questionCell = row.getCell(1);
 					String questionString = "";
 					if (questionCell != null && questionCell.getCellType() == Cell.CELL_TYPE_STRING) {
 						questionString = questionCell.getStringCellValue();
 					}
-					Cell answerCell = row.getCell(1);
+					Cell answerCell = row.getCell(2);
 					String answerString = "";
 					if (answerCell != null && answerCell.getCellType() == Cell.CELL_TYPE_STRING) {
 						answerString = answerCell.getStringCellValue();
 					}
-					int countCell = 2;
+					int countCell = 3;
 					Cell answerNextCell = null;
 					while ((answerNextCell = row.getCell(countCell)) != null) {
 						if (answerNextCell != null && answerNextCell.getCellType() == Cell.CELL_TYPE_STRING) {
@@ -153,8 +158,10 @@ public class FrmImportXls extends JDialog implements ActionListener {
 						}
 						countCell++;
 					}
+					logger.debug(" sound="+soundString +" question="+questionString+" answer="+answerString);
 					if (!StringUtils.isBlank(questionString)
 							&& !StringUtils.isBlank(answerString)) {
+						oneXlsRow.add(soundString);	
 						oneXlsRow.add(questionString);
 						oneXlsRow.add(answerString);
 						xlsList.add(oneXlsRow);
@@ -162,15 +169,16 @@ public class FrmImportXls extends JDialog implements ActionListener {
 				}
 				// add xls import to active lesson
 				for (ArrayList<String> oneRowItem : xlsList) {
-					String question = oneRowItem.get(0);
-					String answer = oneRowItem.get(1);
+					String sound = oneRowItem.get(0);
+					String question = oneRowItem.get(1);
+					String answer = oneRowItem.get(2);
 					question = Util.removeWhiteSpaces(Util.removeUnwantedDelimiters(Util.removeDoubledSpaces(question), Util.SHOW_COMMENT));
 					answer = Util.removeWhiteSpaces(Util.removeUnwantedDelimiters(Util.removeDoubledSpaces(answer), Util.SHOW_COMMENT));
 					// remove toLowerCase if it is wrong
 					if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("IMPORT.XLS.TO.LOWER.CASE"))) {					
-						importTutor.addWordInImport(question.toLowerCase(), answer.toLowerCase());						
+						importTutor.addWordInImport(question.toLowerCase(), answer.toLowerCase(), sound);						
 					} else {
-						importTutor.addWordInImport(question, answer);						
+						importTutor.addWordInImport(question, answer, sound);
 					}
 		
 				}
