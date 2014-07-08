@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>ututu oma</foreignWord>
+        <nativeWord>dzień dobry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>kedu</foreignWord>
+        <nativeWord>cześć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>biko</foreignWord>
+        <nativeWord>proszę (masz)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>daalu</foreignWord>
+        <nativeWord>dziękuję</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>eeh</foreignWord>
+        <nativeWord>tak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>mba</foreignWord>
+        <nativeWord>nie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>odinma</foreignWord>
+        <nativeWord>jasne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>omara nma</foreignWord>
+        <nativeWord>to jest ładne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>odi oku</foreignWord>
+        <nativeWord>jest gorąco</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>ojuru oyi</foreignWord>
+        <nativeWord>jest zimno</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>otu</foreignWord>
+        <nativeWord>jeden</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>abuo</foreignWord>
+        <nativeWord>dwa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>ato</foreignWord>
+        <nativeWord>trzy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>ano</foreignWord>
+        <nativeWord>cztery</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>ise</foreignWord>
+        <nativeWord>pięć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+</dictionary>

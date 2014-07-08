@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>Onze Vader</foreignWord>
+        <nativeWord>Ojcze nasz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>Onze Vader, die in de hemel zijt,</foreignWord>
+        <nativeWord>Ojcze nasz, któryś jest w niebie,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>uw Naam worde geheiligd,</foreignWord>
+        <nativeWord>święć się Imię Twoje,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>uw Rijk kome</foreignWord>
+        <nativeWord>przyjdź królestwo Twoje,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>uw wil geschiede op aarde zoals in de hemel.</foreignWord>
+        <nativeWord>jako w niebie, tak i na ziemi.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>Geef ons heden ons dagelijks brood,</foreignWord>
+        <nativeWord>Chleba naszego powszedniego daj nam dzisiaj,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>en vergeef ons onze schuld</foreignWord>
+        <nativeWord>i odpuść nam nasze winy,</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>zoals ook wij aan anderen hun schuld vergeven.</foreignWord>
+        <nativeWord>jako i my odpuszczamy naszym winowajcom.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>En leid ons niet in bekoring,</foreignWord>
+        <nativeWord>I nie wódź nas na pokuszenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>maar verlos ons van het kwade. Amen.</foreignWord>
+        <nativeWord>ale wybaw nas ode złego. Amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>Wees gegroet Maria</foreignWord>
+        <nativeWord>Zdrowaś Mario</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>vol van genade</foreignWord>
+        <nativeWord>{łaski/łaskiś} pełna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>De Heer is met U.</foreignWord>
+        <nativeWord>Pan z tobą.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>Gij zijt de gezegende onder de vrouwen.</foreignWord>
+        <nativeWord>{Błogosławionaś/Błogosławiona jesteś} między niewiastami.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>En gezegend is Jezus, de vrucht van Uw schoot.</foreignWord>
+        <nativeWord>i błogosławiony jest owoc żywota twojego Jezus.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>Heilige Maria, Moeder van God</foreignWord>
+        <nativeWord>Święta Maryjo, Matko Boża</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>bid voor ons, zondaars,</foreignWord>
+        <nativeWord>módl się za nami grzesznymi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>nu en in het uur van onze dood. Amen.</foreignWord>
+        <nativeWord>teraz i w godzinę śmierci naszej. Amen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>Heer, ik ben niet waardig dat Gij tot mij komt</foreignWord>
+        <nativeWord>Panie nie jestem godzien abyś przyszedł do mnie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>maar spréék en ik zal gezond worden.</foreignWord>
+        <nativeWord>ale powiedz tylko słowo, a będzie uzdrowiona dusza moja.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+</dictionary>

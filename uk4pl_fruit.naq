@@ -147,4 +147,25 @@
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
+    <word>
+        <foreignWord>prunes</foreignWord>
+        <nativeWord>suszone śliwki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>damson</foreignWord>
+        <nativeWord>węgierka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>apricot</foreignWord>
+        <nativeWord>morela</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
 </dictionary>

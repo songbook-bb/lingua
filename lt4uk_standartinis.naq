@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="7">
+    <word>
+        <foreignWord>labos nakties</foreignWord>
+        <nativeWord>good night</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>labas rytas</foreignWord>
+        <nativeWord>good morning</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>prašom</foreignWord>
+        <nativeWord>pleasure; please; you're welcome;you are welcome</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>ačiū;dėkoju</foreignWord>
+        <nativeWord>thank you</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>klausyti</foreignWord>
+        <nativeWord>listen</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>labai gražus</foreignWord>
+        <nativeWord>very nice</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>geras berniukas</foreignWord>
+        <nativeWord>good boy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>sveiki</foreignWord>
+        <nativeWord>hello</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>geras</foreignWord>
+        <nativeWord>good</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>taip</foreignWord>
+        <nativeWord>yes</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>ne</foreignWord>
+        <nativeWord>no</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>keletas</foreignWord>
+        <nativeWord>some;few</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>daug</foreignWord>
+        <nativeWord>many;plenty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>rūšies</foreignWord>
+        <nativeWord>kind of</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>pamatyti</foreignWord>
+        <nativeWord>see</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>garsiai</foreignWord>
+        <nativeWord>loud</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>galite pakartoti?</foreignWord>
+        <nativeWord>can you repeat?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>eiti į kairę</foreignWord>
+        <nativeWord>go left</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>eiti į dešinę</foreignWord>
+        <nativeWord>go right</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>pasukite į kairę</foreignWord>
+        <nativeWord>turn left</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+    <word>
+        <foreignWord>pasukite į dešinę</foreignWord>
+        <nativeWord>turn right</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>21</idSound>
+    </word>
+    <word>
+        <foreignWord>atsiprašau</foreignWord>
+        <nativeWord>sorry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>22</idSound>
+    </word>
+    <word>
+        <foreignWord>atleiskite</foreignWord>
+        <nativeWord>excuse me</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+</dictionary>

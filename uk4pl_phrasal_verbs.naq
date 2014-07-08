@@ -22,9 +22,9 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>ask after {sb/somebody}</foreignWord>
-        <nativeWord>pytać o kogoś; dopytywać sie</nativeWord>
-        <score>0</score>
+        <foreignWord>ask after {/sb/somebody}</foreignWord>
+        <nativeWord>{pytać/dopytywać się} {/o kogoś};  o kogoś</nativeWord>
+        <score>1</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -58,14 +58,7 @@
     </word>
     <word>
         <foreignWord>break down</foreignWord>
-        <nativeWord>zepsuć się</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>break down</foreignWord>
-        <nativeWord>załamywać się; kończyć się niepowodzeniem</nativeWord>
+        <nativeWord>załamywać się;zepsuć się;kończyć się niepowodzeniem</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -100,7 +93,7 @@
     </word>
     <word>
         <foreignWord>carry out</foreignWord>
-        <nativeWord>wypełniać; wykonać; zrealizować</nativeWord>
+        <nativeWord>doprowadzić do końca; wypełniać; wykonać; zrealizować</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -121,7 +114,7 @@
     </word>
     <word>
         <foreignWord>check out</foreignWord>
-        <nativeWord>sprawdzać</nativeWord>
+        <nativeWord>zdać pokój (w hotelu);sprawdzać;wymeldować się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -129,13 +122,6 @@
     <word>
         <foreignWord>check up on {sb/sth/somebody/something}</foreignWord>
         <nativeWord>sprawdzać; kontrolować</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>check out</foreignWord>
-        <nativeWord>zdać pokój (w hotelu); wymeldować się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -191,7 +177,7 @@
     </word>
     <word>
         <foreignWord>come across {sb/sth/somebody/something}</foreignWord>
-        <nativeWord>natknąć się (na coś/kogoś)</nativeWord>
+        <nativeWord>{napotykać/natknąć} {/się} (na coś/kogoś)</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -330,13 +316,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>fool {around/about}</foreignWord>
-        <nativeWord>wygłupiać się</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>get away</foreignWord>
         <nativeWord>uciec</nativeWord>
         <score>0</score>
@@ -409,8 +388,8 @@
     <word>
         <foreignWord>get on</foreignWord>
         <nativeWord>wsiadać {do/na}</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
+        <score>2</score>
+        <learned>1</learned>
         <idSound>0</idSound>
     </word>
     <word>
@@ -422,7 +401,7 @@
     </word>
     <word>
         <foreignWord>get out</foreignWord>
-        <nativeWord>wysiadać</nativeWord>
+        <nativeWord>wydostać się; wysiadać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -492,14 +471,7 @@
     </word>
     <word>
         <foreignWord>get up</foreignWord>
-        <nativeWord>wstawać</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>get up</foreignWord>
-        <nativeWord>wstawać (z łóżka)</nativeWord>
+        <nativeWord>wstawać (z łóżka);wstawać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -576,21 +548,14 @@
     </word>
     <word>
         <foreignWord>go back</foreignWord>
-        <nativeWord>wracać</nativeWord>
+        <nativeWord>wrócić; wracać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>go by</foreignWord>
-        <nativeWord>upływać (czas)</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>go by</foreignWord>
-        <nativeWord>przechodzić</nativeWord>
+        <nativeWord>upływać (czas);przechodzić</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -611,14 +576,7 @@
     </word>
     <word>
         <foreignWord>go off</foreignWord>
-        <nativeWord>wybuchać</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>go off</foreignWord>
-        <nativeWord>wyłączać się; gasnąć</nativeWord>
+        <nativeWord>gasnąć;wyłączać się;wybuchać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -632,21 +590,7 @@
     </word>
     <word>
         <foreignWord>go out</foreignWord>
-        <nativeWord>wychodzić; wyjeżdżać</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>go out</foreignWord>
-        <nativeWord>gasnąć</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>go out</foreignWord>
-        <nativeWord>chodzić ze sobą; spotykać się</nativeWord>
+        <nativeWord>chodzić ze sobą;gasnąć;wychodzić;wyjeżdżać;spotykać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -667,14 +611,7 @@
     </word>
     <word>
         <foreignWord>go under</foreignWord>
-        <nativeWord>zatonąć</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>go under</foreignWord>
-        <nativeWord>plajtować</nativeWord>
+        <nativeWord>plajtować;zatonąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -688,21 +625,14 @@
     </word>
     <word>
         <foreignWord>go with {sth/something}</foreignWord>
-        <nativeWord>pasować</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>go with {sth/something}</foreignWord>
-        <nativeWord>towarzyszyć; dziać się jako skutek czegoś</nativeWord>
+        <nativeWord>dziać się jako skutek czegoś;towarzyszyć;pasować</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>go without</foreignWord>
-        <nativeWord>obywać się bez czegoś</nativeWord>
+        <nativeWord>{obchodzić/obywać} się bez {/czegoś}</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -730,14 +660,7 @@
     </word>
     <word>
         <foreignWord>hang on</foreignWord>
-        <nativeWord>czekać przez chwilę</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>hang on</foreignWord>
-        <nativeWord>trzymać się</nativeWord>
+        <nativeWord>{czekać/wstrzymać} {/przez chwilę};trzymać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -821,7 +744,7 @@
     </word>
     <word>
         <foreignWord>kick off</foreignWord>
-        <nativeWord>rozpoczynać mecz (piłki nożnej)</nativeWord>
+        <nativeWord>rozpoczynać mecz (piłki nożnej);zrzucić buty</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -879,7 +802,7 @@
         <foreignWord>look after</foreignWord>
         <nativeWord>opiekować się; pilnować</nativeWord>
         <score>0</score>
-        <learned>0</learned>
+        <learned>1</learned>
         <idSound>0</idSound>
     </word>
     <word>
@@ -968,7 +891,7 @@
     </word>
     <word>
         <foreignWord>make up</foreignWord>
-        <nativeWord>robić makijaż</nativeWord>
+        <nativeWord>wymyśleć;robić makijaż</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1024,21 +947,7 @@
     </word>
     <word>
         <foreignWord>pick up</foreignWord>
-        <nativeWord>podnosić</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>pick up</foreignWord>
-        <nativeWord>nauczyć się (bez formalnych lekcji)</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>pick up</foreignWord>
-        <nativeWord>odebrać; zabrać</nativeWord>
+        <nativeWord>podnosić;zabrać;nauczyć się (bez formalnych lekcji);odebrać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1066,14 +975,14 @@
     </word>
     <word>
         <foreignWord>pull in</foreignWord>
-        <nativeWord>wjeżdżać na stację</nativeWord>
+        <nativeWord>wjeżdżać na stację;zjeżdżać na pobocze</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>pull out</foreignWord>
-        <nativeWord>wyjeżdżać ze stacji</nativeWord>
+        <nativeWord>wyjeżdżać ze stacji;włączać się do ruchu</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1087,21 +996,7 @@
     </word>
     <word>
         <foreignWord>put back</foreignWord>
-        <nativeWord>odłożyć na miejsce</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>put back</foreignWord>
-        <nativeWord>odkładać</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>put back</foreignWord>
-        <nativeWord>cofać wskazówki zegara; przestawiać godzinę</nativeWord>
+        <nativeWord>przestawiać godzinę;{odkładać/odłożyć} {/na miejsce};cofać wskazówki zegara</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1115,35 +1010,21 @@
     </word>
     <word>
         <foreignWord>put down</foreignWord>
-        <nativeWord>kłaść</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>put down</foreignWord>
-        <nativeWord>ośmieszać kogoś; upokarzać</nativeWord>
+        <nativeWord>upokarzać;kłaść;ośmieszać kogoś</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>put off</foreignWord>
-        <nativeWord>odkładać; przełożyć na inny termin</nativeWord>
+        <nativeWord>zniechęcać;przełożyć na inny termin;odkładać;odstręczać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>put on</foreignWord>
-        <nativeWord>zakładać (na siebie)</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>put on</foreignWord>
-        <nativeWord>zapalić (światło)</nativeWord>
+        <nativeWord>zapalić (światło);zakładać (na siebie)</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1227,14 +1108,7 @@
     </word>
     <word>
         <foreignWord>run into</foreignWord>
-        <nativeWord>spotkać kogoś przypadkiem</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>run into</foreignWord>
-        <nativeWord>natrafiać</nativeWord>
+        <nativeWord>natrafiać;spotkać kogoś przypadkiem</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1276,7 +1150,7 @@
     </word>
     <word>
         <foreignWord>sell out</foreignWord>
-        <nativeWord>wyprzedawać</nativeWord>
+        <nativeWord>wysprzedawać; wyprzedawać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1486,35 +1360,14 @@
     </word>
     <word>
         <foreignWord>take back</foreignWord>
-        <nativeWord>oddawać; zwracać</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>take back</foreignWord>
-        <nativeWord>cofać (co się powiedziało o kimś)</nativeWord>
+        <nativeWord>oddać;cofać (co się powiedziało o kimś);oddawać;zwracać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>take off</foreignWord>
-        <nativeWord>wystartować</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>take off</foreignWord>
-        <nativeWord>naśladować; parodiować</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>take off</foreignWord>
-        <nativeWord>zdejmować; ściągać</nativeWord>
+        <nativeWord>parodiować;naśladować;ściągać;zdejmować;wystartować</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1836,14 +1689,7 @@
     </word>
     <word>
         <foreignWord>break out</foreignWord>
-        <nativeWord>uciec z więzienia</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>break out</foreignWord>
-        <nativeWord>wybuchać (o wojnie lub epidemii)</nativeWord>
+        <nativeWord>uciec z więzienia;wybuchać (o wojnie lub epidemii)</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2011,7 +1857,7 @@
     </word>
     <word>
         <foreignWord>chill out</foreignWord>
-        <nativeWord>wyluzować</nativeWord>
+        <nativeWord>{wyluzować/zrelaksować} {/się}</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2053,7 +1899,7 @@
     </word>
     <word>
         <foreignWord>wind down</foreignWord>
-        <nativeWord>rozluźnić się; zrelaksować</nativeWord>
+        <nativeWord>{rozluźnić/rozluźniać} się; zrelaksować</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2102,14 +1948,7 @@
     </word>
     <word>
         <foreignWord>cut in</foreignWord>
-        <nativeWord>zajechać drogę</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>cut in</foreignWord>
-        <nativeWord>wtrącić się; przerwać</nativeWord>
+        <nativeWord>przerwać;zajechać drogę;wtrącić się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2234,8 +2073,8 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>frolic {about/around}</foreignWord>
-        <nativeWord>wygłupiać się; bawić</nativeWord>
+        <foreignWord>fool {around/about};frolic {about/around}</foreignWord>
+        <nativeWord>wygłupiać się;bawić</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2292,13 +2131,6 @@
     <word>
         <foreignWord>kick back</foreignWord>
         <nativeWord>relaksować się</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>kick off</foreignWord>
-        <nativeWord>zrzucić buty</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2395,13 +2227,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>make up</foreignWord>
-        <nativeWord>wymyśleć</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>make up for</foreignWord>
         <nativeWord>nadrabiać; rekompensować</nativeWord>
         <score>0</score>
@@ -2473,7 +2298,7 @@
     </word>
     <word>
         <foreignWord>pay {sb/somebody} back</foreignWord>
-        <nativeWord>odpłacić się; odegrać się</nativeWord>
+        <nativeWord>odpłacać; odpłacić się; odegrać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2528,13 +2353,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>put off</foreignWord>
-        <nativeWord>odstręczać; zniechęcać</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>ramble on</foreignWord>
         <nativeWord>ględzić; rozwlekać</nativeWord>
         <score>0</score>
@@ -2557,14 +2375,7 @@
     </word>
     <word>
         <foreignWord>refer to</foreignWord>
-        <nativeWord>wspominać; odnosić się do czegoś</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>refer to</foreignWord>
-        <nativeWord>odnieść; odwołać się do czegoś</nativeWord>
+        <nativeWord>odwołać się {/do czegoś};wspominać;{odnosić/odnieść} się {/do czegoś}</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2655,7 +2466,7 @@
     </word>
     <word>
         <foreignWord>splash out</foreignWord>
-        <nativeWord>'szarpnąć się'; zaszaleć</nativeWord>
+        <nativeWord>zaszaleć; szarpnąć się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2782,20 +2593,6 @@
     <word>
         <foreignWord>wake up</foreignWord>
         <nativeWord>obudzić się</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>pull in</foreignWord>
-        <nativeWord>zjeżdżać na pobocze</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>pull out</foreignWord>
-        <nativeWord>włączać się do ruchu</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

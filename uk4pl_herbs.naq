@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>nettle</foreignWord>
+        <nativeWord>pokrzywa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mint; peppermint (tea); spearmint</foreignWord>
+        <nativeWord>mięta; miętówa; mięta pieprzowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>milfoil</foreignWord>
+        <nativeWord>krwawnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

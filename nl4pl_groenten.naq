@@ -1,253 +1,239 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dictionary keyboard="3">
+<dictionary keyboard="0">
     <word>
         <foreignWord>broccoli</foreignWord>
         <nativeWord>brokuł;brokuły</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>1</idSound>
     </word>
     <word>
-        <foreignWord>carrot</foreignWord>
+        <foreignWord>wortel</foreignWord>
         <nativeWord>marchew;marchewka</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>2</idSound>
     </word>
     <word>
-        <foreignWord>cucumber</foreignWord>
+        <foreignWord>komkommer</foreignWord>
         <nativeWord>ogórek</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>3</idSound>
     </word>
     <word>
-        <foreignWord>cabbage</foreignWord>
+        <foreignWord>kool</foreignWord>
         <nativeWord>kapusta</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>4</idSound>
     </word>
     <word>
-        <foreignWord>celery</foreignWord>
+        <foreignWord>selderij</foreignWord>
         <nativeWord>seler</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>5</idSound>
     </word>
     <word>
-        <foreignWord>sweet corn;corn</foreignWord>
+        <foreignWord>suikermaïs;maïs</foreignWord>
         <nativeWord>kukurydza</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>6</idSound>
     </word>
     <word>
-        <foreignWord>peas</foreignWord>
+        <foreignWord>erwten</foreignWord>
         <nativeWord>groszek;groch</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>7</idSound>
     </word>
     <word>
-        <foreignWord>lettuce</foreignWord>
+        <foreignWord>sla</foreignWord>
         <nativeWord>sałata</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>8</idSound>
     </word>
     <word>
-        <foreignWord>mushroom;mushrooms</foreignWord>
+        <foreignWord>paddestoel; champignons</foreignWord>
         <nativeWord>grzyby;grzyb</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>9</idSound>
     </word>
     <word>
-        <foreignWord>radish</foreignWord>
+        <foreignWord>radijs</foreignWord>
         <nativeWord>rzodkiewka</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>10</idSound>
     </word>
     <word>
-        <foreignWord>beetroot</foreignWord>
+        <foreignWord>beetwortel</foreignWord>
         <nativeWord>burak</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>11</idSound>
     </word>
     <word>
-        <foreignWord>leek</foreignWord>
+        <foreignWord>prei</foreignWord>
         <nativeWord>por</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>12</idSound>
     </word>
     <word>
-        <foreignWord>onion</foreignWord>
+        <foreignWord>ui</foreignWord>
         <nativeWord>cebula</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>13</idSound>
     </word>
     <word>
-        <foreignWord>garlic</foreignWord>
+        <foreignWord>knoflook</foreignWord>
         <nativeWord>czosnek</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>14</idSound>
     </word>
     <word>
-        <foreignWord>pumpkin</foreignWord>
+        <foreignWord>pompoen</foreignWord>
         <nativeWord>dynia</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>15</idSound>
     </word>
     <word>
-        <foreignWord>tomato;tomatoes</foreignWord>
-        <nativeWord>pomidory;pomidor</nativeWord>
+        <foreignWord>tomaat; tomaten</foreignWord>
+        <nativeWord>pomidory; pomidor</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>16</idSound>
     </word>
     <word>
-        <foreignWord>cauliflower</foreignWord>
+        <foreignWord>bloemkool</foreignWord>
         <nativeWord>kalafior</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>17</idSound>
     </word>
     <word>
-        <foreignWord>kohlrabi</foreignWord>
+        <foreignWord>koolraap</foreignWord>
         <nativeWord>kalarepa</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>18</idSound>
     </word>
     <word>
-        <foreignWord>potatoes;potato</foreignWord>
-        <nativeWord>ziemniak;ziemniaki</nativeWord>
+        <foreignWord>aardappelen; aardappel</foreignWord>
+        <nativeWord>ziemniak; ziemniaki</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>19</idSound>
     </word>
     <word>
-        <foreignWord>kale;savoy cabbage</foreignWord>
-        <nativeWord>jarmuż;kapusta włoska</nativeWord>
+        <foreignWord>boerenkool; savooikool</foreignWord>
+        <nativeWord>jarmuż; kapusta włoska</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>20</idSound>
     </word>
     <word>
-        <foreignWord>parsley</foreignWord>
+        <foreignWord>peterselie</foreignWord>
         <nativeWord>pietruszka</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>spring onion</foreignWord>
+        <foreignWord>lente-ui</foreignWord>
         <nativeWord>młoda cebula</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>spinach</foreignWord>
+        <foreignWord>spinazie</foreignWord>
         <nativeWord>szpinak</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>zucchini;courgette</foreignWord>
+        <foreignWord>courgette</foreignWord>
         <nativeWord>cukinia</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>chives</foreignWord>
+        <foreignWord>bieslook</foreignWord>
         <nativeWord>szczypiorek</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>brussels sprouts</foreignWord>
+        <foreignWord>spruitjes</foreignWord>
         <nativeWord>brukselka</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>marrow</foreignWord>
+        <foreignWord>merg</foreignWord>
         <nativeWord>kabaczek</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>broad bean</foreignWord>
+        <foreignWord>tuinboon</foreignWord>
         <nativeWord>bób</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>bean;beans</foreignWord>
-        <nativeWord>fasola;fasolka</nativeWord>
+        <foreignWord>bonen</foreignWord>
+        <nativeWord>fasola; fasolka; fasola szparagowa</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>runner bean; pod bean</foreignWord>
-        <nativeWord>fasola szparagowa</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>vegetables</foreignWord>
+        <foreignWord>groenten</foreignWord>
         <nativeWord>warzywa</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>artichoke</foreignWord>
+        <foreignWord>artisjok</foreignWord>
         <nativeWord>karczoch</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>bell pepper;pepper</foreignWord>
+        <foreignWord>paprika; peper</foreignWord>
         <nativeWord>papryka</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>eggplant;aubergine</foreignWord>
-        <nativeWord>oberżyna;bakłażan</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>pieplant; rhubarb</foreignWord>
-        <nativeWord>rabarbar</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>aubergine</foreignWord>
-        <nativeWord>gruszka miłosna</nativeWord>
+        <nativeWord>oberżyna;bakłażan; gruszka miłosna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>rabarber</foreignWord>
+        <nativeWord>rabarbar</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

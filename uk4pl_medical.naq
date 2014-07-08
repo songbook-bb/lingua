@@ -309,7 +309,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>diabetis</foreignWord>
+        <foreignWord>diabetis; diabetes</foreignWord>
         <nativeWord>cukrzyca</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1289,13 +1289,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>artery</foreignWord>
-        <nativeWord>tętnica</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>vein</foreignWord>
         <nativeWord>żyła</nativeWord>
         <score>0</score>
@@ -1653,13 +1646,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>pancreas</foreignWord>
-        <nativeWord>trzustka</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>appendix</foreignWord>
         <nativeWord>wyrostek robaczkowy</nativeWord>
         <score>0</score>
@@ -1786,13 +1772,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>retina</foreignWord>
-        <nativeWord>siatkówka</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>pathogen</foreignWord>
         <nativeWord>patogen</nativeWord>
         <score>0</score>
@@ -1849,22 +1828,8 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>inflammation</foreignWord>
-        <nativeWord>zapalenie</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>innate immunity</foreignWord>
         <nativeWord>odporność wrodzona</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>immune system</foreignWord>
-        <nativeWord>układ immunologiczny</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2194,6 +2159,69 @@
     <word>
         <foreignWord>ct; computer tomography</foreignWord>
         <nativeWord>tk;tomografia komputerowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>retinoblastoma</foreignWord>
+        <nativeWord>rak oczu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>glaucoma</foreignWord>
+        <nativeWord>jaskra; glaukoma</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cataract</foreignWord>
+        <nativeWord>katarakta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>macular degeneration</foreignWord>
+        <nativeWord>zwyrodnienie plamki żółtej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>inflammation of the cornea</foreignWord>
+        <nativeWord>zapalenie rogówki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hypertension</foreignWord>
+        <nativeWord>nadciśnienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pituitary tumours</foreignWord>
+        <nativeWord>{guzy/gruczolaki} przysadki {mózgowej/}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>raised cholesterol</foreignWord>
+        <nativeWord>podwyższony cholesterol</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>shingles</foreignWord>
+        <nativeWord>półpasiec</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

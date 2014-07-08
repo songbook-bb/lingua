@@ -198,7 +198,7 @@
     </word>
     <word>
         <foreignWord>cost cost cost</foreignWord>
-        <nativeWord>mieć cenę;kosztować;kalkulować</nativeWord>
+        <nativeWord>mieć cenę;kosztować;kalkulować;smakować</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>30</idSound>
@@ -313,868 +313,868 @@
         <nativeWord>lecieć; latać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>46</idSound>
     </word>
     <word>
         <foreignWord>forbid forbade forbidden</foreignWord>
         <nativeWord>zakazać;zabraniać;zakazywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>47</idSound>
     </word>
     <word>
         <foreignWord>forecast forecast forecast</foreignWord>
         <nativeWord>zapowiadać; przepowiadać; przewidywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>48</idSound>
     </word>
     <word>
         <foreignWord>forget forgot forgotten</foreignWord>
         <nativeWord>zapomnieć;zapominać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>49</idSound>
     </word>
     <word>
         <foreignWord>forgive forgave forgiven</foreignWord>
         <nativeWord>przebaczać;wybaczać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>50</idSound>
     </word>
     <word>
         <foreignWord>forsake forsook forsaken</foreignWord>
         <nativeWord>porzucać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>51</idSound>
     </word>
     <word>
         <foreignWord>freeze froze frozen</foreignWord>
         <nativeWord>mrozić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>52</idSound>
     </word>
     <word>
         <foreignWord>get got got</foreignWord>
         <nativeWord>otrzymać;dostać;uzyskać;uzyskiwać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>53</idSound>
     </word>
     <word>
         <foreignWord>give gave given</foreignWord>
         <nativeWord>dawać; dać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>54</idSound>
     </word>
     <word>
         <foreignWord>go went gone</foreignWord>
         <nativeWord>iść</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>55</idSound>
     </word>
     <word>
         <foreignWord>grind ground ground</foreignWord>
         <nativeWord>zgrzytać;kruszyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>56</idSound>
     </word>
     <word>
         <foreignWord>hang hung hung</foreignWord>
-        <nativeWord>wisieć</nativeWord>
+        <nativeWord>powiesić; wisieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>57</idSound>
     </word>
     <word>
         <foreignWord>hang hanged hanged</foreignWord>
         <nativeWord>zawieszać; zawiesić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>58</idSound>
     </word>
     <word>
         <foreignWord>have had had</foreignWord>
         <nativeWord>mieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>59</idSound>
     </word>
     <word>
         <foreignWord>hear heard heard</foreignWord>
         <nativeWord>usłyszeć;słyszeć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>60</idSound>
     </word>
     <word>
         <foreignWord>hide hid hidden</foreignWord>
         <nativeWord>ukryć;ukrywać; chować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>61</idSound>
     </word>
     <word>
         <foreignWord>hit hit hit</foreignWord>
         <nativeWord>uderzyć;uderzać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>62</idSound>
     </word>
     <word>
         <foreignWord>hold held held</foreignWord>
         <nativeWord>zawierać {/w sobie}; trzymać (np. za rękę); wstrzymywać; wstrzymać; mieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>63</idSound>
     </word>
     <word>
         <foreignWord>hurt hurt hurt</foreignWord>
         <nativeWord>ranić;skrzywdzić;zranić;sprawiać ból</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>64</idSound>
     </word>
     <word>
         <foreignWord>keep kept kept</foreignWord>
         <nativeWord>przechowywać;trzymać;zachowywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>65</idSound>
     </word>
     <word>
         <foreignWord>kneel knelt knelt</foreignWord>
         <nativeWord>klęczeć;klękać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>66</idSound>
     </word>
     <word>
         <foreignWord>know knew known</foreignWord>
         <nativeWord>wiedzieć;znać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>67</idSound>
     </word>
     <word>
         <foreignWord>lay laid laid</foreignWord>
-        <nativeWord>kłaść;kłaść się;położyć</nativeWord>
+        <nativeWord>kłaść (na l);kłaść się (na l);położyć (na l)</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>68</idSound>
     </word>
     <word>
         <foreignWord>lead led led</foreignWord>
         <nativeWord>przewodzić;prowadzić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>69</idSound>
     </word>
     <word>
         <foreignWord>lean leant leant</foreignWord>
         <nativeWord>skłonić się;opierać;przechylić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>70</idSound>
     </word>
     <word>
         <foreignWord>leave left left</foreignWord>
         <nativeWord>zostawiać;opuszczać;wychodzić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>71</idSound>
     </word>
     <word>
         <foreignWord>lend lent lent</foreignWord>
         <nativeWord>wypożyczać; {pożyczać/pożyczyć} komuś; wypożyczyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>72</idSound>
     </word>
     <word>
         <foreignWord>let let let</foreignWord>
         <nativeWord>pozwalać; oddać; wynajmować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>73</idSound>
     </word>
     <word>
         <foreignWord>lie lay lain</foreignWord>
         <nativeWord>leżeć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>74</idSound>
     </word>
     <word>
         <foreignWord>lie lied lied</foreignWord>
         <nativeWord>kłamać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>75</idSound>
     </word>
     <word>
         <foreignWord>light {lit lit/lighted lighted}</foreignWord>
         <nativeWord>zapalić;zapalać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>76</idSound>
     </word>
     <word>
         <foreignWord>lose lost lost</foreignWord>
         <nativeWord>gubić; zgubić się; tracić; ginąć; gubić się; zgubić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>77</idSound>
     </word>
     <word>
         <foreignWord>make made made</foreignWord>
-        <nativeWord>wykonywać</nativeWord>
+        <nativeWord>zrobić; wykonywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>78</idSound>
     </word>
     <word>
-        <foreignWord>may might</foreignWord>
+        <foreignWord>may might might have</foreignWord>
         <nativeWord>móc;przypuszać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>79</idSound>
     </word>
     <word>
         <foreignWord>mean meant meant</foreignWord>
         <nativeWord>mieć znaczenie;znaczyć;oznaczać;rozumieć;traktować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>80</idSound>
     </word>
     <word>
         <foreignWord>meet met met</foreignWord>
         <nativeWord>spotkać;spotykać;spotykać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>81</idSound>
     </word>
     <word>
         <foreignWord>mistake mistook mistaken</foreignWord>
         <nativeWord>popełnić błąd;popełniać błąd;pomylić się;pomylić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>82</idSound>
     </word>
     <word>
         <foreignWord>mow mowed mown</foreignWord>
         <nativeWord>kosić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>83</idSound>
     </word>
     <word>
         <foreignWord>must had to had to</foreignWord>
         <nativeWord>musieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>84</idSound>
     </word>
     <word>
         <foreignWord>pay paid paid</foreignWord>
         <nativeWord>płacić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>85</idSound>
     </word>
     <word>
         <foreignWord>put put put</foreignWord>
-        <nativeWord>kłaść; wsadzić; umieścić; włożyć</nativeWord>
+        <nativeWord>położyć; kłaść; wsadzić; umieścić; włożyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>86</idSound>
     </word>
     <word>
         <foreignWord>quit quit quit</foreignWord>
         <nativeWord>zrezygnować;rzucać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>87</idSound>
     </word>
     <word>
         <foreignWord>read read read</foreignWord>
         <nativeWord>czytać; przeczytać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>88</idSound>
     </word>
     <word>
         <foreignWord>rid rid rid</foreignWord>
         <nativeWord>uwalniać;oczyścić;pozbywać {/się}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>89</idSound>
     </word>
     <word>
         <foreignWord>ride rode ridden</foreignWord>
         <nativeWord>ujeżdżać;{jeździć/jechać} konno</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>90</idSound>
     </word>
     <word>
         <foreignWord>ring rang rung</foreignWord>
         <nativeWord>dzwonić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>91</idSound>
     </word>
     <word>
         <foreignWord>rise rose risen</foreignWord>
         <nativeWord>rosnąć;podnosić {/się}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>92</idSound>
     </word>
     <word>
         <foreignWord>run ran run</foreignWord>
-        <nativeWord>biec</nativeWord>
+        <nativeWord>biegać;biec</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>93</idSound>
     </word>
     <word>
         <foreignWord>saw sawed sawn</foreignWord>
         <nativeWord>piłować;rżnąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>94</idSound>
     </word>
     <word>
         <foreignWord>say said said</foreignWord>
         <nativeWord>powiedzieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>95</idSound>
     </word>
     <word>
         <foreignWord>see saw seen</foreignWord>
         <nativeWord>widzieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>96</idSound>
     </word>
     <word>
         <foreignWord>seek sought sought</foreignWord>
         <nativeWord>szukać;aportować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>97</idSound>
     </word>
     <word>
         <foreignWord>sell sold sold</foreignWord>
         <nativeWord>sprzedać;sprzedawać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>98</idSound>
     </word>
     <word>
         <foreignWord>send sent sent</foreignWord>
         <nativeWord>wysłać;wysyłać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>99</idSound>
     </word>
     <word>
         <foreignWord>set set set</foreignWord>
         <nativeWord>ustawić;przygotowywać;ustawiać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>100</idSound>
     </word>
     <word>
         <foreignWord>sew sewed sewn</foreignWord>
         <nativeWord>szyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>101</idSound>
     </word>
     <word>
         <foreignWord>shake shook shaken</foreignWord>
         <nativeWord>wstrząsać;potrząsać;trząść;wstrząsnąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>102</idSound>
     </word>
     <word>
         <foreignWord>shed shed shed</foreignWord>
         <nativeWord>lać;rozsiewać;rozlać;wylać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>103</idSound>
     </word>
     <word>
         <foreignWord>shine shone shone</foreignWord>
         <nativeWord>świecić;zabłysnąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>104</idSound>
     </word>
     <word>
         <foreignWord>shoot shot shot</foreignWord>
         <nativeWord>wystrzelić;strzelać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>105</idSound>
     </word>
     <word>
         <foreignWord>show showed shown</foreignWord>
         <nativeWord>pokazywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>106</idSound>
     </word>
     <word>
         <foreignWord>shrink shrank shrunk</foreignWord>
         <nativeWord>kurczyć się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>107</idSound>
     </word>
     <word>
         <foreignWord>shut shut shut</foreignWord>
         <nativeWord>zamknąć;zamykać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>108</idSound>
     </word>
     <word>
         <foreignWord>sing sang sung</foreignWord>
         <nativeWord>śpiewać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>109</idSound>
     </word>
     <word>
         <foreignWord>sit sat sat</foreignWord>
         <nativeWord>siedzieć;siadać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>110</idSound>
     </word>
     <word>
         <foreignWord>sleep slept slept</foreignWord>
         <nativeWord>spać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>111</idSound>
     </word>
     <word>
         <foreignWord>slide slid slid</foreignWord>
         <nativeWord>ześlizgnąć się;poślizgnąć;ześlizgiwać się;poślizgnąć się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>112</idSound>
     </word>
     <word>
         <foreignWord>sling slung slung</foreignWord>
         <nativeWord>zawieszać;podwieszać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>113</idSound>
     </word>
     <word>
         <foreignWord>slit slit slit</foreignWord>
         <nativeWord>rozciąć;poderżnąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>114</idSound>
     </word>
     <word>
         <foreignWord>smell smelt smelt</foreignWord>
         <nativeWord>pachnieć;{czuć/wyczuwać} zapach</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>115</idSound>
     </word>
     <word>
         <foreignWord>sow sowed sown</foreignWord>
         <nativeWord>siać;zasiać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>116</idSound>
     </word>
     <word>
         <foreignWord>speak spoke spoken</foreignWord>
         <nativeWord>mówić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>117</idSound>
     </word>
     <word>
         <foreignWord>speed sped sped</foreignWord>
         <nativeWord>spieszyć się;pędzić;grzać;wiać;spieszyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>118</idSound>
     </word>
     <word>
         <foreignWord>spell spelt spelt</foreignWord>
         <nativeWord>literować;przeliterować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>119</idSound>
     </word>
     <word>
         <foreignWord>spend spent spent</foreignWord>
         <nativeWord>wydawać (np. pieniądze);spędzać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>120</idSound>
     </word>
     <word>
         <foreignWord>spill spilt spilt</foreignWord>
         <nativeWord>rozlać;rozlewać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>121</idSound>
     </word>
     <word>
         <foreignWord>spin spun spun</foreignWord>
         <nativeWord>kręcić;snuć;wirować;obracać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>122</idSound>
     </word>
     <word>
         <foreignWord>spit spat spat</foreignWord>
         <nativeWord>pluć;napluć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>123</idSound>
     </word>
     <word>
         <foreignWord>spoil spoilt spoilt</foreignWord>
         <nativeWord>marnować;uszkadzać;psuć;zepsuć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>124</idSound>
     </word>
     <word>
         <foreignWord>spread spread spread</foreignWord>
         <nativeWord>rozłożyć;rozpościerać;rozkładać;rozsmarować;rozszerzyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>125</idSound>
     </word>
     <word>
         <foreignWord>spring sprang sprung</foreignWord>
         <nativeWord>sprężynować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>126</idSound>
     </word>
     <word>
         <foreignWord>stand stood stood</foreignWord>
         <nativeWord>stać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>127</idSound>
     </word>
     <word>
         <foreignWord>steal stole stolen</foreignWord>
         <nativeWord>kraść</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>128</idSound>
     </word>
     <word>
         <foreignWord>stick stuck stuck</foreignWord>
         <nativeWord>przykleić;przylepić;przylepiać;przyklejać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>129</idSound>
     </word>
     <word>
         <foreignWord>sting stung stung</foreignWord>
         <nativeWord>ukłuć;kłuć;użądlić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>130</idSound>
     </word>
     <word>
         <foreignWord>stink stank stunk</foreignWord>
         <nativeWord>śmierdzieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>131</idSound>
     </word>
     <word>
         <foreignWord>stride strode stridden</foreignWord>
         <nativeWord>kroczyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>132</idSound>
     </word>
     <word>
         <foreignWord>strike struck struck</foreignWord>
         <nativeWord>strajkować;uderzać;walić;wybijać;wybić;uderzyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>133</idSound>
     </word>
     <word>
         <foreignWord>strive strove striven</foreignWord>
         <nativeWord>usiłować;dążyć;krzątać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>134</idSound>
     </word>
     <word>
         <foreignWord>swear swore sworn</foreignWord>
         <nativeWord>przeklinać;klnąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>135</idSound>
     </word>
     <word>
         <foreignWord>sweep swept swept</foreignWord>
         <nativeWord>zamiatać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>136</idSound>
     </word>
     <word>
         <foreignWord>swell swelled swollen</foreignWord>
         <nativeWord>puchnąć;spuchnąć;obrzęknąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>137</idSound>
     </word>
     <word>
         <foreignWord>swim swam swum</foreignWord>
         <nativeWord>płynąć;pływać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>138</idSound>
     </word>
     <word>
         <foreignWord>swing swung swung</foreignWord>
-        <nativeWord>huśtać się;kołysać się</nativeWord>
+        <nativeWord>huśtać się; kołysać się; bujać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>139</idSound>
     </word>
     <word>
         <foreignWord>take took taken</foreignWord>
         <nativeWord>brać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>140</idSound>
     </word>
     <word>
         <foreignWord>teach taught taught</foreignWord>
         <nativeWord>nauczać;uczyć {/kogoś}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>141</idSound>
     </word>
     <word>
         <foreignWord>tear tore torn</foreignWord>
         <nativeWord>podrzeć;porwać;drzeć;rwać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>142</idSound>
     </word>
     <word>
         <foreignWord>tell told told</foreignWord>
         <nativeWord>opowiadać; opowiedzieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>143</idSound>
     </word>
     <word>
         <foreignWord>think thought thought</foreignWord>
         <nativeWord>myśleć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>144</idSound>
     </word>
     <word>
         <foreignWord>throw threw thrown</foreignWord>
         <nativeWord>wyrzucić;rzucić;rzucać;wyrzucać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>145</idSound>
     </word>
     <word>
         <foreignWord>thrust thrust thrust</foreignWord>
         <nativeWord>pchać;atakować;napierać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>146</idSound>
     </word>
     <word>
         <foreignWord>tread trod trodden</foreignWord>
         <nativeWord>stąpać;chodzić;kroczyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>147</idSound>
     </word>
     <word>
         <foreignWord>awake awoke awoken</foreignWord>
         <nativeWord>przebudzić {/się};obudzić {/się};uświadomić (sobie)</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>148</idSound>
     </word>
     <word>
         <foreignWord>wear wore worn</foreignWord>
         <nativeWord>nosić na sobie;nosić;ubierać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>149</idSound>
     </word>
     <word>
         <foreignWord>weave wove woven</foreignWord>
         <nativeWord>tkać;wplatać;przemykać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>150</idSound>
     </word>
     <word>
         <foreignWord>weep wept wept</foreignWord>
         <nativeWord>łkać;płakać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>151</idSound>
     </word>
     <word>
         <foreignWord>win won won</foreignWord>
         <nativeWord>wygrywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>152</idSound>
     </word>
     <word>
         <foreignWord>wind wound wound</foreignWord>
         <nativeWord>wić;wić się;owijać;nakręcać;nawijać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>153</idSound>
     </word>
     <word>
         <foreignWord>wring wrung wrung</foreignWord>
         <nativeWord>wyciskać;ściskać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>154</idSound>
     </word>
     <word>
         <foreignWord>write wrote written</foreignWord>
         <nativeWord>pisać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>155</idSound>
     </word>
     <word>
         <foreignWord>broadcast broadcast broadcast</foreignWord>
         <nativeWord>rozpowszechniać;nadawać;transmitować;ogłaszać (np.przez radio);rozgłaszać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>156</idSound>
     </word>
     <word>
         <foreignWord>knit knit knit</foreignWord>
         <nativeWord>{robić/zrobić} na drutach;połączyć;związać;scementować;zjednoczyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>157</idSound>
     </word>
     <word>
         <foreignWord>outspread outspread outspread</foreignWord>
         <nativeWord>rozpościerać;rozwijać;rozkrzyżować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>158</idSound>
     </word>
     <word>
         <foreignWord>overcast overcast overcast</foreignWord>
         <nativeWord>zasępiać;chmurzyć;zachmurzyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>159</idSound>
     </word>
     <word>
         <foreignWord>overset overset overset</foreignWord>
         <nativeWord>przysłonić;przysłaniać;zakryć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>160</idSound>
     </word>
     <word>
         <foreignWord>recast recast recast</foreignWord>
         <nativeWord>przerobić;przetapiać;zmieniać obsadę;przeliczyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>161</idSound>
     </word>
     <word>
         <foreignWord>reset reset reset</foreignWord>
         <nativeWord>zresetować;nastawić;przestawiać;przeskładać;ukryć;ponownie naostrzyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>162</idSound>
     </word>
     <word>
         <foreignWord>split split split</foreignWord>
         <nativeWord>podzielić;rozdzielić;dzielić;rozdzielać;rozszczepiać;rozszczepić;rozłupać;pękać;łupać;rozstąpić się;rozłamać;rozsadzać;naszczepić;przełupać;rozpłatać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>163</idSound>
     </word>
     <word>
         <foreignWord>upset upset upset</foreignWord>
         <nativeWord>wywalić;denerwować;zdenerwować;niepokoić;zaniepokoić;dezorganizować;pokrzyżować;rozstroić;bulwersować;zbulwersować;wywalać;przewracać;kapotować;udaremniać;podenerwować;przewalać;koziołkować;spęczać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>164</idSound>
     </word>
     <word>
         <foreignWord>abide abode abode</foreignWord>
         <nativeWord>trwać;wytrwać;przestrzegać;znieść;mieszkać;trzymać;wytrzymać;respektować;dotrzymać;czekać na sposobność;ostać się przy swoim</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>165</idSound>
     </word>
     <word>
         <foreignWord>bereave bereft bereft</foreignWord>
         <nativeWord>wyzuć;pozbawiać kogoś czegoś;osierocić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>166</idSound>
     </word>
     <word>
         <foreignWord>beseech besought besought</foreignWord>
         <nativeWord>błagać;zaklinać;zakląć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>167</idSound>
     </word>
     <word>
         <foreignWord>bethink bethought bethought</foreignWord>
         <nativeWord>zastanawiać się;przypominać sobie</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>168</idSound>
     </word>
     <word>
         <foreignWord>bid bid bidden</foreignWord>
         <nativeWord>licytować;składać ofertę;kazać;dać;mówić;zapraszać;rozkazać komuś;ofiarować cenę;ofiarować;zapowiadać kolor w brydżu</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>169</idSound>
     </word>
     <word>
         <foreignWord>browbeat browbeat browbeaten</foreignWord>
@@ -1188,566 +1188,573 @@
         <nativeWord>przylgnąć;przylegać;lgnąć;czepiać się;przywierać;obciskać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>170</idSound>
     </word>
     <word>
         <foreignWord>deal dealt dealt</foreignWord>
         <nativeWord>zajmować się;radzić sobie;dotyczyć;traktować;handlować;rozdać;zaaplikować;obdzielać;wymierzać cios;zawierać transakcję;mieszać się do czegoś;uporać się z kimś;postępować z kimś {dobrz/źle}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>171</idSound>
     </word>
     <word>
         <foreignWord>fight fought fought</foreignWord>
         <nativeWord>walczyć;zwalczać;bić {/się};stoczyć;tłuc {/się};bojować;gryźć się;rżnąć;prać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>172</idSound>
     </word>
     <word>
         <foreignWord>find found found</foreignWord>
         <nativeWord>znaleźć;odnaleźć;znajdować;odszukać;odkryć;spotkać;poszukać;natrafić;zastać;wynaleźć;stwierdzać;dojść do wniosku;wyszperać;umiejscawiać;zaopatrywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>173</idSound>
     </word>
     <word>
         <foreignWord>foretell foretold foretold</foreignWord>
         <nativeWord>przepowiadać;wróżyć;zapowiadać;prorokować;wywróżyć;powróżyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>174</idSound>
     </word>
     <word>
         <foreignWord>gainsay gainsaid gainsaid</foreignWord>
         <nativeWord>kwestionować;zaprzeczać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>175</idSound>
     </word>
     <word>
         <foreignWord>inlay inlaid inlaid</foreignWord>
         <nativeWord>inkrustować;wykładać (np.mozaikę);intarsjować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>176</idSound>
     </word>
     <word>
         <foreignWord>leap leapt leapt</foreignWord>
         <nativeWord>skoczyć;przeskoczyć;kicać;zabić;pochopnie przyjmować;skakać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>177</idSound>
     </word>
     <word>
         <foreignWord>learn learnt learnt</foreignWord>
         <nativeWord>uczyć się;dowiedzieć się;usłyszeć;wyczytać;zaprawiać się;poznać coś</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>178</idSound>
     </word>
     <word>
         <foreignWord>mislay mislaid mislaid</foreignWord>
         <nativeWord>gubić;zapodziać;zarzucać;podziać;zawieruszyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>179</idSound>
     </word>
     <word>
         <foreignWord>mislead misled misled</foreignWord>
         <nativeWord>zmylić;mylić;bałamucić;{wprowadzać/wprowadzić} w błąd;omylić;pomylić;zbałamucić;czarować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>180</idSound>
     </word>
     <word>
         <foreignWord>misunderstand misunderstood misunderstood</foreignWord>
         <nativeWord>{źle/błędnie/nie} zrozumieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>181</idSound>
     </word>
     <word>
         <foreignWord>outrun outran outrun</foreignWord>
         <nativeWord>wyprzedzać;przekraczać granicę czegoś</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>182</idSound>
     </word>
     <word>
         <foreignWord>outshine outshone outshone</foreignWord>
         <nativeWord>zaćmić;przewyższać blaskiem</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>183</idSound>
     </word>
     <word>
         <foreignWord>overcome overcame overcome</foreignWord>
         <nativeWord>przezwyciężać;pokonać;zwyciężać;owładnąć;zmagać;ponieść;łamać;sforsować;opętać;przemóc;forsować;objąć;uginać się pod czymś;nie posiadać się;być zmożonym czymś</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>184</idSound>
     </word>
     <word>
         <foreignWord>overfeed overfed overfed</foreignWord>
         <nativeWord>przekarmiać;przekarmić;objadać się;obeżreć się;przepasać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>185</idSound>
     </word>
     <word>
         <foreignWord>overhang overhung overhung</foreignWord>
         <nativeWord>zwisać;nadwiesić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>186</idSound>
     </word>
     <word>
         <foreignWord>overhear overheard overheard</foreignWord>
         <nativeWord>podsłuchać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>187</idSound>
     </word>
     <word>
         <foreignWord>overlay overlaid overlaid</foreignWord>
         <nativeWord>pokryć;nakryć;narzucić;przykryć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>188</idSound>
     </word>
     <word>
         <foreignWord>overrun overran overrun</foreignWord>
         <nativeWord>pustoszyć;najechać;grasować;zalać;nadpisać; najeżdżać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>189</idSound>
     </word>
     <word>
         <foreignWord>overshoot overshot overshot</foreignWord>
         <nativeWord>przestrzelić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>190</idSound>
     </word>
     <word>
         <foreignWord>oversleep overslept overslept</foreignWord>
         <nativeWord>zaspać;przespać {/coś}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>191</idSound>
     </word>
     <word>
         <foreignWord>rebuild rebuilt rebuilt</foreignWord>
         <nativeWord>odbudowywać;odbudować;przebudować;odnawiać;budować na nowo;podźwignąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>192</idSound>
     </word>
     <word>
         <foreignWord>relay relaid relaid</foreignWord>
         <nativeWord>przekazać;retransmitować;przeprząc;zluzować;położyć coś na nowo</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>193</idSound>
     </word>
     <word>
         <foreignWord>rend rent rent</foreignWord>
         <nativeWord>rozdzierać;drzeć;rozerwać;przedrzeć;poszarpać;wyrwać;rozłupać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>194</idSound>
     </word>
     <word>
         <foreignWord>repay repaid repaid</foreignWord>
         <nativeWord>odpłacać;spłacać;odpłacić;zapłacić;odwdzięczyć się;zrewanżować się;wypłacać się;odwzajemniać;wynagradzać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>195</idSound>
     </word>
     <word>
         <foreignWord>retell retold retold</foreignWord>
         <nativeWord>ponownie {opowiadać/opowiedzieć}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>196</idSound>
     </word>
     <word>
         <foreignWord>shoe shod shod</foreignWord>
         <nativeWord>obuć;kuć;podkuć konia;okuć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>197</idSound>
     </word>
     <word>
         <foreignWord>slink slunk slunk</foreignWord>
         <nativeWord>skradać {/się};poronić;przesmykiwać {/się}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>198</idSound>
     </word>
     <word>
         <foreignWord>string strung strung</foreignWord>
         <nativeWord>nanizać;zawiązać;nawlec;nizać;perlić;oczyścić od włókien;naciągnąć kogoś;zaopatrywać w struny</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>199</idSound>
     </word>
     <word>
         <foreignWord>sunburn sunburnt sunburnt</foreignWord>
         <nativeWord>opalać;opalać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>200</idSound>
     </word>
     <word>
         <foreignWord>unbend unbent unbent</foreignWord>
         <nativeWord>odginać;rozprostować;wyprostować;rozprostować się;rozchmurzyć;rozkulić;rozginać;odprężyć się;odgiąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>201</idSound>
     </word>
     <word>
         <foreignWord>unbind unbound unbound</foreignWord>
         <nativeWord>odwiązać;rozwiązywać;rozwiązać;rozpuszczać;odpasać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>202</idSound>
     </word>
     <word>
         <foreignWord>underbid underbid underbidden</foreignWord>
         <nativeWord>oferować niższą cenę</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>203</idSound>
     </word>
     <word>
         <foreignWord>undersell undersold undersold</foreignWord>
         <nativeWord>zaniżać cenę;{sprzedawać/sprzedać} po zaniżonej cenie</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>204</idSound>
     </word>
     <word>
         <foreignWord>understand understood understood</foreignWord>
         <nativeWord>zrozumieć;rozumieć;domyślać się;być wyrozumiałym;znać się na czymś;pojąć;orientować się;wywnioskować;rozgryźć;wyznawać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>205</idSound>
     </word>
     <word>
         <foreignWord>waylay waylaid waylaid</foreignWord>
         <nativeWord>napadać;czyhać {/na kogoś/na coś}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>206</idSound>
     </word>
     <word>
         <foreignWord>withhold withheld withheld</foreignWord>
         <nativeWord>wstrzymywać;wstrzymać;powstrzymać kogoś od zrobienia czegoś;potrącać;odmawiać;ukryć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>207</idSound>
     </word>
     <word>
         <foreignWord>withstand withstood withstood</foreignWord>
         <nativeWord>wytrzymywać;wytrzymać;stawiać opór;przeciwstawiać;dobrze znosić;przeciwstawiać się;ochraniać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>208</idSound>
     </word>
     <word>
         <foreignWord>backbite backbit backbitten</foreignWord>
         <nativeWord>obmawiać;nagadać; obgadywać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>209</idSound>
     </word>
     <word>
         <foreignWord>beget begot begotten</foreignWord>
         <nativeWord>zrodzić;wywołać;spowodować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>210</idSound>
     </word>
     <word>
         <foreignWord>bespeak bespoke bespoken</foreignWord>
         <nativeWord>zamawiać;świadczyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>211</idSound>
     </word>
     <word>
         <foreignWord>bestride bestrode bestridden</foreignWord>
         <nativeWord>siąść okrakiem;dosiąść konia;siadać okrakiem na czymś;rozkraczyć się;okraczyć;objąć przestrzeń;przekraczać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>212</idSound>
     </word>
     <word>
         <foreignWord>betake betook betaken</foreignWord>
         <nativeWord>udać się;uciec się;zwrócić się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>213</idSound>
     </word>
     <word>
         <foreignWord>chide chid chidden</foreignWord>
         <nativeWord>zbesztać;łajać;besztać;fukać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>214</idSound>
     </word>
     <word>
         <foreignWord>cleave clove cloven</foreignWord>
         <nativeWord>rozszczepiać;przeciąć;rozłupać;przylegać;przerżnąć;łupać;pękać;rozrąbać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>215</idSound>
     </word>
     <word>
         <foreignWord>forbear forbore forborne</foreignWord>
         <nativeWord>być przodkiem;poprzedzać na świecie</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>216</idSound>
     </word>
     <word>
         <foreignWord>forego forewent foregone</foreignWord>
         <nativeWord>zrzec się;poprzedzać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>217</idSound>
     </word>
     <word>
         <foreignWord>foresee foresaw foreseen</foreignWord>
         <nativeWord>przewidywać; przewidzieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>218</idSound>
     </word>
     <word>
         <foreignWord>forswear forswore forsworn</foreignWord>
         <nativeWord>odprzysiąc;wypierać się pod przysięgą</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>219</idSound>
     </word>
     <word>
         <foreignWord>grow grew grown</foreignWord>
         <nativeWord>rosnąć;kiełkować;wzmagać się;hodować;wyrastać;stawać się;przybrać;uprawiać rośliny;podrastać;przybyć;wychodzić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>220</idSound>
     </word>
     <word>
         <foreignWord>hew hewed hewn</foreignWord>
         <nativeWord>rąbać;ciąć;ciosać;ociosać;wrębiać;rozgromić;wkuć się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>221</idSound>
     </word>
     <word>
         <foreignWord>lade laded laden</foreignWord>
         <nativeWord>ładować;zafrachtować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>222</idSound>
     </word>
     <word>
         <foreignWord>outdo outdid outdone</foreignWord>
         <nativeWord>przelicytować;{prześcigać/prześcignąć} {/kogoś w czymś};przewyższać;celować</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>223</idSound>
     </word>
     <word>
         <foreignWord>outgrow outgrew outgrown</foreignWord>
         <nativeWord>wyrastać;przerastać kogoś</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>224</idSound>
     </word>
     <word>
         <foreignWord>outwear outwore outworn</foreignWord>
         <nativeWord>znosić (ubranie)</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>225</idSound>
     </word>
     <word>
         <foreignWord>overbear overbore overborne</foreignWord>
         <nativeWord>onieśmielać;przemóc;przełamać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>226</idSound>
     </word>
     <word>
         <foreignWord>overdo overdid overdone</foreignWord>
         <nativeWord>przedobrzyć;{przesadzić/przesadzać} {/w czymś};przekraczać granicę {/czegoś}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>227</idSound>
     </word>
     <word>
         <foreignWord>overdraw overdrew overdrawn</foreignWord>
         <nativeWord>nadbrać;nadbierać;przekraczać konto;przejaskrawiać;przekoloryzować {/w opisie}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>228</idSound>
     </word>
     <word>
         <foreignWord>overeat overate overeaten</foreignWord>
         <nativeWord>przejadać się</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>229</idSound>
     </word>
     <word>
         <foreignWord>overgrow overgrew overgrown</foreignWord>
         <nativeWord>zarastać;przerastać;porastać;wyrastać {z ubrania/nadmiernie}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>230</idSound>
     </word>
     <word>
         <foreignWord>overlie overlay overlain</foreignWord>
         <nativeWord>przydusić;pokryć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>231</idSound>
     </word>
     <word>
         <foreignWord>override overrode overriden</foreignWord>
         <nativeWord>najeżdżać;stratować;spustoszyć;prześcigać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>232</idSound>
     </word>
     <word>
         <foreignWord>oversee oversaw overseen</foreignWord>
         <nativeWord>nadzorować;doglądać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>233</idSound>
     </word>
     <word>
         <foreignWord>overtake overtook overtaken</foreignWord>
         <nativeWord>wyprzedzać;{przejąć/przejmować} (np.kontrolę);doganiać;dopaść;wymijać;dopędzać;zrównać się;prześcigać;nadrabiać zaległości;wyprzedzić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>234</idSound>
     </word>
     <word>
         <foreignWord>overthrow overthrew overthrown</foreignWord>
         <nativeWord>obalić;powalić;przewracać;burzyć;utrącić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>235</idSound>
     </word>
     <word>
         <foreignWord>partake partook partaken</foreignWord>
         <nativeWord>uczestniczyć;wziąć udział;podzielić;partycjonować;brać udział</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>236</idSound>
     </word>
     <word>
         <foreignWord>shear sheared shorn</foreignWord>
         <nativeWord>ściąć;ostrzyc;strzyc owce;wystrzyc;ścinać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>237</idSound>
     </word>
     <word>
         <foreignWord>sink sank sunk</foreignWord>
         <nativeWord>tonąć;zatopić;zatonąć;utonąć;pogrążać;opadać;utopić;zanurzać;osiadać;spadać;grzęznąć;padać;chylić;topić się;natapiać;grążyć;przenikać;ginąć w oczach;padać pod ciężarem;zamierać;zanikać;walić się;obsunąć się;zabrnąć;wszczepiać;skapcanieć;wgłębić;wgryzać się;spuścić;wpadać;osunąć;lgnąć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>238</idSound>
     </word>
     <word>
         <foreignWord>slay slew slain</foreignWord>
         <nativeWord>usiec;zabić;powalić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>239</idSound>
     </word>
     <word>
         <foreignWord>smite smote smitten</foreignWord>
         <nativeWord>porazić;uderzać;razić;ukarać;zadać;nawiedzać;nagle przyjść do głowy</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>240</idSound>
     </word>
     <word>
         <foreignWord>strew strewed strewn</foreignWord>
         <nativeWord>usłać;posypać;rozsypać papiery;porozrzucać zabawki;obsypać;usiać;obsiać podłogę</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>241</idSound>
     </word>
     <word>
         <foreignWord>thrive throve thriven</foreignWord>
         <nativeWord>prosperować;kwitnąć;dobrze się rozwijać;mieć korzyść z czegoś</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>242</idSound>
     </word>
     <word>
         <foreignWord>undergo underwent undergone</foreignWord>
         <nativeWord>doznać;przecierpieć;zaznać;przejść;podlegać;odbyć;doświadczać</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>243</idSound>
     </word>
     <word>
         <foreignWord>undertake undertook undertaken</foreignWord>
         <nativeWord>przedsięwziąźć;podjąć;zobowiązać się;imać;przyjąć {/na siebie};podjąć się czegoś</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>244</idSound>
     </word>
     <word>
         <foreignWord>underwrite underwrote underwritten</foreignWord>
         <nativeWord>podpisywać;podpisać;przyjąć do ubezpieczenia</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>245</idSound>
     </word>
     <word>
         <foreignWord>undo undid undone</foreignWord>
         <nativeWord>cofnąć;anulować;unieważnić;przywrócić;odrobić;rozpiąć;odpiąć;rozwiązać;odwiązać;rozwijać;spruć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>246</idSound>
     </word>
     <word>
         <foreignWord>withdraw withdrew withdrawn</foreignWord>
         <nativeWord>wycofywać;wycofać {/się};odstąpić;podjąć (np.kwotę z konta);ujść;odwołać;cofać;ustąpić;oddalić;cofać się;odsunąć;zabierać;wychodzić;odchodzić;ewakuować się;odjąć;zamknąć się w sobie</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>247</idSound>
     </word>
     <word>
         <foreignWord>shrive shrove shriven</foreignWord>
         <nativeWord>wyspowiadać;rozgrzeszyć</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>248</idSound>
     </word>
     <word>
         <foreignWord>misgive misgave misgiven</foreignWord>
         <nativeWord>wątpić;podejrzewać;obawiać;mieć złe przeczucia;zwątpić</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>249</idSound>
     </word>
     <word>
         <foreignWord>foreknow foreknew foreknown</foreignWord>
         <nativeWord>przeczuwać;wiedzieć {z góry/a priori}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>250</idSound>
+    </word>
+    <word>
+        <foreignWord>bless {blest blest/blessed blessed}</foreignWord>
+        <nativeWord>błogosławić</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>251</idSound>
     </word>
 </dictionary>

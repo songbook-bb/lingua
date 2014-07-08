@@ -316,8 +316,8 @@
         <idSound>45</idSound>
     </word>
     <word>
-        <foreignWord>strange;odd;weird</foreignWord>
-        <nativeWord>dziwny</nativeWord>
+        <foreignWord>strange;bizarre;weird;odd</foreignWord>
+        <nativeWord>dziwaczny;dziwny</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>46</idSound>

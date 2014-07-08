@@ -25,13 +25,13 @@
         <foreignWord>quatro</foreignWord>
         <nativeWord>four</nativeWord>
         <score>0</score>
-        <learned>1</learned>
+        <learned>0</learned>
         <idSound>4</idSound>
     </word>
     <word>
         <foreignWord>cinco</foreignWord>
         <nativeWord>five</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>5</idSound>
     </word>
@@ -45,14 +45,14 @@
     <word>
         <foreignWord>sete</foreignWord>
         <nativeWord>seven</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>7</idSound>
     </word>
     <word>
         <foreignWord>oito</foreignWord>
         <nativeWord>eight</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>8</idSound>
     </word>
@@ -66,7 +66,7 @@
     <word>
         <foreignWord>dez</foreignWord>
         <nativeWord>ten</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>10</idSound>
     </word>

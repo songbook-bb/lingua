@@ -5,21 +5,21 @@
         <nativeWord>OJCZE NASZ</nativeWord>
         <score>4</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>1</idSound>
     </word>
     <word>
         <foreignWord>Notre Père qui es aux cieux{!/.}</foreignWord>
         <nativeWord>Ojcze nasz, {któryś jest/który jesteś} w niebie</nativeWord>
         <score>3</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>2</idSound>
     </word>
     <word>
         <foreignWord>Que ton nom soit sanctifié,</foreignWord>
         <nativeWord>święć się imię Twoje,</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>3</idSound>
     </word>
     <word>
         <foreignWord>que ton règne vienne,</foreignWord>

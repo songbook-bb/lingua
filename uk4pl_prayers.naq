@@ -106,7 +106,7 @@
         <idSound>15</idSound>
     </word>
     <word>
-        <foreignWord>Blessed art thou among women,</foreignWord>
+        <foreignWord>Blessed {art thou/are you} {among/amongst} women,</foreignWord>
         <nativeWord>Błogosławionaś ty między niewiastami,</nativeWord>
         <score>0</score>
         <learned>0</learned>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>class naming standard</foreignWord>
+        <nativeWord>first capital letter; nouns; camelCase</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>interface naming standard</foreignWord>
+        <nativeWord>adjectives; uppercase; camelCase</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>method naming standard</foreignWord>
+        <nativeWord>verb-noun pairs; first letter lowecase; camelCase</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>variable naming standard</foreignWord>
+        <nativeWord>first letter lowercase; camelCase; nouns</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>constant naming standard</foreignWord>
+        <nativeWord>all uppercase; underscore as word separator</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>javabean property naming standard</foreignWord>
+        <nativeWord>get; set; is; variable is private; method is public;</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>interface method modifiers</foreignWord>
+        <nativeWord>public; abstract</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>interface constant modifiers</foreignWord>
+        <nativeWord>public; static; final</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>access modifiers for classes</foreignWord>
+        <nativeWord>public; private; protected; default</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>nonaccess modifiers for classes</foreignWord>
+        <nativeWord>abstract; final; strictfp;</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Methods and instance (nonlocal) variables are known as</foreignWord>
+        <nativeWord>members</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>default access</foreignWord>
+        <nativeWord>only the same package</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>protected access</foreignWord>
+        <nativeWord>can be accessed by subclass (of superclass from protected package) from different package</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>one modifier that applies to local variables is</foreignWord>
+        <nativeWord>final</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>method arguments can be</foreignWord>
+        <nativeWord>final</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>it is illegal to have abstract method in a class not declared</foreignWord>
+        <nativeWord>abstract</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abstract class can have</foreignWord>
+        <nativeWord>no abstract methods</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>forbidden modifier combination</foreignWord>
+        <nativeWord>abstract &amp; static</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>synchronized; native</foreignWord>
+        <nativeWord>can ONLY be aplied to methods</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>variable cannot be declared</foreignWord>
+        <nativeWord>strictfp (only methods &amp; classes)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>while declaring array you never include</foreignWord>
+        <nativeWord>size of it in declaration</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>while declaring array reference it is legal to put brackets</foreignWord>
+        <nativeWord>before or after identifier (before is recomended)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>volatile &amp; transient</foreignWord>
+        <nativeWord>can be applied only to instance variables</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>transient</foreignWord>
+        <nativeWord>do not serialize this instance variable</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>can be static</foreignWord>
+        <nativeWord>methods; variables; classes nested in classes; initialization blocks</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cannot be static</foreignWord>
+        <nativeWord>constructors; not nested classes; interfaces; inner class methods and instance variables; local variables; method local inner classes</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cannot declare enums</foreignWord>
+        <nativeWord>in methods</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>coupling describes</foreignWord>
+        <nativeWord>how classes interact with each other</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cohesion describes</foreignWord>
+        <nativeWord>how a single class is designed</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>return to page</foreignWord>
+        <nativeWord>195; 292; 349</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>include the size of the array in your declaration</foreignWord>
+        <nativeWord>is never legal</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>arrays must always be given a size at the time</foreignWord>
+        <nativeWord>they are {constructed/created/instantiated}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>StringBuilder is not</foreignWord>
+        <nativeWord>thread safe</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

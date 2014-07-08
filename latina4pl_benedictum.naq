@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>Tantum ergo sacramentum</foreignWord>
+        <nativeWord>Przed tak wielkim Sakramentem</nativeWord>
+        <score>0</score>
+        <learned>1</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>veneremur cernui,</foreignWord>
+        <nativeWord>upadajmy wszyscy wraz,</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>et antiquum documentum</foreignWord>
+        <nativeWord>niech przed Nowym Testamentem</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>novo cedat ritui</foreignWord>
+        <nativeWord>starych praw ustąpi czas.</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>praestet fides supplementum</foreignWord>
+        <nativeWord>Co dla zmysłów niepojęte,</nativeWord>
+        <score>3</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>sensuum defectui.</foreignWord>
+        <nativeWord>niech dopełni wiara w nas.</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

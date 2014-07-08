@@ -30,7 +30,7 @@
     </word>
     <word>
         <foreignWord>lekker</foreignWord>
-        <nativeWord>pyszne</nativeWord>
+        <nativeWord>smaczny; pyszne</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>5</idSound>
@@ -296,7 +296,7 @@
     </word>
     <word>
         <foreignWord>schouder</foreignWord>
-        <nativeWord>bark</nativeWord>
+        <nativeWord>ramię; bark</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

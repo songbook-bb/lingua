@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>aan de ene kant</foreignWord>
+        <nativeWord>z jednej strony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>aan de andere kant</foreignWord>
+        <nativeWord>z drugiej strony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>aandacht geven aan</foreignWord>
+        <nativeWord>{zwracać uwagę na/obdarzać uwagą} {kogoś/coś}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>gebrek aan</foreignWord>
+        <nativeWord>brak czegoś;niedobór</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>gewend zijn aan</foreignWord>
+        <nativeWord>być przyzwyczajonym do</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>herinneringen hebben aan</foreignWord>
+        <nativeWord>mieć wspomnienia z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>tijd besteden aan</foreignWord>
+        <nativeWord>poświęcać czas na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>verslaafd raken aan</foreignWord>
+        <nativeWord>uzależnić się od</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>zich aanpassen aan</foreignWord>
+        <nativeWord>dopasować się;dostosować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>logeren bij</foreignWord>
+        <nativeWord>nocować u</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>op bezoek gaan bij</foreignWord>
+        <nativeWord>iść z wizytą do</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>in ieder geval</foreignWord>
+        <nativeWord>w każdym razie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>meedoen met</foreignWord>
+        <nativeWord>robić coś z kimś;współpracować</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>rekening houden met</foreignWord>
+        <nativeWord>liczyć się z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>stoppen met</foreignWord>
+        <nativeWord>skończyć z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>te maken hebben met</foreignWord>
+        <nativeWord>mieć do czynienia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>kinderen naar bed brengen</foreignWord>
+        <nativeWord>kłaść dzieci spać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>luisteren naar</foreignWord>
+        <nativeWord>słuchać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>kijken naar</foreignWord>
+        <nativeWord>patrzeć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>onder controle houden</foreignWord>
+        <nativeWord>mieć pod kontrolą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+    <word>
+        <foreignWord>effect hebben op</foreignWord>
+        <nativeWord>mieć {konsekwencje dla/wpływ na}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>21</idSound>
+    </word>
+    <word>
+        <foreignWord>dol zijn op</foreignWord>
+        <nativeWord>zwariować na punkcie;przepadać za</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>22</idSound>
+    </word>
+    <word>
+        <foreignWord>indruk maken op</foreignWord>
+        <nativeWord>robić wrażenie na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+    <word>
+        <foreignWord>invloed hebben op</foreignWord>
+        <nativeWord>mieć wpływ na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>24</idSound>
+    </word>
+    <word>
+        <foreignWord>op school zitten</foreignWord>
+        <nativeWord>chodzić do szkoły</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>25</idSound>
+    </word>
+    <word>
+        <foreignWord>richten op</foreignWord>
+        <nativeWord>koncentrować się na;kierować na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>26</idSound>
+    </word>
+    <word>
+        <foreignWord>op werk zijn</foreignWord>
+        <nativeWord>być w pracy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>27</idSound>
+    </word>
+    <word>
+        <foreignWord>beslissingen nemen over</foreignWord>
+        <nativeWord>podjąć decyzję dotyczącą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>28</idSound>
+    </word>
+    <word>
+        <foreignWord>actie voeren tegen</foreignWord>
+        <nativeWord>prowadzić akcję przeciw</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>29</idSound>
+    </word>
+    <word>
+        <foreignWord>vechten tegen</foreignWord>
+        <nativeWord>walczyć z</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>30</idSound>
+    </word>
+    <word>
+        <foreignWord>verzekerd zijn tegen</foreignWord>
+        <nativeWord>być ubezpieczonym na wypadek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>31</idSound>
+    </word>
+    <word>
+        <foreignWord>toegang krijgen tot</foreignWord>
+        <nativeWord>uzyskać dostęp do</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>32</idSound>
+    </word>
+    <word>
+        <foreignWord>afhankelijk zijn van</foreignWord>
+        <nativeWord>zależeć od</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>33</idSound>
+    </word>
+    <word>
+        <foreignWord>gek worden van</foreignWord>
+        <nativeWord>wariować od czegoś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>34</idSound>
+    </word>
+    <word>
+        <foreignWord>foto's maken van</foreignWord>
+        <nativeWord>robić zdjęcia czemuś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>35</idSound>
+    </word>
+    <word>
+        <foreignWord>lid worden van</foreignWord>
+        <nativeWord>zostać członkiem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>36</idSound>
+    </word>
+    <word>
+        <foreignWord>met behulp van</foreignWord>
+        <nativeWord>z pomocą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>37</idSound>
+    </word>
+    <word>
+        <foreignWord>onder leiding van</foreignWord>
+        <nativeWord>pod kierownictwem kogoś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>38</idSound>
+    </word>
+    <word>
+        <foreignWord>ontslag krijgen op het werk</foreignWord>
+        <nativeWord>dostać wymówienie w pracy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>39</idSound>
+    </word>
+    <word>
+        <foreignWord>ontslag nemen op het werk</foreignWord>
+        <nativeWord>złożyć wymówienie w pracy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>40</idSound>
+    </word>
+    <word>
+        <foreignWord>overnemen van</foreignWord>
+        <nativeWord>przejąć od</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>41</idSound>
+    </word>
+    <word>
+        <foreignWord>spijt hebben van</foreignWord>
+        <nativeWord>żałować czegoś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>42</idSound>
+    </word>
+    <word>
+        <foreignWord>verstand hebben van</foreignWord>
+        <nativeWord>mieć pojęcie o;rozumieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>43</idSound>
+    </word>
+    <word>
+        <foreignWord>actie voeren voor</foreignWord>
+        <nativeWord>prowadzić akcję {na rzecz/dla}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>44</idSound>
+    </word>
+    <word>
+        <foreignWord>bang zijn voor</foreignWord>
+        <nativeWord>bać się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>45</idSound>
+    </word>
+    <word>
+        <foreignWord>gevoelig zijn voor</foreignWord>
+        <nativeWord>być wrażliwym na</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>46</idSound>
+    </word>
+    <word>
+        <foreignWord>zorgen voor</foreignWord>
+        <nativeWord>dbać o</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>47</idSound>
+    </word>
+</dictionary>

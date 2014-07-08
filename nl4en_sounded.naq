@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="5">
+    <word>
+        <foreignWord>de geschiedenis</foreignWord>
+        <nativeWord>the history</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>het paleis</foreignWord>
+        <nativeWord>the palace</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>alleen</foreignWord>
+        <nativeWord>only</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>ontmoeten</foreignWord>
+        <nativeWord>to meet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>verliefd</foreignWord>
+        <nativeWord>in love</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>spoedig</foreignWord>
+        <nativeWord>soon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>de ouders</foreignWord>
+        <nativeWord>the parents</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>helaas</foreignWord>
+        <nativeWord>alas</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>het geluk</foreignWord>
+        <nativeWord>the happiness</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>de luisteraar</foreignWord>
+        <nativeWord>the listener</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>zoals</foreignWord>
+        <nativeWord>as; like</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>iemand anders</foreignWord>
+        <nativeWord>someone else</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>geschikt</foreignWord>
+        <nativeWord>suitable</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>klagen</foreignWord>
+        <nativeWord>to complain</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>ontvoeren</foreignWord>
+        <nativeWord>to kidnap</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>huilen</foreignWord>
+        <nativeWord>to cry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>zonder</foreignWord>
+        <nativeWord>without</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>duren</foreignWord>
+        <nativeWord>to last</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>ten slotte</foreignWord>
+        <nativeWord>eventually</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>vlak na</foreignWord>
+        <nativeWord>shortly after</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+    <word>
+        <foreignWord>wensen</foreignWord>
+        <nativeWord>to wish</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>21</idSound>
+    </word>
+    <word>
+        <foreignWord>het verleden</foreignWord>
+        <nativeWord>the past</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>22</idSound>
+    </word>
+    <word>
+        <foreignWord>de toekomst</foreignWord>
+        <nativeWord>the future</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+    <word>
+        <foreignWord>de broer</foreignWord>
+        <nativeWord>the brother</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>24</idSound>
+    </word>
+    <word>
+        <foreignWord>uit de weg ruimen</foreignWord>
+        <nativeWord>to eliminate</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>25</idSound>
+    </word>
+    <word>
+        <foreignWord>verschrikkelijk</foreignWord>
+        <nativeWord>terrible</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>26</idSound>
+    </word>
+    <word>
+        <foreignWord>moeilijk</foreignWord>
+        <nativeWord>difficult</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>27</idSound>
+    </word>
+    <word>
+        <foreignWord>verdrietig</foreignWord>
+        <nativeWord>sad</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>28</idSound>
+    </word>
+    <word>
+        <foreignWord>zich herinneren</foreignWord>
+        <nativeWord>to recall</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>29</idSound>
+    </word>
+    <word>
+        <foreignWord>furieus</foreignWord>
+        <nativeWord>furious</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>30</idSound>
+    </word>
+    <word>
+        <foreignWord>zielig</foreignWord>
+        <nativeWord>pathetic</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>31</idSound>
+    </word>
+    <word>
+        <foreignWord>de geest</foreignWord>
+        <nativeWord>the ghost</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>32</idSound>
+    </word>
+    <word>
+        <foreignWord>de feestdag</foreignWord>
+        <nativeWord>the public holiday</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>33</idSound>
+    </word>
+    <word>
+        <foreignWord>oudejaarsavond (no capital letter! )</foreignWord>
+        <nativeWord>new year's eve</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>34</idSound>
+    </word>
+    <word>
+        <foreignWord>vieren</foreignWord>
+        <nativeWord>to celebrate</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>35</idSound>
+    </word>
+    <word>
+        <foreignWord>op straat</foreignWord>
+        <nativeWord>in the street</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>36</idSound>
+    </word>
+    <word>
+        <foreignWord>een kwestie van smaak</foreignWord>
+        <nativeWord>a matter of taste</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>37</idSound>
+    </word>
+    <word>
+        <foreignWord>zoet</foreignWord>
+        <nativeWord>sweet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>38</idSound>
+    </word>
+    <word>
+        <foreignWord>een schijfje</foreignWord>
+        <nativeWord>a slice</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>39</idSound>
+    </word>
+    <word>
+        <foreignWord>thuis</foreignWord>
+        <nativeWord>at home</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>40</idSound>
+    </word>
+    <word>
+        <foreignWord>de gedachte</foreignWord>
+        <nativeWord>the thought</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>41</idSound>
+    </word>
+    <word>
+        <foreignWord>het vuurwerk</foreignWord>
+        <nativeWord>the firework</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>42</idSound>
+    </word>
+    <word>
+        <foreignWord>het huisdier</foreignWord>
+        <nativeWord>the pet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>43</idSound>
+    </word>
+    <word>
+        <foreignWord>pasen</foreignWord>
+        <nativeWord>easter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>44</idSound>
+    </word>
+    <word>
+        <foreignWord>herdenken</foreignWord>
+        <nativeWord>to commemorate</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>45</idSound>
+    </word>
+    <word>
+        <foreignWord>vervolgens</foreignWord>
+        <nativeWord>subsequently</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>46</idSound>
+    </word>
+    <word>
+        <foreignWord>de vergunning</foreignWord>
+        <nativeWord>the permit</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>47</idSound>
+    </word>
+    <word>
+        <foreignWord>het podium</foreignWord>
+        <nativeWord>the stage</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>48</idSound>
+    </word>
+    <word>
+        <foreignWord>bekend</foreignWord>
+        <nativeWord>well-known</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>49</idSound>
+    </word>
+    <word>
+        <foreignWord>huidig</foreignWord>
+        <nativeWord>current</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>50</idSound>
+    </word>
+    <word>
+        <foreignWord>de koningin</foreignWord>
+        <nativeWord>the queen</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>51</idSound>
+    </word>
+    <word>
+        <foreignWord>de verjaardag</foreignWord>
+        <nativeWord>the birthday</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>52</idSound>
+    </word>
+    <word>
+        <foreignWord>de tweede wereldoorlog</foreignWord>
+        <nativeWord>the second world war</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>53</idSound>
+    </word>
+    <word>
+        <foreignWord>de bevrijding</foreignWord>
+        <nativeWord>the liberation</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>54</idSound>
+    </word>
+    <word>
+        <foreignWord>overal</foreignWord>
+        <nativeWord>everywhere</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>55</idSound>
+    </word>
+    <word>
+        <foreignWord>echter</foreignWord>
+        <nativeWord>however</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>56</idSound>
+    </word>
+    <word>
+        <foreignWord>rechtstreeks</foreignWord>
+        <nativeWord>live (broadcast)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>57</idSound>
+    </word>
+    <word>
+        <foreignWord>de gebeurtenis</foreignWord>
+        <nativeWord>the event</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>58</idSound>
+    </word>
+    <word>
+        <foreignWord>kerst</foreignWord>
+        <nativeWord>christmas</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>59</idSound>
+    </word>
+    <word>
+        <foreignWord>de kerk</foreignWord>
+        <nativeWord>the church</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>60</idSound>
+    </word>
+    <word>
+        <foreignWord>aankondigen</foreignWord>
+        <nativeWord>to announce</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>61</idSound>
+    </word>
+    <word>
+        <foreignWord>de hond</foreignWord>
+        <nativeWord>the dog</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>62</idSound>
+    </word>
+    <word>
+        <foreignWord>ik heb geen idee</foreignWord>
+        <nativeWord>i have no idea</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>63</idSound>
+    </word>
+    <word>
+        <foreignWord>het hondenhok</foreignWord>
+        <nativeWord>the dog house</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>64</idSound>
+    </word>
+    <word>
+        <foreignWord>hopen</foreignWord>
+        <nativeWord>to hope</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>65</idSound>
+    </word>
+    <word>
+        <foreignWord>in gevaar</foreignWord>
+        <nativeWord>in danger</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>66</idSound>
+    </word>
+    <word>
+        <foreignWord>het dier</foreignWord>
+        <nativeWord>the animal</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>67</idSound>
+    </word>
+    <word>
+        <foreignWord>de buurman</foreignWord>
+        <nativeWord>the neighbour (male)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>68</idSound>
+    </word>
+    <word>
+        <foreignWord>het park</foreignWord>
+        <nativeWord>the park</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>69</idSound>
+    </word>
+    <word>
+        <foreignWord>de vriendin</foreignWord>
+        <nativeWord>the girlfriend; the female friend</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>70</idSound>
+    </word>
+    <word>
+        <foreignWord>wat is er aan de hand? </foreignWord>
+        <nativeWord>what is going on? </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>71</idSound>
+    </word>
+    <word>
+        <foreignWord>dat is jammer</foreignWord>
+        <nativeWord>that is a pity</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>72</idSound>
+    </word>
+    <word>
+        <foreignWord>de halsband</foreignWord>
+        <nativeWord>the collar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>73</idSound>
+    </word>
+    <word>
+        <foreignWord>de brug</foreignWord>
+        <nativeWord>the bridge</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>74</idSound>
+    </word>
+    <word>
+        <foreignWord>de paniek</foreignWord>
+        <nativeWord>the panic</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>75</idSound>
+    </word>
+    <word>
+        <foreignWord>nog niet</foreignWord>
+        <nativeWord>not yet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>76</idSound>
+    </word>
+    <word>
+        <foreignWord>redden</foreignWord>
+        <nativeWord>to rescue</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>77</idSound>
+    </word>
+    <word>
+        <foreignWord>de held</foreignWord>
+        <nativeWord>the hero</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>78</idSound>
+    </word>
+    <word>
+        <foreignWord>de heldin</foreignWord>
+        <nativeWord>the heroin</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>79</idSound>
+    </word>
+    <word>
+        <foreignWord>het politiebureau</foreignWord>
+        <nativeWord>the police station</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>80</idSound>
+    </word>
+    <word>
+        <foreignWord>de flik (vlaams)</foreignWord>
+        <nativeWord>the cop</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>81</idSound>
+    </word>
+    <word>
+        <foreignWord>de bende</foreignWord>
+        <nativeWord>the gang</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>82</idSound>
+    </word>
+    <word>
+        <foreignWord>de kaart</foreignWord>
+        <nativeWord>the map</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>83</idSound>
+    </word>
+    <word>
+        <foreignWord>vliegen</foreignWord>
+        <nativeWord>to fly</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>84</idSound>
+    </word>
+    <word>
+        <foreignWord>blij</foreignWord>
+        <nativeWord>glad</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>85</idSound>
+    </word>
+    <word>
+        <foreignWord>waar komen ze vandaan?</foreignWord>
+        <nativeWord>where are they from?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>86</idSound>
+    </word>
+    <word>
+        <foreignWord>bevrijden</foreignWord>
+        <nativeWord>to liberate</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>87</idSound>
+    </word>
+    <word>
+        <foreignWord>de sollicitatie</foreignWord>
+        <nativeWord>the job application</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>88</idSound>
+    </word>
+    <word>
+        <foreignWord>de dokterspraktijk</foreignWord>
+        <nativeWord>the doctor's practice</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>89</idSound>
+    </word>
+    <word>
+        <foreignWord>reageren</foreignWord>
+        <nativeWord>to respond</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>90</idSound>
+    </word>
+    <word>
+        <foreignWord>de advertentie</foreignWord>
+        <nativeWord>the ad; classified</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>91</idSound>
+    </word>
+    <word>
+        <foreignWord>de doktersassistent</foreignWord>
+        <nativeWord>the doctor's assistant</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>92</idSound>
+    </word>
+    <word>
+        <foreignWord>dat klopt</foreignWord>
+        <nativeWord>that is right</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>93</idSound>
+    </word>
+    <word>
+        <foreignWord>misschien</foreignWord>
+        <nativeWord>perhaps</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>94</idSound>
+    </word>
+    <word>
+        <foreignWord>de ervaring</foreignWord>
+        <nativeWord>the experience</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>95</idSound>
+    </word>
+    <word>
+        <foreignWord>de stage</foreignWord>
+        <nativeWord>the traineeship</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>96</idSound>
+    </word>
+    <word>
+        <foreignWord>afronden</foreignWord>
+        <nativeWord>to finish</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>97</idSound>
+    </word>
+    <word>
+        <foreignWord>helemaal</foreignWord>
+        <nativeWord>completely</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>98</idSound>
+    </word>
+    <word>
+        <foreignWord>het diploma</foreignWord>
+        <nativeWord>the diploma</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>99</idSound>
+    </word>
+    <word>
+        <foreignWord>het bezit</foreignWord>
+        <nativeWord>the possession</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>100</idSound>
+    </word>
+    <word>
+        <foreignWord>dus</foreignWord>
+        <nativeWord>so</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>101</idSound>
+    </word>
+    <word>
+        <foreignWord>de baan</foreignWord>
+        <nativeWord>the job</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>102</idSound>
+    </word>
+    <word>
+        <foreignWord>zelfstandig</foreignWord>
+        <nativeWord>independent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>103</idSound>
+    </word>
+    <word>
+        <foreignWord>functioneren</foreignWord>
+        <nativeWord>to function</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>104</idSound>
+    </word>
+    <word>
+        <foreignWord>mag ik vragen</foreignWord>
+        <nativeWord>may i ask</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>105</idSound>
+    </word>
+    <word>
+        <foreignWord>wanneer</foreignWord>
+        <nativeWord>when</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>106</idSound>
+    </word>
+    <word>
+        <foreignWord>vorige week</foreignWord>
+        <nativeWord>last week</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>107</idSound>
+    </word>
+    <word>
+        <foreignWord>werken</foreignWord>
+        <nativeWord>to work</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>108</idSound>
+    </word>
+    <word>
+        <foreignWord>diverse</foreignWord>
+        <nativeWord>several</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>109</idSound>
+    </word>
+    <word>
+        <foreignWord>hoeveel</foreignWord>
+        <nativeWord>how much/many</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>110</idSound>
+    </word>
+    <word>
+        <foreignWord>het liefst</foreignWord>
+        <nativeWord>preferrably</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>111</idSound>
+    </word>
+    <word>
+        <foreignWord>drie dagen per week</foreignWord>
+        <nativeWord>three days a week</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>112</idSound>
+    </word>
+    <word>
+        <foreignWord>aanwezig</foreignWord>
+        <nativeWord>present</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>113</idSound>
+    </word>
+    <word>
+        <foreignWord>tot een uur of twee</foreignWord>
+        <nativeWord>until about two o'clock</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>114</idSound>
+    </word>
+    <word>
+        <foreignWord>elke dag</foreignWord>
+        <nativeWord>every day</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>115</idSound>
+    </word>
+    <word>
+        <foreignWord>fantastisch</foreignWord>
+        <nativeWord>great</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>116</idSound>
+    </word>
+    <word>
+        <foreignWord>het cv</foreignWord>
+        <nativeWord>the resume</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>117</idSound>
+    </word>
+    <word>
+        <foreignWord>algemeen</foreignWord>
+        <nativeWord>general</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>118</idSound>
+    </word>
+    <word>
+        <foreignWord>toevoegen</foreignWord>
+        <nativeWord>to add</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>119</idSound>
+    </word>
+    <word>
+        <foreignWord>een brief richten aan</foreignWord>
+        <nativeWord>to address a letter to</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>120</idSound>
+    </word>
+    <word>
+        <foreignWord>schrijven</foreignWord>
+        <nativeWord>to write</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>121</idSound>
+    </word>
+    <word>
+        <foreignWord>de collega</foreignWord>
+        <nativeWord>the colleague</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>122</idSound>
+    </word>
+    <word>
+        <foreignWord>opbellen</foreignWord>
+        <nativeWord>to call (on the phone)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>123</idSound>
+    </word>
+    <word>
+        <foreignWord>beschikbaar</foreignWord>
+        <nativeWord>available</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>124</idSound>
+    </word>
+    <word>
+        <foreignWord>ik ben op zoek naar werk</foreignWord>
+        <nativeWord>i am looking for a job</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>125</idSound>
+    </word>
+    <word>
+        <foreignWord>dat is prima</foreignWord>
+        <nativeWord>that is fine</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>126</idSound>
+    </word>
+    <word>
+        <foreignWord>de sproet</foreignWord>
+        <nativeWord>the freckle</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>127</idSound>
+    </word>
+    <word>
+        <foreignWord>boos</foreignWord>
+        <nativeWord>angry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>128</idSound>
+    </word>
+    <word>
+        <foreignWord>verklappen</foreignWord>
+        <nativeWord>to reveal; to disclose</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>129</idSound>
+    </word>
+    <word>
+        <foreignWord>de kabouter</foreignWord>
+        <nativeWord>the dwarf</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>130</idSound>
+    </word>
+    <word>
+        <foreignWord>verstoppen</foreignWord>
+        <nativeWord>to hide</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>131</idSound>
+    </word>
+    <word>
+        <foreignWord>graag</foreignWord>
+        <nativeWord>with pleasure</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>132</idSound>
+    </word>
+    <word>
+        <foreignWord>plagen</foreignWord>
+        <nativeWord>to tease</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>133</idSound>
+    </word>
+    <word>
+        <foreignWord>foppen</foreignWord>
+        <nativeWord>to fool</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>134</idSound>
+    </word>
+    <word>
+        <foreignWord>de tak</foreignWord>
+        <nativeWord>the branch (of a tree)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>135</idSound>
+    </word>
+    <word>
+        <foreignWord>tikken</foreignWord>
+        <nativeWord>to tap; to tick</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>136</idSound>
+    </word>
+    <word>
+        <foreignWord>zomaar</foreignWord>
+        <nativeWord>just like that; for no reason</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>137</idSound>
+    </word>
+    <word>
+        <foreignWord>naar</foreignWord>
+        <nativeWord>nasty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>138</idSound>
+    </word>
+    <word>
+        <foreignWord>mogen</foreignWord>
+        <nativeWord>to be allowed</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>139</idSound>
+    </word>
+    <word>
+        <foreignWord>vandaag</foreignWord>
+        <nativeWord>today</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>140</idSound>
+    </word>
+    <word>
+        <foreignWord>zuchten</foreignWord>
+        <nativeWord>to sigh</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>141</idSound>
+    </word>
+    <word>
+        <foreignWord>de troep</foreignWord>
+        <nativeWord>the mess</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>142</idSound>
+    </word>
+    <word>
+        <foreignWord>lusten</foreignWord>
+        <nativeWord>to like (flavour)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>143</idSound>
+    </word>
+    <word>
+        <foreignWord>het spek</foreignWord>
+        <nativeWord>the bacon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>144</idSound>
+    </word>
+    <word>
+        <foreignWord>de suiker</foreignWord>
+        <nativeWord>the sugar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>145</idSound>
+    </word>
+    <word>
+        <foreignWord>het spijt me</foreignWord>
+        <nativeWord>i am sorry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>146</idSound>
+    </word>
+    <word>
+        <foreignWord>waarom</foreignWord>
+        <nativeWord>why</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>147</idSound>
+    </word>
+    <word>
+        <foreignWord>stout</foreignWord>
+        <nativeWord>naughty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>148</idSound>
+    </word>
+    <word>
+        <foreignWord>de bijenkorf</foreignWord>
+        <nativeWord>the beehive</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>149</idSound>
+    </word>
+    <word>
+        <foreignWord>ik weet het zeker</foreignWord>
+        <nativeWord>i am sure</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>150</idSound>
+    </word>
+    <word>
+        <foreignWord>blijf af! </foreignWord>
+        <nativeWord>keep your hands off! </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>151</idSound>
+    </word>
+    <word>
+        <foreignWord>niemand</foreignWord>
+        <nativeWord>nobody</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>152</idSound>
+    </word>
+    <word>
+        <foreignWord>snappen</foreignWord>
+        <nativeWord>to understand</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>153</idSound>
+    </word>
+    <word>
+        <foreignWord>haast</foreignWord>
+        <nativeWord>almost</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>154</idSound>
+    </word>
+    <word>
+        <foreignWord>wakker</foreignWord>
+        <nativeWord>awake</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>155</idSound>
+    </word>
+    <word>
+        <foreignWord>ik heb honger</foreignWord>
+        <nativeWord>i am hungry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>156</idSound>
+    </word>
+    <word>
+        <foreignWord>de muts</foreignWord>
+        <nativeWord>the (woolen) cap</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>157</idSound>
+    </word>
+    <word>
+        <foreignWord>de straf</foreignWord>
+        <nativeWord>the punishment</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>158</idSound>
+    </word>
+    <word>
+        <foreignWord>braaf</foreignWord>
+        <nativeWord>good; virtuous</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>159</idSound>
+    </word>
+    <word>
+        <foreignWord>spelen</foreignWord>
+        <nativeWord>to play</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>160</idSound>
+    </word>
+    <word>
+        <foreignWord>de tuin</foreignWord>
+        <nativeWord>the garden</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>161</idSound>
+    </word>
+    <word>
+        <foreignWord>kijk! </foreignWord>
+        <nativeWord>look! </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>162</idSound>
+    </word>
+    <word>
+        <foreignWord>de heg</foreignWord>
+        <nativeWord>the hedge</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>163</idSound>
+    </word>
+    <word>
+        <foreignWord>het hek</foreignWord>
+        <nativeWord>the fence</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>164</idSound>
+    </word>
+    <word>
+        <foreignWord>de grond</foreignWord>
+        <nativeWord>the ground</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>165</idSound>
+    </word>
+    <word>
+        <foreignWord>blauw</foreignWord>
+        <nativeWord>blue</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>166</idSound>
+    </word>
+    <word>
+        <foreignWord>het meisje</foreignWord>
+        <nativeWord>the girl</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>167</idSound>
+    </word>
+    <word>
+        <foreignWord>net zo groot als</foreignWord>
+        <nativeWord>just as tall as</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>168</idSound>
+    </word>
+    <word>
+        <foreignWord>hoe heet je? </foreignWord>
+        <nativeWord>what's your name? </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>169</idSound>
+    </word>
+    <word>
+        <foreignWord>kruipen</foreignWord>
+        <nativeWord>to crawl</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>170</idSound>
+    </word>
+    <word>
+        <foreignWord>het hoofd</foreignWord>
+        <nativeWord>the head</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>171</idSound>
+    </word>
+    <word>
+        <foreignWord>het gat</foreignWord>
+        <nativeWord>the hole</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>172</idSound>
+    </word>
+    <word>
+        <foreignWord>de arm</foreignWord>
+        <nativeWord>the arm</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>173</idSound>
+    </word>
+    <word>
+        <foreignWord>gillen</foreignWord>
+        <nativeWord>to scream</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>174</idSound>
+    </word>
+    <word>
+        <foreignWord>samen</foreignWord>
+        <nativeWord>together</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>175</idSound>
+    </word>
+    <word>
+        <foreignWord>het buurmeisje</foreignWord>
+        <nativeWord>the neihbour girl</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>176</idSound>
+    </word>
+    <word>
+        <foreignWord>netjes</foreignWord>
+        <nativeWord>proper; properly</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>177</idSound>
+    </word>
+    <word>
+        <foreignWord>de voordeur</foreignWord>
+        <nativeWord>the front door</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>178</idSound>
+    </word>
+    <word>
+        <foreignWord>gebeuren</foreignWord>
+        <nativeWord>to happen</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>179</idSound>
+    </word>
+    <word>
+        <foreignWord>bekend</foreignWord>
+        <nativeWord>familiar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>180</idSound>
+    </word>
+    <word>
+        <foreignWord>vlakbij</foreignWord>
+        <nativeWord>nearby</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>181</idSound>
+    </word>
+    <word>
+        <foreignWord>vertellen</foreignWord>
+        <nativeWord>to tell</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>182</idSound>
+    </word>
+    <word>
+        <foreignWord>tweede</foreignWord>
+        <nativeWord>second</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>183</idSound>
+    </word>
+    <word>
+        <foreignWord>ga linksaf</foreignWord>
+        <nativeWord>turn left</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>184</idSound>
+    </word>
+    <word>
+        <foreignWord>ga rechtdoor</foreignWord>
+        <nativeWord>go straight ahead</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>185</idSound>
+    </word>
+    <word>
+        <foreignWord>ga rechtsaf</foreignWord>
+        <nativeWord>turn right</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>186</idSound>
+    </word>
+    <word>
+        <foreignWord>het verkeerslicht</foreignWord>
+        <nativeWord>the traffic light</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>187</idSound>
+    </word>
+    <word>
+        <foreignWord>de rotonde</foreignWord>
+        <nativeWord>the roundabout</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>188</idSound>
+    </word>
+    <word>
+        <foreignWord>de trein</foreignWord>
+        <nativeWord>the train</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>189</idSound>
+    </word>
+    <word>
+        <foreignWord>het station</foreignWord>
+        <nativeWord>the train station</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>190</idSound>
+    </word>
+    <word>
+        <foreignWord>hoe laat is het? </foreignWord>
+        <nativeWord>what time is it? </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>191</idSound>
+    </word>
+    <word>
+        <foreignWord>gauw</foreignWord>
+        <nativeWord>soon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>192</idSound>
+    </word>
+    <word>
+        <foreignWord>dank u wel</foreignWord>
+        <nativeWord>thank you</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>193</idSound>
+    </word>
+    <word>
+        <foreignWord>graag gedaan</foreignWord>
+        <nativeWord>you are welcome</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>194</idSound>
+    </word>
+    <word>
+        <foreignWord>de molenaar</foreignWord>
+        <nativeWord>the miller</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>195</idSound>
+    </word>
+    <word>
+        <foreignWord>opscheppen</foreignWord>
+        <nativeWord>to brag</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>196</idSound>
+    </word>
+    <word>
+        <foreignWord>de dochter</foreignWord>
+        <nativeWord>the daughter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>197</idSound>
+    </word>
+    <word>
+        <foreignWord>het goud</foreignWord>
+        <nativeWord>the gold</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>198</idSound>
+    </word>
+    <word>
+        <foreignWord>op de proef stellen</foreignWord>
+        <nativeWord>to put to a test</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>199</idSound>
+    </word>
+    <word>
+        <foreignWord>de koning</foreignWord>
+        <nativeWord>the king</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>200</idSound>
+    </word>
+    <word>
+        <foreignWord>de volgende dag</foreignWord>
+        <nativeWord>the next day</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>201</idSound>
+    </word>
+    <word>
+        <foreignWord>op slot doen</foreignWord>
+        <nativeWord>to lock</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>202</idSound>
+    </word>
+    <word>
+        <foreignWord>arm</foreignWord>
+        <nativeWord>poor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>203</idSound>
+    </word>
+    <word>
+        <foreignWord>de halsketting</foreignWord>
+        <nativeWord>the necklace</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>204</idSound>
+    </word>
+    <word>
+        <foreignWord>het spinnewiel</foreignWord>
+        <nativeWord>the spinning wheel</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>205</idSound>
+    </word>
+    <word>
+        <foreignWord>de zonsopgang</foreignWord>
+        <nativeWord>the sunrise</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>206</idSound>
+    </word>
+    <word>
+        <foreignWord>verbaasd</foreignWord>
+        <nativeWord>surprised</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>207</idSound>
+    </word>
+    <word>
+        <foreignWord>de vinger</foreignWord>
+        <nativeWord>the finger</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>208</idSound>
+    </word>
+    <word>
+        <foreignWord>trouwen</foreignWord>
+        <nativeWord>to marry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>209</idSound>
+    </word>
+    <word>
+        <foreignWord>antwoorden</foreignWord>
+        <nativeWord>to answer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>210</idSound>
+    </word>
+    <word>
+        <foreignWord>plotseling</foreignWord>
+        <nativeWord>suddenly</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>211</idSound>
+    </word>
+    <word>
+        <foreignWord>in ruil voor</foreignWord>
+        <nativeWord>in exchange for</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>212</idSound>
+    </word>
+    <word>
+        <foreignWord>niet meer</foreignWord>
+        <nativeWord>no more; no longer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>213</idSound>
+    </word>
+    <word>
+        <foreignWord>het kind</foreignWord>
+        <nativeWord>the child</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>214</idSound>
+    </word>
+    <word>
+        <foreignWord>heten</foreignWord>
+        <nativeWord>to be called; to be named</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>215</idSound>
+    </word>
+    <word>
+        <foreignWord>begrijpen</foreignWord>
+        <nativeWord>to understand</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>216</idSound>
+    </word>
+    <word>
+        <foreignWord>schreeuwen</foreignWord>
+        <nativeWord>to shout</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>217</idSound>
+    </word>
+    <word>
+        <foreignWord>de woede</foreignWord>
+        <nativeWord>the rage; the anger</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>218</idSound>
+    </word>
+    <word>
+        <foreignWord>de spin</foreignWord>
+        <nativeWord>the spider</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>219</idSound>
+    </word>
+    <word>
+        <foreignWord>luister</foreignWord>
+        <nativeWord>listen</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>220</idSound>
+    </word>
+    <word>
+        <foreignWord>zo'n</foreignWord>
+        <nativeWord>such a</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>221</idSound>
+    </word>
+    <word>
+        <foreignWord>weven</foreignWord>
+        <nativeWord>to weave</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>222</idSound>
+    </word>
+    <word>
+        <foreignWord>toe! </foreignWord>
+        <nativeWord>please! </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>223</idSound>
+    </word>
+    <word>
+        <foreignWord>vreselijk</foreignWord>
+        <nativeWord>terrible</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>224</idSound>
+    </word>
+    <word>
+        <foreignWord>buiten</foreignWord>
+        <nativeWord>outside</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>225</idSound>
+    </word>
+    <word>
+        <foreignWord>binnen</foreignWord>
+        <nativeWord>inside</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>226</idSound>
+    </word>
+    <word>
+        <foreignWord>ergens</foreignWord>
+        <nativeWord>somewhere</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>227</idSound>
+    </word>
+    <word>
+        <foreignWord>gevaarlijk</foreignWord>
+        <nativeWord>dangerous</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>228</idSound>
+    </word>
+    <word>
+        <foreignWord>het raam</foreignWord>
+        <nativeWord>the window</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>229</idSound>
+    </word>
+    <word>
+        <foreignWord>een poosje</foreignWord>
+        <nativeWord>a while</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>230</idSound>
+    </word>
+    <word>
+        <foreignWord>het bericht</foreignWord>
+        <nativeWord>the message</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>231</idSound>
+    </word>
+    <word>
+        <foreignWord>de moord</foreignWord>
+        <nativeWord>the murder</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>232</idSound>
+    </word>
+    <word>
+        <foreignWord>opvegen</foreignWord>
+        <nativeWord>to sweep up</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>233</idSound>
+    </word>
+    <word>
+        <foreignWord>het meervoud</foreignWord>
+        <nativeWord>the plural</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>234</idSound>
+    </word>
+    <word>
+        <foreignWord>toch</foreignWord>
+        <nativeWord>yet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>235</idSound>
+    </word>
+    <word>
+        <foreignWord>altijd</foreignWord>
+        <nativeWord>always</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>236</idSound>
+    </word>
+    <word>
+        <foreignWord>eén</foreignWord>
+        <nativeWord>one</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>237</idSound>
+    </word>
+    <word>
+        <foreignWord>heden</foreignWord>
+        <nativeWord>today; nowadays</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>238</idSound>
+    </word>
+    <word>
+        <foreignWord>afkomstig zijn van</foreignWord>
+        <nativeWord>to originate from</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>239</idSound>
+    </word>
+    <word>
+        <foreignWord>de vervoeging</foreignWord>
+        <nativeWord>the conjugation</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>240</idSound>
+    </word>
+    <word>
+        <foreignWord>ook</foreignWord>
+        <nativeWord>also</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>241</idSound>
+    </word>
+    <word>
+        <foreignWord>alweer</foreignWord>
+        <nativeWord>again</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>242</idSound>
+    </word>
+    <word>
+        <foreignWord>roepen</foreignWord>
+        <nativeWord>to call; to exclaim</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>243</idSound>
+    </word>
+    <word>
+        <foreignWord>evenmin</foreignWord>
+        <nativeWord>neither</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>244</idSound>
+    </word>
+    <word>
+        <foreignWord>raden</foreignWord>
+        <nativeWord>to guess</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>245</idSound>
+    </word>
+    <word>
+        <foreignWord>bieden</foreignWord>
+        <nativeWord>to offer; to bid</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>246</idSound>
+    </word>
+    <word>
+        <foreignWord>de verwarring</foreignWord>
+        <nativeWord>the confusion</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>247</idSound>
+    </word>
+    <word>
+        <foreignWord>akelig</foreignWord>
+        <nativeWord>nasty; horrible</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>248</idSound>
+    </word>
+    <word>
+        <foreignWord>het voorbeeld</foreignWord>
+        <nativeWord>the example</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>249</idSound>
+    </word>
+    <word>
+        <foreignWord>ik wist</foreignWord>
+        <nativeWord>i knew</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>250</idSound>
+    </word>
+    <word>
+        <foreignWord>vergeten</foreignWord>
+        <nativeWord>to forget</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>251</idSound>
+    </word>
+    <word>
+        <foreignWord>het geval</foreignWord>
+        <nativeWord>the case</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>252</idSound>
+    </word>
+    <word>
+        <foreignWord>bijna</foreignWord>
+        <nativeWord>almost</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>253</idSound>
+    </word>
+    <word>
+        <foreignWord>ik ging</foreignWord>
+        <nativeWord>i went</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>254</idSound>
+    </word>
+    <word>
+        <foreignWord>hoe</foreignWord>
+        <nativeWord>how</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>255</idSound>
+    </word>
+    <word>
+        <foreignWord>verschillende</foreignWord>
+        <nativeWord>several</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>256</idSound>
+    </word>
+    <word>
+        <foreignWord>niettemin</foreignWord>
+        <nativeWord>none the less</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>257</idSound>
+    </word>
+    <word>
+        <foreignWord>met wie spreek ik? </foreignWord>
+        <nativeWord>who is speaking? </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>258</idSound>
+    </word>
+    <word>
+        <foreignWord>hoe is het? </foreignWord>
+        <nativeWord>how are you? </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>259</idSound>
+    </word>
+    <word>
+        <foreignWord>ik heb het druk</foreignWord>
+        <nativeWord>i am busy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>260</idSound>
+    </word>
+    <word>
+        <foreignWord>om zeven uur</foreignWord>
+        <nativeWord>at seven o'clock</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>261</idSound>
+    </word>
+    <word>
+        <foreignWord>overmorgen</foreignWord>
+        <nativeWord>the day after tomorrow</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>262</idSound>
+    </word>
+    <word>
+        <foreignWord>gisteren</foreignWord>
+        <nativeWord>yesterday</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>263</idSound>
+    </word>
+    <word>
+        <foreignWord>natuurlijk</foreignWord>
+        <nativeWord>of course</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>264</idSound>
+    </word>
+    <word>
+        <foreignWord>grapje! </foreignWord>
+        <nativeWord>just kidding! </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>265</idSound>
+    </word>
+    <word>
+        <foreignWord>uit eten gaan</foreignWord>
+        <nativeWord>to eat out</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>266</idSound>
+    </word>
+    <word>
+        <foreignWord>iets lekkers</foreignWord>
+        <nativeWord>a snack</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>267</idSound>
+    </word>
+    <word>
+        <foreignWord>de afspraak</foreignWord>
+        <nativeWord>the appointment</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>268</idSound>
+    </word>
+    <word>
+        <foreignWord>vijf dagen geleden</foreignWord>
+        <nativeWord>five days ago</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>269</idSound>
+    </word>
+    <word>
+        <foreignWord>zich afvragen</foreignWord>
+        <nativeWord>to wonder</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>270</idSound>
+    </word>
+    <word>
+        <foreignWord>laatst</foreignWord>
+        <nativeWord>last</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>271</idSound>
+    </word>
+    <word>
+        <foreignWord>echt waar? </foreignWord>
+        <nativeWord>really? </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>272</idSound>
+    </word>
+    <word>
+        <foreignWord>stel je voor! </foreignWord>
+        <nativeWord>just imagine! </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>273</idSound>
+    </word>
+    <word>
+        <foreignWord>dat zal wel</foreignWord>
+        <nativeWord>i bet; i guess so</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>274</idSound>
+    </word>
+    <word>
+        <foreignWord>toevallig</foreignWord>
+        <nativeWord>by chance</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>275</idSound>
+    </word>
+    <word>
+        <foreignWord>ophangen</foreignWord>
+        <nativeWord>to hang up</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>276</idSound>
+    </word>
+    <word>
+        <foreignWord>kletsen</foreignWord>
+        <nativeWord>to chat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>277</idSound>
+    </word>
+    <word>
+        <foreignWord>doei</foreignWord>
+        <nativeWord>cheers</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>278</idSound>
+    </word>
+    <word>
+        <foreignWord>dag</foreignWord>
+        <nativeWord>bye</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>279</idSound>
+    </word>
+    <word>
+        <foreignWord>de diefstal</foreignWord>
+        <nativeWord>the theft</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>280</idSound>
+    </word>
+    <word>
+        <foreignWord>onlangs</foreignWord>
+        <nativeWord>recently</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>281</idSound>
+    </word>
+    <word>
+        <foreignWord>in de clinch liggen met</foreignWord>
+        <nativeWord>to be in a quarrel with</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>282</idSound>
+    </word>
+    <word>
+        <foreignWord>ontvreemden</foreignWord>
+        <nativeWord>to steal</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>283</idSound>
+    </word>
+    <word>
+        <foreignWord>de eigenaar</foreignWord>
+        <nativeWord>the owner</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>284</idSound>
+    </word>
+    <word>
+        <foreignWord>bevestigen</foreignWord>
+        <nativeWord>to confirm</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>285</idSound>
+    </word>
+    <word>
+        <foreignWord>naar aanleiding van</foreignWord>
+        <nativeWord>because of; triggered by</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>286</idSound>
+    </word>
+    <word>
+        <foreignWord>zodanig</foreignWord>
+        <nativeWord>such; so; to such an extent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>287</idSound>
+    </word>
+    <word>
+        <foreignWord>aangifte doen bij de politie</foreignWord>
+        <nativeWord>to make a statement to the police</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>288</idSound>
+    </word>
+    <word>
+        <foreignWord>het proces-verbaal</foreignWord>
+        <nativeWord>the police report</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>289</idSound>
+    </word>
+    <word>
+        <foreignWord>het openbaar ministerie</foreignWord>
+        <nativeWord>the public prosecution</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>290</idSound>
+    </word>
+    <word>
+        <foreignWord>juridisch</foreignWord>
+        <nativeWord>legal</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>291</idSound>
+    </word>
+    <word>
+        <foreignWord>de ruzie</foreignWord>
+        <nativeWord>the quarrel; the row</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>292</idSound>
+    </word>
+    <word>
+        <foreignWord>water bij de wijn doen</foreignWord>
+        <nativeWord>to make a compromise</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>293</idSound>
+    </word>
+    <word>
+        <foreignWord>de egel</foreignWord>
+        <nativeWord>the hedgehog</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>294</idSound>
+    </word>
+    <word>
+        <foreignWord>de liefde bedrijven</foreignWord>
+        <nativeWord>to make love</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>295</idSound>
+    </word>
+    <word>
+        <foreignWord>in nood</foreignWord>
+        <nativeWord>in need of urgent help</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>296</idSound>
+    </word>
+    <word>
+        <foreignWord>geen sprake van</foreignWord>
+        <nativeWord>out of the question; no way</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>297</idSound>
+    </word>
+    <word>
+        <foreignWord>voorzichtig</foreignWord>
+        <nativeWord>careful</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>298</idSound>
+    </word>
+    <word>
+        <foreignWord>de melding</foreignWord>
+        <nativeWord>the call; the notification</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>299</idSound>
+    </word>
+    <word>
+        <foreignWord>bezorgd</foreignWord>
+        <nativeWord>concerned; worried</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>300</idSound>
+    </word>
+    <word>
+        <foreignWord>het geluid</foreignWord>
+        <nativeWord>the sound</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>301</idSound>
+    </word>
+    <word>
+        <foreignWord>bezig zijn</foreignWord>
+        <nativeWord>to be engaged</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>302</idSound>
+    </word>
+    <word>
+        <foreignWord>het nageslacht</foreignWord>
+        <nativeWord>the offspring</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>303</idSound>
+    </word>
+    <word>
+        <foreignWord>kersvers</foreignWord>
+        <nativeWord>very new; recent ;fresh as a cherry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>304</idSound>
+    </word>
+    <word>
+        <foreignWord>gehuwd</foreignWord>
+        <nativeWord>married</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>305</idSound>
+    </word>
+    <word>
+        <foreignWord>doodleuk</foreignWord>
+        <nativeWord>coolly; as if nothing is wrong</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>306</idSound>
+    </word>
+    <word>
+        <foreignWord>terwijl</foreignWord>
+        <nativeWord>while</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>307</idSound>
+    </word>
+    <word>
+        <foreignWord>betalen</foreignWord>
+        <nativeWord>to pay</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>308</idSound>
+    </word>
+    <word>
+        <foreignWord>het voertuig</foreignWord>
+        <nativeWord>the vehicle</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>309</idSound>
+    </word>
+    <word>
+        <foreignWord>de bruidegom</foreignWord>
+        <nativeWord>the bridegroom</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>310</idSound>
+    </word>
+    <word>
+        <foreignWord>merken</foreignWord>
+        <nativeWord>to notice</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>311</idSound>
+    </word>
+    <word>
+        <foreignWord>tevergeefs</foreignWord>
+        <nativeWord>in vain</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>312</idSound>
+    </word>
+    <word>
+        <foreignWord>hulpvaardig</foreignWord>
+        <nativeWord>helpful; prepared to help</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>313</idSound>
+    </word>
+    <word>
+        <foreignWord>de vergeetachtigheid</foreignWord>
+        <nativeWord>the forgetfulness</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>314</idSound>
+    </word>
+    <word>
+        <foreignWord>herenigen</foreignWord>
+        <nativeWord>to reunite</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>315</idSound>
+    </word>
+</dictionary>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>Ik heb een hond.</foreignWord>
+        <nativeWord>Mam psa.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>Heb je een hond?</foreignWord>
+        <nativeWord>Czy masz psa?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik heb geen computer.</foreignWord>
+        <nativeWord>Nie mam komputera.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik heb deze computer niet.</foreignWord>
+        <nativeWord>Nie mam {/tego} komputera.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>Hoeveel kamers heeft deze woning?</foreignWord>
+        <nativeWord>Ile jest pokoi w tym mieszkaniu?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>Er zit een grote spin op het plafond.</foreignWord>
+        <nativeWord>Na suficie siedzi duży pająk.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Waar is de badkamer?</foreignWord>
+        <nativeWord>Gdzie jest łazienka?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>We eten vaak in de keuken.</foreignWord>
+        <nativeWord>Często jemy w kuchni.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik ga snel douchen.</foreignWord>
+        <nativeWord>Wezmę szybki prysznic.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>We zijn van plan om een lichtblauwe wastafel te kopen.</foreignWord>
+        <nativeWord>Mamy zamiar kupić jasno-niebieską umywalkę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik ben mijn tandenborstel vergeten.</foreignWord>
+        <nativeWord>Zapomniałam wziąć szczoteczkę do zębów.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Deze zeep ruikt lekker.</foreignWord>
+        <nativeWord>To mydło ładnie pachnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>We hebben pas nog een nieuwe bank gekocht.</foreignWord>
+        <nativeWord>Niedawno kupiliśmy nową kanapę.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Hoeveel stoelen heb je nodig?</foreignWord>
+        <nativeWord>Ile potrzebujesz krzeseł?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Je moet eerst je bord leegeten.</foreignWord>
+        <nativeWord>Najpierw musisz zjeść to, co masz na talerzu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Eet je spaghetti met mes en vork of met de lepel?</foreignWord>
+        <nativeWord>Jesz spaghetti nożem i widelcem czy może łyżką?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mijn grootouders hebben nog antiek zilveren bestek.</foreignWord>
+        <nativeWord>Moi dziadkowie mają jeszcze zabytkowe, srebrne sztućce.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Elke avond drink ik een beker melk met honing.</foreignWord>
+        <nativeWord>Co wieczór piję kubek mleka z miodem.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mag ik uit jouw glas drinken?</foreignWord>
+        <nativeWord>Mogę się napić z Twojej szklanki?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik heb een groene auto.</foreignWord>
+        <nativeWord>Mam zielony samochód.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mijn zusje heeft blauwe ogen.</foreignWord>
+        <nativeWord>Moja siostra ma niebieskie oczy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mijn oma heeft nog een zwart-witte TV.</foreignWord>
+        <nativeWord>Moja babcia ma nadal czarno-biały telewizor.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik heb zwart haar en bruine ogen.</foreignWord>
+        <nativeWord>Mam czarne włosy i {piwne/brązowe} oczy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Er hangen grijze wolken boven het dorp.</foreignWord>
+        <nativeWord>Nad wioską wiszą szare chmury.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ze droeg een paars T-shirt en een beige broek.</foreignWord>
+        <nativeWord>Miała na sobie fioletowy T-shirt i beżowe spodnie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik heb weinig vrienden.</foreignWord>
+        <nativeWord>Mam mało przyjaciół.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik hou van veel eten.</foreignWord>
+        <nativeWord>Lubię dużo zjeść.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik heb alles verloren.</foreignWord>
+        <nativeWord>Straciłem wszystko.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik heb het koud.</foreignWord>
+        <nativeWord>Jest mi zimno.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Het is heel warm hier.</foreignWord>
+        <nativeWord>Jest tu bardzo gorąco.; Jest tu bardzo ciepło.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Deze auto is al oud, we moeten een nieuwe kopen.</foreignWord>
+        <nativeWord>Ten samochód jest już stary, musimy kupić nowy.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Wat is dit bed hard, zeg!</foreignWord>
+        <nativeWord>Ale to łóżko jest twarde!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Dankzij deze shampoo is mijn haar zacht.</foreignWord>
+        <nativeWord>Dzięki temu szamponowi moje włosy są miękkie.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mijn buren zijn erg rijk.</foreignWord>
+        <nativeWord>Moi sąsiedzi są bardzo bogaci.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Hij is heel lang, 1.92m.</foreignWord>
+        <nativeWord>On jest bardzo wysoki, mierzy 1.92m.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik ben even klein als mijn moeder en mijn oma.</foreignWord>
+        <nativeWord>Jestem równie niska jak moja matka i babcia.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ik ben ziek, ik blijf een paar dagen thuis.</foreignWord>
+        <nativeWord>Jestem chory, zostanę parę dni w domu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Je bent gezond als een vis!</foreignWord>
+        <nativeWord>Jesteś zdrowy jak ryba.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>thesaurus</foreignWord>
+        <nativeWord>słownik synonimów</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>thorough</foreignWord>
+        <nativeWord>gruntowny; dokładny; dokumentny; kompletny; całkowity; zupełny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>diarrhea</foreignWord>
+        <nativeWord>biegunka; sraczka; przeczyszczenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>wrath (verb)</foreignWord>
+        <nativeWord>gniewać; rozgniewać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>

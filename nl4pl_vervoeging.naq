@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="6">
+    <word>
+        <foreignWord>ik slaap</foreignWord>
+        <nativeWord>ja śpię</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>je slaapt</foreignWord>
+        <nativeWord>ty śpisz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ze slaapt</foreignWord>
+        <nativeWord>ona śpi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hij slaapt</foreignWord>
+        <nativeWord>on śpi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>het slaapt</foreignWord>
+        <nativeWord>ono śpi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>we slapen</foreignWord>
+        <nativeWord>my śpimy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>je slaap</foreignWord>
+        <nativeWord>wy śpicie</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ze slapen</foreignWord>
+        <nativeWord>oni śpią</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ze slapen</foreignWord>
+        <nativeWord>one śpią</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ik werk</foreignWord>
+        <nativeWord>ja pracuję</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>je werkt</foreignWord>
+        <nativeWord>ty pracujesz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hij werkt</foreignWord>
+        <nativeWord>on pracuje</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ze werkt</foreignWord>
+        <nativeWord>ona pracuje</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>het werkt</foreignWord>
+        <nativeWord>ono pracuje</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>wij werken</foreignWord>
+        <nativeWord>my pracujemy</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>je werkt</foreignWord>
+        <nativeWord>wy pracujecie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ze werken</foreignWord>
+        <nativeWord>oni pracują</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>zij werken</foreignWord>
+        <nativeWord>one pracują</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ik schrijf</foreignWord>
+        <nativeWord>ja piszę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>je schrijft</foreignWord>
+        <nativeWord>ty piszesz</nativeWord>
+        <score>2</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hij schrijft, </foreignWord>
+        <nativeWord>on pisze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ze schrijft</foreignWord>
+        <nativeWord>ona pisze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>het schrijft</foreignWord>
+        <nativeWord>ono pisze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>we schrijven</foreignWord>
+        <nativeWord>my piszemy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>je schrijft</foreignWord>
+        <nativeWord>wy piszecie</nativeWord>
+        <score>1</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ze schrijven</foreignWord>
+        <nativeWord>oni piszą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>zij schrijven</foreignWord>
+        <nativeWord>one piszą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>
