@@ -11,21 +11,21 @@
         <foreignWord>Nina</foreignWord>
         <nativeWord>Nina</nativeWord>
         <score>0</score>
-        <learned>1</learned>
+        <learned>0</learned>
         <idSound>2</idSound>
     </word>
     <word>
         <foreignWord>Dai</foreignWord>
         <nativeWord>Dai</nativeWord>
         <score>0</score>
-        <learned>1</learned>
+        <learned>0</learned>
         <idSound>3</idSound>
     </word>
     <word>
         <foreignWord>Hugo</foreignWord>
         <nativeWord>Hugo</nativeWord>
         <score>0</score>
-        <learned>1</learned>
+        <learned>0</learned>
         <idSound>4</idSound>
     </word>
     <word>

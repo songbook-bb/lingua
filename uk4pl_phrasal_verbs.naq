@@ -24,7 +24,7 @@
     <word>
         <foreignWord>ask after {/sb/somebody}</foreignWord>
         <nativeWord>{pytać/dopytywać się} {/o kogoś};  o kogoś</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -388,8 +388,8 @@
     <word>
         <foreignWord>get on</foreignWord>
         <nativeWord>wsiadać {do/na}</nativeWord>
-        <score>2</score>
-        <learned>1</learned>
+        <score>0</score>
+        <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
@@ -802,7 +802,7 @@
         <foreignWord>look after</foreignWord>
         <nativeWord>opiekować się; pilnować</nativeWord>
         <score>0</score>
-        <learned>1</learned>
+        <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>

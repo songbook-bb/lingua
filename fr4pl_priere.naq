@@ -3,14 +3,14 @@
     <word>
         <foreignWord>NOTRE PÈRE</foreignWord>
         <nativeWord>OJCZE NASZ</nativeWord>
-        <score>4</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>1</idSound>
     </word>
     <word>
         <foreignWord>Notre Père qui es aux cieux{!/.}</foreignWord>
         <nativeWord>Ojcze nasz, {któryś jest/który jesteś} w niebie</nativeWord>
-        <score>3</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>2</idSound>
     </word>
@@ -38,7 +38,7 @@
     <word>
         <foreignWord>sur la terre comme au ciel.</foreignWord>
         <nativeWord>jako w niebie tak i na ziemi.</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -59,7 +59,7 @@
     <word>
         <foreignWord>comme nous aussi nous pardonnons à ceux qui nous ont offensés,</foreignWord>
         <nativeWord>jako i my odpuszczamy naszym winowajcom,</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -73,7 +73,7 @@
     <word>
         <foreignWord>mais délivre-nous du malin. Amen.</foreignWord>
         <nativeWord>ale nas zbaw ode złego. Amen.</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>

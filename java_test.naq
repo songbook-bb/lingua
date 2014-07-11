@@ -17,7 +17,7 @@
     <word>
         <foreignWord>method naming standard</foreignWord>
         <nativeWord>verb-noun pairs; first letter lowecase; camelCase</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -31,7 +31,7 @@
     <word>
         <foreignWord>constant naming standard</foreignWord>
         <nativeWord>all uppercase; underscore as word separator</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>

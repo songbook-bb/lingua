@@ -45,7 +45,7 @@
     <word>
         <foreignWord>je slaap</foreignWord>
         <nativeWord>wy śpicie</nativeWord>
-        <score>2</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -101,7 +101,7 @@
     <word>
         <foreignWord>wij werken</foreignWord>
         <nativeWord>my pracujemy</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -136,7 +136,7 @@
     <word>
         <foreignWord>je schrijft</foreignWord>
         <nativeWord>ty piszesz</nativeWord>
-        <score>2</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
@@ -171,7 +171,7 @@
     <word>
         <foreignWord>je schrijft</foreignWord>
         <nativeWord>wy piszecie</nativeWord>
-        <score>1</score>
+        <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
