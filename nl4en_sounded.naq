@@ -499,7 +499,7 @@
     </word>
     <word>
         <foreignWord>dat is jammer</foreignWord>
-        <nativeWord>that is a pity</nativeWord>
+        <nativeWord>that's a pity; that is a pity</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>72</idSound>
@@ -1493,7 +1493,7 @@
     </word>
     <word>
         <foreignWord>het kind</foreignWord>
-        <nativeWord>the child</nativeWord>
+        <nativeWord>the kid; the child</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>214</idSound>
