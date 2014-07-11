@@ -33,7 +33,7 @@ import org.apache.log4j.Logger;
 
 public class Util {
 	Logger logger = Logger.getLogger(Util.class);
-	public static final String programVersion = "1.23";
+	public static final String programVersion = "1.24";
 	public static final String appconfigproperties = "appconfig.properties";
 	public static final String authorInfo = "Tomek Nakonieczny";
 	public static final String contactEmail = "tomek.nakonieczny@gmail.com";
