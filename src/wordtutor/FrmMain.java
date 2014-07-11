@@ -72,6 +72,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 	private JButton buttonXlsImport;
 	private JButton buttonXlsExport;
 	private JButton buttonDupl;
+	private JButton buttonZero;
 
 	public static JTable tableWords;
 
@@ -177,6 +178,26 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		tableWords.repaint();
 	}
 
+	private void zeroAllLearningPlusStatistics() {		
+		String[] extensions = { "naq" };
+		@SuppressWarnings("unchecked")
+		Collection<File> fList = (Collection<File>) FileUtils.listFiles(
+				new File(WordTutor.LESSONS_DIR), extensions, false);
+		ArrayList<String> stringList = new ArrayList<String>();
+		for (File f : fList) {
+			stringList.add(f.getName());
+		}
+		Collections.sort(stringList);
+
+		for (String lessonName : stringList) {			
+			switchLesson(lessonName);
+			tutor.clearLearning(true);
+			tutor.saveToXML();
+		}
+		tableWords.repaint();
+	}
+
+	
 	private void searchWord() {
 		TableRowSorter<WordsTableModel> sorter = new TableRowSorter<WordsTableModel>(
 				tableModel);
@@ -412,6 +433,8 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			newDictionary();
 		} else if (command.equals("dupl")) {
 			duplicateSound();
+		} else if (command.equals("zero")) {
+			zeroAllLearningPlusStatistics();
 		} else if (command.equals("about")) {
 			infoAbout();
 		}
@@ -591,14 +614,13 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			buttonDupl.setToolTipText("Duplic");
 			panelManage.add(buttonDupl);
 		}
-
-		// TODO usun jak bedzie juz kompletnie niepotrzebny import z pliku TXT
-		// buttonImport = new JButton(Util.getLocalizedString("MAIN.DUP"));
-		// buttonImport.setActionCommand("import");
-		// buttonImport.addActionListener(this);
-		// buttonImport.setToolTipText(Util.getLocalizedString("MAIN.DUP.TIP"));
-		// panelManage.add(buttonImport);
-
+		if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("NAQN.MODE"))) {
+			buttonZero = new JButton("Zero");
+			buttonZero.setActionCommand("zero");
+			buttonZero.addActionListener(this);
+			buttonZero.setToolTipText("Zero");
+			panelManage.add(buttonZero);
+		}
 		aboutLingmem = new JButton(Util.getLocalizedString("MAIN.ABOUT"));
 		aboutLingmem.setActionCommand("about");
 		aboutLingmem.setToolTipText(Util.getLocalizedString("MAIN.ABOUT.TIP"));
