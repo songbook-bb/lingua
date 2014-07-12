@@ -50,7 +50,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>underpin</foreignWord>
+        <foreignWord>underpin (verb)</foreignWord>
         <nativeWord>podbudować; podpierać; podmurować; podstemplować</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -78,7 +78,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>muddle</foreignWord>
+        <foreignWord>muddle (verb)</foreignWord>
         <nativeWord>gmatwać; zagmatwać; poplątać; babrać; zamroczyć; zrobić mętlik</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -113,7 +113,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>hassle</foreignWord>
+        <foreignWord>hassle (noun)</foreignWord>
         <nativeWord>męczarnia; mordęga; draka</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -122,6 +122,76 @@
     <word>
         <foreignWord>plethora</foreignWord>
         <nativeWord>nadmiar; bogactwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disparate</foreignWord>
+        <nativeWord>różny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>intact</foreignWord>
+        <nativeWord>nienaruszony; nietknięty; cały; dziewiczy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>salient (adj)</foreignWord>
+        <nativeWord>wystający; skaczący; tryskający; sterczący; wybitny; wydatny; uderzający</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>amenable</foreignWord>
+        <nativeWord>posłuszny; odpowiedzialny; podlegający; wrażliwy; podległy; zależny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>downtime</foreignWord>
+        <nativeWord>przestój</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>conformance</foreignWord>
+        <nativeWord>zgodność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>convey</foreignWord>
+        <nativeWord>przenieść; przewieźć; komunikować; transportować; zanieść; doprowadzać; sprowadzać; przeprawiać</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>repudiation</foreignWord>
+        <nativeWord>odrzucenie; wyparcie się; odtrącenie; rozwód z żoną; nieprzyznawanie się</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pertinent</foreignWord>
+        <nativeWord>trafny; stosowny; mający związek z; odnośny; słuszny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>jitter (verb)</foreignWord>
+        <nativeWord>drgać; denerwować się</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
