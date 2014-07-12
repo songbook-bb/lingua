@@ -35,20 +35,22 @@ public class IOUtils {
 			ostream.write(buffer, 0, i);
 		}
 	}
+
 	public static int load(File f, byte[] b) throws IOException {
 		FileInputStream fis = new FileInputStream(f);
 		BufferedInputStream bis = new BufferedInputStream(fis);
-		
 		int len;
 		int count = 0;
 		while ((len = bis.read(b, count, b.length - count)) != -1) {
 			count = count + len;
 		}
+		bis.close();
+		fis.close();
 		return count;
-		
 	}
 
-	public static int getInputStreamLengthInBytes(InputStream is) throws IOException {
+	public static int getInputStreamLengthInBytes(InputStream is)
+			throws IOException {
 		byte[] buffer = new byte[255];
 		int bytesRead;
 		int count = 0;
@@ -57,11 +59,11 @@ public class IOUtils {
 		}
 		return count;
 	}
-	
+
 	public static void create(File f) throws IOException {
-		if (! f.createNewFile()) {
-			throw new RuntimeException("Create file " + f + " failed for some reason");
+		if (!f.createNewFile()) {
+			throw new RuntimeException("Create file " + f
+					+ " failed for some reason");
 		}
 	}
 }
-	

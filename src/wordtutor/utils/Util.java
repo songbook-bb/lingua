@@ -456,7 +456,15 @@ public class Util {
 	      e.printStackTrace();	      
 	    } catch (IOException e) {
 	      e.printStackTrace();
-	    } 
+	    } finally {
+	    	if (fis != null)
+				try {
+					fis.close();
+				} catch (IOException e) {
+
+					e.printStackTrace();
+				}
+	    }
 	    return false;
 	}
 	
@@ -467,10 +475,6 @@ public class Util {
 			return false;
 		}
 		return true;
-	}
-
-	public static void main(String args[]) throws IOException {
-		
 	}
 	
 	public static String[] improvedSplitter(String text, String delimiter) {		
