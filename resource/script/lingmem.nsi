@@ -99,6 +99,25 @@ Section "Start Menu Shortcuts"
   CreateShortCut "$DESKTOP\LingMEM.lnk" "$INSTDIR\LingMEM\lingmem.exe" "" "$INSTDIR\LingMEM\lingmem.exe" 0   
 SectionEnd
 
+Section "English" en
+	MessageBox MB_OK "English!"
+SectionEnd
+
+Section /o "Polish" pl
+	MessageBox MB_OK "Polish!"
+SectionEnd
+
+Function .onInit
+  StrCpy $1 ${en} ; Option en is selected by default
+FunctionEnd
+
+
+Function .onSelChange
+  !insertmacro StartRadioButtons $1
+    !insertmacro RadioButton ${en}
+    !insertmacro RadioButton ${pl}
+  !insertmacro EndRadioButtons	
+FunctionEnd
 
 ;--------------------------------
 
