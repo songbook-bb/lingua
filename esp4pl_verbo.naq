@@ -583,7 +583,7 @@
     </word>
     <word>
         <foreignWord>bajar</foreignWord>
-        <nativeWord>zniżać; opadać</nativeWord>
+        <nativeWord>zniżać; opadać; wysiadać; wysiąść</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -4118,7 +4118,7 @@
     </word>
     <word>
         <foreignWord>subir</foreignWord>
-        <nativeWord>piąć; unosić; wschodzić; rosnąć; podnosić</nativeWord>
+        <nativeWord>piąć; unosić; wschodzić; rosnąć; podnosić; wsiadać; wsiąść</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -4433,7 +4433,7 @@
     </word>
     <word>
         <foreignWord>volar</foreignWord>
-        <nativeWord>latać; odlatywać; fruwać; znikać; wysadzać; wkurzać</nativeWord>
+        <nativeWord>latać; odlatywać; fruwać; znikać; wysadzać; wkurzać; lecieć; polecieć</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

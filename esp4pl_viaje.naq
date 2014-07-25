@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>el dia</foreignWord>
+        <nativeWord>dzień</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la semana</foreignWord>
+        <nativeWord>tydzień</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el lunes</foreignWord>
+        <nativeWord>poniedziałek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el martes</foreignWord>
+        <nativeWord>wtorek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el miercoles</foreignWord>
+        <nativeWord>środa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jueves</foreignWord>
+        <nativeWord>czwartek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el viernes</foreignWord>
+        <nativeWord>piątek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el sabado</foreignWord>
+        <nativeWord>sobota</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el domingo</foreignWord>
+        <nativeWord>niedziela</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el automóvil;el coche</foreignWord>
+        <nativeWord>samochód;auto</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche automático</foreignWord>
+        <nativeWord>{samochód/auto} z automatyczną skrzynią biegów</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de cuatro puertas</foreignWord>
+        <nativeWord>samochód czterodrzwiowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de segunda mano</foreignWord>
+        <nativeWord>samochód {używany/z drugiej ręki}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de tracción delantera</foreignWord>
+        <nativeWord>samochód z napędem na przednie koła</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cuatro por cuatro</foreignWord>
+        <nativeWord>{/napęd} 4x4</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de deportivo</foreignWord>
+        <nativeWord>samochód sportowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de descapotable</foreignWord>
+        <nativeWord>kabriolet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de monovolumen</foreignWord>
+        <nativeWord>minivan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de todoterreno</foreignWord>
+        <nativeWord>samochód terenowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de turismo</foreignWord>
+        <nativeWord>samochód osobowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cilindrada</foreignWord>
+        <nativeWord>pojemność skokowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los caballos</foreignWord>
+        <nativeWord>konie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la marca</foreignWord>
+        <nativeWord>marka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el camión</foreignWord>
+        <nativeWord>ciężarówka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el camión de remolque</foreignWord>
+        <nativeWord>przyczepa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el camión cisterna</foreignWord>
+        <nativeWord>cysterna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la camioneta</foreignWord>
+        <nativeWord>samochód dostawczy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el furgón</foreignWord>
+        <nativeWord>furgon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la furgoneta</foreignWord>
+        <nativeWord>furgonetka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el utilitario</foreignWord>
+        <nativeWord>samochód użytkowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el taxi</foreignWord>
+        <nativeWord>taksówka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la grúa</foreignWord>
+        <nativeWord>pomoc drogowa;dźwig</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la moto</foreignWord>
+        <nativeWord>motor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vespino</foreignWord>
+        <nativeWord>motorower</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la escúter</foreignWord>
+        <nativeWord>skuter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la caravana;la roulotte</foreignWord>
+        <nativeWord>przyczepa kempingowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la autocaravana</foreignWord>
+        <nativeWord>samochód kempingowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el remolque</foreignWord>
+        <nativeWord>przyczepa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la viajera</foreignWord>
+        <nativeWord>pasażerka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el automovilista;el conductor</foreignWord>
+        <nativeWord>kierowca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los ocupantes del coche</foreignWord>
+        <nativeWord>pasażerowie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el viajero</foreignWord>
+        <nativeWord>pasażer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el camionero</foreignWord>
+        <nativeWord>kierowca ciężarówki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el taxista</foreignWord>
+        <nativeWord>taksówkarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el motorista</foreignWord>
+        <nativeWord>motocyklista</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la ciclista</foreignWord>
+        <nativeWord>rowerzystka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el autostopista</foreignWord>
+        <nativeWord>autostopowicz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el peatón</foreignWord>
+        <nativeWord>pieszy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la peatona</foreignWord>
+        <nativeWord>piesza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el paso de peatones</foreignWord>
+        <nativeWord>przejście dla pieszych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la calle mayor</foreignWord>
+        <nativeWord>główna ulica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la carretera general</foreignWord>
+        <nativeWord>główna droga</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tráfico;la circulación</foreignWord>
+        <nativeWord>ruch uliczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el mapa de carreteras</foreignWord>
+        <nativeWord>mapa drogowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la carretera</foreignWord>
+        <nativeWord>droga</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la carretera nacional</foreignWord>
+        <nativeWord>droga krajowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la carretera comarcal</foreignWord>
+        <nativeWord>droga lokalna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la autopista</foreignWord>
+        <nativeWord>autostrada</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la autopista de peaje</foreignWord>
+        <nativeWord>płatna autostrada</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la carretera de circunvalación</foreignWord>
+        <nativeWord>obwodnica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la calle</foreignWord>
+        <nativeWord>ulica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la calle de dirección única</foreignWord>
+        <nativeWord>ulica jednokierunkowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el arcén</foreignWord>
+        <nativeWord>pobocze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el paso de cebra</foreignWord>
+        <nativeWord>zebra</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el stop</foreignWord>
+        <nativeWord>znak stopu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la acera</foreignWord>
+        <nativeWord>chodnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cuneta</foreignWord>
+        <nativeWord>rów przydrożny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la curva</foreignWord>
+        <nativeWord>zakręt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cruce</foreignWord>
+        <nativeWord>skrzyżowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el empalme</foreignWord>
+        <nativeWord>zbiegnięcie się dróg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la glorieta</foreignWord>
+        <nativeWord>rondo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el carril</foreignWord>
+        <nativeWord>pas ruchu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el semáforo</foreignWord>
+        <nativeWord>światła;sygnalizacja świetlna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el peaje</foreignWord>
+        <nativeWord>punkt pobierania opłat za przejazd autostradą</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el área de servicio</foreignWord>
+        <nativeWord>strefa serwisowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la señal de tráfico</foreignWord>
+        <nativeWord>znak drogowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la zona azul</foreignWord>
+        <nativeWord>strefa płatnego parkowania w centrum</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el andén</foreignWord>
+        <nativeWord>peron</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la vía</foreignWord>
+        <nativeWord>tor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la estación {/de ferrocarril/de tren}</foreignWord>
+        <nativeWord>dworzec {/kolejowy}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la RENFE</foreignWord>
+        <nativeWord>PKP (hiszpański odpowiednik)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el ferrocarril</foreignWord>
+        <nativeWord>kolej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la ventanilla</foreignWord>
+        <nativeWord>okno;kasa biletowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la oficina de información</foreignWord>
+        <nativeWord>informacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los tablones {/de información}</foreignWord>
+        <nativeWord>tablice (informacyjne)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la sala de espera</foreignWord>
+        <nativeWord>poczekalnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el bar de la estación</foreignWord>
+        <nativeWord>bar dworcowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la consigna</foreignWord>
+        <nativeWord>przechowalnia bagażu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la consigna automática</foreignWord>
+        <nativeWord>szafki bagażowe</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la oficina de objetos perdidos</foreignWord>
+        <nativeWord>biuro rzeczy znalezionych</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el carrito portaequipajes</foreignWord>
+        <nativeWord>wózek bagażowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el equipaje</foreignWord>
+        <nativeWord>bagaż</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el ferroviario</foreignWord>
+        <nativeWord>kolejarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jefe de estación</foreignWord>
+        <nativeWord>zawiadowca stacji</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jefe de tren</foreignWord>
+        <nativeWord>kierownik pociągu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el revisor</foreignWord>
+        <nativeWord>konduktor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el maquinista</foreignWord>
+        <nativeWord>maszynista</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el mozo {/de cuerda}</foreignWord>
+        <nativeWord>bagażowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren de pasajeros</foreignWord>
+        <nativeWord>pociąg osobowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren de mercancias</foreignWord>
+        <nativeWord>pociąg towarowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren directo</foreignWord>
+        <nativeWord>pociąg bezpośredni</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren suplementario</foreignWord>
+        <nativeWord>dodatkowy pociąg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren rápido</foreignWord>
+        <nativeWord>pociąg pośpieszny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren tranvia</foreignWord>
+        <nativeWord>kolej miejska</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren de largo recorrido</foreignWord>
+        <nativeWord>pociąg dalekobieżny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren de cercancias</foreignWord>
+        <nativeWord>pociąg podmiejski</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren eléctrico</foreignWord>
+        <nativeWord>pociąg elektryczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vagón</foreignWord>
+        <nativeWord>wagon</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche-cama</foreignWord>
+        <nativeWord>wagon sypialny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vagón restaurante;el coche restaurante</foreignWord>
+        <nativeWord>wagon restauracyjny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cabeza del tren</foreignWord>
+        <nativeWord>początek pociągu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los vagones de cola</foreignWord>
+        <nativeWord>ostatnie wagony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vagón de literas</foreignWord>
+        <nativeWord>wagon z kuszetkami</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el furgón de equipajes</foreignWord>
+        <nativeWord>wagon bagażowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el compartimento</foreignWord>
+        <nativeWord>przedział</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la litera</foreignWord>
+        <nativeWord>przedział</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el baño</foreignWord>
+        <nativeWord>łazienka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el servicio</foreignWord>
+        <nativeWord>toaleta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el pasillo</foreignWord>
+        <nativeWord>korytarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el asiento</foreignWord>
+        <nativeWord>miejsce;fotel;siedzenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el portaequipajes</foreignWord>
+        <nativeWord>półka bagażowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la alarma</foreignWord>
+        <nativeWord>alarm</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el billete</foreignWord>
+        <nativeWord>bilet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tarifa reducida</foreignWord>
+        <nativeWord>{/bilet} ulgowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tarifa normal</foreignWord>
+        <nativeWord>{/bilet} normalny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el billete de ida</foreignWord>
+        <nativeWord>bilet w jedną stronę</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el billete de ida y vuelta</foreignWord>
+        <nativeWord>bilet w obie strony</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la primera clase</foreignWord>
+        <nativeWord>pierwsza klasa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la segunda clase</foreignWord>
+        <nativeWord>druga klasa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la reserva</foreignWord>
+        <nativeWord>rezerwacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el horario</foreignWord>
+        <nativeWord>rozkład jazdy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los días festivos</foreignWord>
+        <nativeWord>dni świąteczne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los días laborables</foreignWord>
+        <nativeWord>dni robocze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los días azules</foreignWord>
+        <nativeWord>dni {obniżek/obniżki} cen</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el aeropuerto</foreignWord>
+        <nativeWord>lotnisko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la terminal</foreignWord>
+        <nativeWord>terminal</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pista de aterrizaje</foreignWord>
+        <nativeWord>pas startowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la compañía aérea</foreignWord>
+        <nativeWord>linia lotnicza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la Información</foreignWord>
+        <nativeWord>informacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la facturación de equipajes</foreignWord>
+        <nativeWord>odprawa bagażowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el equipaje de mano</foreignWord>
+        <nativeWord>bagaż podręczny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el control de pasaportes</foreignWord>
+        <nativeWord>kontrola paszportowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el control de rayos X</foreignWord>
+        <nativeWord>prześwietlenie bagażu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tienda libre de impuestos</foreignWord>
+        <nativeWord>sklep wolnocłowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tarjeta de embarque</foreignWord>
+        <nativeWord>karta pokładowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la sala de embarque</foreignWord>
+        <nativeWord>sala odpraw</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la recogida de equipajes</foreignWord>
+        <nativeWord>odbiór bagażu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el avión</foreignWord>
+        <nativeWord>samolot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el avión supersónico</foreignWord>
+        <nativeWord>samolot ponaddźwiękowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jet</foreignWord>
+        <nativeWord>odrzutowiec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jumbo-jet</foreignWord>
+        <nativeWord>jumbo jet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el {/vuelo} chárter</foreignWord>
+        <nativeWord>lot czarterowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el ala</foreignWord>
+        <nativeWord>skrzydło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cinturón de seguridad</foreignWord>
+        <nativeWord>pas bezpieczeństwa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el chaleco salvavidas</foreignWord>
+        <nativeWord>kamizelka ratunkowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la salida emergencia</foreignWord>
+        <nativeWord>wyjście ewakuacyjne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vuelo</foreignWord>
+        <nativeWord>lot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vuelo nacional</foreignWord>
+        <nativeWord>lot krajowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vuelo internacional</foreignWord>
+        <nativeWord>lot międzynarodowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la altura</foreignWord>
+        <nativeWord>wysokość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el despegue</foreignWord>
+        <nativeWord>start</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la llegada</foreignWord>
+        <nativeWord>przylot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el aterrizaje</foreignWord>
+        <nativeWord>lądowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el aterrizaje forzoso</foreignWord>
+        <nativeWord>przymusowe lądowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la escala</foreignWord>
+        <nativeWord>międzylądowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el retraso</foreignWord>
+        <nativeWord>opóźnienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tripulación</foreignWord>
+        <nativeWord>załoga</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el piloto</foreignWord>
+        <nativeWord>pilot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el capitán de vuelo</foreignWord>
+        <nativeWord>kapitan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la azafata</foreignWord>
+        <nativeWord>stewardesa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el auxiliar de vuelo</foreignWord>
+        <nativeWord>steward</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el pasajero</foreignWord>
+        <nativeWord>pasażer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pasajera</foreignWord>
+        <nativeWord>pasażerka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el autobús</foreignWord>
+        <nativeWord>autobus</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el autocar</foreignWord>
+        <nativeWord>autokar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coche de línea</foreignWord>
+        <nativeWord>autobus międzymiastowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el metro</foreignWord>
+        <nativeWord>metro</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tranvía</foreignWord>
+        <nativeWord>tramwaj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren</foreignWord>
+        <nativeWord>pociąg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren de cercanías</foreignWord>
+        <nativeWord>pociąg podmiejski</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el revisor</foreignWord>
+        <nativeWord>kontroler</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el viajero;la viajera</foreignWord>
+        <nativeWord>podróżny;podróżna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la boca de metro</foreignWord>
+        <nativeWord>wyjście z metra/wejście do metra</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la estación de metro</foreignWord>
+        <nativeWord>stacja metra</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la estación de autobuses</foreignWord>
+        <nativeWord>dworzec autobusowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la parada de autobús</foreignWord>
+        <nativeWord>przystanek autobusowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la marquesina (de autobús)</foreignWord>
+        <nativeWord>wiata</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la parada de taxis</foreignWord>
+        <nativeWord>postój taksówek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el despacho de billetes</foreignWord>
+        <nativeWord>punkt sprzedaży biletów</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la máquina (expendedora) de billetes</foreignWord>
+        <nativeWord>automat z biletami</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la salida</foreignWord>
+        <nativeWord>wyjście</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el mapa del recorrido</foreignWord>
+        <nativeWord>trasa przejazdu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el plano del metro</foreignWord>
+        <nativeWord>plan metra</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la línea</foreignWord>
+        <nativeWord>linia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el recorrido;el trayecto</foreignWord>
+        <nativeWord>trasa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tren subterráneo</foreignWord>
+        <nativeWord>kolejka podziemna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la dirección</foreignWord>
+        <nativeWord>kierunek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los horarios</foreignWord>
+        <nativeWord>rozkład jazdy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el importe del billete</foreignWord>
+        <nativeWord>cena biletu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tarjeta de transporte público</foreignWord>
+        <nativeWord>karta komunikacji publicznej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el bonobús</foreignWord>
+        <nativeWord>bilet autobusowy wielokrotnego przejazdu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tarifa normal</foreignWord>
+        <nativeWord>taryfa zwykła</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el descuento</foreignWord>
+        <nativeWord>zniżka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tarifa reducida</foreignWord>
+        <nativeWord>taryfa ulgowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el suplemento</foreignWord>
+        <nativeWord>dodatek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la escalera</foreignWord>
+        <nativeWord>schody</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+</dictionary>
