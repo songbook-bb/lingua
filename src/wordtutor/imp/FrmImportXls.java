@@ -158,6 +158,13 @@ public class FrmImportXls extends JDialog implements ActionListener {
 						}
 						countCell++;
 					}
+					if (!StringUtils.isBlank(answerString) || 
+							!StringUtils.isBlank(questionString) || 
+							!StringUtils.isBlank(soundString)) {
+						if (StringUtils.isBlank(soundString) || !StringUtils.isNumeric(soundString)) throw new Exception("Expected soundId (column A) should have a valid numeric value at row "+(++i)+".");
+						if (StringUtils.isBlank(answerString)) throw new Exception("Expected answerString (column C) should have a string value at row "+(++i)+".");
+						if (StringUtils.isBlank(questionString)) throw new Exception("Expected questionString (column B) should have a string value at row "+(++i)+".");												
+					}
 					logger.debug(" sound="+soundString +" question="+questionString+" answer="+answerString);
 					if (!StringUtils.isBlank(questionString)
 							&& !StringUtils.isBlank(answerString)) {

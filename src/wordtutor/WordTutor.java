@@ -201,7 +201,6 @@ public class WordTutor implements IWTSerializable {
 		soundId = Integer.parseInt(soundWord);		
 	} catch (NumberFormatException nfe) {
 		logger.error(nfe.getMessage(), nfe);
-		System.exit(-1);
 	}
     words.add(foreignWord, nativeWord, soundId);
   }
