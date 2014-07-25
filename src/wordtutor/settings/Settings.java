@@ -44,6 +44,7 @@ public class Settings implements IWTSerializable {
   private boolean unlearned;  
   private boolean hardest;
   private boolean random;
+  private boolean normalized;
   
   private Random r = new Random();
 
@@ -61,6 +62,7 @@ public class Settings implements IWTSerializable {
     sTypes.setUnlearned(unlearned ? 1 : 0);
     sTypes.setHardest(hardest ? 1 : 0);
     sTypes.setRandom(random ? 1 : 0); 
+    sTypes.setNormalized(normalized ? 1 : 0);
     sTypes.setDirection(directionMode.ordinal());
     sTypes.setKeyboard(keyboardType.ordinal());
     JAXBElement<SettingsType> jaxbSettings = factory.createSettings(sTypes);
@@ -144,7 +146,13 @@ public class Settings implements IWTSerializable {
         setRandom(true);
     } else {
         setRandom(false);
+    }
+    if (st.getNormalized() == 1) {
+        setNormalized(true);
+    } else {
+        setNormalized(false);
     }    
+    
   }
 
 	public KeyboardButtonType keyboardIntToEnumeration(int keyboardInt) {
@@ -296,6 +304,14 @@ public class Settings implements IWTSerializable {
 	  this.random = random;
   }
 
+  public boolean isNormalized() {
+		return normalized;
+  }
+
+  public void setNormalized(boolean normalized) {
+	  this.normalized = normalized;
+  }
+  
   public int getAutoSuggest() {
 	  return autoSuggest;
   }

@@ -8,6 +8,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.text.MessageFormat;
+import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -341,6 +342,10 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		expandedAllRightAnswers = rightAnswer.replace(Util.PHRASE_DELIMITER, Util.NEW_LINE_DELIMITER);
 		logger.debug("rightAnswer : " + rightAnswer);
 		// split and put into an array
+		if (settings.isNormalized()) {
+			rightAnswer = normalize(rightAnswer);
+			userAnswer = normalize(userAnswer);
+		}		
 		rightAnswer = rightAnswer.toUpperCase();
 		ArrayList<String> rightAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(rightAnswer, Util.PHRASE_DELIMITER)));
 		// remove punctuation
@@ -374,7 +379,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			return true;
 		}
 	}
-
+	
 	/**
 	 * Produce autocomplete = right matched answer string
 	 * 
@@ -460,6 +465,20 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		return Util.removeWhiteSpaces(allExpanded);
 	}
 
+	/**
+	 * normalizes string - with some exceptions (like ł is not normalized to l)
+	 * 
+	 * @param toNormalize
+	 * @return
+	 */
+	public static String normalize(String toNormalize) {
+	   	 toNormalize = Normalizer.normalize(toNormalize, Normalizer.Form.NFD);
+	   	 //phrase = phrase.replaceAll("[^\\p{ASCII}]", "");
+	   	 toNormalize = toNormalize.replaceAll("\\p{InCombiningDiacriticalMarks}+", "");    	 
+	   	 return toNormalize; 
+	}
+
+	
 	/**
 	 * Expand all alternatives of a SINGLE wildcard expression
 	 * 

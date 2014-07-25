@@ -53,7 +53,8 @@ import javax.xml.bind.annotation.XmlType;
     "keyboard",
     "unlearned",    
     "hardest",
-    "random"
+    "random",
+    "normalized"
 })
 public class SettingsType {
 	/** maxScore, decScore to remove and exhaustiveLearn - change name to EXAM 
@@ -81,6 +82,8 @@ public class SettingsType {
     protected int hardest;
     @XmlElement(required = true)
     protected int random;    
+    @XmlElement(required = true)
+	protected int normalized;
     @XmlElement(required = true)
 	protected int autoSuggest;
     
@@ -253,5 +256,15 @@ h     */
 		public void setRandom(int random) {
 			this.random = random;
 		}
-		
+
+		/** the normalized string comparision (without accents) 
+		 *  
+		 * @return
+		 */
+		public int getNormalized() {
+				return normalized;
+		}
+		public void setNormalized(int normalized) {
+			this.normalized = normalized;
+		}			
 }
