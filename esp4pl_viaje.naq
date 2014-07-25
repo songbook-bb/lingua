@@ -169,7 +169,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el camión de remolque</foreignWord>
+        <foreignWord>el remolque;el camión de remolque</foreignWord>
         <nativeWord>przyczepa</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -260,20 +260,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el remolque</foreignWord>
-        <nativeWord>przyczepa</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>la viajera</foreignWord>
-        <nativeWord>pasażerka</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>el automovilista;el conductor</foreignWord>
         <nativeWord>kierowca</nativeWord>
         <score>0</score>
@@ -283,13 +269,6 @@
     <word>
         <foreignWord>los ocupantes del coche</foreignWord>
         <nativeWord>pasażerowie</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>el viajero</foreignWord>
-        <nativeWord>pasażer</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -799,14 +778,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el compartimento</foreignWord>
-        <nativeWord>przedział</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>la litera</foreignWord>
+        <foreignWord>el compartimento;la litera</foreignWord>
         <nativeWord>przedział</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -911,7 +883,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el horario</foreignWord>
+        <foreignWord>el horario;los horarios</foreignWord>
         <nativeWord>rozkład jazdy</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1198,14 +1170,14 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el pasajero</foreignWord>
+        <foreignWord>el viajero;el pasajero</foreignWord>
         <nativeWord>pasażer</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la pasajera</foreignWord>
+        <foreignWord>la pasajera;la viajera</foreignWord>
         <nativeWord>pasażerka</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1375,13 +1347,6 @@
     <word>
         <foreignWord>la dirección</foreignWord>
         <nativeWord>kierunek</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>los horarios</foreignWord>
-        <nativeWord>rozkład jazdy</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
