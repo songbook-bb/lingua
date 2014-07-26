@@ -163,7 +163,7 @@
     </word>
     <word>
         <foreignWord>el camión</foreignWord>
-        <nativeWord>ciężarówka</nativeWord>
+        <nativeWord>tir; ciężarówka</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -534,7 +534,7 @@
     </word>
     <word>
         <foreignWord>la estación {/de ferrocarril/de tren}</foreignWord>
-        <nativeWord>dworzec {/kolejowy}</nativeWord>
+        <nativeWord>dworzec {/kolejowy}; stacja</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -562,7 +562,7 @@
     </word>
     <word>
         <foreignWord>la oficina de información</foreignWord>
-        <nativeWord>informacja</nativeWord>
+        <nativeWord>informacja; biuro informacji</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -835,28 +835,28 @@
     </word>
     <word>
         <foreignWord>la tarifa reducida</foreignWord>
-        <nativeWord>{/bilet} ulgowy</nativeWord>
+        <nativeWord>{/bilet} ulgowy; taryfa ulgowa</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>la tarifa normal</foreignWord>
-        <nativeWord>{/bilet} normalny</nativeWord>
+        <nativeWord>{/bilet} normalny; taryfa zwykła</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>el billete de ida</foreignWord>
-        <nativeWord>bilet w jedną stronę</nativeWord>
+        <nativeWord>bilet tam; bilet w jedną stronę</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>el billete de ida y vuelta</foreignWord>
-        <nativeWord>bilet w obie strony</nativeWord>
+        <nativeWord>bilet tam i z powrotem; bilet w obie strony</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -884,7 +884,7 @@
     </word>
     <word>
         <foreignWord>el horario;los horarios</foreignWord>
-        <nativeWord>rozkład jazdy</nativeWord>
+        <nativeWord>rozkład jazdy; harmonogram</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1248,7 +1248,7 @@
     </word>
     <word>
         <foreignWord>la boca de metro</foreignWord>
-        <nativeWord>wyjście z metra/wejście do metra</nativeWord>
+        <nativeWord>{wyjście z/wejście do} metra</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1297,7 +1297,7 @@
     </word>
     <word>
         <foreignWord>la máquina (expendedora) de billetes</foreignWord>
-        <nativeWord>automat z biletami</nativeWord>
+        <nativeWord>automat z biletami; automat biletowy</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1373,22 +1373,8 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la tarifa normal</foreignWord>
-        <nativeWord>taryfa zwykła</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>el descuento</foreignWord>
         <nativeWord>zniżka</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>la tarifa reducida</foreignWord>
-        <nativeWord>taryfa ulgowa</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
