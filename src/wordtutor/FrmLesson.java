@@ -1,5 +1,7 @@
 package wordtutor;
 
+import static org.junit.Assert.assertEquals;
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Font;
@@ -12,6 +14,8 @@ import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -28,6 +32,10 @@ import javax.swing.text.Caret;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.experimental.runners.Enclosed;
+import org.junit.runner.RunWith;
 
 import wordtutor.settings.Settings;
 import wordtutor.util.keybuttons.KeyboardBtnListener;
@@ -48,6 +56,7 @@ enum ActMode {
  * represents the lesson
  * 
  */
+@RunWith(Enclosed.class)
 public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	private static final long serialVersionUID = 1278330304433235395L;
 	public static String expandedAllRightAnswers = "";
@@ -110,8 +119,10 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		Player player = null;
 		answerWord.setEditable(true);
 		addYetAnotherAnswer.setVisible(false);
-		questionScroll.getVerticalScrollBar().setBackground(DEFAULT_SCROLL_COLOR);
-		responseScroll.getVerticalScrollBar().setBackground(DEFAULT_SCROLL_COLOR);
+		questionScroll.getVerticalScrollBar().setBackground(
+				DEFAULT_SCROLL_COLOR);
+		responseScroll.getVerticalScrollBar().setBackground(
+				DEFAULT_SCROLL_COLOR);
 		if (mode == ActMode.ANSWER)// if the mode is answer
 		{
 			String complexFileName = tutor.chooseSoundSampleFileName();
@@ -123,17 +134,24 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			if (isGoodAnswer(tutor.getRightAnswer(), answerWord.getText())) {
 				// JUST SETTING LEARNED FLAG ONLY
 				tutor.checkAnswer(answerWord.getText());
-				// w trybie lekcji (a nie egzaminu) informuj, że było OK i puść wymowę
+				// w trybie lekcji (a nie egzaminu) informuj, że było OK i puść
+				// wymowę
 				if (!settings.isExamMode()) {
-					if (tutor.getIdSound() > 0 && !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
+					if (tutor.getIdSound() > 0
+							&& !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
 						Util.playSound(player, complexFileName);
 					} else {
-						Util.playSound(player, Util.getAppProperty("CORRECT.MP3"));
+						Util.playSound(player,
+								Util.getAppProperty("CORRECT.MP3"));
 					}
 					responseWord.setForeground(Color.BLUE);
-					responseWord.setText(Util.getLocalizedString("LESSON.ALL.RIGHT"));
-					String fullAnswerText = expandAll(tutor.getRightAnswer(), Util.REMOVE_COMMENT);
-					answerWord.setText(fullAnswerText.replaceAll(Util.PHRASE_DELIMITER, Util.PHRASE_DELIMITER + Util.SPACE));
+					responseWord.setText(Util
+							.getLocalizedString("LESSON.ALL.RIGHT"));
+					String fullAnswerText = expandAll(tutor.getRightAnswer(),
+							Util.REMOVE_COMMENT);
+					answerWord.setText(fullAnswerText.replaceAll(
+							Util.PHRASE_DELIMITER, Util.PHRASE_DELIMITER
+									+ Util.SPACE));
 					Caret answerWordCaret = answerWord.getCaret();
 					answerWordCaret.setDot(0);
 					answerWord.setCaret(answerWordCaret);
@@ -144,7 +162,8 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				tutor.incScore();
 				//
 				if (!settings.isExamMode()) {
-					if (tutor.getIdSound() > 0 && !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
+					if (tutor.getIdSound() > 0
+							&& !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
 						Util.playSound(player, complexFileName);
 					}
 					// shows all good answers
@@ -153,7 +172,8 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 					fillResponseAreaAndMarkScrollBrowse(expandedAllRightAnswers);
 					responseWord.setCaretPosition(0);
 					// IF CORRECTOR MODE
-					if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("CORRECTION.MODE"))) {
+					if (Util.TRUE.equalsIgnoreCase(Util
+							.getAppProperty("CORRECTION.MODE"))) {
 						// only if the answer string is not empty
 						if (!StringUtils.isBlank(answerWord.getText())) {
 							addYetAnotherAnswer.setVisible(true);
@@ -174,9 +194,28 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				 * 
 				 */
 				if (!settings.isExamMode()) {
-					JOptionPane.showMessageDialog(this, MessageFormat.format(Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE1"), settings.getWordsInLesson()) + "\n" + MessageFormat.format(Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE2"), tutor.calcLessonStatistics(), tutor.getCurrentDictFile()), Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.NAME"), JOptionPane.PLAIN_MESSAGE, null);
+					JOptionPane
+							.showMessageDialog(
+									this,
+									MessageFormat.format(
+											Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE1"),
+											settings.getWordsInLesson())
+											+ "\n"
+											+ MessageFormat.format(
+													Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.MESSAGE2"),
+													tutor.calcLessonStatistics(),
+													tutor.getCurrentDictFile()),
+									Util.getLocalizedString("LESSON.STAT.LESSON.FRAME.NAME"),
+									JOptionPane.PLAIN_MESSAGE, null);
 				} else {
-					JOptionPane.showMessageDialog(this, MessageFormat.format(Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.MESSAGE"), tutor.calcExamStatistics()), Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.NAME"), JOptionPane.PLAIN_MESSAGE, null);
+					JOptionPane
+							.showMessageDialog(
+									this,
+									MessageFormat.format(
+											Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.MESSAGE"),
+											tutor.calcExamStatistics()),
+									Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.NAME"),
+									JOptionPane.PLAIN_MESSAGE, null);
 				}
 				/** TODO poprawić nakładanie się odtwarzania */
 				// utl.playSound(player, new
@@ -214,17 +253,20 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		switch (e.getKeyCode()) {
 		case KeyEvent.VK_ENTER:
 			button();
-			break;			
+			break;
 		case KeyEvent.VK_ESCAPE:
 			this.dispose();
 			break;
 		case KeyEvent.VK_CONTROL:
 			CTRL_IS_PRESSED = false;
-			break;			
+			break;
 		default:
 			// nie podpowiadamy na egzaminie :)
 			// warunek > 0 bo ma WCALE nie podpowiadac gdy klepie pusty string
-			if (!settings.isExamMode() && settings.getAutoSuggest() > 0 && answerWord.getText().length() >= settings.getAutoSuggest()) {
+			if (!settings.isExamMode()
+					&& settings.getAutoSuggest() > 0
+					&& answerWord.getText().length() >= settings
+							.getAutoSuggest()) {
 				// logger.debug(" "+answerWord.getText()+" "+answerWord.getText().length()+" auto : "+canAutoSuggest(tutor.getRightAnswer(),
 				// answerWord.getText()));
 				// Cursor cursor = answerWord.getCursor();
@@ -277,9 +319,12 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		centralPanel.setLayout(new BorderLayout());
 		centralPanel.setVisible(true);
 		centralPanel.add(answerWord, BorderLayout.CENTER);
-		addYetAnotherAnswer = new JButton(Util.getLocalizedString("LESSON.BUTTON.ADD.YET.ANOTHER.ANSWER"));
+		addYetAnotherAnswer = new JButton(
+				Util.getLocalizedString("LESSON.BUTTON.ADD.YET.ANOTHER.ANSWER"));
 		addYetAnotherAnswer.setActionCommand("yetAnotherAnswer");
-		addYetAnotherAnswer.setToolTipText(Util.getLocalizedString("LESSON.BUTTON.ADD.YET.ANOTHER.ANSWER.TIP"));
+		addYetAnotherAnswer
+				.setToolTipText(Util
+						.getLocalizedString("LESSON.BUTTON.ADD.YET.ANOTHER.ANSWER.TIP"));
 		addYetAnotherAnswer.addActionListener(this);
 		addYetAnotherAnswer.setBackground(BUTTON_YET_ANOTHER_ANSWER_COLOR);
 		centralPanel.add(addYetAnotherAnswer, BorderLayout.EAST);
@@ -287,20 +332,24 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		add(centralPanel, BorderLayout.CENTER);
 		// panel z dodatkową klawiaturą na buttonach
 		KeyboardCtrlPanel kb = new KeyboardCtrlPanel(settings.getKeyboardType());
-		KeyboardBtnListener buttonListener = new KeyboardBtnListener(this.answerWord);
+		KeyboardBtnListener buttonListener = new KeyboardBtnListener(
+				this.answerWord);
 		kb.addListenerToAll(buttonListener);
 		add(kb.getPanel(), BorderLayout.NORTH);
 		panel = new JPanel();
 		panel.setLayout(new BorderLayout());
 		add(panel, BorderLayout.SOUTH);
-		questionWord = new JTextArea(Util.getLocalizedString("LESSON.BUTTON.QUESTION"));
+		questionWord = new JTextArea(
+				Util.getLocalizedString("LESSON.BUTTON.QUESTION"));
 		font = new Font(questionWord.getFont().getName(), Font.PLAIN, 16);
 		questionWord.setFont(font);
 		questionWord.setEditable(false);
 		questionWord.setFocusable(false);
 		questionWord.setRows(defaultTextareaRows);
 		// JScrollPane
-		questionScroll = new JScrollPane(questionWord, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+		questionScroll = new JScrollPane(questionWord,
+				JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,
+				JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
 		panel.add(questionScroll, BorderLayout.NORTH);
 		answer = new JButton(Util.getLocalizedString("LESSON.BUTTON.ANSWER"));
 		panel.add(answer, BorderLayout.SOUTH);
@@ -311,14 +360,17 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		responseWord.setEditable(false);
 		responseWord.setFocusable(false);
 		// JScrollPane
-		responseScroll = new JScrollPane(responseWord, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+		responseScroll = new JScrollPane(responseWord,
+				JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,
+				JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
 		font = new Font(responseWord.getFont().getName(), Font.PLAIN, 16);
 		responseWord.setFont(font);
 		panel.add(responseScroll, BorderLayout.CENTER);
 		this.tutor.startLesson();
 		this.tutor.chooseWord();
 		// questionWord.setText(produceExpandedInput(tutor.getQuestion()));
-		questionScroll.getVerticalScrollBar().setBackground(DEFAULT_SCROLL_COLOR);
+		questionScroll.getVerticalScrollBar().setBackground(
+				DEFAULT_SCROLL_COLOR);
 		fillQuestionAreaAndMarkScrollBrowse(tutor.getQuestion());
 		questionWord.setCaretPosition(0);
 		answerWord.addKeyListener(this);
@@ -339,30 +391,37 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		Logger logger = Logger.getLogger(FrmLesson.class);
 		// RIGHT ANSWER TRIMMING
 		rightAnswer = expandAll(rightAnswer, Util.REMOVE_COMMENT);
-		expandedAllRightAnswers = rightAnswer.replace(Util.PHRASE_DELIMITER, Util.NEW_LINE_DELIMITER);
+		expandedAllRightAnswers = rightAnswer.replace(Util.PHRASE_DELIMITER,
+				Util.NEW_LINE_DELIMITER);
 		logger.debug("rightAnswer : " + rightAnswer);
 		// split and put into an array
 		if (settings.isNormalized()) {
 			rightAnswer = normalize(rightAnswer);
 			userAnswer = normalize(userAnswer);
-		}		
+		}
 		rightAnswer = rightAnswer.toUpperCase();
-		ArrayList<String> rightAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(rightAnswer, Util.PHRASE_DELIMITER)));
+		ArrayList<String> rightAnswerList = new ArrayList<String>(
+				Arrays.asList(Util.improvedSplitter(rightAnswer,
+						Util.PHRASE_DELIMITER)));
 		// remove punctuation
 		rightAnswerList = Util.removePunctuation(rightAnswerList);
 		// then sort
 		Collections.sort(rightAnswerList);
 		// USER ANSWER TRIMMING (comments are remove before matching)
-		userAnswer = Util.removeUnwantedDelimiters(userAnswer, Util.REMOVE_COMMENT);
+		userAnswer = Util.removeUnwantedDelimiters(userAnswer,
+				Util.REMOVE_COMMENT);
 		userAnswer = Util.removeWhiteSpaces(userAnswer);
 		userAnswer = userAnswer.toUpperCase();
-		ArrayList<String> userAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(userAnswer, Util.PHRASE_DELIMITER)));
+		ArrayList<String> userAnswerList = new ArrayList<String>(
+				Arrays.asList(Util.improvedSplitter(userAnswer,
+						Util.PHRASE_DELIMITER)));
 		// remove punctuation
 		userAnswerList = Util.removePunctuation(userAnswerList);
 		// then sort
 		Collections.sort(userAnswerList);
 		if (settings.isStrictMode()) {
-			// ideally this userAnswerList and rightAnswerList should be the same
+			// ideally this userAnswerList and rightAnswerList should be the
+			// same
 			return rightAnswerList.equals(userAnswerList);
 		} else {
 			// there should be at least one answer
@@ -379,7 +438,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			return true;
 		}
 	}
-	
+
 	/**
 	 * Produce autocomplete = right matched answer string
 	 * 
@@ -387,9 +446,12 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	 */
 	public void canAutoSuggest(String rightAnswer, JTextField shortAnswer) {
 		rightAnswer = expandAll(rightAnswer, Util.REMOVE_COMMENT);
-		ArrayList<String> rightAnswerList = new ArrayList<String>(Arrays.asList(Util.improvedSplitter(rightAnswer, Util.PHRASE_DELIMITER)));
+		ArrayList<String> rightAnswerList = new ArrayList<String>(
+				Arrays.asList(Util.improvedSplitter(rightAnswer,
+						Util.PHRASE_DELIMITER)));
 		for (String matchingAnswer : rightAnswerList) {
-			if (matchingAnswer.toUpperCase().startsWith(shortAnswer.getText().toUpperCase())) {
+			if (matchingAnswer.toUpperCase().startsWith(
+					shortAnswer.getText().toUpperCase())) {
 				shortAnswer.setText(matchingAnswer);
 				shortAnswer.setEditable(false);
 			}
@@ -406,7 +468,8 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	 * @param level
 	 * @return
 	 */
-	public static ArrayList<ArrayList<String>> cartesianProduct(ArrayList<ArrayList<String>> objectList, Integer level) {
+	public static ArrayList<ArrayList<String>> cartesianProduct(
+			ArrayList<ArrayList<String>> objectList, Integer level) {
 		if (level == 0) {
 			ArrayList<String> firstList = objectList.get(level);
 			for (int i = 0; i < firstList.size(); i++) {
@@ -423,7 +486,8 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			ArrayList<String> levelList = objectList.get(level);
 			for (int i = 0; i < wholeAnswerList.size(); i++) {
 				for (int j = 0; j < levelList.size(); j++) {
-					ArrayList<String> arrayItem = duplicateArray(wholeAnswerList.get(i));
+					ArrayList<String> arrayItem = duplicateArray(wholeAnswerList
+							.get(i));
 					arrayItem.add(levelList.get(j));
 					newResultList.add(arrayItem);
 				}
@@ -453,12 +517,13 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	 * Expand all wildcard expressions
 	 * 
 	 * @param all
-	 *          Expanded
+	 *            Expanded
 	 * @return
 	 */
 	public static String expandAll(String rightAnswerText, boolean removeComment) {
 		String allExpanded = "";
-		for (String oneToExpand : Util.improvedSplitter(rightAnswerText, Util.PHRASE_DELIMITER)) {
+		for (String oneToExpand : Util.improvedSplitter(rightAnswerText,
+				Util.PHRASE_DELIMITER)) {
 			allExpanded += expandOnlyOneExpression(oneToExpand);
 		}
 		allExpanded = Util.removeUnwantedDelimiters(allExpanded, removeComment);
@@ -466,38 +531,44 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	}
 
 	/**
-	 * normalizes string - with some exceptions (like ł is not normalized to l)
+	 * normalizes string - with some exceptions (like ł is not normalized to l
+	 * automatically)
 	 * 
 	 * @param toNormalize
 	 * @return
 	 */
 	public static String normalize(String toNormalize) {
-	   	 toNormalize = Normalizer.normalize(toNormalize, Normalizer.Form.NFD);
-	   	 //phrase = phrase.replaceAll("[^\\p{ASCII}]", "");
-	   	 toNormalize = toNormalize.replaceAll("\\p{InCombiningDiacriticalMarks}+", "");    	 
-	   	 return toNormalize; 
+		toNormalize = Normalizer.normalize(toNormalize, Normalizer.Form.NFD);
+		// phrase = phrase.replaceAll("[^\\p{ASCII}]", "");
+		toNormalize = toNormalize.replaceAll(
+				"\\p{InCombiningDiacriticalMarks}+", "");
+		toNormalize = toNormalize.replaceAll("Ł", "L");
+		toNormalize = toNormalize.replaceAll("ł", "l");
+		return toNormalize;
 	}
 
-	
 	/**
 	 * Expand all alternatives of a SINGLE wildcard expression
 	 * 
 	 * 
 	 * @param expression
-	 *          - SINGLE wildcard expression
+	 *            - SINGLE wildcard expression
 	 * @return all alternatives separated by Util.PHRASE_DELIMITER
 	 */
 	public static String expandOnlyOneExpression(String expressionString) {
-		expressionString = expressionString.replaceAll(Util.QUOTE, Util.QUOTE_REPLACE);
+		expressionString = expressionString.replaceAll(Util.QUOTE,
+				Util.QUOTE_REPLACE);
 		wholeAnswerList = new ArrayList<ArrayList<String>>();
-		Pattern MY_PATTERN = Pattern.compile(Util.PATTERN_REGEXP_ALTERNATIVE_TEXT);
+		Pattern MY_PATTERN = Pattern
+				.compile(Util.PATTERN_REGEXP_ALTERNATIVE_TEXT);
 		Matcher m = MY_PATTERN.matcher(expressionString);
 		StringBuffer sbuf = new StringBuffer();
 		int i = 0;
 		ArrayList<ArrayList<String>> objectList = new ArrayList<ArrayList<String>>();
 		while (m.find()) {
 			String s = m.group(1);
-			m.appendReplacement(sbuf, Util.ALTERNATIVE_TEXT_OPEN_BRACKET + i + Util.ALTERNATIVE_TEXT_CLOSE_BRACKET);
+			m.appendReplacement(sbuf, Util.ALTERNATIVE_TEXT_OPEN_BRACKET + i
+					+ Util.ALTERNATIVE_TEXT_CLOSE_BRACKET);
 			String[] sArray = s.split(Util.ALTERNATIVE_TEXT_SEPARATOR);
 			ArrayList<String> commonMeaning = new ArrayList<String>();
 			for (String stringMeaning : sArray) {
@@ -509,7 +580,8 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		m.appendTail(sbuf);
 		// formuła odpowiedzi gdy wcale nie ma alternatyw
 		if (!sbuf.toString().contains(Util.ALTERNATIVE_TEXT_OPEN_BRACKET)) {
-			return (sbuf.toString() + Util.PHRASE_DELIMITER).replaceAll(Util.QUOTE_REPLACE, Util.QUOTE);
+			return (sbuf.toString() + Util.PHRASE_DELIMITER).replaceAll(
+					Util.QUOTE_REPLACE, Util.QUOTE);
 		}
 		cartesianProduct(objectList, 0);
 		String regex = Util.PATTERN_REGEXP_ONE_SPACE;
@@ -521,10 +593,12 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				trimmedResult.add(trimmedItem.trim());
 			}
 			Object[] arguments = trimmedResult.toArray(new Object[0]);
-			String message = MessageFormat.format(sbuf.toString(), arguments).replaceAll(regex, " ");
+			String message = MessageFormat.format(sbuf.toString(), arguments)
+					.replaceAll(regex, " ");
 			wholeAnswerString += message + Util.PHRASE_DELIMITER;
 		}
-		wholeAnswerString = wholeAnswerString.replaceAll(Util.QUOTE_REPLACE, Util.QUOTE);
+		wholeAnswerString = wholeAnswerString.replaceAll(Util.QUOTE_REPLACE,
+				Util.QUOTE);
 		return wholeAnswerString;
 	}
 
@@ -535,14 +609,17 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	 * @return
 	 */
 	public String produceExpandedInput(String text) {
-		String rightText = expandAll(Util.newLineToDelim(text, Util.PHRASE_DELIMITER), Util.SHOW_COMMENT);
+		String rightText = expandAll(
+				Util.newLineToDelim(text, Util.PHRASE_DELIMITER),
+				Util.SHOW_COMMENT);
 		return Util.delimToNewLine(rightText, Util.PHRASE_DELIMITER);
-		// return rightText.replace(Util.PHRASE_DELIMITER, Util.NEW_LINE_DELIMITER);
+		// return rightText.replace(Util.PHRASE_DELIMITER,
+		// Util.NEW_LINE_DELIMITER);
 	}
 
 	/**
-	 * fills question TextArea sets scroll and marks if scroll is has something to
-	 * browse
+	 * fills question TextArea sets scroll and marks if scroll is has something
+	 * to browse
 	 * 
 	 * @param text
 	 */
@@ -550,10 +627,12 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		// fill the text into fields and areas
 		// show all expanded questions
 		String allExpandedQuestions = produceExpandedInput(text);
-		int numOfLines = StringUtils.countMatches(allExpandedQuestions, Util.NEW_LINE_DELIMITER);
+		int numOfLines = StringUtils.countMatches(allExpandedQuestions,
+				Util.NEW_LINE_DELIMITER);
 		questionWord.setText(allExpandedQuestions);
 		if (numOfLines >= defaultTextareaRows) {
-			questionScroll.getVerticalScrollBar().setBackground(BROWSE_QUESTION_SCROLL_COLOR);
+			questionScroll.getVerticalScrollBar().setBackground(
+					BROWSE_QUESTION_SCROLL_COLOR);
 		}
 	}
 
@@ -569,12 +648,94 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		logger.debug(" text '" + text + "'");
 		String allExpandedQuestions = produceExpandedInput(text);
 		// logger.debug(" allExpandedQuestions '"+allExpandedQuestions + "'");
-		int numOfLines = StringUtils.countMatches(allExpandedQuestions, Util.NEW_LINE_DELIMITER);
+		int numOfLines = StringUtils.countMatches(allExpandedQuestions,
+				Util.NEW_LINE_DELIMITER);
 		// logger.debug("numOfLines "+numOfLines);
 		responseWord.setText(allExpandedQuestions);
 		if (numOfLines >= defaultTextareaRows) {
-			responseScroll.getVerticalScrollBar().setBackground(BROWSE_RESPONSE_SCROLL_COLOR);
+			responseScroll.getVerticalScrollBar().setBackground(
+					BROWSE_RESPONSE_SCROLL_COLOR);
 		}
 	}
 
+	public static class JUnitTest {				
+		@Before
+		public void setUp() throws Exception {
+			System.out.println("TIME :"+System.currentTimeMillis());
+		}
+
+		@Test
+		public void testNormalize_true() {
+			assertEquals("zolw", normalize("zółw"));
+		}
+
+		@Test
+		public void testNormalize_false() {
+			Map<String, String> testMap = new HashMap<String, String>();			
+			testMap.put("zolw", "żółw");
+			testMap.put("Zolw", "Żółw");
+			testMap.put("To sa aAcCeElLnNoOsSzZzZ i juz ?!", "To są ąĄćĆęĘłŁńŃóÓśŚźŹżŻ i już ?!");			
+			for (String key : testMap.keySet()) {
+				assertEquals(key, normalize(testMap.get(key)));
+			}
+		}
+	
+		@Test 
+		public void testIsGoodAnswer_Normalized_true() {
+			settings.setNormalized(true);
+			Map<String, String> testMap = new HashMap<String, String>();
+			testMap.put("ałć; au; ale boli", "ale        boli; au; alc");
+			testMap.put("{/złość} to nicość", "to nicosc; złość to nicosc");			
+			testMap.put("ąĄćĆęĘłŁńŃóÓśŚźŹżŻ", "aAcCeElLnNoOsSzZzZ");			
+			for (String key : testMap.keySet()) {			
+				assertEquals(true, isGoodAnswer(key, testMap.get(key)));
+			}
+		}
+
+		@Test 
+		public void testIsGoodAnswer_Normalized_false_fail() {
+			settings.setNormalized(false);
+			Map<String, String> testMap = new HashMap<String, String>();			
+			testMap.put("ałć; au; ale boli", "ale boli; au; alc");
+			testMap.put("{/złość} to nicość", "to nicosc; złość to nicosc");			
+			testMap.put("ąĄćĆęĘłŁńŃóÓśŚźŹżŻ", "aAcCeElLnNoOsSzZzZ");
+			for (String key : testMap.keySet()) {			
+				assertEquals(false, isGoodAnswer(key, testMap.get(key)));
+			}			
+		}
+
+		@Test 
+		public void testIsGoodAnswer_StrictMode_true() {
+			settings.setStrictMode(true);
+			Map<String, String> testMap = new HashMap<String, String>();			
+			testMap.put("a;b;c;d;e", "c;d;e;a;b");
+			testMap.put("{/a/b/c} d e f", "c d e f;d e f;b d e f;a d e f");			
+			for (String key : testMap.keySet()) {			
+				assertEquals(true, isGoodAnswer(key, testMap.get(key)));
+			}			
+		}
+		
+		@Test 
+		public void testIsGoodAnswer_StrictMode_true_fail() {
+			settings.setStrictMode(true);
+			Map<String, String> testMap = new HashMap<String, String>();		
+			testMap.put("a;b;c;d;e", "c;e;a;b");
+			testMap.put("{/a/b} d", "d;b d;");
+			for (String key : testMap.keySet()) {			
+				assertEquals(false, isGoodAnswer(key, testMap.get(key)));
+			}			
+		}			
+
+		@Test 
+		public void testIsGoodAnswer_Expendable_true() {			
+			Map<String, String> testMap = new HashMap<String, String>();		
+			testMap.put("{aa/bb} cc {dd/ee} ", "aa    cc dd;aa cc ee;bb cc dd; bb cc ee");
+			testMap.put("oo {/aa/bb} xx", "oo xx;oo aa xx;oo bb xx");			
+			testMap.put("oo {aa/bb/} xx", "oo aa xx;oo bb xx");			
+			for (String key : testMap.keySet()) {			
+				assertEquals(true, isGoodAnswer(key, testMap.get(key)));
+			}			
+		}			
+		
+	}
 }
