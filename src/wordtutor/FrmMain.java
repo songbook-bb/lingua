@@ -447,15 +447,16 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 
 	public void keyReleased(KeyEvent e) {
 		switch (e.getKeyCode()) {
-		case KeyEvent.VK_ENTER:
-			startLesson();
-		case KeyEvent.VK_F1:
-			// TODO - Edit help info (localize)
-			JOptionPane.showMessageDialog(this,
-					"Help me to write this HELP content..." + "\n",
-					"H E L P   - is just TODO... :) ",
-					JOptionPane.PLAIN_MESSAGE, null);
-			break;
+			case KeyEvent.VK_ENTER:
+				startLesson();
+				break;
+			case KeyEvent.VK_F1:
+				// TODO - Edit help info (localize)
+				JOptionPane.showMessageDialog(this,
+						"Help me to write this HELP content..." + "\n",
+						"H E L P   - is just TODO... :) ",
+						JOptionPane.PLAIN_MESSAGE, null);
+				break;
 		}
 	}
 

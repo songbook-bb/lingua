@@ -29,7 +29,6 @@ import javax.swing.JPanel;
 
 import org.apache.log4j.Logger;
 
-import wordtutor.FrmMain;
 import wordtutor.addnewword.audio.AudioException;
 import wordtutor.addnewword.audio.RecordableClip;
 import wordtutor.addnewword.audio.RecordableClip.ClipListener;
