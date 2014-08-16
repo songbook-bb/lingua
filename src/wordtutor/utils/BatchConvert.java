@@ -14,11 +14,11 @@ import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 
 public class BatchConvert {
-  final int errorReturnCode = -1;
-  final int allRightReturnCode = 0;
-  final int skippedMethodReturnCode = 777;
-  final String removeWin = "del ";     
-  final String removeLinux = "rm -r ";
+  final static int errorReturnCode = -1;
+  final static int allRightReturnCode = 0;
+  final static int skippedMethodReturnCode = 777;
+  final static String removeWin = "del ";     
+  final static String removeLinux = "rm -r ";
   
   Logger logger = Logger.getLogger(BatchConvert.class);  
 
