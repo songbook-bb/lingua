@@ -98,7 +98,6 @@ public class BatchConvert {
     } catch (IOException ioe) {
   	  logger.error(ioe.getMessage(), ioe);
   	  logger.error(ioe.getStackTrace());	
-      ioe.printStackTrace();
     }
   }
 
@@ -153,8 +152,7 @@ public class BatchConvert {
                   logger.debug(type + ">" + line);    
               } catch (IOException ioe) {
             	  logger.error(ioe.getMessage(), ioe);
-            	  logger.error(ioe.getStackTrace());            	  
-                  ioe.printStackTrace();  
+            	  logger.error(ioe.getStackTrace());            	    
               }
       }
   }
@@ -211,7 +209,6 @@ public class BatchConvert {
     } catch (Exception e) {
   	  logger.error(e.getMessage(), e);
   	  logger.error(e.getStackTrace());            	  
-      e.printStackTrace();
       return errorReturnCode;
     }
 

@@ -50,7 +50,7 @@ import wordtutor.exception.NoAudioLineException;
 import wordtutor.utils.BatchConvert;
 
 public class RecordableClip  {
-	Logger logger = Logger.getLogger(RecordableClip.class);
+	static Logger logger = Logger.getLogger(RecordableClip.class);
 	private final File mFile;
 	private final AudioFormat mFormat;
 	public static final int mLengthInBytes = 4000000;
@@ -275,15 +275,12 @@ public class RecordableClip  {
 				while(!mStop) {
 					int read = mSource.getStream().read(buffer, 0, buffer.length);
 					mDest.write(buffer, 0, read);
-				}
-				
-
-				mSource.getLine().stop();
-				
+				}				
+				mSource.getLine().stop();				
 				mDest.close();
 			} catch (Exception e) {
-				e.printStackTrace();
-				//mException = e;
+				logger.error(e.getMessage(), e);
+				logger.error(e.getStackTrace());
 			}
 		}
 	}

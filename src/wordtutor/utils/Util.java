@@ -33,7 +33,7 @@ import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 
 public class Util {
-	Logger logger = Logger.getLogger(Util.class);
+	static Logger logger = Logger.getLogger(Util.class);
 	public static final String programVersion = "1.24";
 	public static final String appconfigproperties = "appconfig.properties";
 	public static final String authorInfo = "Tomek Nakonieczny";
@@ -108,8 +108,8 @@ public class Util {
 				appProperties.load(in);
 				in.close();
 			} catch (Exception e) {
-				e.printStackTrace();
-				logger.error(e, e);
+				logger.error(e.getMessage(), e);
+				logger.error(e.getStackTrace());
 				System.exit(-1);
 			}
 		}
@@ -130,8 +130,8 @@ public class Util {
 				FileOutputStream out = new FileOutputStream(appconfigproperties);
 				appProperties.store(out, "Saved on program exit.");	
 			} catch (Exception e) {
-				e.printStackTrace();
-				logger.error(e, e);	
+				logger.error(e.getMessage(), e);
+				logger.error(e.getStackTrace());
 				System.exit(-1);
 			}
 		}
@@ -451,19 +451,19 @@ public class Util {
 	      fis.read(bytes);	      	      
 	      fis.close();
 	      return Util.isValidUTF8(bytes); 
-	    } catch (FileNotFoundException e) {
-//      	  logger.error(e.getMessage(), e);
-//      	  logger.error(e.getStackTrace());            	  	
-	      e.printStackTrace();	      
-	    } catch (IOException e) {
-	      e.printStackTrace();
+	    } catch (FileNotFoundException fnfe) {
+      	  logger.error(fnfe.getMessage(), fnfe);
+      	  logger.error(fnfe.getStackTrace());            	  		      
+	    } catch (IOException ioe) {
+			logger.error(ioe.getMessage(), ioe);
+			logger.error(ioe.getStackTrace());
 	    } finally {
 	    	if (fis != null)
 				try {
 					fis.close();
 				} catch (IOException e) {
-
-					e.printStackTrace();
+					logger.error(e.getMessage(), e);
+					logger.error(e.getStackTrace());
 				}
 	    }
 	    return false;

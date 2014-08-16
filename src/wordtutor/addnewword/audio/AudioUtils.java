@@ -110,7 +110,6 @@ public class AudioUtils {
           // TODO Auto-generated catch block
 	        logger.error(e.getMessage(), e);
 	        logger.error(e.getStackTrace());
-        	e.printStackTrace();
         }
 
       }

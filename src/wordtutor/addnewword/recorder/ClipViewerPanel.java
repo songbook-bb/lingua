@@ -27,6 +27,9 @@ import javax.swing.BoxLayout;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+import org.apache.log4j.Logger;
+
+import wordtutor.FrmMain;
 import wordtutor.addnewword.audio.AudioException;
 import wordtutor.addnewword.audio.RecordableClip;
 import wordtutor.addnewword.audio.RecordableClip.ClipListener;
@@ -42,6 +45,7 @@ import wordtutor.utils.Util;
 public class ClipViewerPanel {
   private final JPanel mPanel;
   private final JLabel mClipInfo;
+	Logger logger = Logger.getLogger(ClipViewerPanel.class);
 
   public ClipViewerPanel() {
     mPanel = SwingUtils.boxPanel(BoxLayout.PAGE_AXIS);
@@ -62,9 +66,11 @@ public class ClipViewerPanel {
           try {
             c.stop();
           } catch (AudioException ae) {
-            ae.printStackTrace();
+        	  logger.error(ae.getMessage(), ae);
+        	  logger.error(ae.getStackTrace());
           } catch (IOException ioe) {
-            ioe.printStackTrace();
+        	  logger.error(ioe.getMessage(), ioe);
+        	  logger.error(ioe.getStackTrace());
           }
         }
       }

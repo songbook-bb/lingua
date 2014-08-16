@@ -28,11 +28,11 @@ import org.apache.log4j.Logger;
 public abstract class ExceptionActionListener implements ActionListener {
 	Logger logger = Logger.getLogger(ExceptionActionListener.class);
 	public final void actionPerformed(ActionEvent ae) {
-		try {
-			logger.debug("AE"+ae);			
+		try {			
 			doActionPerformed(ae);
 		} catch (Exception e) {
-			e.printStackTrace();
+			logger.error(e.getMessage(), e);
+			logger.error(e.getStackTrace());
 		}
 	}
 	

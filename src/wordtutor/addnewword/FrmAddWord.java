@@ -91,8 +91,8 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 			              mAudioPanel.stop();
 			            } 
 					} catch (AudioException ae) {
-						logger.error(ae.getMessage());
-						ae.printStackTrace();
+						logger.error(ae.getMessage(), ae);
+						logger.error(ae.getStackTrace());						
 					}
 				}	
 				Save();				

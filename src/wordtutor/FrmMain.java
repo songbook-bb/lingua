@@ -308,7 +308,8 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			JOptionPane.showMessageDialog(this, eio.getMessage(),
 					Util.getLocalizedString("ERROR.DIALOG.TITLE"),
 					JOptionPane.ERROR_MESSAGE);
-			eio.printStackTrace();
+			logger.error(eio.getMessage(), eio);
+			logger.error(eio.getStackTrace());						
 			return;
 		}
 		switchLesson(s);
@@ -648,7 +649,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			mainWindow.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		} catch (Exception ex) {
 			logger.error(ex.getMessage(), ex);
-			ex.printStackTrace();
+			logger.error(ex.getStackTrace());			
 		}
 	}
 

@@ -123,7 +123,8 @@ public class WordTutor implements IWTSerializable {
       jaxbDictionary = (JAXBElement<DictionaryType>) m.unmarshal(f);
     } catch (JAXBException je) {
       String message = je.getMessage();
-      je.printStackTrace();
+      logger.error(je.getMessage(), je);
+      logger.error(je.getStackTrace());
       JOptionPane.showMessageDialog(null, message, Util.getLocalizedString("ERROR.DIALOG.TITLE"),
           JOptionPane.ERROR_MESSAGE);
     }
@@ -362,7 +363,7 @@ public class WordTutor implements IWTSerializable {
       }
     } catch (Exception e) {
         logger.error(e.getMessage(), e);
-        e.printStackTrace();
+        logger.error(e.getStackTrace());
     }
     if (wordData.isSaved) {
       words.add(wordData.foreignWord, wordData.nativeWord, wordData.addSound ? getMaxIdSound() : 0);
