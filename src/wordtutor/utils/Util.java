@@ -10,6 +10,7 @@ import java.nio.ByteBuffer;
 import java.nio.charset.CharacterCodingException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Locale;
 import java.util.Properties;
 import java.util.ResourceBundle;
@@ -361,8 +362,8 @@ public class Util {
 	/** Clears punctuation within whole List of Strings
 	 * 
 	 */	
-	public static ArrayList<String> removePunctuation(ArrayList<String> listOfStrings) {
-		ArrayList<String> returnListOfString = new ArrayList<String>();  
+	public static List<String> removePunctuation(List<String> listOfStrings) {
+		List<String> returnListOfString = new ArrayList<String>();  
 		for (String oneStringItem : listOfStrings) {
 			returnListOfString.add(removePunctuation(oneStringItem));
 		}

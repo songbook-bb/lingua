@@ -15,6 +15,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -61,7 +62,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	private static final long serialVersionUID = 1278330304433235395L;
 	public static String expandedAllRightAnswers = "";
 	public static int defaultTextareaRows = 4;
-	public static boolean CTRL_IS_PRESSED = false;
+	private static boolean CTRL_IS_PRESSED = false;
 	public static final Color DEFAULT_SCROLL_COLOR = new Color(238, 238, 238);
 	public static final Color BROWSE_QUESTION_SCROLL_COLOR = Color.BLUE;
 	public static final Color BROWSE_RESPONSE_SCROLL_COLOR = Color.RED;
@@ -225,7 +226,8 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			}
 		} else if (mode == ActMode.NEXT) // if the mode is Next
 		{
-			tutor.chooseWord(); // choose the word
+			// choose the word
+			tutor.chooseWord(); 
 			// fills question TextArea and marks scroll
 			fillQuestionAreaAndMarkScrollBrowse(tutor.getQuestion());
 			questionWord.setCaretPosition(0);
@@ -400,7 +402,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 			userAnswer = normalize(userAnswer);
 		}
 		rightAnswer = rightAnswer.toUpperCase();
-		ArrayList<String> rightAnswerList = new ArrayList<String>(
+		List<String> rightAnswerList = new ArrayList<String>(
 				Arrays.asList(Util.improvedSplitter(rightAnswer,
 						Util.PHRASE_DELIMITER)));
 		// remove punctuation
@@ -412,7 +414,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				Util.REMOVE_COMMENT);
 		userAnswer = Util.removeWhiteSpaces(userAnswer);
 		userAnswer = userAnswer.toUpperCase();
-		ArrayList<String> userAnswerList = new ArrayList<String>(
+		List<String> userAnswerList = new ArrayList<String>(
 				Arrays.asList(Util.improvedSplitter(userAnswer,
 						Util.PHRASE_DELIMITER)));
 		// remove punctuation
