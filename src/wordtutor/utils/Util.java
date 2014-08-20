@@ -110,7 +110,7 @@ public class Util {
 			} catch (Exception e) {
 				logger.error(e.getMessage(), e);
 				logger.error(e.getStackTrace());
-				System.exit(-1);
+				exitVM(-1);				
 			}
 		}
 
@@ -132,7 +132,7 @@ public class Util {
 			} catch (Exception e) {
 				logger.error(e.getMessage(), e);
 				logger.error(e.getStackTrace());
-				System.exit(-1);
+				exitVM(-1);
 			}
 		}
 	}
@@ -151,7 +151,7 @@ public class Util {
 		}
 		if (StringUtils.isBlank(returnProperty)) {
 			System.err.println("Missing prop " + appProperty + " in file appconfig.properties");
-			System.exit(-1);
+			exitVM(-1);			
 		}
 		return returnProperty;
 	}
@@ -170,7 +170,7 @@ public class Util {
 		} else {
 			// TODO write more clear description error info
 			System.err.println("File appconfig.properties is null.");
-			System.exit(-1);			
+			exitVM(-1);			
 		}
 	}
 	
@@ -238,7 +238,7 @@ public class Util {
 		} else if (high.length() > 0) {
 			l = new Locale(high);
 		} else {
-			System.exit(-1);
+			exitVM(-1);			
 		}
 		rBundle = ResourceBundle.getBundle(appProperties.getProperty("APP.NAME"), l);
 		return rBundle;
@@ -262,12 +262,12 @@ public class Util {
 	 */
 	public static String getLocalizedString(String propertyName) {
 		if (rb == null) {
-			System.exit(0);
+			exitVM(0);
 		}
 		String localizedString = rb.getString(propertyName);
 		if (localizedString == null || localizedString.length() == 0) {
 			// hm... perhaps should keep on doing...
-			System.exit(0);
+			exitVM(0);
 		}
 		return localizedString;
 	}
@@ -540,4 +540,8 @@ public class Util {
 	public static String formatNewlyAddedWords(String words) {
 		return replaceNewLineWithPhraseDelimiter(replaceTabsWithPhraseDelimiter(words)).trim();
 	}
+	
+	public static void exitVM(int exitCode) {
+		System.exit(exitCode);
+	}	
 }

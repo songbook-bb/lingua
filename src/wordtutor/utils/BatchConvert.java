@@ -182,14 +182,14 @@ public class BatchConvert {
         
         Process process = null;        
         if (os.indexOf(Util.getAppProperty("LINUX.PATTERN")) > 0) {
-          logger.debug("Running Linux script : " + script);        
+          logger.info("Running Linux script : " + script);        
           process = Runtime.getRuntime().exec(script);              
         } else if (os.indexOf(Util.getAppProperty("WIN.PATTERN")) > 0) {
           //logger.debug("Running Windows batch : " + cmd);        
           process = Runtime.getRuntime().exec(cmd);
         } else {
-          logger.debug("Unsupported system: "+os);
-          System.exit(-1);          
+          logger.error("Unsupported system: "+os);
+          Util.exitVM(-1);          
         }
         // show BATCH error/output 
         StreamGobbler errorGobbler = new 

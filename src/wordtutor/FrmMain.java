@@ -475,7 +475,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 					Util.getLocalizedString("ERROR.DIALOG.TITLE"),
 					JOptionPane.ERROR_MESSAGE);
 			this.dispose();
-			System.exit(0);
+			Util.exitVM(0);
 		}
 		for (File f : fList) {
 			stringList.add(f.getName());
@@ -500,7 +500,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		}
 		if (Util.isEmpty(chooseLessonNaqFile)) {
 			this.dispose();
-			System.exit(0);
+			Util.exitVM(0);			
 		}
 
 		tutor = new WordTutor(chooseLessonNaqFile);
