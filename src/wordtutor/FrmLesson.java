@@ -738,6 +738,31 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				assertEquals(true, isGoodAnswer(key, testMap.get(key)));
 			}			
 		}			
+
+		@Test 
+		public void testExpandOnlyOneExpression_empty() {
+			assertEquals(";", expandOnlyOneExpression(""));
+		}					
+		
+		@Test(expected=Exception.class) 
+		public void testExpandOnlyOneExpression_null() {
+			assertEquals(null, expandOnlyOneExpression(null));			
+		}			
+
+		@Test 
+		public void testExpandOnlyOneExpression_single() {
+			assertEquals("tutaj;", expandOnlyOneExpression("tutaj"));
+		}							
+		
+		@Test 
+		public void testExpandOnlyOneExpression_simple() {
+			assertEquals("a b f;a c f;a e f;", expandOnlyOneExpression("a {b/c/e} f"));
+		}					
+
+		@Test 
+		public void testExpandOnlyOneExpression_doubled() {
+			assertEquals("a c x;a d x;b c x;b d x;", expandOnlyOneExpression("{a/b} {c/d} x"));
+		}							
 		
 	}
 }
