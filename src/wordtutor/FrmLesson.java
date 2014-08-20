@@ -35,8 +35,6 @@ import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.experimental.runners.Enclosed;
-import org.junit.runner.RunWith;
 
 import wordtutor.settings.Settings;
 import wordtutor.util.keybuttons.KeyboardBtnListener;
@@ -57,7 +55,7 @@ enum ActMode {
  * represents the lesson
  * 
  */
-@RunWith(Enclosed.class)
+
 public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	private static final long serialVersionUID = 1278330304433235395L;
 	public static String expandedAllRightAnswers = "";
@@ -68,7 +66,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	public static final Color BROWSE_RESPONSE_SCROLL_COLOR = Color.RED;
 	public static final Color BUTTON_YET_ANOTHER_ANSWER_COLOR = Color.GREEN;
 	private static ArrayList<ArrayList<String>> wholeAnswerList = new ArrayList<ArrayList<String>>();
-	Logger logger = Logger.getLogger(FrmLesson.class);
+	private static Logger LOG = Logger.getLogger(FrmLesson.class);
 
 	/**
 	 * mode of the action button
@@ -127,7 +125,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		if (mode == ActMode.ANSWER)// if the mode is answer
 		{
 			String complexFileName = tutor.chooseSoundSampleFileName();
-			logger.debug("complexFileName:" + complexFileName);
+			LOG.debug("complexFileName:" + complexFileName);
 			// String complexFileName = tutor.getCurrentDictFile().substring(0,
 			// tutor.getCurrentDictFile().indexOf(".")) + File.separator +
 			// tutor.getIdSound() + Util.getAppProperty("MP3.EXTENSION");
@@ -308,7 +306,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		super(parent, title, true);
 		settings.loadFromXML();
 		int wave2mp3Result = new BatchConvert().runWave2mp3(null);
-		logger.debug("wave2mp3Result= " + wave2mp3Result);
+		LOG.debug("wave2mp3Result= " + wave2mp3Result);
 		this.tutor = tutor;
 		mode = ActMode.ANSWER;
 		setLocation(Util.xLessonPosition, Util.yLessonPosition);
@@ -647,7 +645,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	public void fillResponseAreaAndMarkScrollBrowse(String text) {
 		// fill the text into fields and areas
 		// show all expanded questions
-		logger.debug(" text '" + text + "'");
+		LOG.debug(" text '" + text + "'");
 		String allExpandedQuestions = produceExpandedInput(text);
 		// logger.debug(" allExpandedQuestions '"+allExpandedQuestions + "'");
 		int numOfLines = StringUtils.countMatches(allExpandedQuestions,

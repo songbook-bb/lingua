@@ -51,7 +51,7 @@ public class WordTutor implements IWTSerializable {
 	 * 
 	 */
   private static final long serialVersionUID = -475588278557404052L;
-  Logger logger = Logger.getLogger(WordTutor.class);
+  private static Logger LOG = Logger.getLogger(WordTutor.class);
   /**
    * the index of current word
    */
@@ -123,8 +123,8 @@ public class WordTutor implements IWTSerializable {
       jaxbDictionary = (JAXBElement<DictionaryType>) m.unmarshal(f);
     } catch (JAXBException je) {
       String message = je.getMessage();
-      logger.error(je.getMessage(), je);
-      logger.error(je.getStackTrace());
+      LOG.error(je.getMessage(), je);
+      LOG.error(je.getStackTrace());
       JOptionPane.showMessageDialog(null, message, Util.getLocalizedString("ERROR.DIALOG.TITLE"),
           JOptionPane.ERROR_MESSAGE);
     }
@@ -201,7 +201,7 @@ public class WordTutor implements IWTSerializable {
 	try {
 		soundId = Integer.parseInt(soundWord);		
 	} catch (NumberFormatException nfe) {
-		logger.error(nfe.getMessage(), nfe);
+		LOG.error(nfe.getMessage(), nfe);
 	}
     words.add(foreignWord, nativeWord, soundId);
   }
@@ -239,8 +239,8 @@ public class WordTutor implements IWTSerializable {
 				  String destFilePath = currentDir+File.separator+lessonSampleDirectory+File.separator+""+i+Character.toString((char)letterValue)+".mp3";
 				  File srcFile = new File(srcFilePath);
 				  File destFile = new File(destFilePath);
-				  logger.info(srcFilePath);
-				  logger.info(destFilePath);
+				  LOG.info(srcFilePath);
+				  LOG.info(destFilePath);
 				  FileUtils.copyFile(srcFile, destFile);				  
 			  }
 		  }		  
@@ -346,7 +346,7 @@ public class WordTutor implements IWTSerializable {
       File f = new File(waveFullPath);
       boolean success = (!f.exists()) ? (f.mkdirs()) : true;
       if (!success) {
-        logger.error("Tried to create dir " + waveFullPath);
+        LOG.error("Tried to create dir " + waveFullPath);
       }
       FrmAddWord fAddWord = null;
       // ZMIENIASZ TU - ZMIEN TEZ W editWord
@@ -362,8 +362,8 @@ public class WordTutor implements IWTSerializable {
           fAddWord.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);    	  
       }
     } catch (Exception e) {
-        logger.error(e.getMessage(), e);
-        logger.error(e.getStackTrace());
+        LOG.error(e.getMessage(), e);
+        LOG.error(e.getStackTrace());
     }
     if (wordData.isSaved) {
       words.add(wordData.foreignWord, wordData.nativeWord, wordData.addSound ? getMaxIdSound() : 0);
@@ -439,7 +439,7 @@ public class WordTutor implements IWTSerializable {
       File f = new File(waveFullPath);
       boolean success = (!f.exists()) ? (f.mkdirs()) : true;
       if (!success) {
-        logger.error("Tried to create dir " + waveFullPath);
+        LOG.error("Tried to create dir " + waveFullPath);
       }
       // ZMIENIASZ TU - ZMIEN TEZ W addNewWord
       try {
@@ -455,7 +455,7 @@ public class WordTutor implements IWTSerializable {
 	                fEditWord.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             }
       } catch (Exception e) {
-        logger.error(e.getMessage(),e);
+        LOG.error(e.getMessage(),e);
       }
 
       if (wordData.isSaved) {
@@ -468,13 +468,13 @@ public class WordTutor implements IWTSerializable {
         int saveIdSound = words.get(index).getIdSound();
         if (wordData.addSound) {
           if (getMaxIdSound() > saveIdSound && saveIdSound > 0) {
-            logger.warn("CAUTION: Trying to duplicate idSound = " + saveIdSound);
+            LOG.warn("CAUTION: Trying to duplicate idSound = " + saveIdSound);
           } else {
             words.get(index).setIdSound(getMaxIdSound());
           }
         } else {
           if (saveIdSound > 0) {
-            logger.warn("CAUTION: Unsuccessful attempt to override idSound = " + saveIdSound);
+            LOG.warn("CAUTION: Unsuccessful attempt to override idSound = " + saveIdSound);
           } else {
             words.get(index).setIdSound(0);
           }
@@ -565,7 +565,7 @@ public class WordTutor implements IWTSerializable {
         	if (i < words.size() && words.get(i).getNativeWord().equals(nativeString) && words.get(i).getForeignWord().equals(foreignString)) {
         		words.remove(i);
         		i--;
-                logger.info(" @@@ R E M O V E D @@@ : ["+nativeString+ " | "+foreignString+"]");
+                LOG.info(" @@@ R E M O V E D @@@ : ["+nativeString+ " | "+foreignString+"]");
         	}
         }
         j++;

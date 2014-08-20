@@ -52,7 +52,7 @@ import wordtutor.utils.Util;
 public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		WindowListener {
 	public String searchString = "";
-	Logger logger = Logger.getLogger(FrmMain.class);
+	private static Logger LOG = Logger.getLogger(FrmMain.class);
 	private static final long serialVersionUID = -1277370862368265825L;
 	private JLabel searchPhrase;
 	private JButton startLesson;
@@ -150,8 +150,8 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 				tableWords.repaint();
 				tutor.saveToXML();
 			} catch (Exception e) {
-				logger.error(e.getMessage(), e);
-				logger.error(e.getStackTrace());
+				LOG.error(e.getMessage(), e);
+				LOG.error(e.getStackTrace());
 				JOptionPane
 						.showMessageDialog(
 								this,
@@ -308,8 +308,8 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			JOptionPane.showMessageDialog(this, eio.getMessage(),
 					Util.getLocalizedString("ERROR.DIALOG.TITLE"),
 					JOptionPane.ERROR_MESSAGE);
-			logger.error(eio.getMessage(), eio);
-			logger.error(eio.getStackTrace());						
+			LOG.error(eio.getMessage(), eio);
+			LOG.error(eio.getStackTrace());						
 			return;
 		}
 		switchLesson(s);
@@ -329,7 +329,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			tutor.duplicateAllSoundFiles();
 			tutor.buildCurrentSoundSampleCoverMapIndex();			
 		} catch (IOException ioe) {
-			logger.error(ioe.getCause());
+			LOG.error(ioe.getCause());
 			JOptionPane.showMessageDialog(
 					this,
 					ioe.getMessage(),
@@ -716,7 +716,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			JOptionPane.showMessageDialog(this, e.getMessage(),
 					Util.getLocalizedString("ERROR.DIALOG.TITLE"),
 					JOptionPane.ERROR_MESSAGE);
-			logger.error(e.getMessage(), e);
+			LOG.error(e.getMessage(), e);
 			return;
 		}
 	}
@@ -734,7 +734,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 
 	@Override
 	public void windowClosing(WindowEvent arg0) {
-		logger.debug("Closing.");
+		LOG.debug("Closing.");
 		Util.storeAppProperties();
 	}
 
