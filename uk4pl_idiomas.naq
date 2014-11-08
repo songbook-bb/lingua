@@ -8,7 +8,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>the other side of the coin</foreignWord>
+        <foreignWord>the {other/flip} side of the coin</foreignWord>
         <nativeWord>druga strona medalu</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -36,7 +36,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>on thin ice</foreignWord>
+        <foreignWord>{/skating} on thin ice</foreignWord>
         <nativeWord>na niepewnym gruncie</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -71,7 +71,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>to cry for the moon</foreignWord>
+        <foreignWord>to {cry/reach} for the moon</foreignWord>
         <nativeWord>chcieć gwiazdki z nieba</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -176,7 +176,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>high and low</foreignWord>
+        <foreignWord>highs and lows</foreignWord>
         <nativeWord>wszędzie</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -190,7 +190,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>the naked eye</foreignWord>
+        <foreignWord>the {naked/bare} eye</foreignWord>
         <nativeWord>gołym okiem</nativeWord>
         <score>0</score>
         <learned>0</learned>

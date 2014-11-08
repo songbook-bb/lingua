@@ -1394,7 +1394,7 @@
         <idSound>199</idSound>
     </word>
     <word>
-        <foreignWord>sunburn sunburnt sunburnt</foreignWord>
+        <foreignWord>sunburn {sunburnt/sunburned} {sunburnt/sunburned}</foreignWord>
         <nativeWord>opalać;opalać się</nativeWord>
         <score>0</score>
         <learned>0</learned>

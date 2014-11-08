@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dictionary keyboard="3">
     <word>
-        <foreignWord>Paper endures all.</foreignWord>
-        <nativeWord>Papier przyjmie wszystko.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>Store is no sore.;Plenty is no plague.</foreignWord>
-        <nativeWord>Od przybytku głowa nie boli.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>Poverty is no sin.</foreignWord>
         <nativeWord>Ubóstwo nie hańbi.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>Punishment is lame but it comes.</foreignWord>
-        <nativeWord>Choć się kara wlecze, zbrodnia przed nią nie uciecze.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -50,7 +29,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Still waters runs deep.</foreignWord>
+        <foreignWord>Still waters run deep.</foreignWord>
         <nativeWord>Cicha woda brzegi rwie.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -64,13 +43,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Such a life, such a death.</foreignWord>
-        <nativeWord>Jakie życie, taka śmierć.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>Sweep before your own door.</foreignWord>
         <nativeWord>Najpierw zamieć przed {swoim progiem / swoimi drzwiami}.</nativeWord>
         <score>0</score>
@@ -78,7 +50,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Talk of the devil, and he is sure to appear.</foreignWord>
+        <foreignWord>Talk of the devil{/and he is sure to appear}.</foreignWord>
         <nativeWord>O wilku mowa, a wilk tuż tuż.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -120,7 +92,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>The eye is the mirror of the soul.</foreignWord>
+        <foreignWord>The eye is the window of the soul.</foreignWord>
         <nativeWord>Oczy zwierciadłem duszy.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -155,7 +127,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>The more you stir the more it will stinks.</foreignWord>
+        <foreignWord>The more you stir the more it will stink.</foreignWord>
         <nativeWord>Nie ruszaj gówna, bo śmierdzi.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -183,7 +155,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>The quarrels of lovers are the renoval of love.</foreignWord>
+        <foreignWord>The quarrels of lovers are the renewals of love.</foreignWord>
         <nativeWord>Kto się czubi ten się lubi.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -197,29 +169,8 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>The third time is lucky.</foreignWord>
+        <foreignWord>Third time lucky.</foreignWord>
         <nativeWord>Do trzech razy sztuka.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>The voice of the people the voice of the god.</foreignWord>
-        <nativeWord>Głos ludu głosem Boga.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>The wise head gives in.</foreignWord>
-        <nativeWord>Mądry głupiemu ustąpi.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>There is a measure in all things.;Measure is treasure.</foreignWord>
-        <nativeWord>Przysłowie to stare - we wszystkim miej miarę.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -234,13 +185,6 @@
     <word>
         <foreignWord>There is no joy without annoy.</foreignWord>
         <nativeWord>Nie ma radości bez smutku.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>There is no little enemy.</foreignWord>
-        <nativeWord>Najmniejszego nieprzyjaciela nie trzeba lekceważyć.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -288,7 +232,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>To be on pins and needles.</foreignWord>
+        <foreignWord>To be on tenter hooks.</foreignWord>
         <nativeWord>Siedzi jak na szpilkach.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -365,7 +309,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>To shut the stable - door when the steed is stolen.</foreignWord>
+        <foreignWord>To shut the stable door after the horse has bolted.</foreignWord>
         <nativeWord>Zamknął stajnię, jak mu konia ukradli.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -394,7 +338,7 @@
     </word>
     <word>
         <foreignWord>Too many cooks spoil the broth.</foreignWord>
-        <nativeWord>Gdzie kucharek sześc tam nie ma co jeść.</nativeWord>
+        <nativeWord>Gdzie kucharek sześć tam nie ma co jeść.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -421,7 +365,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>U must not teach fish to swim.</foreignWord>
+        <foreignWord>U must not teach fish to swim.; You must not teach your grandmother to suck eggs.</foreignWord>
         <nativeWord>Nie ucz ryby pływać.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -435,14 +379,14 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Wedlock is a padlock.</foreignWord>
+        <foreignWord>Wedlock is a padlock.; Marriage is a ball and chain.</foreignWord>
         <nativeWord>Jeden dzień wesele - całe życie bieda.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>What eye sees not, the heart craves not.</foreignWord>
+        <foreignWord>What the eye doesn't see, the heart doesn't grieve.</foreignWord>
         <nativeWord>Czego oko nie widzi tego sercu nie żal.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -484,13 +428,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>When wine is in wit is out.</foreignWord>
-        <nativeWord>Po winie rozum ginie, a od wódki rozum krótki.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>Where the devil cannot he will send a woman.</foreignWord>
         <nativeWord>Gdzie diabeł nie może tam babę pośle.</nativeWord>
         <score>0</score>
@@ -505,14 +442,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Whom god loves, his bitch brings forth pigs.</foreignWord>
-        <nativeWord>Kto ma szczęście, temu i wół ciele urodzi.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>Will you, nill you.</foreignWord>
+        <foreignWord>Will he, nill he.; Willy-nilly</foreignWord>
         <nativeWord>Chcąc nie chcą musiał.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -521,13 +451,6 @@
     <word>
         <foreignWord>You cackle often but never lay an egg.</foreignWord>
         <nativeWord>Krowa która dużo ryczy, mało mleka daje.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>You cannnot say A without B.</foreignWord>
-        <nativeWord>Kto powiedział A, musi powiedzieć B.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
