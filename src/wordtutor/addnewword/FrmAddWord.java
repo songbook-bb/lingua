@@ -19,6 +19,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 
 import wordtutor.addnewword.audio.AudioException;
@@ -126,7 +127,7 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 	public void keyTyped(KeyEvent e){}
 	 
 	 
- public FrmAddWord(JFrame parent,String title,WordData wordData, String fileWave) throws AudioException, IOException, NoAudioLineException
+ public FrmAddWord(JFrame parent,String title,WordData wordData, String fileWave, String searchString) throws AudioException, IOException, NoAudioLineException
  {
 	 super(parent,title,true);
 	 settings.loadFromXML();
@@ -140,6 +141,9 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 	 panelWords.add(labForeignWord);
 	 textForeignWord = new JTextField(this.wordData.foreignWord);
 	 Font font = new Font(textForeignWord.getFont().getName(), Font.PLAIN, 15);
+	 if (StringUtils.isNotBlank(searchString)) {
+		 textForeignWord.setText(searchString);		 
+	 }
 	 textForeignWord.setFont(font);
 	 textForeignWord.setForeground(new Color(20,100,120));
 

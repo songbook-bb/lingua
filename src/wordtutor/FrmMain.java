@@ -51,7 +51,7 @@ import wordtutor.utils.Util;
 
 public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		WindowListener {
-	public String searchString = "";
+	//public String searchString = "";
 	private static Logger LOG = Logger.getLogger(FrmMain.class);
 	private static final long serialVersionUID = -1277370862368265825L;
 	private JLabel searchPhrase;
@@ -201,7 +201,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 	private void searchWord() {
 		TableRowSorter<WordsTableModel> sorter = new TableRowSorter<WordsTableModel>(
 				tableModel);
-		searchString = (String) JOptionPane.showInputDialog(this,
+				final String searchString = (String) JOptionPane.showInputDialog(this,
 				Util.getLocalizedString("MAIN.SEARCH.ACTION") + "\n",
 				Util.getLocalizedString("MAIN.SEARCH.TITLE"),
 				JOptionPane.PLAIN_MESSAGE, null, null, "");
@@ -220,10 +220,13 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		};
 		// pokazanie filtrowanej frazy
 		searchPhrase.setText(searchString);
+		tutor.setSearchString(searchString);
 		sorter.setRowFilter(bothRowsContainExpressionFilter);
 		tableWords.setRowSorter(sorter);
 		// tabela wyfiltrowanych pozycji
-		tableWords.repaint();
+		tableWords.repaint();		
+		// ile jest rzedow po wyfiltrowaniu
+	    tutor.setSearchFilterResultCount(tableWords.getRowCount());
 	}
 
 	private void infoAbout() {
@@ -515,7 +518,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		panelTools = new JPanel(new FlowLayout());
 		add(panelTools, BorderLayout.NORTH);
 
-		searchPhrase = new JLabel(searchString);
+		searchPhrase = new JLabel(tutor.getSearchString());
 		searchPhrase.setForeground(Color.BLUE);
 		panelTools.add(searchPhrase);
 
