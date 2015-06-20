@@ -709,7 +709,7 @@
     </word>
     <word>
         <foreignWord>shed shed shed</foreignWord>
-        <nativeWord>lać;rozsiewać;rozlać;wylać</nativeWord>
+        <nativeWord>lać;rozsiewać;rozlać;wylać; rozlewać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>103</idSound>
@@ -758,7 +758,7 @@
     </word>
     <word>
         <foreignWord>sit sat sat</foreignWord>
-        <nativeWord>siedzieć;siadać</nativeWord>
+        <nativeWord>siąść; siedzieć;siadać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>110</idSound>
@@ -1122,7 +1122,7 @@
     </word>
     <word>
         <foreignWord>reset reset reset</foreignWord>
-        <nativeWord>zresetować;nastawić;przestawiać;przeskładać;ukryć;ponownie naostrzyć</nativeWord>
+        <nativeWord>zresetować;nastawić;przestawiać;przeskładać;ukryć;ponownie naostrzyć; przestawić</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>162</idSound>
