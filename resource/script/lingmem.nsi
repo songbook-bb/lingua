@@ -11,7 +11,7 @@
 Name "LingMEM"
 
 ; The file to write
-OutFile "LingMEM-v1-24.exe"
+OutFile "LingMEM-v1-25.exe"
 
 ; The default installation directory
 #InstallDir $PROGRAMFILES\LingMEM
