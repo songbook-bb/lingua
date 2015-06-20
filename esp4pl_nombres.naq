@@ -1801,7 +1801,7 @@
     </word>
     <word>
         <foreignWord>la cita</foreignWord>
-        <nativeWord>spotkanie; cytat</nativeWord>
+        <nativeWord>spotkanie; wizyta; cytat</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1826,5 +1826,5 @@
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
-    </word>    
+    </word>
 </dictionary>
