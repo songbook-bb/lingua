@@ -309,7 +309,7 @@
         <idSound>44</idSound>
     </word>
     <word>
-        <foreignWord>perdón</foreignWord>
+        <foreignWord>lo siento; perdón</foreignWord>
         <nativeWord>przepraszam</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1438,6 +1438,20 @@
     <word>
         <foreignWord>hasta pronto</foreignWord>
         <nativeWord>do zobaczenia {niebawem/wkrótce}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>mucho gusto</foreignWord>
+        <nativeWord>miło cię {widzieć/spotkać}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>disculpe</foreignWord>
+        <nativeWord>przykro mi</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
