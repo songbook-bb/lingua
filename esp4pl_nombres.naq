@@ -905,7 +905,7 @@
     </word>
     <word>
         <foreignWord>el aire frío</foreignWord>
-        <nativeWord>zimne masy powietrza</nativeWord>
+        <nativeWord>zimne powietrze; zimne masy powietrza</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1373,34 +1373,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>disculpe; perdóname; lo siento</foreignWord>
-        <nativeWord>przepraszam</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>De nada; Tú eres bienvenido</foreignWord>
-        <nativeWord>nie ma za co; proszę bardzo</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>¡Mucho gusto!</foreignWord>
-        <nativeWord>{Dobrze/Miło} Cię widzieć!</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>¿Cuántos años tienes?</foreignWord>
-        <nativeWord>ile masz lat ?</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>la tía</foreignWord>
         <nativeWord>ciotka</nativeWord>
         <score>0</score>
@@ -1731,7 +1703,7 @@
     </word>
     <word>
         <foreignWord>la noche</foreignWord>
-        <nativeWord>the night</nativeWord>
+        <nativeWord>noc</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1823,6 +1795,692 @@
     <word>
         <foreignWord>la pregunta</foreignWord>
         <nativeWord>pytanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el impacto</foreignWord>
+        <nativeWord>wpływ; skutek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la naturaleza</foreignWord>
+        <nativeWord>natura; przyroda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la red</foreignWord>
+        <nativeWord>sieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la isla</foreignWord>
+        <nativeWord>wyspa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la sartén</foreignWord>
+        <nativeWord>patelnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la piscina</foreignWord>
+        <nativeWord>basen</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cuchillo</foreignWord>
+        <nativeWord>nóż</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cuchara</foreignWord>
+        <nativeWord>łyżka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vaso</foreignWord>
+        <nativeWord>szklanka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el plato</foreignWord>
+        <nativeWord>talerz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la televisión</foreignWord>
+        <nativeWord>telewizja; TV</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la taza</foreignWord>
+        <nativeWord>filiżanka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cuna</foreignWord>
+        <nativeWord>kołyska; łóżeczko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la lámpara</foreignWord>
+        <nativeWord>lampa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la esponja</foreignWord>
+        <nativeWord>gąbka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el sofá</foreignWord>
+        <nativeWord>kanapa; sofa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la iglesia</foreignWord>
+        <nativeWord>kościół</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el piso</foreignWord>
+        <nativeWord>podłoga</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pared</foreignWord>
+        <nativeWord>ściana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el techo</foreignWord>
+        <nativeWord>sufit</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el horno</foreignWord>
+        <nativeWord>piec; piekarnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la escalera</foreignWord>
+        <nativeWord>schody</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el dormitorio</foreignWord>
+        <nativeWord>sypialnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el sótano</foreignWord>
+        <nativeWord>piwnica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el baño</foreignWord>
+        <nativeWord>łazienka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la habitación</foreignWord>
+        <nativeWord>pokój (pomieszczenie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el refrigerador</foreignWord>
+        <nativeWord>lodówka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la secadora</foreignWord>
+        <nativeWord>suszarka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cepillo</foreignWord>
+        <nativeWord>szczotka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jabón</foreignWord>
+        <nativeWord>mydło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la sábana</foreignWord>
+        <nativeWord>prześcieradło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el paraguas</foreignWord>
+        <nativeWord>parasol</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la rasuradora</foreignWord>
+        <nativeWord>maszynka do golenia; golarka; brzytwa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cartera</foreignWord>
+        <nativeWord>portfel</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tamaño</foreignWord>
+        <nativeWord>rozmiar</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el autor</foreignWord>
+        <nativeWord>autor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la policía</foreignWord>
+        <nativeWord>policja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el estudiante</foreignWord>
+        <nativeWord>student</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el matrimonio</foreignWord>
+        <nativeWord>małżeństwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el soldado</foreignWord>
+        <nativeWord>żołnierz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el rey</foreignWord>
+        <nativeWord>król</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el maestro</foreignWord>
+        <nativeWord>nauczyciel; mistrz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jefe</foreignWord>
+        <nativeWord>szef</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>las elecciones</foreignWord>
+        <nativeWord>wybory</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el profesor</foreignWord>
+        <nativeWord>profesor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el lado</foreignWord>
+        <nativeWord>strona (np. ulicy)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el estilo</foreignWord>
+        <nativeWord>styl</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el empresario</foreignWord>
+        <nativeWord>przedsiębiorca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el poeta</foreignWord>
+        <nativeWord>poeta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el juez</foreignWord>
+        <nativeWord>sędzia; arbiter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la soledad</foreignWord>
+        <nativeWord>samotność</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el guardia</foreignWord>
+        <nativeWord>strażnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el lunes</foreignWord>
+        <nativeWord>poniedziałek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el martes</foreignWord>
+        <nativeWord>wtorek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el miércoles</foreignWord>
+        <nativeWord>środa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jueves</foreignWord>
+        <nativeWord>czwartek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el viernes</foreignWord>
+        <nativeWord>piątek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el sábado</foreignWord>
+        <nativeWord>sobota</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el domingo</foreignWord>
+        <nativeWord>niedziela</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el capitán</foreignWord>
+        <nativeWord>kapitan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el actor</foreignWord>
+        <nativeWord>aktor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el abogado</foreignWord>
+        <nativeWord>lawyer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el coronel</foreignWord>
+        <nativeWord>pułkownik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el periodista</foreignWord>
+        <nativeWord>dziennikarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los empleados</foreignWord>
+        <nativeWord>pracownicy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el empleado</foreignWord>
+        <nativeWord>pracownik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la empleada</foreignWord>
+        <nativeWord>pracowniczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el príncipe</foreignWord>
+        <nativeWord>książe; pretendent do tronu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el pintor</foreignWord>
+        <nativeWord>malarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el dueño</foreignWord>
+        <nativeWord>właściciel</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el especialista</foreignWord>
+        <nativeWord>specjalista</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el agente</foreignWord>
+        <nativeWord>agent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el comandante</foreignWord>
+        <nativeWord>komendant</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la personalidad</foreignWord>
+        <nativeWord>osobowość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la oficina</foreignWord>
+        <nativeWord>biuro; urząd</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cárcel</foreignWord>
+        <nativeWord>cela {/więzienna}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la prisión</foreignWord>
+        <nativeWord>więzienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el escritor</foreignWord>
+        <nativeWord>pisarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la publicación</foreignWord>
+        <nativeWord>publikacja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el presidente</foreignWord>
+        <nativeWord>prezydent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la profesión</foreignWord>
+        <nativeWord>zawód; profesja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el granjero</foreignWord>
+        <nativeWord>rolnik; farmer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el sacerdote</foreignWord>
+        <nativeWord>kapłan; ksiądz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el panadero</foreignWord>
+        <nativeWord>piekarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el ingeniero</foreignWord>
+        <nativeWord>inżynier</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el trabajo</foreignWord>
+        <nativeWord>praca; zajęcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el carpintero</foreignWord>
+        <nativeWord>stolarz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la presión</foreignWord>
+        <nativeWord>ciśnienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el sonido</foreignWord>
+        <nativeWord>dźwięk</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el conductor</foreignWord>
+        <nativeWord>kierowca</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cajero</foreignWord>
+        <nativeWord>kasjer</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la enfermera</foreignWord>
+        <nativeWord>pielęgniarka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cocinero</foreignWord>
+        <nativeWord>kucharz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el atleta</foreignWord>
+        <nativeWord>atleta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la mesera</foreignWord>
+        <nativeWord>kelnerka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la ciencia</foreignWord>
+        <nativeWord>nauka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la mañana</foreignWord>
+        <nativeWord>rano; jutro</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la industria</foreignWord>
+        <nativeWord>przemysł; fabryka</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
