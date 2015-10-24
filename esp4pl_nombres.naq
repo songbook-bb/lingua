@@ -57,7 +57,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el jersey</foreignWord>
+        <foreignWord>el jersey; el suéter</foreignWord>
         <nativeWord>golf;sweter</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -379,22 +379,8 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la lampara</foreignWord>
-        <nativeWord>lampa</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>la silla</foreignWord>
         <nativeWord>krzesło</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>el sofa</foreignWord>
-        <nativeWord>kanapa</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -498,7 +484,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la nevera</foreignWord>
+        <foreignWord>la nevera;el refrigerador</foreignWord>
         <nativeWord>lodówka</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -848,13 +834,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la previsión del tiempo</foreignWord>
-        <nativeWord>prognoza pogody</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>la meteorología</foreignWord>
         <nativeWord>meteorologia</nativeWord>
         <score>0</score>
@@ -939,7 +918,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el tormómetro</foreignWord>
+        <foreignWord>el termómetro</foreignWord>
         <nativeWord>termometr</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1948,7 +1927,7 @@
     </word>
     <word>
         <foreignWord>la escalera</foreignWord>
-        <nativeWord>schody</nativeWord>
+        <nativeWord>schody; drabina</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1977,13 +1956,6 @@
     <word>
         <foreignWord>la habitación</foreignWord>
         <nativeWord>pokój (pomieszczenie)</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>el refrigerador</foreignWord>
-        <nativeWord>lodówka</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2481,6 +2453,34 @@
     <word>
         <foreignWord>la industria</foreignWord>
         <nativeWord>przemysł; fabryka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el gol</foreignWord>
+        <nativeWord>gol; bramka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el producto</foreignWord>
+        <nativeWord>produkt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el alcohol</foreignWord>
+        <nativeWord>alkohol</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los padres</foreignWord>
+        <nativeWord>rodzice; ojcowie</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
