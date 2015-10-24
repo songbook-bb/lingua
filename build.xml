@@ -47,7 +47,7 @@
 
   <target name="compile" depends="init" description="compile the source">
     <!-- Compile the java code from ${src} into ${build} -->
-    <javac encoding="UTF8" srcdir="${src}" debug="true" destdir="${build}"/>
+    <javac includeantruntime="false" encoding="UTF8" srcdir="${src}" debug="true" destdir="${build}"/>
   	
   </target>	
 	
