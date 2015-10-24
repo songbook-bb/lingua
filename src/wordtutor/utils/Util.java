@@ -62,6 +62,10 @@ public class Util {
 	public static String PHRASE_DELIMITER = ";";
 	public static String SPACE = " ";
 	public static String FULL_STOP = ".";
+	public static String EXCLAMATION_MARK = "!";
+	public static String INVERTED_EXCLAMATION_MARK = "¡";	
+	public static String QUOTATION_MARK = "?";
+	public static String INVERTED_QUOTATION_MARK = "¿";
 	public static String COMMA = ",";	
 	public static String NEW_LINE_DELIMITER = "\n";
 	public static Boolean SHOW_COMMENT = false; // do not remove
@@ -353,7 +357,11 @@ public class Util {
 	 */
 	public static String removePunctuation(String inputString) {
 		String returnString = inputString;
-		returnString = returnString.replaceAll("\\"+Util.FULL_STOP, Util.SPACE);
+		returnString = returnString.replaceAll("\\"+Util.EXCLAMATION_MARK, Util.SPACE);
+		returnString = returnString.replaceAll("\\"+Util.INVERTED_EXCLAMATION_MARK, Util.SPACE);		
+		returnString = returnString.replaceAll("\\"+Util.QUOTATION_MARK, Util.SPACE);
+		returnString = returnString.replaceAll("\\"+Util.INVERTED_QUOTATION_MARK, Util.SPACE);		
+		returnString = returnString.replaceAll("\\"+Util.FULL_STOP, Util.SPACE);		
 		returnString = returnString.replaceAll("\\"+Util.COMMA, Util.SPACE);
 		returnString = removeWhiteSpaces(removeDoubledSpaces(returnString));
 		returnString = returnString.trim();

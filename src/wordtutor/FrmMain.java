@@ -640,6 +640,9 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		Logger logger = Logger.getLogger(FrmMain.class);
 		// Util u = new Util();
 		Util.loadAppProperties();
+		if (args.length > 0) {
+			Util.getAppProperties().setProperty("NAQN.MODE", "true");
+		} 
 		Player player = null;
 		int wave2mp3Result = new BatchConvert().runWave2mp3(null);
 		logger.debug("Mp3 conversion is "

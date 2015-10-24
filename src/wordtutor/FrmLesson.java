@@ -679,7 +679,22 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				assertEquals(key, normalize(testMap.get(key)));
 			}
 		}
-	
+
+		@Test 
+		public void testIsGoodAnswer_for_missing_punctuation() {
+			settings.setNormalized(false);
+			//settings.setStrictMode(strictMode);(false);
+			Map<String, String> testMap = new HashMap<String, String>();
+			testMap.put("ałć.", "ałć");
+			testMap.put("ałć?", "ałć");		
+			testMap.put("¿ałć?", "ałć");
+			testMap.put("ałć!", "ałć");
+			testMap.put("¡ałć!", "ałć");			
+			for (String key : testMap.keySet()) {			
+				assertEquals(true, isGoodAnswer(key, testMap.get(key)));
+			}
+		}		
+		
 		@Test 
 		public void testIsGoodAnswer_Normalized_true() {
 			settings.setNormalized(true);
