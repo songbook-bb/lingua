@@ -15,8 +15,8 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Salimos el jueves.</foreignWord>
-        <nativeWord>We {will/} leave on Thursday.</nativeWord>
+        <foreignWord>Nosotros Sallimos el jueves; Salimos el jueves.</foreignWord>
+        <nativeWord>We {/will} leave on Thursday.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -211,14 +211,14 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Hablo mientras como.</foreignWord>
+        <foreignWord>{Yo hablo/Hablo} mientras como.</foreignWord>
         <nativeWord>I talk while {I eat/eating}.; I speak while {I eat/eating}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Yo como cuando quiero.</foreignWord>
+        <foreignWord>{Como/Yo como} cuando quiero.</foreignWord>
         <nativeWord>I eat when I want.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -344,7 +344,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Quiero un gran elefante.</foreignWord>
+        <foreignWord>{Yo quiero/Quiero} un gran elefante.</foreignWord>
         <nativeWord>I want a big elephant.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -414,7 +414,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Tenemos un día.</foreignWord>
+        <foreignWord>{Nosotros tenemos/Tenemos} un día.</foreignWord>
         <nativeWord>We have {one/a} day.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -463,13 +463,6 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>Tú you eres la primera.</foreignWord>
-        <nativeWord>You are the first.</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
         <foreignWord>disculpe; perdóname; lo siento</foreignWord>
         <nativeWord>sorry; excuse me</nativeWord>
         <score>0</score>
@@ -513,7 +506,7 @@
     </word>
     <word>
         <foreignWord>Las palabras finales</foreignWord>
-        <nativeWord>The last words</nativeWord>
+        <nativeWord>The last words; The final words</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -652,7 +645,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>No somos responsables.</foreignWord>
+        <foreignWord>{Nosotros no/No} somos responsables.</foreignWord>
         <nativeWord>We are not responsible.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -716,7 +709,7 @@
     </word>
     <word>
         <foreignWord>Es justo.</foreignWord>
-        <nativeWord>It is fair.</nativeWord>
+        <nativeWord>It is {fair/just}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -898,7 +891,7 @@
     </word>
     <word>
         <foreignWord>Ella cierra la puerta.</foreignWord>
-        <nativeWord>She closes the door.</nativeWord>
+        <nativeWord>She closes the {door/gate}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1087,7 +1080,7 @@
     </word>
     <word>
         <foreignWord>Él es sólo un niño.</foreignWord>
-        <nativeWord>He is just a {boy/child}.</nativeWord>
+        <nativeWord>He is {just/only} a {boy/child}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1114,7 +1107,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>No soy de aquí.</foreignWord>
+        <foreignWord>{Yo no/No} soy de aquí.</foreignWord>
         <nativeWord>I am not from here.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1248,7 +1241,7 @@
     </word>
     <word>
         <foreignWord>Todas las mujeres</foreignWord>
-        <nativeWord>All {of/} the women</nativeWord>
+        <nativeWord>All {/of} the women</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -1374,14 +1367,1316 @@
     </word>
     <word>
         <foreignWord>Yo no soy de por aquí.</foreignWord>
-        <nativeWord>I am not from {around/} here.</nativeWord>
+        <nativeWord>I am not from {/around} here.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
         <foreignWord>Ya es tan tarde.</foreignWord>
-        <nativeWord>Already it is {so/} late.</nativeWord>
+        <nativeWord>Already it is {/so} late.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Todavía eres joven.</foreignWord>
+        <nativeWord>You are still young.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Come despacio.</foreignWord>
+        <nativeWord>Eat slowly.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Aún tienes la lámpara.</foreignWord>
+        <nativeWord>You still have the lamp.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nosotros comemos allí.</foreignWord>
+        <nativeWord>We eat there.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Despacio, por favor.</foreignWord>
+        <nativeWord>Slow, please.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella no está aquí todavía.</foreignWord>
+        <nativeWord>She is still not here.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Todavía estás aquí?</foreignWord>
+        <nativeWord>Are you still here?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Sí, por supuesto!</foreignWord>
+        <nativeWord>Yes, of course!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Finalmente, está aquí.</foreignWord>
+        <nativeWord>{Eventually it is/It is finally} here.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Quizá es jugo.</foreignWord>
+        <nativeWord>Perhaps it is juice.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella habla demasiado.</foreignWord>
+        <nativeWord>She talks too much.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Por supuesto que soy yo.</foreignWord>
+        <nativeWord>Of course it is me.; Is its me of course.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Por supuesto que no.</foreignWord>
+        <nativeWord>Of course not!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Con cuál te quedas?</foreignWord>
+        <nativeWord>Which do you prefer?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él jamás corre.</foreignWord>
+        <nativeWord>He never runs.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La salsa es realmente buena.</foreignWord>
+        <nativeWord>The sauce is {truly/really} good.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Muy lejos</foreignWord>
+        <nativeWord>Very far</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella camina alrededor.</foreignWord>
+        <nativeWord>She walks around.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tengo solamente un hermano.</foreignWord>
+        <nativeWord>I {have only/only have} one brother.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Es totalmente blanca.</foreignWord>
+        <nativeWord>It is totally white</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Ellos están lejos de aquí?</foreignWord>
+        <nativeWord>Are they far from here?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mi hermana jamás bebe.</foreignWord>
+        <nativeWord>My sister never drinks.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Lejos de nosotros</foreignWord>
+        <nativeWord>Far from us</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La bicicleta está entre los coches.</foreignWord>
+        <nativeWord>The bicycle is between the cars.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>O ambas cosas</foreignWord>
+        <nativeWord>Or both things</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El pájaro está debajo del sombrero.</foreignWord>
+        <nativeWord>The bird is under the hat.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Los perros corren hacia adelante.</foreignWord>
+        <nativeWord>The dogs run forward.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Quizás es demasiado.</foreignWord>
+        <nativeWord>Maybe it is too much.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Debajo de la mesa</foreignWord>
+        <nativeWord>Below the table</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él probablemente llega hoy.</foreignWord>
+        <nativeWord>He probably arrives today.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La maleta de mi hermana es grande.</foreignWord>
+        <nativeWord>My sister's suitcase is big.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo digo que sí.</foreignWord>
+        <nativeWord>I say yes.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella no tiene ningún hermano.</foreignWord>
+        <nativeWord>She does not have any brothers.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Es invierno nuevamente.</foreignWord>
+        <nativeWord>It is winter again.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Exactamente la misma</foreignWord>
+        <nativeWord>Exactly the same {/one}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Quieres jugo de limón?</foreignWord>
+        <nativeWord>Do you want lemon juice?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El gato duerme entre los perros.</foreignWord>
+        <nativeWord>The cat sleeps among the dogs.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Soy de Texas.</foreignWord>
+        <nativeWord>I am from Texas.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>No por nosotras</foreignWord>
+        <nativeWord>not {for/by} us</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El gato camina sobre mi camisa.</foreignWord>
+        <nativeWord>The cat walks over my shirt.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Rojo contra azul</foreignWord>
+        <nativeWord>Red against blue</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo camino hacia ella.</foreignWord>
+        <nativeWord>I walk towards her.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Vas al almuerzo?</foreignWord>
+        <nativeWord>Do you go to the lunch?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella no habla con él.</foreignWord>
+        <nativeWord>She does not {talk/speak} with him.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Cuántos contra nosotros?</foreignWord>
+        <nativeWord>How many against us?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Hablamos acerca de libros.</foreignWord>
+        <nativeWord>We talk about books.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Acerca de qué es el libro?</foreignWord>
+        <nativeWord>What is the book about?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La carta es acerca de los elefantes.</foreignWord>
+        <nativeWord>The letter is about the elephants.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La niña duerme cerca del gato.</foreignWord>
+        <nativeWord>The girl sleeps near the cat.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué tienes bajo la camisa?</foreignWord>
+        <nativeWord>What do you have under the shirt?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Según él, Luis no nada.</foreignWord>
+        <nativeWord>According to him, Luis does not swim.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Según él</foreignWord>
+        <nativeWord>According to him</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El libro es acerca de un caballo.</foreignWord>
+        <nativeWord>The book is about {a/one} horse.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Hoy pago por el almuerzo.</foreignWord>
+        <nativeWord>Today I pay for the lunch.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo corro los jueves.</foreignWord>
+        <nativeWord>I run on Thursdays.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo como durante el día.</foreignWord>
+        <nativeWord>I eat during the day.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo corro una vez a la semana.</foreignWord>
+        <nativeWord>I run once a week.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Gracias, pero es tarde.</foreignWord>
+        <nativeWord>Thank you, but it is late.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo a veces cocino la cena.</foreignWord>
+        <nativeWord>{Sometimes I/I sometimes} cook the dinner.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Es en enero.</foreignWord>
+        <nativeWord>It is in January.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Sí, hasta él</foreignWord>
+        <nativeWord>Yes, even him</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>De mayo a octubre</foreignWord>
+        <nativeWord>From May {to/until} October</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo leo un rato.</foreignWord>
+        <nativeWord>I read for a while.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Hoy es la fecha.</foreignWord>
+        <nativeWord>Today is the date</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Tengo/yo tengo} una cita con él al mediodía.</foreignWord>
+        <nativeWord>I have {an appointment/a meeting} with him at noon.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Tienes una sartén en tu cocina?</foreignWord>
+        <nativeWord>Do you have a pan in your kitchen?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo leo en el sótano.</foreignWord>
+        <nativeWord>I read in the {basement/cellar}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo como en mi dormitorio.</foreignWord>
+        <nativeWord>I eat in my bedroom.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellos tienen una escalera.</foreignWord>
+        <nativeWord>They have a ladder.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mañana {/yo} limpio el baño.</foreignWord>
+        <nativeWord>Tomorrow I {/will} clean the bathroom.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él no es ni alto ni bajo.</foreignWord>
+        <nativeWord>He is neither tall nor short.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él es mayor que ella.</foreignWord>
+        <nativeWord>He is older than {she is/her}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Soy/Yo soy} mayor que mi hermana.</foreignWord>
+        <nativeWord>I am older than my sister.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tú eres la primera.</foreignWord>
+        <nativeWord>You are the first.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellos son importantes para nosotros.</foreignWord>
+        <nativeWord>They are important for us.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mis hermanos son importantes.</foreignWord>
+        <nativeWord>My {siblings/brothers} are important.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Sí, es cierto.</foreignWord>
+        <nativeWord>Yes, it is true.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella come sola.</foreignWord>
+        <nativeWord>She eats alone.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Las cucharas no son necesarias.</foreignWord>
+        <nativeWord>The spoons are not necessary.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tú y yo somos diferentes.</foreignWord>
+        <nativeWord>You and I are different.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella es tu única hermana.</foreignWord>
+        <nativeWord>She is your only sister.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Somos altos y fuertes.</foreignWord>
+        <nativeWord>We are tall and strong.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Un espejo es suficiente.</foreignWord>
+        <nativeWord>One mirror is enough.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Hoy es imposible para nosotros.</foreignWord>
+        <nativeWord>Today {it is/is} impossible for us.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Yo escribo/Escribo} mis propias cartas.</foreignWord>
+        <nativeWord>I write my own {cards/letters).</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Los siguientes meses</foreignWord>
+        <nativeWord>The {following/next} months</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Hoy la comida es peor que ayer.</foreignWord>
+        <nativeWord>Today the food is worse than yesterday.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>No es agua clara.</foreignWord>
+        <nativeWord>It is not clear water.; {The water/Water} is not clear.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>No quiero tanta pasta.</foreignWord>
+        <nativeWord>I do not want so much pasta.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella tiene tantos libros como yo.</foreignWord>
+        <nativeWord>She has as many books as me.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Él no es normal!</foreignWord>
+        <nativeWord>He is not normal!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Es un poeta pobre.</foreignWord>
+        <nativeWord>He is a poor poet.; It is a poor poet.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El té es natural.</foreignWord>
+        <nativeWord>The tea is natural.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella es rápida.</foreignWord>
+        <nativeWord>She is {fast/quick}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La carne es cara.</foreignWord>
+        <nativeWord>Meat is expensive.; The meat is expensive.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La semana pasada</foreignWord>
+        <nativeWord>The last week; Last week</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La niña juega sola.</foreignWord>
+        <nativeWord>The girl plays alone.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>No encuentro las llaves.</foreignWord>
+        <nativeWord>I cannot find the keys.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo sé.</foreignWord>
+        <nativeWord>I know</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Usted sabe quién soy.</foreignWord>
+        <nativeWord>You know who I am.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellos siguen a su padre.</foreignWord>
+        <nativeWord>They follow their father.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Los doctores no saben qué es.</foreignWord>
+        <nativeWord>The doctors do not know what it is.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella lleva al niño a la cama.</foreignWord>
+        <nativeWord>She takes the boy to the bed.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella mira por la ventana.</foreignWord>
+        <nativeWord>She looks through the window.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella mira hacia la ventana.</foreignWord>
+        <nativeWord>She looks {towards/to} the window.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él muestra sus cartas.</foreignWord>
+        <nativeWord>He shows his {cards/letters}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella viene con nosotros.</foreignWord>
+        <nativeWord>She arrives with us.; She is coming with us.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tú ayudas a tu esposa.</foreignWord>
+        <nativeWord>You help your wife.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él ayuda a su madre.</foreignWord>
+        <nativeWord>He helps his mother.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Miramos el menú.; Nosotros miramos el menú.</foreignWord>
+        <nativeWord>We look at the menu.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La esponja está sobre la mesa.</foreignWord>
+        <nativeWord>The sponge is on the table.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Nuestra taza está entre los platos.</foreignWord>
+        <nativeWord>Our cup is between the plates.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo sueño con una noche de verano.</foreignWord>
+        <nativeWord>I dream of a summer night.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La cuchara está sobre la mesa.</foreignWord>
+        <nativeWord>The spoon is on {/top of} the table.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella sabe que yo recuerdo.</foreignWord>
+        <nativeWord>She knows that I remember.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella toma mi azúcar.</foreignWord>
+        <nativeWord>She takes my sugar.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él respeta a su mujer.</foreignWord>
+        <nativeWord>He respects his {wife/woman}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo respeto a mi padre.</foreignWord>
+        <nativeWord>I respect my father.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo vuelvo en enero.</foreignWord>
+        <nativeWord>I return in January.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pienso en ella.</foreignWord>
+        <nativeWord>I think {about/of} her.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella da agua.</foreignWord>
+        <nativeWord>She gives water.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Conoces a mi hijo?</foreignWord>
+        <nativeWord>Do you know my son?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El cuchillo no sirve.</foreignWord>
+        <nativeWord>The knife does not work.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tú no cuentas.</foreignWord>
+        <nativeWord>You do not count.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Parece un huevo.</foreignWord>
+        <nativeWord>It seems to be an egg.; It looks like an egg.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Sí, parece familiar.</foreignWord>
+        <nativeWord>Yes, it seems familiar.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella comienza mañana.</foreignWord>
+        <nativeWord>She begins tomorrow.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El largo invierno acaba.</foreignWord>
+        <nativeWord>The long winter ends.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Usted no cabe.</foreignWord>
+        <nativeWord>You do not fit.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él cuenta los emparedados.</foreignWord>
+        <nativeWord>He counts the sandwiches.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellas importan su comida.</foreignWord>
+        <nativeWord>They import their food.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él entrega la comida.</foreignWord>
+        <nativeWord>He delivers the food.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Por favor firma.</foreignWord>
+        <nativeWord>Please sign.; Sing, please</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>La madre culpa al hijo.</foreignWord>
+        <nativeWord>The mother blames the {boy/son/child}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él entra solo.</foreignWord>
+        <nativeWord>He goes in alone.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mamá, entra, por favor.</foreignWord>
+        <nativeWord>Mom, come in, please.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué siente él por ella?</foreignWord>
+        <nativeWord>What does he feel for her?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él entra en la cocina.</foreignWord>
+        <nativeWord>He enters the kitchen.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué dice?</foreignWord>
+        <nativeWord>What does he say?; What are you saying?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El almuerzo empieza en un minuto.</foreignWord>
+        <nativeWord>The lunch starts in a minute.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mi marido llega tarde.</foreignWord>
+        <nativeWord>My husband arrives late.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo abro el jugo.</foreignWord>
+        <nativeWord>I open the juice.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Ellos abren los sábados?</foreignWord>
+        <nativeWord>{Are they/Do they }open on Saturdays?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellos dicen no.</foreignWord>
+        <nativeWord>They say no.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella abre la ventana.</foreignWord>
+        <nativeWord>She opens the window.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Este vaso es grande.</foreignWord>
+        <nativeWord>This vase is big.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Aquellas mujeres son mis hermanas.</foreignWord>
+        <nativeWord>Those women are my sisters.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Cada oso come pescado.</foreignWord>
+        <nativeWord>Every bear eats fish.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Esto es suficiente.</foreignWord>
+        <nativeWord>This is enough.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Unos perros caminan.</foreignWord>
+        <nativeWord>Some dogs walk.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Estas cartas son personales.</foreignWord>
+        <nativeWord>These {cards/letters} are personal.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Aquel animal camina.</foreignWord>
+        <nativeWord>That animal walks.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Aquellos perros no comen queso.</foreignWord>
+        <nativeWord>Those dogs do not eat cheese.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Este es mi hijo.</foreignWord>
+        <nativeWord>This is my son.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Qué día es mañana?</foreignWord>
+        <nativeWord>What day is tomorrow?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellos tienen otro hijo.</foreignWord>
+        <nativeWord>They have another child.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Tienes esto en otros colores?</foreignWord>
+        <nativeWord>Do you have this in other colors?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mi habitación no tiene ninguna ventana.</foreignWord>
+        <nativeWord>My room does not have any windows.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Este libro es mucho más útil que ese.</foreignWord>
+        <nativeWord>This book is much more useful than that.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo soy así.</foreignWord>
+        <nativeWord>I am like {that/this}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él come mucho.</foreignWord>
+        <nativeWord>He eats a lot.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Cualquier día menos el lunes.</foreignWord>
+        <nativeWord>Any day except {/for} Monday.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tú nadas mucho mejor que él.</foreignWord>
+        <nativeWord>You swim much better than he {/does}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¿De nuevo?; ¿Otra vez?;¿Una vez más?</foreignWord>
+        <nativeWord>Again?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ella también duerme aquí.</foreignWord>
+        <nativeWord>She also sleeps here.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo nunca como carne.</foreignWord>
+        <nativeWord>I never eat meat.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ya estamos en junio.</foreignWord>
+        <nativeWord>It is June already.; We are already in June.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo camino después del almuerzo.</foreignWord>
+        <nativeWord>I walk after {/the} lunch</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Siempre leemos el mismo diario.</foreignWord>
+        <nativeWord>We always read the same newspaper.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Tengo sólo una hora.</foreignWord>
+        <nativeWord>I {have only/only have} {one/an} hour.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellos nunca beben cerveza.</foreignWord>
+        <nativeWord>They never drink beer.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ya no bebo cerveza.; Yo ya no bebo cerveza.</foreignWord>
+        <nativeWord>I yo no longer drink beer.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo también</foreignWord>
+        <nativeWord>Me too</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Es casi una hora antes.</foreignWord>
+        <nativeWord>It is almost {one/an} hour before.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Antes de ese día</foreignWord>
+        <nativeWord>Before that day</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Soy/Yo soy} casi otra persona.</foreignWord>
+        <nativeWord>I am almost another person.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Aquí es donde tú comes.</foreignWord>
+        <nativeWord>Here is where you eat.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Entonces, es imposible.</foreignWord>
+        <nativeWord>{Well/Then}, it is impossible.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ellos no tienen tanto.</foreignWord>
+        <nativeWord>They do not have so much.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Antes y después</foreignWord>
+        <nativeWord>Before and after</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Él sabe dónde {es/está}.</foreignWord>
+        <nativeWord>He knows where it is.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Yo como/Como} un huevo al día.</foreignWord>
+        <nativeWord>I eat one egg per day.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Gracias a Dios.</foreignWord>
+        <nativeWord>Thank God.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>El oficio de la mañana es a las once de la mañana.</foreignWord>
+        <nativeWord>Morning prayer is at 11 a.m.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Mi papá es alguien que cree en el poder de la oración.</foreignWord>
+        <nativeWord>My dad is someone who believes in the power of prayer.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Estoy orando por ti</foreignWord>
+        <nativeWord>I pray for you</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
