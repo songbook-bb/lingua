@@ -2562,4 +2562,165 @@
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
+    <word>
+        <foreignWord>la mochila</foreignWord>
+        <nativeWord>plecak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el radio</foreignWord>
+        <nativeWord>radio</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el avión</foreignWord>
+        <nativeWord>samolot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el reloj</foreignWord>
+        <nativeWord>zegar; zegarek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cámara</foreignWord>
+        <nativeWord>kamera</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la campana</foreignWord>
+        <nativeWord>dzwon; dzwonek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los dollars</foreignWord>
+        <nativeWord>dolary</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pluma</foreignWord>
+        <nativeWord>pióro; długopis</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el papel</foreignWord>
+        <nativeWord>papier</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la alma</foreignWord>
+        <nativeWord>dusza; serce</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pena</foreignWord>
+        <nativeWord>smutek; kara</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cariño</foreignWord>
+        <nativeWord>miłość; troska; zaangażowanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la fuente</foreignWord>
+        <nativeWord>źródło; fontanna; danie (np. obiadowe)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cadena</foreignWord>
+        <nativeWord>łańcuch</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la bolsa</foreignWord>
+        <nativeWord>torba; torebka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la foto</foreignWord>
+        <nativeWord>zdjęcie; fotka; fota</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el vehículo</foreignWord>
+        <nativeWord>wehikuł</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la caja</foreignWord>
+        <nativeWord>pudło; boks</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el puente</foreignWord>
+        <nativeWord>most</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la moneda</foreignWord>
+        <nativeWord>moneta; pieniądz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pieza</foreignWord>
+        <nativeWord>część; kawałek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el polvo</foreignWord>
+        <nativeWord>kurz; pył; proszek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pantalla</foreignWord>
+        <nativeWord>ekran; monitor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
 </dictionary>
