@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary keyboard="0">
+    <word>
+        <foreignWord>En el nombre del Padre, del Hijo y del Espiritu Santo. Amen. </foreignWord>
+        <nativeWord>W Imię Ojca i Syna i Ducha Świętego. Amen. </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>1</idSound>
+    </word>
+    <word>
+        <foreignWord>PADRE NUESTRO</foreignWord>
+        <nativeWord>OJCZE NASZ</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>2</idSound>
+    </word>
+    <word>
+        <foreignWord>Padre Nuestro, que estás en el cielo, </foreignWord>
+        <nativeWord>Ojcze nasz, {któryś jest/który jesteś} w niebie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>3</idSound>
+    </word>
+    <word>
+        <foreignWord>Santificado, sea tu nombre</foreignWord>
+        <nativeWord>święć się imię Twoje, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>4</idSound>
+    </word>
+    <word>
+        <foreignWord>venga a nosotros tu Reino, </foreignWord>
+        <nativeWord>przyjdź królestwo Twoje, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>5</idSound>
+    </word>
+    <word>
+        <foreignWord>hágase tu volundad</foreignWord>
+        <nativeWord>bądź wola Twoja, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>6</idSound>
+    </word>
+    <word>
+        <foreignWord>{/así} en la tierra como en el cielo. </foreignWord>
+        <nativeWord>jako w niebie tak i na ziemi. </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>7</idSound>
+    </word>
+    <word>
+        <foreignWord>Danos hoy nuestro pan de cada día, </foreignWord>
+        <nativeWord>Chleba naszego powszedniego daj nam dzisiaj, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>8</idSound>
+    </word>
+    <word>
+        <foreignWord>perdona nuestras ofensas</foreignWord>
+        <nativeWord>i odpuść nam nasze winy, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>como también nosotros perdonamos a los que nos ofenden, </foreignWord>
+        <nativeWord>jako i my odpuszczamy naszym winowajcom, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>no nos dejes caer en tentación, </foreignWord>
+        <nativeWord>i nie wódź nas na pokuszenie, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>y libranos del mal. Amén. </foreignWord>
+        <nativeWord>ale nas zbaw ode złego. Amen. </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>DIOS TE SALVE MARíA</foreignWord>
+        <nativeWord>ZDROWAŚ MARYJO</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>Dios te Salve María, llena eres de gracia, </foreignWord>
+        <nativeWord>Zdrowaś Maryjo, {łaski/łaskiś} pełna. </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>el Señor es contigo. </foreignWord>
+        <nativeWord>Pan z tobą. </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>Bendita eres entre todas las mujeres</foreignWord>
+        <nativeWord>Błogosławionaś ty między niewiastami, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>y bendito es el fruto de tu vientre, Jesús. </foreignWord>
+        <nativeWord>i błogosławiony owoc żywota twojego, Jezus. </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>Santa María, Madre de Dios, </foreignWord>
+        <nativeWord>Święta Maryjo, Matko Boża, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>ruega por nosotros los pecadores, </foreignWord>
+        <nativeWord>módl się za nami grzesznymi, </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>ahora y en la hora de nuestra muerte. Amén. </foreignWord>
+        <nativeWord>teraz i w godzinę śmierci naszej. Amen. </nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+</dictionary>
