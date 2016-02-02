@@ -53,7 +53,7 @@ public class RecordableClip  {
 	static Logger logger = Logger.getLogger(RecordableClip.class);
 	private final File mFile;
 	private final AudioFormat mFormat;
-	public static final int mLengthInBytes = 4000000;
+	public static final int mLengthInBytes = 10000000;
 	public static final int bytesInSecond = 200000;	
 	public LineAndStream las = null;	
 	
