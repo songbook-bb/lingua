@@ -45,6 +45,7 @@ public class Settings implements IWTSerializable {
   private boolean hardest;
   private boolean random;
   private boolean normalized;
+  private boolean spelling;  
   
   private Random r = new Random();
 
@@ -63,6 +64,7 @@ public class Settings implements IWTSerializable {
     sTypes.setHardest(hardest ? 1 : 0);
     sTypes.setRandom(random ? 1 : 0); 
     sTypes.setNormalized(normalized ? 1 : 0);
+    sTypes.setSpelling(spelling ? 1 : 0);    
     sTypes.setDirection(directionMode.ordinal());
     sTypes.setKeyboard(keyboardType.ordinal());
     JAXBElement<SettingsType> jaxbSettings = factory.createSettings(sTypes);
@@ -152,6 +154,11 @@ public class Settings implements IWTSerializable {
     } else {
         setNormalized(false);
     }    
+//    if (st.getSpelling() == 1) {
+//        setSpelling(true);
+//    } else {
+//        setSpelling(false);
+//    }    
     
   }
 
@@ -311,6 +318,14 @@ public class Settings implements IWTSerializable {
   public void setNormalized(boolean normalized) {
 	  this.normalized = normalized;
   }
+
+  public boolean isSpelling() {
+		return spelling;
+  }
+
+  public void setSpelling(boolean spelling) {
+	  this.spelling = spelling;
+  }  
   
   public int getAutoSuggest() {
 	  return autoSuggest;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dictionary keyboard="0">
+<dictionary spelling="false" keyboard="0">
     <word>
         <foreignWord>el pantalón; los pantalones</foreignWord>
         <nativeWord>spodnie</nativeWord>
@@ -547,84 +547,84 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el enero</foreignWord>
+        <foreignWord>enero</foreignWord>
         <nativeWord>styczeń</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el febrero</foreignWord>
+        <foreignWord>febrero</foreignWord>
         <nativeWord>luty</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el marzo</foreignWord>
+        <foreignWord>marzo</foreignWord>
         <nativeWord>marzec</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el abril</foreignWord>
+        <foreignWord>abril</foreignWord>
         <nativeWord>kwiecień</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el mayo</foreignWord>
+        <foreignWord>mayo</foreignWord>
         <nativeWord>maj</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el junio</foreignWord>
+        <foreignWord>junio</foreignWord>
         <nativeWord>czerwiec</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el julio</foreignWord>
+        <foreignWord>julio</foreignWord>
         <nativeWord>lipiec</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el agosto</foreignWord>
+        <foreignWord>agosto</foreignWord>
         <nativeWord>sierpień</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el septiembre</foreignWord>
+        <foreignWord>septiembre</foreignWord>
         <nativeWord>wrzesień</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el octubre</foreignWord>
+        <foreignWord>octubre</foreignWord>
         <nativeWord>październik</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el noviembre</foreignWord>
+        <foreignWord>noviembre</foreignWord>
         <nativeWord>listopad</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el diciembre</foreignWord>
+        <foreignWord>diciembre</foreignWord>
         <nativeWord>grudzień</nativeWord>
         <score>0</score>
         <learned>0</learned>

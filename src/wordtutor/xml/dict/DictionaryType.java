@@ -45,6 +45,8 @@ public class DictionaryType {
     protected List<WordType> word;
     @XmlAttribute
     protected int keyboard;    
+    @XmlAttribute
+    protected boolean spelling;    
 		/**
      * Gets the value of the word property.
      * 
@@ -76,9 +78,17 @@ public class DictionaryType {
 
     public int getKeyboard() {
 			return keyboard;
-		}
+	}
     
-		public void setKeyboard(int keyboard) {
-			this.keyboard = keyboard;
-		}    
+	public void setKeyboard(int keyboard) {
+		this.keyboard = keyboard;
+	}    
+
+    public boolean isSpelling() {
+			return spelling;
+	}
+    
+	public void setSpelling(boolean spelling) {
+		this.spelling = spelling;
+	}    	
 }

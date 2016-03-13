@@ -54,7 +54,8 @@ import javax.xml.bind.annotation.XmlType;
     "unlearned",    
     "hardest",
     "random",
-    "normalized"
+    "normalized",
+    "spelling"    
 })
 public class SettingsType {
 	/** maxScore, decScore to remove and exhaustiveLearn - change name to EXAM 
@@ -86,6 +87,8 @@ public class SettingsType {
 	protected int normalized;
     @XmlElement(required = true)
 	protected int autoSuggest;
+    @XmlElement(required = true)
+	protected int spelling;
     
 
 		/** Gets additional keyboard type (language type) 
@@ -266,5 +269,16 @@ h     */
 		}
 		public void setNormalized(int normalized) {
 			this.normalized = normalized;
-		}			
+		}
+
+		/** the lesson is a spelling lesson (all rows need to have associated sound file) 
+		 *  
+		 * @return
+		 */
+		public int getSpelling() {
+				return spelling;
+		}
+		public void setSpelling(int spelling) {
+			this.spelling = spelling;
+		}							
 }

@@ -54,6 +54,7 @@ public class FrmSettings extends JDialog implements ActionListener {
 	private JCheckBox cbHardest;
 	private JCheckBox cbRandom;
 	private JCheckBox cbNormalized;
+	private JCheckBox cbSpelling;	
 	private JLabel labDirection;
 	private JRadioButton rbStraight;
 	private JRadioButton rbReverse;
@@ -126,8 +127,12 @@ public class FrmSettings extends JDialog implements ActionListener {
 			settings.setNormalized(true);
 		} else {
 			settings.setNormalized(false);
-		}
-		
+		}		
+		if (cbSpelling.isSelected()) {
+			settings.setSpelling(true);
+		} else {
+			settings.setSpelling(false);
+		}		
 		parentFrame.getStartLesson().setText(
 				settings.isExamMode() ? Util.getLocalizedString("MAIN.EXAM")
 						: Util.getLocalizedString("MAIN.LESSON"));
@@ -186,7 +191,7 @@ public class FrmSettings extends JDialog implements ActionListener {
 		}
 	}
 
-	public FrmSettings(FrmMain parent, String title, Settings settings) {
+	public FrmSettings(FrmMain parent, String title, Settings settings, boolean enableSpelling) {
 		super(parent, title);
 		setLocation(Util.xConfigPosition, Util.yConfigPosition);
 		setSize(Util.xConfigSize, Util.yConfigSize);
@@ -194,36 +199,29 @@ public class FrmSettings extends JDialog implements ActionListener {
 		this.settings = settings;
 		panelSettings = new JPanel();
 		add(panelSettings, BorderLayout.NORTH);
-		panelSettings.setLayout(new GridLayout(6, 2));
+		panelSettings.setLayout(new GridLayout(8, 2));
 
-		labWordsInLesson = new JLabel(
-				Util.getLocalizedString("SETTINGS.LABEL.WORDS"));
+		labWordsInLesson = new JLabel(Util.getLocalizedString("SETTINGS.LABEL.WORDS"));
 		panelSettings.add(labWordsInLesson);
 
-		textWordsInLesson = new JTextField(new Integer(
-				settings.getWordsInLesson()).toString());
+		textWordsInLesson = new JTextField(new Integer(settings.getWordsInLesson()).toString());
 		panelSettings.add(textWordsInLesson);
 
-		labIncScore = new JLabel(
-				Util.getLocalizedString("SETTINGS.LABEL.START"));
+		labIncScore = new JLabel(Util.getLocalizedString("SETTINGS.LABEL.START"));
 		panelSettings.add(labIncScore);
-		textIncScore = new JTextField(
-				new Integer(settings.getIncScore()).toString());
+		textIncScore = new JTextField(new Integer(settings.getIncScore()).toString());
 		panelSettings.add(textIncScore);
 
-		labAutoSuggest = new JLabel(
-				Util.getLocalizedString("SETTINGS.LABEL.AUTO.SUGGEST"));
+		labAutoSuggest = new JLabel(Util.getLocalizedString("SETTINGS.LABEL.AUTO.SUGGEST"));
 		panelSettings.add(labAutoSuggest);
-		textAutoSuggest = new JTextField(
-				new Integer(settings.getAutoSuggest()).toString());
+		textAutoSuggest = new JTextField(new Integer(settings.getAutoSuggest()).toString());
 		panelSettings.add(textAutoSuggest);
 
 		// na dzień dobry ma pokazać czy ukryć
 		isEnabled = !(settings.isHardest() || settings.isRandom());
 		textIncScore.setEnabled(isEnabled);
 
-		cbExamMode = new JCheckBox(
-				Util.getLocalizedString("SETTINGS.CHECKBOX.EXAM"));
+		cbExamMode = new JCheckBox(Util.getLocalizedString("SETTINGS.CHECKBOX.EXAM"));
 		cbExamMode.setSelected(settings.isExamMode());
 		cbExamMode.setToolTipText(Util.getLocalizedString("MAIN.EXAM.TIP"));
 		panelSettings.add(cbExamMode);
@@ -266,6 +264,14 @@ public class FrmSettings extends JDialog implements ActionListener {
 		cbNormalized.setToolTipText(Util
 				.getLocalizedString("SETTINGS.CHECKBOX.NORMALIZED.TIP"));
 		panelSettings.add(cbNormalized);
+		
+		cbSpelling =  new JCheckBox(
+				Util.getLocalizedString("SETTINGS.CHECKBOX.SPELLING"));
+		cbSpelling.setSelected(settings.isSpelling());
+		cbSpelling.setToolTipText(Util
+				.getLocalizedString("SETTINGS.CHECKBOX.SPELLING.TIP"));
+		cbSpelling.setEnabled(enableSpelling);
+		panelSettings.add(cbSpelling);		
 
 		// Translation Direction Group
 		panelDirection = new JPanel();
@@ -302,8 +308,7 @@ public class FrmSettings extends JDialog implements ActionListener {
 
 		// Additional keyboard Group
 		panelKeyboards = new JPanel();
-		panelKeyboards
-				.setLayout(new BoxLayout(panelKeyboards, BoxLayout.Y_AXIS));
+		panelKeyboards.setLayout(new BoxLayout(panelKeyboards, BoxLayout.Y_AXIS));
 		labKeyboardButton = new JLabel(
 				Util.getLocalizedString("SETTINGS.LABEL.KEYBOARDS"));
 		panelKeyboards.add(labKeyboardButton);

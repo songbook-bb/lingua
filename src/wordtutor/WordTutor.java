@@ -99,6 +99,12 @@ public class WordTutor implements IWTSerializable {
 	private int searchFilterResultCount;
 
 	/**
+	 * All phrases in the lesson are sounded -> enableSpelling
+	 * 
+	 */
+	private boolean enableSpelling;
+	
+	/**
 	 * default constructor loads the settings from XML and applies it for the
 	 * word storage
 	 */
@@ -143,16 +149,20 @@ public class WordTutor implements IWTSerializable {
 		List<WordType> dWords = dType.getWord();
 		words.clear();
 		int cnt = dWords.size();
+		enableSpelling = true;
 		for (int i = 0; i < cnt; i++) {
 			IWord newWord = words.createWord(dWords.get(i).getForeignWord(),
 					dWords.get(i).getNativeWord(), dWords.get(i).getIdSound());
 			newWord.setLearned(dWords.get(i).getLearned() == 1);
 			newWord.setScore(dWords.get(i).getScore());
 			words.add(newWord);
+			if (dWords.get(i).getIdSound() == 0) {
+				enableSpelling = false;
+			}
 		}
 		// persist keyboard settings (taken from test file)
-		settings.setKeyboardType(settings.keyboardIntToEnumeration(dType
-				.getKeyboard()));
+		settings.setSpelling(enableSpelling);
+		settings.setKeyboardType(settings.keyboardIntToEnumeration(dType.getKeyboard()));
 		settings.saveToXML();
 		// rebuild current sample map each time
 		buildCurrentSoundSampleCoverMapIndex();
@@ -178,6 +188,7 @@ public class WordTutor implements IWTSerializable {
 		}
 		dType.setKeyboard(settings.keyboardEnumerationToInt(settings
 				.getKeyboardType()));
+		dType.setSpelling(settings.isSpelling());
 		JAXBElement<DictionaryType> jaxbDict = factory.createDictionary(dType);
 		try {
 			JAXBContext jc = JAXBContext.newInstance("wordtutor.xml.dict");
@@ -199,7 +210,7 @@ public class WordTutor implements IWTSerializable {
 	 */
 	public void openSettings(FrmMain parentFrame) {
 		new FrmSettings(parentFrame,
-				Util.getLocalizedString("WT.SETTINGS.TITLE"), settings);
+				Util.getLocalizedString("WT.SETTINGS.TITLE"), settings, enableSpelling);
 	}
 
 	/**

@@ -37,6 +37,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import wordtutor.settings.Settings;
+import wordtutor.util.TranslateDirection;
 import wordtutor.util.keybuttons.KeyboardBtnListener;
 import wordtutor.util.keybuttons.KeyboardCtrlPanel;
 import wordtutor.utils.BatchConvert;
@@ -90,6 +91,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	Player player;
 	JPanel panel;
 	JButton answer;
+	JButton spelling;	
 	JButton addYetAnotherAnswer;
 	JPanel centralPanel;
 	private static Settings settings = new Settings();
@@ -111,6 +113,17 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		}
 	}
 
+	public void spelling() {
+		Player player = null;
+		String complexFileName = tutor.chooseSoundSampleFileName();
+		LOG.debug("complexFileName:" + complexFileName);
+		tutor.setDirection(TranslateDirection.REVERSE);		
+		if (tutor.getIdSound() > 0
+				&& !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
+			Util.playSound(player, complexFileName);
+		}
+	}
+	
 	/**
 	 * it s called when the button was pressed
 	 */
@@ -252,7 +265,11 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	public void keyReleased(KeyEvent e) {
 		switch (e.getKeyCode()) {
 		case KeyEvent.VK_ENTER:
-			button();
+			if (tutor.getSettings().isSpelling()) {
+				spelling();				
+			} else {
+				button();
+			}
 			break;
 		case KeyEvent.VK_ESCAPE:
 			this.dispose();
@@ -290,7 +307,11 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		if (commandString.equals("yetAnotherAnswer")) {
 			addYetAnotherAnswer();
 		}
-		button();
+		if (commandString.equals("spelling")) {
+			spelling();
+		} else {
+			button();			
+		}
 	}
 
 	public void addYetAnotherAnswer() {
@@ -346,11 +367,20 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		questionWord.setEditable(false);
 		questionWord.setFocusable(false);
 		questionWord.setRows(defaultTextareaRows);
-		// JScrollPane
 		questionScroll = new JScrollPane(questionWord,
 				JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,
 				JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
-		panel.add(questionScroll, BorderLayout.NORTH);
+		// in case of spelling - do not show question at all
+		if (!tutor.getSettings().isSpelling()) {
+			panel.add(questionScroll, BorderLayout.NORTH);
+		} else {
+			spelling = new JButton(Util.getLocalizedString("LESSON.BUTTON.SPELLING"));
+			spelling.setToolTipText(Util.getLocalizedString("LESSON.BUTTON.SPELLING.TIP"));
+			spelling.addActionListener(this);
+			spelling.setActionCommand("spelling");
+			spelling.setFocusable(false);
+			panel.add(spelling, BorderLayout.NORTH);			
+		}
 		answer = new JButton(Util.getLocalizedString("LESSON.BUTTON.ANSWER"));
 		panel.add(answer, BorderLayout.SOUTH);
 		answer.addActionListener(this);

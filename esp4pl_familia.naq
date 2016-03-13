@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dictionary keyboard="0">
+<dictionary spelling="false" keyboard="0">
     <word>
         <foreignWord>la madre</foreignWord>
         <nativeWord>matka</nativeWord>
@@ -16,13 +16,13 @@
     </word>
     <word>
         <foreignWord>la mujer</foreignWord>
-        <nativeWord>żona;kobieta</nativeWord>
+        <nativeWord>kobieta</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el marido</foreignWord>
+        <foreignWord>el esposo; el marido</foreignWord>
         <nativeWord>mąż</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -106,7 +106,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>el sobirno</foreignWord>
+        <foreignWord>el sobrino</foreignWord>
         <nativeWord>siostrzeniec;bratanek</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -183,7 +183,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la adolescente</foreignWord>
+        <foreignWord>el adolescente; la adolescente</foreignWord>
         <nativeWord>nastolatek</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -239,7 +239,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la ancianidad/vejez</foreignWord>
+        <foreignWord>la {ancianidad/vejez}</foreignWord>
         <nativeWord>starość</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -323,7 +323,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la muchacha</foreignWord>
+        <foreignWord>la chica; la muchacha</foreignWord>
         <nativeWord>dziewczyna</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -381,6 +381,13 @@
     <word>
         <foreignWord>la persona de casa</foreignWord>
         <nativeWord>domownik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la esposa</foreignWord>
+        <nativeWord>żona</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

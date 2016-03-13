@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dictionary keyboard="0">
+<dictionary spelling="false" keyboard="0">
     <word>
         <foreignWord>abandonar</foreignWord>
         <nativeWord>opuszczać;porzucać</nativeWord>
@@ -2137,7 +2137,7 @@
     </word>
     <word>
         <foreignWord>esperar</foreignWord>
-        <nativeWord>mieć nadzieję;ufać;spodziewać się</nativeWord>
+        <nativeWord>czekać;mieć nadzieję;ufać;spodziewać się;oczekiwać</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -2690,7 +2690,7 @@
     </word>
     <word>
         <foreignWord>jugar</foreignWord>
-        <nativeWord>grać</nativeWord>
+        <nativeWord>grać (sport)</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -3999,7 +3999,7 @@
     </word>
     <word>
         <foreignWord>sentar</foreignWord>
-        <nativeWord>sadzac;wpływać;pasować;leżeć</nativeWord>
+        <nativeWord>sadzać;wpływać;pasować;leżeć</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -4223,7 +4223,7 @@
     </word>
     <word>
         <foreignWord>tocar</foreignWord>
-        <nativeWord>grać</nativeWord>
+        <nativeWord>grać (na intrumencie)</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
