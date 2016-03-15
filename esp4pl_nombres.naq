@@ -2723,4 +2723,32 @@
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
+    <word>
+        <foreignWord>la escoba</foreignWord>
+        <nativeWord>miotła</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la estufa</foreignWord>
+        <nativeWord>palnik; kuchenka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los fosfóros; los cerillos</foreignWord>
+        <nativeWord>zapałki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cobija</foreignWord>
+        <nativeWord>koc</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
 </dictionary>

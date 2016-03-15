@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dictionary spelling="false" keyboard="0">
+<dictionary spelling="true" keyboard="0">
     <word>
         <foreignWord>hola</foreignWord>
         <nativeWord>cześć</nativeWord>
@@ -1440,20 +1440,20 @@
         <nativeWord>do zobaczenia {niebawem/wkrótce}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>206</idSound>
     </word>
     <word>
         <foreignWord>mucho gusto</foreignWord>
         <nativeWord>miło cię {widzieć/spotkać}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>207</idSound>
     </word>
     <word>
-        <foreignWord>disculpe</foreignWord>
+        <foreignWord>disculpe me</foreignWord>
         <nativeWord>przykro mi</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>208</idSound>
     </word>
 </dictionary>

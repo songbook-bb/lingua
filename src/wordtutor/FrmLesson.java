@@ -125,7 +125,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	}
 	
 	/**
-	 * it s called when the button was pressed
+	 * it is called when the button was pressed
 	 */
 	public void button() {
 		Player player = null;
@@ -151,10 +151,13 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				if (!settings.isExamMode()) {
 					if (tutor.getIdSound() > 0
 							&& !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
-						Util.playSound(player, complexFileName);
+						if (!tutor.getSettings().isSpelling()) {
+							Util.playSound(player, complexFileName);
+						}
 					} else {
-						Util.playSound(player,
-								Util.getAppProperty("CORRECT.MP3"));
+						if (!tutor.getSettings().isSpelling()) {
+							Util.playSound(player,Util.getAppProperty("CORRECT.MP3"));
+						}
 					}
 					responseWord.setForeground(Color.BLUE);
 					responseWord.setText(Util
@@ -176,7 +179,10 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				if (!settings.isExamMode()) {
 					if (tutor.getIdSound() > 0
 							&& !Util.NO_SOUND_SAMPLE.equals(complexFileName)) {
-						Util.playSound(player, complexFileName);
+						
+						if (!tutor.getSettings().isSpelling()) {
+							Util.playSound(player, complexFileName);
+						}
 					}
 					// shows all good answers
 					responseWord.setForeground(Color.RED);
