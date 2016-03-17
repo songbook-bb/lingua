@@ -137,6 +137,9 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 				DEFAULT_SCROLL_COLOR);
 		if (mode == ActMode.ANSWER)// if the mode is answer
 		{
+			if (tutor.getSettings().isSpelling()) {
+				spelling.setEnabled(false);
+			}	
 			String complexFileName = tutor.chooseSoundSampleFileName();
 			LOG.debug("complexFileName:" + complexFileName);
 			// String complexFileName = tutor.getCurrentDictFile().substring(0,
@@ -245,6 +248,8 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		{
 			// choose the word
 			tutor.chooseWord(); 
+			// play for spelling
+			playForSpelling();
 			// fills question TextArea and marks scroll
 			fillQuestionAreaAndMarkScrollBrowse(tutor.getQuestion());
 			questionWord.setCaretPosition(0);
@@ -255,6 +260,14 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		answerWord.requestFocusInWindow();
 	}
 
+	public void playForSpelling() {
+		if (tutor.getSettings().isSpelling()) {
+			spelling.setEnabled(true);
+			String complexFileName = tutor.chooseSoundSampleFileName();
+			Util.playSound(player, complexFileName);				
+		}			
+	}
+	
 	public void keyPressed(KeyEvent e) {
 		switch (e.getKeyCode()) {
 		case KeyEvent.VK_CONTROL:
@@ -272,7 +285,9 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		switch (e.getKeyCode()) {
 		case KeyEvent.VK_ENTER:
 			if (tutor.getSettings().isSpelling()) {
-				spelling();				
+				if (mode == ActMode.ANSWER) {
+					spelling();				
+				}
 			} else {
 				button();
 			}
@@ -404,6 +419,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		panel.add(responseScroll, BorderLayout.CENTER);
 		this.tutor.startLesson();
 		this.tutor.chooseWord();
+		playForSpelling();
 		// questionWord.setText(produceExpandedInput(tutor.getQuestion()));
 		questionScroll.getVerticalScrollBar().setBackground(
 				DEFAULT_SCROLL_COLOR);
