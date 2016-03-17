@@ -15,14 +15,14 @@
         <idSound>2</idSound>
     </word>
     <word>
-        <foreignWord>buenos tardes</foreignWord>
+        <foreignWord>buenas tardes</foreignWord>
         <nativeWord>dobry wieczór</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>3</idSound>
     </word>
     <word>
-        <foreignWord>buenos noches</foreignWord>
+        <foreignWord>buenas noches</foreignWord>
         <nativeWord>dobranoc</nativeWord>
         <score>0</score>
         <learned>0</learned>
