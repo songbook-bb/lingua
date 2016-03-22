@@ -5,126 +5,119 @@
         <nativeWord>dzień</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>1</idSound>
     </word>
     <word>
         <foreignWord>la semana</foreignWord>
         <nativeWord>tydzień</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>2</idSound>
     </word>
     <word>
         <foreignWord>el lunes</foreignWord>
         <nativeWord>poniedziałek</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>3</idSound>
     </word>
     <word>
         <foreignWord>el martes</foreignWord>
         <nativeWord>wtorek</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>4</idSound>
     </word>
     <word>
         <foreignWord>el miercoles</foreignWord>
         <nativeWord>środa</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>5</idSound>
     </word>
     <word>
         <foreignWord>el jueves</foreignWord>
         <nativeWord>czwartek</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>6</idSound>
     </word>
     <word>
         <foreignWord>el viernes</foreignWord>
         <nativeWord>piątek</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>7</idSound>
     </word>
     <word>
         <foreignWord>el sabado</foreignWord>
         <nativeWord>sobota</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>8</idSound>
     </word>
     <word>
         <foreignWord>el domingo</foreignWord>
         <nativeWord>niedziela</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>9</idSound>
     </word>
     <word>
-        <foreignWord>el automóvil;el coche</foreignWord>
+        <foreignWord>el automóvil;el coche;el carro</foreignWord>
         <nativeWord>samochód;auto</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>10</idSound>
     </word>
     <word>
         <foreignWord>el coche automático</foreignWord>
         <nativeWord>{samochód/auto} z automatyczną skrzynią biegów</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>11</idSound>
     </word>
     <word>
         <foreignWord>el coche de cuatro puertas</foreignWord>
         <nativeWord>samochód czterodrzwiowy</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>12</idSound>
     </word>
     <word>
         <foreignWord>el coche de segunda mano</foreignWord>
         <nativeWord>samochód {używany/z drugiej ręki}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>13</idSound>
     </word>
     <word>
         <foreignWord>el coche de tracción delantera</foreignWord>
         <nativeWord>samochód z napędem na przednie koła</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>14</idSound>
     </word>
     <word>
         <foreignWord>el cuatro por cuatro</foreignWord>
         <nativeWord>{/napęd} 4x4</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>15</idSound>
     </word>
     <word>
         <foreignWord>el coche de deportivo</foreignWord>
         <nativeWord>samochód sportowy</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>16</idSound>
     </word>
     <word>
         <foreignWord>el coche de descapotable</foreignWord>
         <nativeWord>kabriolet</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
-    </word>
-    <word>
-        <foreignWord>el coche de monovolumen</foreignWord>
-        <nativeWord>minivan</nativeWord>
-        <score>0</score>
-        <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>17</idSound>
     </word>
     <word>
         <foreignWord>el coche de todoterreno</foreignWord>
