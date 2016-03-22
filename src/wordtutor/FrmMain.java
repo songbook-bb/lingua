@@ -46,6 +46,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import wordtutor.container.IWord;
 import wordtutor.imp.FrmImport;
 import wordtutor.imp.FrmImportXls;
+import wordtutor.settings.Settings;
 import wordtutor.utils.BatchConvert;
 import wordtutor.utils.Util;
 
@@ -191,6 +192,10 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 
 		for (String lessonName : stringList) {			
 			switchLesson(lessonName);
+			// disable spelling lesson by default
+			Settings sets = tutor.getSettings();
+			sets.setSpelling(false);
+			tutor.setSettings(sets);
 			tutor.clearLearning(true);
 			tutor.saveToXML();
 		}
