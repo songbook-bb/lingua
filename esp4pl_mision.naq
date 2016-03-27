@@ -159,6 +159,804 @@
         <nativeWord>czapka z daszkiem</nativeWord>
         <score>0</score>
         <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+    <word>
+        <foreignWord>los guantes</foreignWord>
+        <nativeWord>rękawiczki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>24</idSound>
+    </word>
+    <word>
+        <foreignWord>los huaraches; los guaraches; las sandalias</foreignWord>
+        <nativeWord>sandały</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>25</idSound>
+    </word>
+    <word>
+        <foreignWord>las quesadillas</foreignWord>
+        <nativeWord>tortilla z serem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>26</idSound>
+    </word>
+    <word>
+        <foreignWord>el frasco</foreignWord>
+        <nativeWord>słoik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>27</idSound>
+    </word>
+    <word>
+        <foreignWord>la bolsa</foreignWord>
+        <nativeWord>torba; torebka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>28</idSound>
+    </word>
+    <word>
+        <foreignWord>el talón</foreignWord>
+        <nativeWord>pięta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>29</idSound>
+    </word>
+    <word>
+        <foreignWord>el tobillo</foreignWord>
+        <nativeWord>kostka (fragment nogi)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>30</idSound>
+    </word>
+    <word>
+        <foreignWord>la tapa; la tapaderra</foreignWord>
+        <nativeWord>pokrywka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>31</idSound>
+    </word>
+    <word>
+        <foreignWord>la rodilla</foreignWord>
+        <nativeWord>kolano</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>32</idSound>
+    </word>
+    <word>
+        <foreignWord>la faz</foreignWord>
+        <nativeWord>oblicze</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>33</idSound>
+    </word>
+    <word>
+        <foreignWord>los dedos</foreignWord>
+        <nativeWord>palce</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>34</idSound>
+    </word>
+    <word>
+        <foreignWord>el dedo</foreignWord>
+        <nativeWord>palec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>35</idSound>
+    </word>
+    <word>
+        <foreignWord>el cerebro</foreignWord>
+        <nativeWord>mózg</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>36</idSound>
+    </word>
+    <word>
+        <foreignWord>la chamarra</foreignWord>
+        <nativeWord>bluza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>37</idSound>
+    </word>
+    <word>
+        <foreignWord>la iglesia</foreignWord>
+        <nativeWord>kościół</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>38</idSound>
+    </word>
+    <word>
+        <foreignWord>la playera</foreignWord>
+        <nativeWord>podkoszulek; t-shirt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>39</idSound>
+    </word>
+    <word>
+        <foreignWord>el crecimiento</foreignWord>
+        <nativeWord>wzrost; rozwój</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>40</idSound>
+    </word>
+    <word>
+        <foreignWord>la gallina</foreignWord>
+        <nativeWord>gęś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>41</idSound>
+    </word>
+    <word>
+        <foreignWord>el ladrón</foreignWord>
+        <nativeWord>złodziej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>42</idSound>
+    </word>
+    <word>
+        <foreignWord>la ladrona</foreignWord>
+        <nativeWord>złodziejka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>43</idSound>
+    </word>
+    <word>
+        <foreignWord>los cerillos</foreignWord>
+        <nativeWord>zapałki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>44</idSound>
+    </word>
+    <word>
+        <foreignWord>el ladrillo</foreignWord>
+        <nativeWord>cegła</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>45</idSound>
+    </word>
+    <word>
+        <foreignWord>el montacargas</foreignWord>
+        <nativeWord>wózek widłowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>46</idSound>
+    </word>
+    <word>
+        <foreignWord>el misterio</foreignWord>
+        <nativeWord>tajemnica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>47</idSound>
+    </word>
+    <word>
+        <foreignWord>la espuma</foreignWord>
+        <nativeWord>piana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>48</idSound>
+    </word>
+    <word>
+        <foreignWord>la verdad</foreignWord>
+        <nativeWord>prawda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>49</idSound>
+    </word>
+    <word>
+        <foreignWord>los labios</foreignWord>
+        <nativeWord>wargi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>50</idSound>
+    </word>
+    <word>
+        <foreignWord>el pico</foreignWord>
+        <nativeWord>dziób</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>51</idSound>
+    </word>
+    <word>
+        <foreignWord>la jarrilla</foreignWord>
+        <nativeWord>kocioł; kociołek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>52</idSound>
+    </word>
+    <word>
+        <foreignWord>la casuela</foreignWord>
+        <nativeWord>garnczek; garnek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>53</idSound>
+    </word>
+    <word>
+        <foreignWord>la trompa</foreignWord>
+        <nativeWord>pysk; ryj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>54</idSound>
+    </word>
+    <word>
+        <foreignWord>las tijeras</foreignWord>
+        <nativeWord>nożyczki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>55</idSound>
+    </word>
+    <word>
+        <foreignWord>las patas</foreignWord>
+        <nativeWord>odnóża (zwierząt)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>56</idSound>
+    </word>
+    <word>
+        <foreignWord>el balde; la cubeta</foreignWord>
+        <nativeWord>wiadro</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>57</idSound>
+    </word>
+    <word>
+        <foreignWord>la bomba</foreignWord>
+        <nativeWord>pompa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>58</idSound>
+    </word>
+    <word>
+        <foreignWord>la trensa</foreignWord>
+        <nativeWord>warkocz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>59</idSound>
+    </word>
+    <word>
+        <foreignWord>el cielo</foreignWord>
+        <nativeWord>niebo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>60</idSound>
+    </word>
+    <word>
+        <foreignWord>la tejana; el sombrero</foreignWord>
+        <nativeWord>kapelusz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>61</idSound>
+    </word>
+    <word>
+        <foreignWord>el plato</foreignWord>
+        <nativeWord>talerz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>62</idSound>
+    </word>
+    <word>
+        <foreignWord>el paleacate</foreignWord>
+        <nativeWord>chusta</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>63</idSound>
+    </word>
+    <word>
+        <foreignWord>el tenedor</foreignWord>
+        <nativeWord>widelec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>64</idSound>
+    </word>
+    <word>
+        <foreignWord>el cuchillo</foreignWord>
+        <nativeWord>nóż</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>65</idSound>
+    </word>
+    <word>
+        <foreignWord>la cuchara</foreignWord>
+        <nativeWord>łyżka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>66</idSound>
+    </word>
+    <word>
+        <foreignWord>la luz</foreignWord>
+        <nativeWord>światło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>67</idSound>
+    </word>
+    <word>
+        <foreignWord>las medias</foreignWord>
+        <nativeWord>skarpety (damskie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>68</idSound>
+    </word>
+    <word>
+        <foreignWord>los calcetines</foreignWord>
+        <nativeWord>skarpety (męskie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>69</idSound>
+    </word>
+    <word>
+        <foreignWord>el apoyo</foreignWord>
+        <nativeWord>pomoc; wsparcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>70</idSound>
+    </word>
+    <word>
+        <foreignWord>el infierno</foreignWord>
+        <nativeWord>piekło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>71</idSound>
+    </word>
+    <word>
+        <foreignWord>la obra</foreignWord>
+        <nativeWord>dzieło; praca; konstrukcja</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>72</idSound>
+    </word>
+    <word>
+        <foreignWord>la perdición</foreignWord>
+        <nativeWord>ruina; klęska; zatrata</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>73</idSound>
+    </word>
+    <word>
+        <foreignWord>el amor</foreignWord>
+        <nativeWord>miłość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>74</idSound>
+    </word>
+    <word>
+        <foreignWord>la alma</foreignWord>
+        <nativeWord>dusza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>75</idSound>
+    </word>
+    <word>
+        <foreignWord>el pensamiento</foreignWord>
+        <nativeWord>myśl; myślenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>76</idSound>
+    </word>
+    <word>
+        <foreignWord>la calidad</foreignWord>
+        <nativeWord>jakość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>77</idSound>
+    </word>
+    <word>
+        <foreignWord>el miedo</foreignWord>
+        <nativeWord>lęk; strach</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>78</idSound>
+    </word>
+    <word>
+        <foreignWord>el dolor</foreignWord>
+        <nativeWord>ból</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>79</idSound>
+    </word>
+    <word>
+        <foreignWord>el don</foreignWord>
+        <nativeWord>dar; prezent</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>80</idSound>
+    </word>
+    <word>
+        <foreignWord>la vida</foreignWord>
+        <nativeWord>życie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>81</idSound>
+    </word>
+    <word>
+        <foreignWord>el maní; el cacahuate; el cacahuete</foreignWord>
+        <nativeWord>orzeszki ziemne</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>82</idSound>
+    </word>
+    <word>
+        <foreignWord>el voz</foreignWord>
+        <nativeWord>głos</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>83</idSound>
+    </word>
+    <word>
+        <foreignWord>el suelo</foreignWord>
+        <nativeWord>ziemia; powierzchnia; podłoga</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>84</idSound>
+    </word>
+    <word>
+        <foreignWord>la semilla</foreignWord>
+        <nativeWord>nasienie; ziarno</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>85</idSound>
+    </word>
+    <word>
+        <foreignWord>la hierba</foreignWord>
+        <nativeWord>trawa; zioło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>86</idSound>
+    </word>
+    <word>
+        <foreignWord>el árbol</foreignWord>
+        <nativeWord>drzewo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>87</idSound>
+    </word>
+    <word>
+        <foreignWord>el arbolito</foreignWord>
+        <nativeWord>drzewko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>88</idSound>
+    </word>
+    <word>
+        <foreignWord>el arbolote</foreignWord>
+        <nativeWord>{olbrzymie/duże} drzewo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>89</idSound>
+    </word>
+    <word>
+        <foreignWord>la bóveda</foreignWord>
+        <nativeWord>łuk (architektoniczny)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>90</idSound>
+    </word>
+    <word>
+        <foreignWord>la lumbrera</foreignWord>
+        <nativeWord>lampa; światło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>91</idSound>
+    </word>
+    <word>
+        <foreignWord>la estrella</foreignWord>
+        <nativeWord>gwiazda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>92</idSound>
+    </word>
+    <word>
+        <foreignWord>el latido</foreignWord>
+        <nativeWord>bicie (np. serca); uderzenia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>93</idSound>
+    </word>
+    <word>
+        <foreignWord>el hervidero</foreignWord>
+        <nativeWord>wrzątek; tłok; ścisk; gorące źródło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>94</idSound>
+    </word>
+    <word>
+        <foreignWord>la especie</foreignWord>
+        <nativeWord>gatunek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>95</idSound>
+    </word>
+    <word>
+        <foreignWord>el reptil</foreignWord>
+        <nativeWord>gad</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>96</idSound>
+    </word>
+    <word>
+        <foreignWord>la fiera</foreignWord>
+        <nativeWord>dzikie zwierzę; dziczyzna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>97</idSound>
+    </word>
+    <word>
+        <foreignWord>el campo</foreignWord>
+        <nativeWord>pole</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>98</idSound>
+    </word>
+    <word>
+        <foreignWord>la semejanza</foreignWord>
+        <nativeWord>podobieństwo</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>99</idSound>
+    </word>
+    <word>
+        <foreignWord>el poder</foreignWord>
+        <nativeWord>moc; władza; autorytet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>100</idSound>
+    </word>
+    <word>
+        <foreignWord>la Resurrección</foreignWord>
+        <nativeWord>Zmartwychwstanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>101</idSound>
+    </word>
+    <word>
+        <foreignWord>el pecado</foreignWord>
+        <nativeWord>grzech</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>102</idSound>
+    </word>
+    <word>
+        <foreignWord>el perdón</foreignWord>
+        <nativeWord>przebaczenie; odpuszczenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>103</idSound>
+    </word>
+    <word>
+        <foreignWord>el Espíritu Santo</foreignWord>
+        <nativeWord>Duch Święty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>104</idSound>
+    </word>
+    <word>
+        <foreignWord>el pecador</foreignWord>
+        <nativeWord>grzesznik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>105</idSound>
+    </word>
+    <word>
+        <foreignWord>la hora</foreignWord>
+        <nativeWord>godzina</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>106</idSound>
+    </word>
+    <word>
+        <foreignWord>los siglos</foreignWord>
+        <nativeWord>wieki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>107</idSound>
+    </word>
+    <word>
+        <foreignWord>la broma</foreignWord>
+        <nativeWord>dowcip; żart</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>108</idSound>
+    </word>
+    <word>
+        <foreignWord>la diversión</foreignWord>
+        <nativeWord>radość; zabawa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>109</idSound>
+    </word>
+    <word>
+        <foreignWord>la risa</foreignWord>
+        <nativeWord>śmiech</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>110</idSound>
+    </word>
+    <word>
+        <foreignWord>la sonrisa</foreignWord>
+        <nativeWord>uśmiech</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>111</idSound>
+    </word>
+    <word>
+        <foreignWord>el grito</foreignWord>
+        <nativeWord>wrzask; krzyk; lament</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>112</idSound>
+    </word>
+    <word>
+        <foreignWord>el llanto</foreignWord>
+        <nativeWord>płacz; wylewanie łez</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>113</idSound>
+    </word>
+    <word>
+        <foreignWord>el jurado</foreignWord>
+        <nativeWord>juror; sędzia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>114</idSound>
+    </word>
+    <word>
+        <foreignWord>el juez</foreignWord>
+        <nativeWord>sędzia (też i ten sportowy)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>115</idSound>
+    </word>
+    <word>
+        <foreignWord>la peña</foreignWord>
+        <nativeWord>paczka (np. przyjaciół)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>116</idSound>
+    </word>
+    <word>
+        <foreignWord>la pena</foreignWord>
+        <nativeWord>kara; żal; ból; smutek; zażenowanie; kłopot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>117</idSound>
+    </word>
+    <word>
+        <foreignWord>la pena de muerte</foreignWord>
+        <nativeWord>kara śmierci</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el {rollo/papel} de baño</foreignWord>
+        <nativeWord>papier toaletowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la bondad</foreignWord>
+        <nativeWord>dobroć; dobro; dobre uczynki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cariño</foreignWord>
+        <nativeWord>upodobanie; umiłowanie; zamiłowanie; afekt; troska</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el corazon</foreignWord>
+        <nativeWord>serce</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la alabanza</foreignWord>
+        <nativeWord>uwielbienie; chwała; aplauz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el rebaño</foreignWord>
+        <nativeWord>stado</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el desierto</foreignWord>
+        <nativeWord>pustynia; pustkowie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el enojo; la cólera; la ira</foreignWord>
+        <nativeWord>wściekłość; furia; gniew</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cruz</foreignWord>
+        <nativeWord>krzyż</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la suerte</foreignWord>
+        <nativeWord>szczęście</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el juicio</foreignWord>
+        <nativeWord>prawy wyrok; dobra opinia; sprawiedliwy sąd</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el cuerpo</foreignWord>
+        <nativeWord>ciało</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el conjuro</foreignWord>
+        <nativeWord>zaklęcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el malhechor</foreignWord>
+        <nativeWord>zły człowiek; zło czyniący</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la sorpresa</foreignWord>
+        <nativeWord>niespodzianka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la herida</foreignWord>
+        <nativeWord>rana; skaleczenie; zacięcie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la maldad</foreignWord>
+        <nativeWord>zło; złe uczynki</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el jarrito</foreignWord>
+        <nativeWord>dzban z gliny; gliniany dzban</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la telaraña</foreignWord>
+        <nativeWord>pajęczyna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
         <idSound>0</idSound>
     </word>
 </dictionary>

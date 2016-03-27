@@ -1801,7 +1801,7 @@
     </word>
     <word>
         <foreignWord>Usted no cabe.</foreignWord>
-        <nativeWord>You do not fit.</nativeWord>
+        <nativeWord>You (plural) do not fit.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>258</idSound>
@@ -3083,6 +3083,48 @@
     <word>
         <foreignWord>Sin embargo</foreignWord>
         <nativeWord>without distraints</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Pase le!</foreignWord>
+        <nativeWord>Come in!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Ande le!</foreignWord>
+        <nativeWord>Go!;Come on!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Sienta se</foreignWord>
+        <nativeWord>Sit down</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Yo creo qué sí</foreignWord>
+        <nativeWord>I think, yes.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Y así fue.</foreignWord>
+        <nativeWord>And it happended.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Ya me voy.</foreignWord>
+        <nativeWord>I am going now.; Now I am going.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
