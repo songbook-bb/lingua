@@ -824,137 +824,165 @@
         <nativeWord>kara śmierci</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>118</idSound>
     </word>
     <word>
         <foreignWord>el {rollo/papel} de baño</foreignWord>
         <nativeWord>papier toaletowy</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>119</idSound>
     </word>
     <word>
         <foreignWord>la bondad</foreignWord>
         <nativeWord>dobroć; dobro; dobre uczynki</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>120</idSound>
     </word>
     <word>
         <foreignWord>el cariño</foreignWord>
         <nativeWord>upodobanie; umiłowanie; zamiłowanie; afekt; troska</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>121</idSound>
     </word>
     <word>
         <foreignWord>el corazon</foreignWord>
         <nativeWord>serce</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>122</idSound>
     </word>
     <word>
         <foreignWord>la alabanza</foreignWord>
         <nativeWord>uwielbienie; chwała; aplauz</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>123</idSound>
     </word>
     <word>
         <foreignWord>el rebaño</foreignWord>
         <nativeWord>stado</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>124</idSound>
     </word>
     <word>
         <foreignWord>el desierto</foreignWord>
         <nativeWord>pustynia; pustkowie</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>125</idSound>
     </word>
     <word>
         <foreignWord>el enojo; la cólera; la ira</foreignWord>
         <nativeWord>wściekłość; furia; gniew</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>126</idSound>
     </word>
     <word>
         <foreignWord>la cruz</foreignWord>
         <nativeWord>krzyż</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>127</idSound>
     </word>
     <word>
         <foreignWord>la suerte</foreignWord>
         <nativeWord>szczęście</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>128</idSound>
     </word>
     <word>
         <foreignWord>el juicio</foreignWord>
         <nativeWord>prawy wyrok; dobra opinia; sprawiedliwy sąd</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>129</idSound>
     </word>
     <word>
         <foreignWord>el cuerpo</foreignWord>
         <nativeWord>ciało</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>130</idSound>
     </word>
     <word>
         <foreignWord>el conjuro</foreignWord>
         <nativeWord>zaklęcie</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>131</idSound>
     </word>
     <word>
         <foreignWord>el malhechor</foreignWord>
         <nativeWord>zły człowiek; zło czyniący</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>132</idSound>
     </word>
     <word>
         <foreignWord>la sorpresa</foreignWord>
         <nativeWord>niespodzianka</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>133</idSound>
     </word>
     <word>
         <foreignWord>la herida</foreignWord>
         <nativeWord>rana; skaleczenie; zacięcie</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>134</idSound>
     </word>
     <word>
         <foreignWord>la maldad</foreignWord>
         <nativeWord>zło; złe uczynki</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>135</idSound>
     </word>
     <word>
         <foreignWord>el jarrito</foreignWord>
         <nativeWord>dzban z gliny; gliniany dzban</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>136</idSound>
     </word>
     <word>
         <foreignWord>la telaraña</foreignWord>
         <nativeWord>pajęczyna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>137</idSound>
+    </word>
+    <word>
+        <foreignWord>el mazapan</foreignWord>
+        <nativeWord>marcepan</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>138</idSound>
+    </word>
+    <word>
+        <foreignWord>el tornillo</foreignWord>
+        <nativeWord>śruba</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el menudo</foreignWord>
+        <nativeWord>flaki (potrawa)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el taller</foreignWord>
+        <nativeWord>warsztat</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

@@ -3061,72 +3061,79 @@
     </word>
     <word>
         <foreignWord>¿Mande?</foreignWord>
-        <nativeWord>Co {/mówisz}?</nativeWord>
+        <nativeWord>What  {/do you say}?</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>438</idSound>
     </word>
     <word>
         <foreignWord>Es abierto.</foreignWord>
         <nativeWord>It is opened.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>439</idSound>
     </word>
     <word>
         <foreignWord>Es cerrado.</foreignWord>
         <nativeWord>It is closed.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>440</idSound>
     </word>
     <word>
         <foreignWord>Sin embargo</foreignWord>
-        <nativeWord>without distraints</nativeWord>
+        <nativeWord>But it depends on</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>441</idSound>
     </word>
     <word>
         <foreignWord>¡Pase le!</foreignWord>
         <nativeWord>Come in!</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>442</idSound>
     </word>
     <word>
         <foreignWord>¡Ande le!</foreignWord>
         <nativeWord>Go!;Come on!</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>443</idSound>
     </word>
     <word>
-        <foreignWord>Sienta se</foreignWord>
-        <nativeWord>Sit down</nativeWord>
+        <foreignWord>¡Siente se!</foreignWord>
+        <nativeWord>Sit down!</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>444</idSound>
     </word>
     <word>
-        <foreignWord>Yo creo qué sí</foreignWord>
+        <foreignWord>Yo creo que sí.</foreignWord>
         <nativeWord>I think, yes.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>445</idSound>
     </word>
     <word>
         <foreignWord>Y así fue.</foreignWord>
         <nativeWord>And it happended.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>446</idSound>
     </word>
     <word>
         <foreignWord>Ya me voy.</foreignWord>
         <nativeWord>I am going now.; Now I am going.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>447</idSound>
+    </word>
+    <word>
+        <foreignWord>Con permiso</foreignWord>
+        <nativeWord>Let me go</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>448</idSound>
     </word>
 </dictionary>
