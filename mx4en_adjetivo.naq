@@ -245,4 +245,11 @@
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
+    <word>
+        <foreignWord>profundo; profunda</foreignWord>
+        <nativeWord>deep</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
 </dictionary>
