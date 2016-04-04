@@ -34,7 +34,7 @@ public class Settings implements IWTSerializable {
   private static final long serialVersionUID = 5888329924346061697L;
   private int wordsInLesson;
   private int autoSuggest;
-	private DirectionMode directionMode;
+  private DirectionMode directionMode;
   private KeyboardButtonType keyboardType;
   private int maxScore;
   private int incScore;

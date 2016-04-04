@@ -160,8 +160,9 @@ public class WordTutor implements IWTSerializable {
 				enableSpelling = false;
 			}
 		}
+		//LOG.info("LOADING from FILE ["+currentDictFile+"] isSpelling = "+dType.isSpelling());
+		settings.setSpelling(dType.isSpelling());
 		// persist keyboard settings (taken from test file)
-		settings.setSpelling(enableSpelling);
 		settings.setKeyboardType(settings.keyboardIntToEnumeration(dType.getKeyboard()));
 		settings.saveToXML();
 		// rebuild current sample map each time
@@ -189,6 +190,7 @@ public class WordTutor implements IWTSerializable {
 		dType.setKeyboard(settings.keyboardEnumerationToInt(settings
 				.getKeyboardType()));
 		dType.setSpelling(settings.isSpelling());
+		//LOG.info("SAVING into FILE ["+currentDictFile+"] isSpelling = "+dType.isSpelling());	
 		JAXBElement<DictionaryType> jaxbDict = factory.createDictionary(dType);
 		try {
 			JAXBContext jc = JAXBContext.newInstance("wordtutor.xml.dict");
