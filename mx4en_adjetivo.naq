@@ -78,8 +78,8 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>pequeñito; pequeñita</foreignWord>
-        <nativeWord>tiny</nativeWord>
+        <foreignWord>pequeñito; pequeñita; diminuto; diminuta</foreignWord>
+        <nativeWord>tiny; small</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -92,7 +92,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>lento; lenta</foreignWord>
+        <foreignWord>lento; lenta; despacio; despacia</foreignWord>
         <nativeWord>slow</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -211,7 +211,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>mojado; mojada</foreignWord>
+        <foreignWord>mojado; mojada; húmedo; húmeda</foreignWord>
         <nativeWord>wet</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -240,7 +240,7 @@
     </word>
     <word>
         <foreignWord>alto; alta</foreignWord>
-        <nativeWord>high</nativeWord>
+        <nativeWord>high; tall</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -248,6 +248,573 @@
     <word>
         <foreignWord>profundo; profunda</foreignWord>
         <nativeWord>deep</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>duro; dura</foreignWord>
+        <nativeWord>hard</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enojado; enojada</foreignWord>
+        <nativeWord>angry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>emocionado; emocionada</foreignWord>
+        <nativeWord>excited</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>atractivo; atractiva</foreignWord>
+        <nativeWord>attractive</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>horrible</foreignWord>
+        <nativeWord>horrible</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>despierto; despierta</foreignWord>
+        <nativeWord>awake</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dormido; dormida</foreignWord>
+        <nativeWord>asleep</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>amargo; amarga</foreignWord>
+        <nativeWord>bitter</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>dulce</foreignWord>
+        <nativeWord>sweet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>nervioso; nerviosa</foreignWord>
+        <nativeWord>nervous</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>obeso; obesa</foreignWord>
+        <nativeWord>chubby; overweight</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>esbelto; ebelta</foreignWord>
+        <nativeWord>slim</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>limpio; limpia</foreignWord>
+        <nativeWord>clean</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>frío; fría</foreignWord>
+        <nativeWord>cold</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>caliente</foreignWord>
+        <nativeWord>hot</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fresco; fresca</foreignWord>
+        <nativeWord>cool</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tibio; tibia</foreignWord>
+        <nativeWord>warm</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>correcto; correcta</foreignWord>
+        <nativeWord>correct</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>incorrecto; incorrecta</foreignWord>
+        <nativeWord>incorrect</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>muerto; muerta</foreignWord>
+        <nativeWord>dead</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vivo; viva</foreignWord>
+        <nativeWord>alive</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>superficial</foreignWord>
+        <nativeWord>shallow</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>caro; cara</foreignWord>
+        <nativeWord>expensive</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>barato; barata</foreignWord>
+        <nativeWord>cheap</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>extrovertido; extrovertida</foreignWord>
+        <nativeWord>extroverted</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>timido; timida</foreignWord>
+        <nativeWord>shy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lejos</foreignWord>
+        <nativeWord>far</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cerca</foreignWord>
+        <nativeWord>near</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>gordo; gorda</foreignWord>
+        <nativeWord>fat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>delgado; delgada</foreignWord>
+        <nativeWord>thin</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>lleno; llena</foreignWord>
+        <nativeWord>full</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vacío; vacía</foreignWord>
+        <nativeWord>empty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>divertido; divertida</foreignWord>
+        <nativeWord>funny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>aburrido; aburrida</foreignWord>
+        <nativeWord>boring</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>generoso; generosa</foreignWord>
+        <nativeWord>generous</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>egoísta</foreignWord>
+        <nativeWord>selfish</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>malo; mala</foreignWord>
+        <nativeWord>bad</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>felíz</foreignWord>
+        <nativeWord>happy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>triste; afligido; afligida</foreignWord>
+        <nativeWord>sad</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>suave</foreignWord>
+        <nativeWord>soft</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pesado; pesada</foreignWord>
+        <nativeWord>heavy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ligero; ligera</foreignWord>
+        <nativeWord>light (ex. 1 gram)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>enorme</foreignWord>
+        <nativeWord>huge</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>amable</foreignWord>
+        <nativeWord>kind</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desagradable</foreignWord>
+        <nativeWord>unpleasant</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>claro</foreignWord>
+        <nativeWord>light (ex. colour)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>oscuro</foreignWord>
+        <nativeWord>dark</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>abierto; abierta</foreignWord>
+        <nativeWord>opened</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cerrado</foreignWord>
+        <nativeWord>closed</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>educado; educada</foreignWord>
+        <nativeWord>polite</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>grosero; grosera</foreignWord>
+        <nativeWord>rude</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>preciso; precisa</foreignWord>
+        <nativeWord>precise</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>impreciso; imprecisa</foreignWord>
+        <nativeWord>imprecise</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>tranquilo</foreignWord>
+        <nativeWord>quiet</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>inquieto; inquieta</foreignWord>
+        <nativeWord>restless</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ríco; ríca</foreignWord>
+        <nativeWord>rich</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>pobre</foreignWord>
+        <nativeWord>poor</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>right</foreignWord>
+        <nativeWord>derecha</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>izquierda</foreignWord>
+        <nativeWord>left</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>seguro; segura</foreignWord>
+        <nativeWord>safe</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>peligroso; peligrosa</foreignWord>
+        <nativeWord>dangerous</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>simple</foreignWord>
+        <nativeWord>simple</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>complejo; compleja</foreignWord>
+        <nativeWord>complex</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>soltero; soltera</foreignWord>
+        <nativeWord>single</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>casado; casada</foreignWord>
+        <nativeWord>married</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cuadrado; caudrada</foreignWord>
+        <nativeWord>square</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>redondo; redonda</foreignWord>
+        <nativeWord>round</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>fuerte</foreignWord>
+        <nativeWord>strong</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>débil</foreignWord>
+        <nativeWord>weak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ordenado; ordenada</foreignWord>
+        <nativeWord>tidy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>desordenado; desordenada</foreignWord>
+        <nativeWord>untidy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cierto; cierta</foreignWord>
+        <nativeWord>true</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>falso; falsa</foreignWord>
+        <nativeWord>false</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>útil</foreignWord>
+        <nativeWord>useful</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>inútil</foreignWord>
+        <nativeWord>useless</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>ancho; ancha</foreignWord>
+        <nativeWord>wide</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>estrecho; estrecha</foreignWord>
+        <nativeWord>narrow</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>cómodo; cómoda</foreignWord>
+        <nativeWord>comfortable</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>vanidoso; vanidosa; creido; creida</foreignWord>
+        <nativeWord>vain</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>resbaloso; resbalosa</foreignWord>
+        <nativeWord>slippery (surface)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>todopoderoso; todopoderosa</foreignWord>
+        <nativeWord>almighty</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

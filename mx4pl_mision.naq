@@ -149,7 +149,7 @@
     </word>
     <word>
         <foreignWord>el equipo</foreignWord>
-        <nativeWord>ekipa</nativeWord>
+        <nativeWord>ekipa; wyposażenie</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>22</idSound>
@@ -983,6 +983,279 @@
     <word>
         <foreignWord>el taller</foreignWord>
         <nativeWord>warsztat</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el arco irís</foreignWord>
+        <nativeWord>tęcza</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los abarrotes</foreignWord>
+        <nativeWord>spożywczy; warzywniak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la red</foreignWord>
+        <nativeWord>sieć</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la toalla</foreignWord>
+        <nativeWord>ręcznik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la aventura</foreignWord>
+        <nativeWord>przygoda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cueva</foreignWord>
+        <nativeWord>jaskinia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el polvo</foreignWord>
+        <nativeWord>pył; proch</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el salto</foreignWord>
+        <nativeWord>skok; salto</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tiburón</foreignWord>
+        <nativeWord>rekin</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el comedor</foreignWord>
+        <nativeWord>jadłodajnia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el extintor</foreignWord>
+        <nativeWord>gaśnica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cabra</foreignWord>
+        <nativeWord>kozioł</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el murciélago</foreignWord>
+        <nativeWord>nietoperz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la ballena</foreignWord>
+        <nativeWord>waleń</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el mono; el chango</foreignWord>
+        <nativeWord>małpa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el bote de basura</foreignWord>
+        <nativeWord>kosz na śmieci; śmietnik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el ventilador</foreignWord>
+        <nativeWord>wentylator</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el librero</foreignWord>
+        <nativeWord>półka na książki; biblioteczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la almohada</foreignWord>
+        <nativeWord>poduszka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la plancha</foreignWord>
+        <nativeWord>żelazko</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la canasta</foreignWord>
+        <nativeWord>kosz; koszyk</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>los gemelos</foreignWord>
+        <nativeWord>lornetka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el semáforo</foreignWord>
+        <nativeWord>światła; przejście z sygnalizacją świetlną</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la regadera; la ducha</foreignWord>
+        <nativeWord>prysznic</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la pantalla</foreignWord>
+        <nativeWord>ekran; LCD</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el mirador turístico</foreignWord>
+        <nativeWord>punkt widokowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el forraje</foreignWord>
+        <nativeWord>pasza {/dla zwierząt}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la advertencia</foreignWord>
+        <nativeWord>rada; porada; uwaga; ostrzeżenie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el anuncio</foreignWord>
+        <nativeWord>reklama</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la prepa; la preparación</foreignWord>
+        <nativeWord>przygotowanie; gotowość</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la parada</foreignWord>
+        <nativeWord>przystanek {/autobusowy}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tiendita</foreignWord>
+        <nativeWord>sklepik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la tienda</foreignWord>
+        <nativeWord>sklep</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el escape</foreignWord>
+        <nativeWord>tłumik</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la cruzeta</foreignWord>
+        <nativeWord>krzyżak (klucz)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el freno</foreignWord>
+        <nativeWord>hamulec</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el líquido para frenos</foreignWord>
+        <nativeWord>płyn hamulcowy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el foco</foreignWord>
+        <nativeWord>żarówka; czołówka; skupienie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la vela; la veladora</foreignWord>
+        <nativeWord>świeczka</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

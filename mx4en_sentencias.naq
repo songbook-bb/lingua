@@ -190,15 +190,15 @@
         <idSound>27</idSound>
     </word>
     <word>
-        <foreignWord>Veo que él come. </foreignWord>
-        <nativeWord>I see that he eats. </nativeWord>
+        <foreignWord>{Yo veo/Veo} que él come.</foreignWord>
+        <nativeWord>I see that he eats.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>28</idSound>
     </word>
     <word>
-        <foreignWord>Yo como porque tú comes. </foreignWord>
-        <nativeWord>I eat because you eat, </nativeWord>
+        <foreignWord>{Como/Yo como} porque tú comes.</foreignWord>
+        <nativeWord>I eat because you eat,</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>29</idSound>
@@ -267,15 +267,15 @@
         <idSound>38</idSound>
     </word>
     <word>
-        <foreignWord>Mañana limpio el baño. </foreignWord>
+        <foreignWord>Mañana yo limpio el baño.; Mañana limpio el baño. </foreignWord>
         <nativeWord>Tomorrow I will clean the bathroom. </nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>39</idSound>
     </word>
     <word>
-        <foreignWord>Voy a la cama. </foreignWord>
-        <nativeWord>I go to {/the} bed. </nativeWord>
+        <foreignWord>{Yo voy/Voy} a la cama.</foreignWord>
+        <nativeWord>I go to {/the} bed.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>40</idSound>
@@ -330,8 +330,8 @@
         <idSound>47</idSound>
     </word>
     <word>
-        <foreignWord>De pie</foreignWord>
-        <nativeWord>Stand up</nativeWord>
+        <foreignWord>¡De pie!</foreignWord>
+        <nativeWord>Stand up!</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>48</idSound>
@@ -358,15 +358,15 @@
         <idSound>51</idSound>
     </word>
     <word>
-        <foreignWord>Soy alto. </foreignWord>
-        <nativeWord>I am tall. </nativeWord>
+        <foreignWord>{Yo soy/Soy} alto.</foreignWord>
+        <nativeWord>I am tall.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>52</idSound>
     </word>
     <word>
-        <foreignWord>Soy bajo. </foreignWord>
-        <nativeWord>I am short. </nativeWord>
+        <foreignWord>{Yo soy/Soy} bajo.</foreignWord>
+        <nativeWord>I am short.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>53</idSound>
@@ -1121,7 +1121,7 @@
         <idSound>160</idSound>
     </word>
     <word>
-        <foreignWord>Yo digo que sí.</foreignWord>
+        <foreignWord>{Yo digo/Digo} que sí.</foreignWord>
         <nativeWord>I say yes.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1163,7 +1163,7 @@
         <idSound>166</idSound>
     </word>
     <word>
-        <foreignWord>Soy de Texas.</foreignWord>
+        <foreignWord>{Yo soy/Soy} de Texas.</foreignWord>
         <nativeWord>I am from Texas.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1542,7 +1542,7 @@
     </word>
     <word>
         <foreignWord>Es un poeta pobre.</foreignWord>
-        <nativeWord>He is a poor poet. ;It is a poor poet.</nativeWord>
+        <nativeWord>He is a poor poet.; It is a poor poet.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>221</idSound>
@@ -1563,14 +1563,14 @@
     </word>
     <word>
         <foreignWord>La carne es cara.</foreignWord>
-        <nativeWord>Meat is expensive. ;The meat is expensive.</nativeWord>
+        <nativeWord>Meat is expensive. ; The meat is expensive.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>224</idSound>
     </word>
     <word>
         <foreignWord>La semana pasada</foreignWord>
-        <nativeWord>The last week;Last week</nativeWord>
+        <nativeWord>The last week; Last week</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>225</idSound>
@@ -3131,9 +3131,163 @@
     </word>
     <word>
         <foreignWord>Con permiso</foreignWord>
-        <nativeWord>Let me go</nativeWord>
+        <nativeWord>Let me {go/in};</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>448</idSound>
+    </word>
+    <word>
+        <foreignWord>No {tirar/tire} basura.; Prohibido tirar basura.</foreignWord>
+        <nativeWord>Do not leave {waste/wastes}.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Respete/Obedezca} las señales</foreignWord>
+        <nativeWord>Respect the signals</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Curva peligrosa</foreignWord>
+        <nativeWord>Dangerous turn</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Te vende</foreignWord>
+        <nativeWord>For sale</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>{Modere su/Disminuya tu} velocidad</foreignWord>
+        <nativeWord>Slow down</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Permida rebasar</foreignWord>
+        <nativeWord>It is allowed to take over</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Por medio de la comunidad</foreignWord>
+        <nativeWord>For good of the community</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Zona de niebla</foreignWord>
+        <nativeWord>Foggy zone</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Use el cinturón de seguridad</foreignWord>
+        <nativeWord>Use {/the} {/safety} belt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Reductor de velocidad</foreignWord>
+        <nativeWord>Speed ramp</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Cruce de peatones a 150 m.</foreignWord>
+        <nativeWord>Pedestrian crossing by 150 m.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Menor velocidad mayor seguridad</foreignWord>
+        <nativeWord>Minor speed mayor safety</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>No rebase</foreignWord>
+        <nativeWord>Do not take over</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Pavimiento resbaloso</foreignWord>
+        <nativeWord>Slippery {surface/pavement}</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Entrada y salida de vehículos</foreignWord>
+        <nativeWord>Entrance and exit of the vehicles</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Cruce de ganado a 200 m.</foreignWord>
+        <nativeWord>Crossing with animal route by 200 m.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Maneje con precaución su familia lo espera.</foreignWord>
+        <nativeWord>Drive carefully your family is wating for you.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Respete limite de velocidad</foreignWord>
+        <nativeWord>Respect the speed limit</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Termina obra</foreignWord>
+        <nativeWord>Work end</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Zona de derrumbes</foreignWord>
+        <nativeWord>Landslide zone</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Precaución</foreignWord>
+        <nativeWord>Warning; Cauction</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Por tu seguridad utiliza el cinturón</foreignWord>
+        <nativeWord>For your security use {/the} {/safety} belt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
     </word>
 </dictionary>
