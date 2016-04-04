@@ -69,6 +69,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 	private JButton buttonEdit;
 	private JButton buttonDel;
 	private JButton buttonMerge;
+	private JButton buttonSwap;
 	private JButton buttonNewDict;
 	private JButton buttonXlsImport;
 	private JButton buttonXlsExport;
@@ -301,10 +302,6 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		if (Util.isEmpty(s))
 			return;
 		s = s + ".naq";
-		/**
-		 * @TODO Czy takiego pliku już nie ma? I sprawdzenie czy nazwa s jest
-		 *       poprawnym plikiem
-		 */
 		try {
 			File fl = new File(s);
 			if (fl.exists()) {
@@ -341,7 +338,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			JOptionPane.showMessageDialog(
 					this,
 					ioe.getMessage(),
-					"Error duplicating sound files",
+					Util.getLocalizedString("ERROR.DUPLICATE.SOUND.FILES"),
 					JOptionPane.ERROR_MESSAGE, null);			
 		}
 	}
@@ -401,17 +398,18 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			tutor.fillTableModel();
 			tutor.saveToXML();
 			tableWords.repaint();
-		} else {
-			// hidden function INVERT
-			if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("NAQN.MODE"))) {
-				tutor.exchangeWords();
-				tutor.fillTableModel();
-				tutor.saveToXML();
-				tableWords.repaint();
-			}
-		}
+		} 
 	}
 
+	public void swapWords() {
+		if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("NAQN.MODE"))) {
+			tutor.exchangeWords();
+			tutor.fillTableModel();
+			tutor.saveToXML();
+			tableWords.repaint();
+		}
+	}	
+	
 	public void actionPerformed(ActionEvent event) {
 		String command = event.getActionCommand();
 		if (command.equals("clearLearning")) {
@@ -438,16 +436,17 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 			delWord();
 		} else if (command.equals("merge")) {
 			mergeWords();
+		} else if (command.equals("swap")) {
+			swapWords();
 		} else if (command.equals("new")) {
 			newDictionary();
-		} else if (command.equals("dupl")) {
+		} else if (command.equals("duplicate")) {
 			duplicateSound();
 		} else if (command.equals("zero")) {
 			zeroAllLearningPlusStatistics();
 		} else if (command.equals("about")) {
 			infoAbout();
 		}
-
 	}
 
 	public void keyPressed(KeyEvent e) {
@@ -545,12 +544,21 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		buttonEdit.setToolTipText(Util.getLocalizedString("MAIN.EDIT.TIP"));
 		panelTools.add(buttonEdit);
 
-		buttonMerge = new JButton(Util.getLocalizedString("MAIN.MERGE"));
-		buttonMerge.setActionCommand("merge");
-		buttonMerge.addActionListener(this);
-		buttonMerge.setToolTipText(Util.getLocalizedString("MAIN.MERGE.TIP"));
-		panelTools.add(buttonMerge);
+		if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("NAQN.MODE"))) {
+			
+			buttonMerge = new JButton(Util.getLocalizedString("MAIN.MERGE"));
+			buttonMerge.setActionCommand("merge");
+			buttonMerge.addActionListener(this);
+			buttonMerge.setToolTipText(Util.getLocalizedString("MAIN.MERGE.TIP"));
+			panelTools.add(buttonMerge);
 
+			buttonSwap = new JButton(Util.getLocalizedString("MAIN.SWAP"));
+			buttonSwap.setActionCommand("swap");
+			buttonSwap.addActionListener(this);
+			buttonSwap.setToolTipText(Util.getLocalizedString("MAIN.SWAP.TIP"));
+			panelTools.add(buttonSwap);
+		}
+		
 		buttonDel = new JButton(Util.getLocalizedString("MAIN.DELETE"));
 		buttonDel.setActionCommand("del");
 		buttonDel.addActionListener(this);
@@ -618,17 +626,17 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 		panelManage.add(buttonXlsExport);
 
 		if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("NAQN.MODE"))) {
-			buttonDupl = new JButton("Dupl");
-			buttonDupl.setActionCommand("dupl");
+			
+			buttonDupl = new JButton(Util.getLocalizedString("MAIN.DUPLICATE"));
+			buttonDupl.setActionCommand("duplicate");
 			buttonDupl.addActionListener(this);
-			buttonDupl.setToolTipText("Duplic");
+			buttonDupl.setToolTipText(Util.getLocalizedString("MAIN.DUPLICATE.TIP"));
 			panelManage.add(buttonDupl);
-		}
-		if (Util.TRUE.equalsIgnoreCase(Util.getAppProperty("NAQN.MODE"))) {
-			buttonZero = new JButton("Zero");
+
+			buttonZero = new JButton(Util.getLocalizedString("MAIN.ZERO"));
 			buttonZero.setActionCommand("zero");
 			buttonZero.addActionListener(this);
-			buttonZero.setToolTipText("Zero");
+			buttonZero.setToolTipText(Util.getLocalizedString("MAIN.ZERO.TIP"));
 			panelManage.add(buttonZero);
 		}
 		aboutLingmem = new JButton(Util.getLocalizedString("MAIN.ABOUT"));
