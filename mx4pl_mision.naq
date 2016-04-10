@@ -71,7 +71,7 @@
         <idSound>10</idSound>
     </word>
     <word>
-        <foreignWord>el fuego; la lumbre; la llama</foreignWord>
+        <foreignWord>el fuego; la lumbre; la llama; la fogata</foreignWord>
         <nativeWord>ogień</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1226,7 +1226,7 @@
         <idSound>0</idSound>
     </word>
     <word>
-        <foreignWord>la cruzeta</foreignWord>
+        <foreignWord>la cruceta</foreignWord>
         <nativeWord>krzyżak (klucz)</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1256,6 +1256,76 @@
     <word>
         <foreignWord>la vela; la veladora</foreignWord>
         <nativeWord>świeczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el guía</foreignWord>
+        <nativeWord>przewodnik (książka lub osoba)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la causa</foreignWord>
+        <nativeWord>przyczyna; powód</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la lata</foreignWord>
+        <nativeWord>puszka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la espalda</foreignWord>
+        <nativeWord>plecy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la columna</foreignWord>
+        <nativeWord>kręgosłup</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el pecho</foreignWord>
+        <nativeWord>pierś</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el mantel</foreignWord>
+        <nativeWord>obrus</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el ramo</foreignWord>
+        <nativeWord>gałąż</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la banca</foreignWord>
+        <nativeWord>ławka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el preocupación</foreignWord>
+        <nativeWord>obawa</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

@@ -3271,7 +3271,7 @@
     </word>
     <word>
         <foreignWord>Zona de derrumbes</foreignWord>
-        <nativeWord>Landslide zone</nativeWord>
+        <nativeWord>Landslide {zone/area}</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
