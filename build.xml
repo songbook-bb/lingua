@@ -87,6 +87,7 @@
   	    <include name="*.xsd"/>  	  	
   	    <include name="*.naq"/>	    
   	    <include name="*.properties"/>  	  	
+  	  	<include name="*.xpm"/>
   	  	<exclude name="${ANT.BUILD.FILE}"/>  	  	
   	  </fileset>  		
   	</copy>   	  	 
