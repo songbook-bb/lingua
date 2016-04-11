@@ -231,7 +231,7 @@ public class WordTutor implements IWTSerializable {
 		try {
 			soundId = Integer.parseInt(soundWord);
 		} catch (NumberFormatException nfe) {
-			LOG.error(nfe.getMessage(), nfe);
+			LOG.warn(nfe.getMessage(), nfe);
 		}
 		words.add(foreignWord, nativeWord, soundId);
 	}
@@ -302,6 +302,7 @@ public class WordTutor implements IWTSerializable {
 	 * This method alters hashMap - currentSoundSampleMap - key (is word phrase
 	 * index) value (is number of sound mp3 samples associated with the phrase)
 	 * 
+	 * mind: maxSamplesCounter is set to 7
 	 * @return
 	 */
 	public void buildCurrentSoundSampleCoverMapIndex() {
