@@ -272,7 +272,8 @@ public class FrmSettings extends JDialog implements ActionListener {
 				.getLocalizedString("SETTINGS.CHECKBOX.SPELLING.TIP"));
 		cbSpelling.setEnabled(enableSpelling);
 		panelSettings.add(cbSpelling);		
-
+		cbSpelling.addItemListener(checkBoxListener);
+		
 		// Translation Direction Group
 		panelDirection = new JPanel();
 		panelDirection
@@ -289,7 +290,7 @@ public class FrmSettings extends JDialog implements ActionListener {
 		rbBoth = new JRadioButton(
 				Util.getLocalizedString("SETTINGS.RADIO.BOTH"));
 		panelDirection.add(rbBoth);
-
+		
 		ButtonGroup bgDirection = new ButtonGroup();
 		bgDirection.add(rbStraight);
 		bgDirection.add(rbReverse);
@@ -305,7 +306,12 @@ public class FrmSettings extends JDialog implements ActionListener {
 			rbBoth.setSelected(true);
 			break;
 		}
-
+		
+		// for spelling DISABLE above buttons and force REVERSE mode
+		if (settings.isSpelling()) {
+			forceDirectionModeToReverse();
+		}
+		
 		// Additional keyboard Group
 		panelKeyboards = new JPanel();
 		panelKeyboards.setLayout(new BoxLayout(panelKeyboards, BoxLayout.Y_AXIS));
@@ -412,7 +418,7 @@ public class FrmSettings extends JDialog implements ActionListener {
 			// logger.debug("Item "+e.getID()+
 			// " "+e.getItem()+" "+e.getSource());
 			JCheckBox c = (JCheckBox) (e.getSource());
-			// logger.debug("Item "+c.getText());
+			//logger.debug("Item "+c.getText());
 			if (c.isSelected()
 					&& Util.getLocalizedString("SETTINGS.CHECKBOX.RANDOM")
 							.equals(c.getText())) {
@@ -421,10 +427,30 @@ public class FrmSettings extends JDialog implements ActionListener {
 					&& Util.getLocalizedString("SETTINGS.CHECKBOX.HARDEST")
 							.equals(c.getText())) {
 				cbRandom.setSelected(false);
+			} else if (c.isSelected() && Util.getLocalizedString("SETTINGS.CHECKBOX.SPELLING").equals(c.getText())) {
+				// for spelling force REVERSE mode
+				forceDirectionModeToReverse();
+			} else if (!c.isSelected() && Util.getLocalizedString("SETTINGS.CHECKBOX.SPELLING").equals(c.getText())) {
+				// enable setting DirectionMode choice again
+				rbStraight.setEnabled(true);
+				rbReverse.setEnabled(true);
+				rbBoth.setEnabled(true);
 			}
 			isEnabled = !(cbHardest.isSelected() || cbRandom.isSelected());
 			textIncScore.setEnabled(isEnabled);
 		}
-	}
 
+	}
+	/**
+	 *  disable setting DirectionMode and force REVERSE 
+	 */
+	private void forceDirectionModeToReverse() {
+		rbStraight.setEnabled(false);
+		rbStraight.setSelected(false);
+		rbReverse.setEnabled(false);
+		rbReverse.setSelected(true);
+		rbBoth.setEnabled(false);
+		rbBoth.setSelected(false);
+		settings.setDirectionMode(DirectionMode.REVERSE);
+	}
 }
