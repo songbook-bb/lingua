@@ -3187,7 +3187,7 @@
     </word>
     <word>
         <foreignWord>Zona de niebla</foreignWord>
-        <nativeWord>Foggy zone</nativeWord>
+        <nativeWord>Foggy {zone/area}</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -3286,6 +3286,13 @@
     <word>
         <foreignWord>Por tu seguridad utiliza el cinturón</foreignWord>
         <nativeWord>For your security use {/the} {/safety} belt</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>Es demasiado tarde.</foreignWord>
+        <nativeWord>{It is/It's} too late.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
