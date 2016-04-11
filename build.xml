@@ -80,7 +80,8 @@
   	  <fileset dir=".">
   	  	<include name="*.sh"/>
   	  	<include name="*.bat"/>  	  	
-  	    <include name="*.dll"/>  	  	
+  	  	<include name="*.script"/>  	  	
+  	  	<include name="*.dll"/>  	  	
   	    <include name="*.exe"/>  	  	
   	    <include name="*.xml"/>  	    
   	    <include name="*.xsd"/>  	  	
@@ -115,7 +116,8 @@
   	<echo file="${lingmem}/${LEARN.PROG}">java -jar lingmem.jar</echo>  	
   	<chmod perm="755" type="file">
   		<fileset dir="${lingmem}">
-  		    <include name="**/*.sh"/>
+  		    <include name="**/*.script"/>
+  			<include name="**/*.sh"/>
   		    <include name="**/*.bat"/>  			
   		 </fileset>  			
 	</chmod>  		    	
