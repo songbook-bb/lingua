@@ -16,7 +16,7 @@
     </word>
     <word>
         <foreignWord>Padre Nuestro, que estás en el cielo,</foreignWord>
-        <nativeWord>Our Father, Who art in heaven</nativeWord>
+        <nativeWord>Our Father, Who {art/are} in heaven</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>3</idSound>
