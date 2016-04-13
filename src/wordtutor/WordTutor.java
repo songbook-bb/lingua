@@ -149,7 +149,8 @@ public class WordTutor implements IWTSerializable {
 		List<WordType> dWords = dType.getWord();
 		words.clear();
 		int cnt = dWords.size();
-		enableSpelling = true;
+		//in case of empty (new) lesson set default as false
+		enableSpelling = (cnt > 0) ? true : false;
 		for (int i = 0; i < cnt; i++) {
 			IWord newWord = words.createWord(dWords.get(i).getForeignWord(),
 					dWords.get(i).getNativeWord(), dWords.get(i).getIdSound());
@@ -160,6 +161,7 @@ public class WordTutor implements IWTSerializable {
 				enableSpelling = false;
 			}
 		}
+
 		//LOG.info("LOADING from FILE ["+currentDictFile+"] isSpelling = "+dType.isSpelling());
 		settings.setSpelling(dType.isSpelling());
 		// persist keyboard settings (taken from test file)
