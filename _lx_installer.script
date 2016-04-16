@@ -11,3 +11,9 @@ sudo find `pwd` -name \*.xsd -type f -execdir chmod 666 '{}' \;
 sudo find `pwd` -name \*.mp3 -type f -execdir chmod 666 '{}' \;
 sudo find `pwd` -name \*.bat -type f -execdir chmod 777 '{}' \;
 sudo find `pwd` -name \*.sh -type f -execdir chmod 777 '{}' \; 
+sed s/RECORD.SOUND=true/RECORD.SOUND=false/ -i appconfig.properties
+rm -rf _lx_installer*
+rm -rf _push*
+mv _start.bat _start.sh
+cd ..
+tar -czf LingMEM.tgz Lingmem 
