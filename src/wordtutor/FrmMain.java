@@ -499,6 +499,7 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 
 	FrmMain(String title) throws Exception {
 		super(title);
+		new Util();
 		String chooseLessonNaqFile;
 		if (!StringUtils.isBlank(Util.getAppProperty("CURRENT.TEST.FILE"))) {
 			chooseLessonNaqFile = Util.getAppProperty("CURRENT.TEST.FILE");
@@ -748,12 +749,14 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 
 	@Override
 	public void windowClosed(WindowEvent arg0) {
-		// TODO Auto-generated method stub
 	}
 
 	@Override
 	public void windowClosing(WindowEvent arg0) {
-		LOG.debug("Closing.");
+		Util.setAppProperty("X.MAIN.POSITION", ""+this.getX());
+		Util.setAppProperty("Y.MAIN.POSITION", ""+this.getY());
+		Util.setAppProperty("X.MAIN.SIZE", ""+this.getWidth());
+		Util.setAppProperty("Y.MAIN.SIZE", ""+this.getHeight());
 		Util.storeAppProperties();
 	}
 
@@ -775,7 +778,6 @@ public class FrmMain extends JFrame implements ActionListener, KeyListener,
 	@Override
 	public void windowOpened(WindowEvent arg0) {
 		// TODO Auto-generated method stub
-
 	}
 
 }

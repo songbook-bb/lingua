@@ -39,26 +39,26 @@ public class Util {
 	public static final String authorInfo = "Tomek Nakonieczny";
 	public static final String contactEmail = "tomek.nakonieczny@gmail.com";
 	public static final String thanksList = "Paqui Garces, Zygmunt Hallman, Ludmiła Gołąbek, Mateusz Sondej, Ania Kierbedź, \n                         Paweł Studziński, Kieran Diels, Jill Lewis, Fr Brian McGinley, Madhubi Rita Gomes,\n                         Josipa Hudić, Sabine Zuch-Haischmann, Richard Baldock, Paulius Medziukevičius, \n                         Eustace Ugo, Basia Błasiak, Paul Noordveld, Eric Thierrij, Gerrit Mulder, Chantal Duijvelaar, \n                         Dennis Kasius, Alice Muhoza, Katharyn Watson, padre Cayetano Soto Diaz, \n                         Maria Garcia Diaz, Nayeli Quintero Sausedo, Karla Nuñez, Susana Ivethe González Vidales,\n                         Jesus Alonso Garcia, Cruz Antonio Lerma Patiño, Gloria Esmeralda Avila Botello, \n                         Carolina Romero Aguilar, Cristian Joel Vargas Gomes, Erik Orlando Luna Robles (Mazapan),\n                         Veronica Patiño, Rocio Patiño"; 
-	public static final int xMainPosition = 10; // 50
-	public static final int yMainPosition = 10; // 220
-	public static final int xMainSize = 780; // 880
-	public static final int yMainSize = 400; // 400
-	public static final int xLessonPosition = 10; // 50
-	public static final int yLessonPosition = 10; // 350
-	public static final int xLessonSize = 780; // 880
-	public static final int yLessonSize = 300; // 300
-	public static final int xAddWordPosition = 10; // 50
-	public static final int yAddWordPosition = 10; // 370
-	public static final int xAddWordSize = 780; // 880
-	public static final int yAddWordSize = 250; // 250
-	public static final int xConfigPosition = 240; // 280
-	public static final int yConfigPosition = 10; // 250
-	public static final int xConfigSize = 360; // 360
-	public static final int yConfigSize = 400; // 350
-	public static final int xImportXlsPosition = 230; // 280
-	public static final int yImportXlsPosition = 70; // 250
-	public static final int xImportXlsSize = 390; // 360
-	public static final int yImportXlsSize = 250; // 350
+	public static int xMainPosition = 10; // 50
+	public static int yMainPosition = 10; // 220
+	public static int xMainSize = 780; // 880
+	public static int yMainSize = 400; // 400
+	public static int xLessonPosition = 10; // 50
+	public static int yLessonPosition = 10; // 350
+	public static int xLessonSize = 780; // 880
+	public static int yLessonSize = 300; // 300
+	public static int xAddWordPosition = 10; // 50
+	public static int yAddWordPosition = 10; // 370
+	public static int xAddWordSize = 780; // 880
+	public static int yAddWordSize = 250; // 250
+	public static int xConfigPosition = 240; // 280
+	public static int yConfigPosition = 10; // 250
+	public static int xConfigSize = 360; // 360
+	public static int yConfigSize = 400; // 350
+	public static int xImportXlsPosition = 230; // 280
+	public static int yImportXlsPosition = 70; // 250
+	public static int xImportXlsSize = 390; // 360
+	public static int yImportXlsSize = 250; // 350
 	public static String PHRASE_DELIMITER = ";";
 	public static String SPACE = " ";
 	public static String FULL_STOP = ".";
@@ -101,9 +101,22 @@ public class Util {
 	public static final String QUOTE_REPLACE = "~";
 	
 	public Util() {
+		loadCoordinates();
 	}
 
-	public static void loadAppProperties() {
+	public static void loadCoordinates() {
+		if (appProperties == null) {
+			System.out.println("Properties object not ready!");
+		} else {
+			xMainPosition = Integer.parseInt(appProperties.getProperty("X.MAIN.POSITION")); 
+			yMainPosition = Integer.parseInt(appProperties.getProperty("Y.MAIN.POSITION")); 
+			xMainSize = Integer.parseInt(appProperties.getProperty("X.MAIN.SIZE"));
+			yMainSize = Integer.parseInt(appProperties.getProperty("Y.MAIN.SIZE"));
+		}
+			
+	}
+	
+	public static void loadAppProperties() {		
 		Logger logger = Logger.getLogger(Util.class);
 		if (appProperties == null) {
 			appProperties = new Properties();
