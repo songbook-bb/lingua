@@ -310,7 +310,7 @@
     </word>
     <word>
         <foreignWord>los gemelos</foreignWord>
-        <nativeWord>dwojaczki</nativeWord>
+        <nativeWord>dwojaczki; bliźniaki</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>
@@ -388,6 +388,34 @@
     <word>
         <foreignWord>la esposa</foreignWord>
         <nativeWord>żona</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la ahijada</foreignWord>
+        <nativeWord>chrześniaczka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el ahijado</foreignWord>
+        <nativeWord>chrześniak</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el padrino</foreignWord>
+        <nativeWord>ojciec chrzestny</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la madrina</foreignWord>
+        <nativeWord>matka chrzestna</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>0</idSound>

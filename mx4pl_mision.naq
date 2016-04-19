@@ -1330,4 +1330,11 @@
         <learned>0</learned>
         <idSound>190</idSound>
     </word>
+    <word>
+        <foreignWord>la prisa</foreignWord>
+        <nativeWord>pośpiech</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
 </dictionary>
