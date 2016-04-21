@@ -3141,160 +3141,174 @@
         <nativeWord>Do not leave {waste/wastes}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>449</idSound>
     </word>
     <word>
         <foreignWord>{Respete/Obedezca} las señales</foreignWord>
         <nativeWord>Respect the signals</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>450</idSound>
     </word>
     <word>
         <foreignWord>Curva peligrosa</foreignWord>
         <nativeWord>Dangerous turn</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>451</idSound>
     </word>
     <word>
-        <foreignWord>Te vende</foreignWord>
+        <foreignWord>Se vende</foreignWord>
         <nativeWord>For sale</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>452</idSound>
     </word>
     <word>
         <foreignWord>{Modere su/Disminuya tu} velocidad</foreignWord>
         <nativeWord>Slow down</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>453</idSound>
     </word>
     <word>
-        <foreignWord>Permida rebasar</foreignWord>
+        <foreignWord>Permita rebasar</foreignWord>
         <nativeWord>It is allowed to take over</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>454</idSound>
     </word>
     <word>
         <foreignWord>Por medio de la comunidad</foreignWord>
         <nativeWord>For good of the community</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>455</idSound>
     </word>
     <word>
         <foreignWord>Zona de niebla</foreignWord>
         <nativeWord>Foggy {zone/area}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>456</idSound>
     </word>
     <word>
         <foreignWord>Use el cinturón de seguridad</foreignWord>
         <nativeWord>Use {/the} {/safety} belt</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>457</idSound>
     </word>
     <word>
         <foreignWord>Reductor de velocidad</foreignWord>
         <nativeWord>Speed ramp</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>458</idSound>
     </word>
     <word>
         <foreignWord>Cruce de peatones a 150 m.</foreignWord>
         <nativeWord>Pedestrian crossing by 150 m.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>459</idSound>
     </word>
     <word>
         <foreignWord>Menor velocidad mayor seguridad</foreignWord>
         <nativeWord>Minor speed mayor safety</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>460</idSound>
     </word>
     <word>
         <foreignWord>No rebase</foreignWord>
         <nativeWord>Do not take over</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>461</idSound>
     </word>
     <word>
         <foreignWord>Pavimiento resbaloso</foreignWord>
         <nativeWord>Slippery {surface/pavement}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>462</idSound>
     </word>
     <word>
         <foreignWord>Entrada y salida de vehículos</foreignWord>
         <nativeWord>Entrance and exit of the vehicles</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>463</idSound>
     </word>
     <word>
         <foreignWord>Cruce de ganado a 200 m.</foreignWord>
         <nativeWord>Crossing with animal route by 200 m.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>464</idSound>
     </word>
     <word>
         <foreignWord>Maneje con precaución su familia lo espera.</foreignWord>
         <nativeWord>Drive carefully your family is wating for you.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>465</idSound>
     </word>
     <word>
         <foreignWord>Respete limite de velocidad</foreignWord>
         <nativeWord>Respect the speed limit</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>466</idSound>
     </word>
     <word>
         <foreignWord>Termina obra</foreignWord>
         <nativeWord>Work end</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>467</idSound>
     </word>
     <word>
         <foreignWord>Zona de derrumbes</foreignWord>
         <nativeWord>Landslide {zone/area}</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>468</idSound>
     </word>
     <word>
         <foreignWord>Precaución</foreignWord>
         <nativeWord>Warning; Cauction</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>469</idSound>
     </word>
     <word>
         <foreignWord>Por tu seguridad utiliza el cinturón</foreignWord>
         <nativeWord>For your security use {/the} {/safety} belt</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>470</idSound>
     </word>
     <word>
         <foreignWord>Es demasiado tarde.</foreignWord>
         <nativeWord>{It is/It's} too late.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>471</idSound>
+    </word>
+    <word>
+        <foreignWord>En vez de cerveza, agua.</foreignWord>
+        <nativeWord>Instead of beer, {/drink} water.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>472</idSound>
+    </word>
+    <word>
+        <foreignWord>¡Vamonos!</foreignWord>
+        <nativeWord>Let's go!</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>473</idSound>
     </word>
 </dictionary>

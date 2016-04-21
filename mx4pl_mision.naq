@@ -177,7 +177,7 @@
     </word>
     <word>
         <foreignWord>las quesadillas</foreignWord>
-        <nativeWord>tortilla z serem</nativeWord>
+        <nativeWord>tortije z serem</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>26</idSound>
@@ -1017,7 +1017,7 @@
     </word>
     <word>
         <foreignWord>la cueva</foreignWord>
-        <nativeWord>jaskinia</nativeWord>
+        <nativeWord>jaskinia; pieczara</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>146</idSound>
@@ -1185,7 +1185,7 @@
     </word>
     <word>
         <foreignWord>la prepa; la preparatoría</foreignWord>
-        <nativeWord>trzeci poziom nauki w meksyku</nativeWord>
+        <nativeWord>trzeci poziom nauki w szkole w Meksyku</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>170</idSound>
@@ -1335,6 +1335,41 @@
         <nativeWord>pośpiech</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>191</idSound>
+    </word>
+    <word>
+        <foreignWord>la grasa</foreignWord>
+        <nativeWord>tłuszcz</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>192</idSound>
+    </word>
+    <word>
+        <foreignWord>el teleférico</foreignWord>
+        <nativeWord>{kolej/kolejka} linowa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>193</idSound>
+    </word>
+    <word>
+        <foreignWord>el paraiso</foreignWord>
+        <nativeWord>raj</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>194</idSound>
+    </word>
+    <word>
+        <foreignWord>la mantequilla</foreignWord>
+        <nativeWord>masło</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>195</idSound>
+    </word>
+    <word>
+        <foreignWord>la selva</foreignWord>
+        <nativeWord>dżungla</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>196</idSound>
     </word>
 </dictionary>
