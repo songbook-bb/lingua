@@ -112,6 +112,11 @@ public class Util {
 			yMainPosition = Integer.parseInt(appProperties.getProperty("Y.MAIN.POSITION")); 
 			xMainSize = Integer.parseInt(appProperties.getProperty("X.MAIN.SIZE"));
 			yMainSize = Integer.parseInt(appProperties.getProperty("Y.MAIN.SIZE"));
+			xConfigPosition = Integer.parseInt(appProperties.getProperty("X.CONFIG.POSITION")); 
+			yConfigPosition = Integer.parseInt(appProperties.getProperty("Y.CONFIG.POSITION")); 
+			xConfigSize = Integer.parseInt(appProperties.getProperty("X.CONFIG.SIZE"));
+			yConfigSize = Integer.parseInt(appProperties.getProperty("Y.CONFIG.SIZE"));
+
 		}
 			
 	}

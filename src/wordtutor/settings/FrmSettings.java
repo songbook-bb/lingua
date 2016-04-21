@@ -7,6 +7,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
 
 import javax.swing.BoxLayout;
 import javax.swing.ButtonGroup;
@@ -26,7 +28,7 @@ import wordtutor.util.DirectionMode;
 import wordtutor.util.keybuttons.KeyboardButtonType;
 import wordtutor.utils.Util;
 
-public class FrmSettings extends JDialog implements ActionListener {
+public class FrmSettings extends JDialog implements ActionListener, WindowListener {
 
 	/**
 	 * 
@@ -187,12 +189,14 @@ public class FrmSettings extends JDialog implements ActionListener {
 			}
 		}
 		if (success) {
+			storeConfigCoordinates();
 			this.dispose();
 		}
 	}
 
 	public FrmSettings(FrmMain parent, String title, Settings settings, boolean enableSpelling) {
 		super(parent, title);
+		new Util();
 		setLocation(Util.xConfigPosition, Util.yConfigPosition);
 		setSize(Util.xConfigSize, Util.yConfigSize);
 		this.parentFrame = parent;
@@ -405,7 +409,7 @@ public class FrmSettings extends JDialog implements ActionListener {
 		buttonCancel.setActionCommand("cancel");
 		buttonCancel.addActionListener(this);
 		panelManage.add(buttonCancel);
-
+		addWindowListener(this);
 		setVisible(true);
 
 		// new JComboBox(Mood.values());
@@ -452,5 +456,55 @@ public class FrmSettings extends JDialog implements ActionListener {
 		rbBoth.setEnabled(false);
 		rbBoth.setSelected(false);
 		settings.setDirectionMode(DirectionMode.REVERSE);
+	}
+
+	@Override
+	public void windowOpened(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowClosing(WindowEvent e) {
+		logger.debug(" "+this.getX()+" "+this.getY()+" "+this.getWidth()+" "+this.getHeight());
+		storeConfigCoordinates();		
+	}
+
+	private void storeConfigCoordinates() {
+		Util.setAppProperty("X.CONFIG.POSITION", ""+this.getX());
+		Util.setAppProperty("Y.CONFIG.POSITION", ""+this.getY());
+		Util.setAppProperty("X.CONFIG.SIZE", ""+this.getWidth());
+		Util.setAppProperty("Y.CONFIG.SIZE", ""+this.getHeight());
+		Util.storeAppProperties();
+	}
+
+	@Override
+	public void windowClosed(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowIconified(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowDeiconified(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowActivated(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowDeactivated(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
 	}
 }
