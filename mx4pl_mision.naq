@@ -282,7 +282,7 @@
     </word>
     <word>
         <foreignWord>la gallina</foreignWord>
-        <nativeWord>gęś</nativeWord>
+        <nativeWord>kura</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>41</idSound>
@@ -1371,5 +1371,47 @@
         <score>0</score>
         <learned>0</learned>
         <idSound>196</idSound>
+    </word>
+    <word>
+        <foreignWord>el lago</foreignWord>
+        <nativeWord>jezioro</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>197</idSound>
+    </word>
+    <word>
+        <foreignWord>el negocio</foreignWord>
+        <nativeWord>stragan; biznes; układ; transakcja; wymiana</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>198</idSound>
+    </word>
+    <word>
+        <foreignWord>el estacionamiento</foreignWord>
+        <nativeWord>parking</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>199</idSound>
+    </word>
+    <word>
+        <foreignWord>el tianguis</foreignWord>
+        <nativeWord>targ; jarmark</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>200</idSound>
+    </word>
+    <word>
+        <foreignWord>el deseo</foreignWord>
+        <nativeWord>pożądanie</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>201</idSound>
+    </word>
+    <word>
+        <foreignWord>el terremoto</foreignWord>
+        <nativeWord>trzęsienie ziemi</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>202</idSound>
     </word>
 </dictionary>

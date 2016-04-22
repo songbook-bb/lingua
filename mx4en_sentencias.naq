@@ -3311,4 +3311,18 @@
         <learned>0</learned>
         <idSound>473</idSound>
     </word>
+    <word>
+        <foreignWord>La cuenta, por favor.</foreignWord>
+        <nativeWord>The {bill/recipe/invoice}, please.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>474</idSound>
+    </word>
+    <word>
+        <foreignWord>{Me traes/Me das} la cuenta, por favor.</foreignWord>
+        <nativeWord>{Bring me/Give me} the {bill/recipe/invoice}, please.</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>475</idSound>
+    </word>
 </dictionary>
