@@ -484,7 +484,7 @@
         <idSound>69</idSound>
     </word>
     <word>
-        <foreignWord>el apoyo</foreignWord>
+        <foreignWord>el apoyo; la ayuda</foreignWord>
         <nativeWord>pomoc; wsparcie</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1413,5 +1413,47 @@
         <score>0</score>
         <learned>0</learned>
         <idSound>202</idSound>
+    </word>
+    <word>
+        <foreignWord>el tinaco</foreignWord>
+        <nativeWord>cysterna</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>el tramo</foreignWord>
+        <nativeWord>odcinek</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la placa</foreignWord>
+        <nativeWord>rejestracja (pojazdu)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la leyenda</foreignWord>
+        <nativeWord>legenda</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la raya</foreignWord>
+        <nativeWord>linia</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>la fila</foreignWord>
+        <nativeWord>kolejka (np. w sklepie)</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
     </word>
 </dictionary>

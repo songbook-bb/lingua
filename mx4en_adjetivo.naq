@@ -868,4 +868,18 @@
         <learned>0</learned>
         <idSound>0</idSound>
     </word>
+    <word>
+        <foreignWord>sediento; sedienta</foreignWord>
+        <nativeWord>thirsty</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
+    <word>
+        <foreignWord>hambre; hambriento; hambrienta</foreignWord>
+        <nativeWord>hungry</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>0</idSound>
+    </word>
 </dictionary>
