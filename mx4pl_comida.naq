@@ -5,62 +5,167 @@
         <nativeWord>flaki (potrawa)</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>1</idSound>
     </word>
     <word>
         <foreignWord>la tortilla</foreignWord>
         <nativeWord>tortija</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>2</idSound>
     </word>
     <word>
         <foreignWord>los frijoles</foreignWord>
         <nativeWord>frichole</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>3</idSound>
     </word>
     <word>
         <foreignWord>los camarones</foreignWord>
         <nativeWord>gambas</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>4</idSound>
     </word>
     <word>
         <foreignWord>los chiles rellenos</foreignWord>
         <nativeWord>papryka faszerowana</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>5</idSound>
     </word>
     <word>
         <foreignWord>las enchiladas</foreignWord>
         <nativeWord>tortije z papryką</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>6</idSound>
     </word>
     <word>
         <foreignWord>los tacos</foreignWord>
         <nativeWord>takos</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>7</idSound>
     </word>
     <word>
         <foreignWord>los burritos; los burros</foreignWord>
         <nativeWord>buritos</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>8</idSound>
     </word>
     <word>
         <foreignWord>las gorditas</foreignWord>
         <nativeWord>gorditas</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>9</idSound>
+    </word>
+    <word>
+        <foreignWord>la sopa</foreignWord>
+        <nativeWord>sos; makaron</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>10</idSound>
+    </word>
+    <word>
+        <foreignWord>el caldo</foreignWord>
+        <nativeWord>zupa</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>11</idSound>
+    </word>
+    <word>
+        <foreignWord>el refresco</foreignWord>
+        <nativeWord>napój orzeźwiający</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>12</idSound>
+    </word>
+    <word>
+        <foreignWord>las papitas</foreignWord>
+        <nativeWord>czipsy</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>13</idSound>
+    </word>
+    <word>
+        <foreignWord>la tortilla de harina</foreignWord>
+        <nativeWord>tortija z mąki pszennej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>14</idSound>
+    </word>
+    <word>
+        <foreignWord>la tortilla de maíz</foreignWord>
+        <nativeWord>tortija z mąki kukurydzianej</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>15</idSound>
+    </word>
+    <word>
+        <foreignWord>la torta</foreignWord>
+        <nativeWord>bułka</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>16</idSound>
+    </word>
+    <word>
+        <foreignWord>los tamales</foreignWord>
+        <nativeWord>tamale</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>17</idSound>
+    </word>
+    <word>
+        <foreignWord>el pan</foreignWord>
+        <nativeWord>chleb</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>18</idSound>
+    </word>
+    <word>
+        <foreignWord>la quesadilla</foreignWord>
+        <nativeWord>tortija z żółtym serem</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>19</idSound>
+    </word>
+    <word>
+        <foreignWord>el agua de horchata</foreignWord>
+        <nativeWord>napój z ryżu</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>20</idSound>
+    </word>
+    <word>
+        <foreignWord>el agua de jamaica</foreignWord>
+        <nativeWord>napój z czegoś czerwonego</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>21</idSound>
+    </word>
+    <word>
+        <foreignWord>las papas con rajas</foreignWord>
+        <nativeWord>ziemniaki z papryką</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>22</idSound>
+    </word>
+    <word>
+        <foreignWord>los huevos estrellados</foreignWord>
+        <nativeWord>jajka sadzone</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>23</idSound>
+    </word>
+    <word>
+        <foreignWord>los huevos revueltos</foreignWord>
+        <nativeWord>jajecznica</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>24</idSound>
     </word>
 </dictionary>
