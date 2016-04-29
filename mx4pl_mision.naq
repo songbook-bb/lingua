@@ -1419,41 +1419,55 @@
         <nativeWord>cysterna</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>203</idSound>
     </word>
     <word>
         <foreignWord>el tramo</foreignWord>
         <nativeWord>odcinek</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>204</idSound>
     </word>
     <word>
         <foreignWord>la placa</foreignWord>
         <nativeWord>rejestracja (pojazdu)</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>205</idSound>
     </word>
     <word>
         <foreignWord>la leyenda</foreignWord>
         <nativeWord>legenda</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>206</idSound>
     </word>
     <word>
         <foreignWord>la raya</foreignWord>
         <nativeWord>linia</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>207</idSound>
     </word>
     <word>
         <foreignWord>la fila</foreignWord>
         <nativeWord>kolejka (np. w sklepie)</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>208</idSound>
+    </word>
+    <word>
+        <foreignWord>la pansa</foreignWord>
+        <nativeWord>brzuch</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>209</idSound>
+    </word>
+    <word>
+        <foreignWord>el temor</foreignWord>
+        <nativeWord>bojaźń</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>210</idSound>
     </word>
 </dictionary>

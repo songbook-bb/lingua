@@ -3330,76 +3330,83 @@
         <nativeWord>Work in progress.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>476</idSound>
     </word>
     <word>
         <foreignWord>Apaga tu celular.</foreignWord>
         <nativeWord>{Turn off/Switch off} your {/cell} phone.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>477</idSound>
     </word>
     <word>
         <foreignWord>Empuje; Empujar</foreignWord>
         <nativeWord>Push</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>478</idSound>
     </word>
     <word>
         <foreignWord>Jale; Jalar</foreignWord>
         <nativeWord>Pull</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>479</idSound>
     </word>
     <word>
         <foreignWord>Tres por séis</foreignWord>
         <nativeWord>Three times six</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>480</idSound>
     </word>
     <word>
-        <foreignWord>Dos mas tres</foreignWord>
+        <foreignWord>Dos más tres</foreignWord>
         <nativeWord>Two plus three</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>481</idSound>
     </word>
     <word>
         <foreignWord>Siete menos cinco</foreignWord>
         <nativeWord>Seven minus five</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>482</idSound>
     </word>
     <word>
         <foreignWord>Doce entre cuatro</foreignWord>
         <nativeWord>Twelve divided by four</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>483</idSound>
     </word>
     <word>
         <foreignWord>Concede cambio de luces</foreignWord>
         <nativeWord>Consider a change of the lights</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>484</idSound>
     </word>
     <word>
         <foreignWord>Casetta de cobro a 200 m.</foreignWord>
         <nativeWord>Payment point by 200 m.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>485</idSound>
     </word>
     <word>
-        <foreignWord>Pagando</foreignWord>
-        <nativeWord>Paid.</nativeWord>
+        <foreignWord>Esta pagando.</foreignWord>
+        <nativeWord>It is paid.</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>486</idSound>
+    </word>
+    <word>
+        <foreignWord>¿Dónde esta?</foreignWord>
+        <nativeWord>Where is it?</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>487</idSound>
     </word>
 </dictionary>

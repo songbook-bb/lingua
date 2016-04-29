@@ -873,13 +873,20 @@
         <nativeWord>thirsty</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>125</idSound>
     </word>
     <word>
         <foreignWord>hambre; hambriento; hambrienta</foreignWord>
         <nativeWord>hungry</nativeWord>
         <score>0</score>
         <learned>0</learned>
-        <idSound>0</idSound>
+        <idSound>126</idSound>
+    </word>
+    <word>
+        <foreignWord>promedio; promedia; medio; media</foreignWord>
+        <nativeWord>average</nativeWord>
+        <score>0</score>
+        <learned>0</learned>
+        <idSound>127</idSound>
     </word>
 </dictionary>
