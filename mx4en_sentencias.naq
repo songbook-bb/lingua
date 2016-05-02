@@ -169,8 +169,8 @@
         <idSound>24</idSound>
     </word>
     <word>
-        <foreignWord>Quiero pan pero no quiero agua. </foreignWord>
-        <nativeWord>I want bread but I {do not/don't} want water. </nativeWord>
+        <foreignWord>{Quiero/Yo quiero} pan pero no quiero agua.</foreignWord>
+        <nativeWord>I want bread but I {do not/don't} want water.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>25</idSound>
@@ -225,8 +225,8 @@
         <idSound>32</idSound>
     </word>
     <word>
-        <foreignWord>No puedo aunque quiero. </foreignWord>
-        <nativeWord>I can not even though I want {/to}. </nativeWord>
+        <foreignWord>{Yo no/No} puedo aunque quiero.</foreignWord>
+        <nativeWord>I can not even though I want {/to}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>33</idSound>
@@ -253,8 +253,8 @@
         <idSound>36</idSound>
     </word>
     <word>
-        <foreignWord>Yo no quiero vino sino {quiero/} agua. </foreignWord>
-        <nativeWord>I {do not/don't} want wine, but {I want/} water. </nativeWord>
+        <foreignWord>{Yo no/No} quiero vino sino {quiero/} agua.</foreignWord>
+        <nativeWord>I {do not/don't} want wine, but {I want/} water.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>37</idSound>
@@ -1520,7 +1520,7 @@
         <idSound>217</idSound>
     </word>
     <word>
-        <foreignWord>No quiero tanta pasta.</foreignWord>
+        <foreignWord>{Yo no/No} quiero tanta pasta.</foreignWord>
         <nativeWord>I do not want so much pasta.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -2248,7 +2248,7 @@
         <idSound>321</idSound>
     </word>
     <word>
-        <foreignWord>Quiero eso para luego.</foreignWord>
+        <foreignWord>{Yo quiero/Quiero} eso para luego.</foreignWord>
         <nativeWord>I want that later.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -2801,7 +2801,7 @@
         <idSound>400</idSound>
     </word>
     <word>
-        <foreignWord>Es dura.</foreignWord>
+        <foreignWord>Es {dura/duro}.</foreignWord>
         <nativeWord>It is hard.</nativeWord>
         <score>0</score>
         <learned>0</learned>
