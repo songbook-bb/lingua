@@ -292,6 +292,13 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		case KeyEvent.VK_CONTROL:
 			CTRL_IS_PRESSED = false;
 			break;
+		case KeyEvent.VK_SPACE:			
+			if (tutor.getSettings().isSpelling()) {
+				if (mode == ActMode.ANSWER) {
+					spelling();				
+				}
+			} 
+			break;			
 		default:
 			// nie podpowiadamy na egzaminie :)
 			// warunek > 0 bo ma WCALE nie podpowiadac gdy klepie pusty string
