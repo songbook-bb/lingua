@@ -120,8 +120,8 @@
         <idSound>17</idSound>
     </word>
     <word>
-        <foreignWord>Yo tengo una sartén. </foreignWord>
-        <nativeWord>I have a pan. </nativeWord>
+        <foreignWord>{Tengo/Yo tengo} una sartén.</foreignWord>
+        <nativeWord>I have a pan.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>18</idSound>
@@ -596,8 +596,8 @@
         <idSound>85</idSound>
     </word>
     <word>
-        <foreignWord>Tengo una cena esta noche. </foreignWord>
-        <nativeWord>I have a dinner {this night/tonight}. </nativeWord>
+        <foreignWord>{Tengo/Yo tengo} una cena esta noche.</foreignWord>
+        <nativeWord>I have a dinner {this night/tonight}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>86</idSound>
@@ -940,7 +940,7 @@
     </word>
     <word>
         <foreignWord>Las mujeres primero.</foreignWord>
-        <nativeWord>The women first.</nativeWord>
+        <nativeWord>The {women/ladies} first.</nativeWord>
         <score>0</score>
         <learned>0</learned>
         <idSound>135</idSound>
@@ -1030,7 +1030,7 @@
         <idSound>147</idSound>
     </word>
     <word>
-        <foreignWord>Tengo solamente un hermano.</foreignWord>
+        <foreignWord>{Tengo/Yo tengo} solamente un hermano.</foreignWord>
         <nativeWord>I {have only/only have} one brother.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1282,7 +1282,7 @@
         <idSound>183</idSound>
     </word>
     <word>
-        <foreignWord>Yo corro los jueves.</foreignWord>
+        <foreignWord>{Yo corro/Corro} los jueves.</foreignWord>
         <nativeWord>I run on Thursdays.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1296,7 +1296,7 @@
         <idSound>185</idSound>
     </word>
     <word>
-        <foreignWord>Yo corro una vez a la semana.</foreignWord>
+        <foreignWord>{Yo corro/Corro} una vez a la semana.</foreignWord>
         <nativeWord>I run once a week.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -1352,7 +1352,7 @@
         <idSound>193</idSound>
     </word>
     <word>
-        <foreignWord>{Tengo/yo tengo} una cita con él al mediodía.</foreignWord>
+        <foreignWord>{Tengo/Yo tengo} una cita con él al mediodía.</foreignWord>
         <nativeWord>I have {an appointment/a meeting} with him at noon.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -2087,7 +2087,7 @@
         <idSound>298</idSound>
     </word>
     <word>
-        <foreignWord>Tengo sólo una hora.</foreignWord>
+        <foreignWord>{Tengo/Yo tengo} sólo una hora.</foreignWord>
         <nativeWord>I {have only/only have} {one/an} hour.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -2563,7 +2563,7 @@
         <idSound>366</idSound>
     </word>
     <word>
-        <foreignWord>Yo corro.</foreignWord>
+        <foreignWord>{Yo corro/Corro}.</foreignWord>
         <nativeWord>I run.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -2731,7 +2731,7 @@
         <idSound>390</idSound>
     </word>
     <word>
-        <foreignWord>Sólo tengo un minuto.</foreignWord>
+        <foreignWord>{Sólo tengo/Yo tengo sólo} un minuto.</foreignWord>
         <nativeWord>I {have just/only have} a minute.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -2899,7 +2899,7 @@
         <idSound>414</idSound>
     </word>
     <word>
-        <foreignWord>No tengo ningún gato.</foreignWord>
+        <foreignWord>{No tengo/Yo no tengo} ningún gato.</foreignWord>
         <nativeWord>I {don't/do not} have {any cats/a cat}.</nativeWord>
         <score>0</score>
         <learned>0</learned>
