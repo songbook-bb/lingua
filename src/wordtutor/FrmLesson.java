@@ -279,18 +279,12 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	}
 
 	/**
-	 * handles keboard pressing
+	 * handles keyboard pressing
 	 */
 	public void keyReleased(KeyEvent e) {
 		switch (e.getKeyCode()) {
 		case KeyEvent.VK_ENTER:
-			if (tutor.getSettings().isSpelling()) {
-				if (mode == ActMode.ANSWER) {
-					spelling();				
-				}
-			} else {
-				button();
-			}
+			button();
 			break;
 		case KeyEvent.VK_ESCAPE:
 			this.dispose();
