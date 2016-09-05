@@ -1191,7 +1191,7 @@
         <idSound>170</idSound>
     </word>
     <word>
-        <foreignWord>Yo camino hacia ella.</foreignWord>
+        <foreignWord>{Yo camino/Camino} hacia ella.</foreignWord>
         <nativeWord>I walk towards her.</nativeWord>
         <score>0</score>
         <learned>0</learned>
@@ -2073,7 +2073,7 @@
         <idSound>296</idSound>
     </word>
     <word>
-        <foreignWord>Yo camino después del almuerzo.</foreignWord>
+        <foreignWord>{Yo camino/Camino} después del almuerzo.</foreignWord>
         <nativeWord>I walk after {/the} lunch</nativeWord>
         <score>0</score>
         <learned>0</learned>
