@@ -8,6 +8,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
 import java.io.IOException;
 
 import javax.swing.BoxLayout;
@@ -35,7 +37,7 @@ import wordtutor.utils.Util;
  * add new word or change existing
  * 
  */
-public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
+public class FrmAddWord extends JDialog implements ActionListener, KeyListener, WindowListener {
 	Logger logger = Logger.getLogger(FrmAddWord.class);
 	/**
 	 * 
@@ -106,7 +108,8 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
   			  }	  
               wordData.isSaved = false;
               wordData.addSound = false;              
-            };			
+            };
+            storeConfigCoordinates();
 			this.removeAll();
 			this.dispose();			
 		}
@@ -120,8 +123,15 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 	{
       switch (e.getKeyCode())
       {
-       case KeyEvent.VK_ENTER  :  Save(); this.dispose(); break;
-       case KeyEvent.VK_ESCAPE : this.dispose(); break;
+       case KeyEvent.VK_ENTER  :  
+    	   	Save(); 
+            storeConfigCoordinates();    	   	
+       		this.dispose(); 
+       		break;
+       case KeyEvent.VK_ESCAPE : 
+           storeConfigCoordinates();    	   
+    	   this.dispose(); 
+    	   break;
       }	  
 	}
 	public void keyTyped(KeyEvent e){}
@@ -130,8 +140,8 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
  public FrmAddWord(JFrame parent,String title,WordData wordData, String fileWave, String searchString) throws AudioException, IOException, NoAudioLineException
  {
 	 super(parent,title,true);
+	 new Util();	 
 	 settings.loadFromXML();
-	 //set the main panel
 	 setLocation(Util.xAddWordPosition,Util.yAddWordPosition);
 	 setSize(Util.xAddWordSize,Util.yAddWordSize);	 
 	 assignWordData(wordData);
@@ -186,6 +196,48 @@ public class FrmAddWord extends JDialog implements ActionListener, KeyListener{
 	 panelManage.add(buttonCancel);	 	 
 	 panelSouth.add(panelManage);
 	 this.add(panelSouth,BorderLayout.SOUTH);
+	 addWindowListener(this);	 
 	 this.setVisible(true);	 	 
  }
+@Override
+public void windowOpened(WindowEvent e) {
+	// TODO Auto-generated method stub
+	
+}
+@Override
+public void windowClosing(WindowEvent e) {
+	storeConfigCoordinates();		
+}
+private void storeConfigCoordinates() {
+	Util.setAppProperty("X.ADDWORD.POSITION", ""+this.getX());
+	Util.setAppProperty("Y.ADDWORD.POSITION", ""+this.getY());
+	Util.setAppProperty("X.ADDWORD.SIZE", ""+this.getWidth());
+	Util.setAppProperty("Y.ADDWORD.SIZE", ""+this.getHeight());
+	Util.storeAppProperties();		
+	logger.debug("STORED: "+this.getX()+" "+this.getY()+" "+this.getWidth()+" "+this.getHeight());		
+}
+@Override
+public void windowClosed(WindowEvent e) {
+	// TODO Auto-generated method stub	
+}
+@Override
+public void windowIconified(WindowEvent e) {
+	// TODO Auto-generated method stub
+	
+}
+@Override
+public void windowDeiconified(WindowEvent e) {
+	// TODO Auto-generated method stub
+	
+}
+@Override
+public void windowActivated(WindowEvent e) {
+	// TODO Auto-generated method stub
+	
+}
+@Override
+public void windowDeactivated(WindowEvent e) {
+	// TODO Auto-generated method stub
+	
+}
 }

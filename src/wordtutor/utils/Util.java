@@ -55,10 +55,10 @@ public class Util {
 	public static int yConfigPosition = 10; // 250
 	public static int xConfigSize = 360; // 360
 	public static int yConfigSize = 400; // 350
-	public static int xImportXlsPosition = 230; // 280
-	public static int yImportXlsPosition = 70; // 250
-	public static int xImportXlsSize = 390; // 360
-	public static int yImportXlsSize = 250; // 350
+	public static int xImportPosition = 230; // 280
+	public static int yImportPosition = 70; // 250
+	public static int xImportSize = 390; // 360
+	public static int yImportSize = 250; // 350
 	public static String PHRASE_DELIMITER = ";";
 	public static String SPACE = " ";
 	public static String FULL_STOP = ".";
@@ -120,7 +120,14 @@ public class Util {
 			yLessonPosition = Integer.parseInt(appProperties.getProperty("Y.LESSON.POSITION"));
 			xLessonSize = Integer.parseInt(appProperties.getProperty("X.LESSON.SIZE"));
 			yLessonSize = Integer.parseInt(appProperties.getProperty("Y.LESSON.SIZE"));
-
+			xImportPosition = Integer.parseInt(appProperties.getProperty("X.IMPORT.POSITION"));
+			yImportPosition = Integer.parseInt(appProperties.getProperty("Y.IMPORT.POSITION"));
+			xImportSize = Integer.parseInt(appProperties.getProperty("X.IMPORT.SIZE"));
+			yImportSize = Integer.parseInt(appProperties.getProperty("Y.IMPORT.SIZE"));
+			xAddWordPosition = Integer.parseInt(appProperties.getProperty("X.ADDWORD.POSITION"));
+			yAddWordPosition = Integer.parseInt(appProperties.getProperty("Y.ADDWORD.POSITION"));
+			xAddWordSize = Integer.parseInt(appProperties.getProperty("X.ADDWORD.SIZE"));
+			yAddWordSize = Integer.parseInt(appProperties.getProperty("Y.ADDWORD.SIZE"));
 		}
 			
 	}

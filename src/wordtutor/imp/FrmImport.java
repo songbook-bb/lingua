@@ -5,6 +5,8 @@ import java.awt.FlowLayout;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.File;
@@ -28,7 +30,7 @@ import wordtutor.FrmMain;
 import wordtutor.WordTutor;
 import wordtutor.utils.Util;
 
-public class FrmImport extends JDialog implements ActionListener {
+public class FrmImport extends JDialog implements ActionListener, WindowListener {
 
 	private static final long serialVersionUID = -2479995298621194872L;
 	Logger logger = Logger.getLogger(FrmImport.class);
@@ -137,11 +139,11 @@ public class FrmImport extends JDialog implements ActionListener {
 	
 	public FrmImport(FrmMain parent, String title, WordTutor tutor, JTable tableWords) {
 		super(parent, title);
+		new Util();		
+ 	    setLocation(Util.xImportPosition,Util.yImportPosition);
+		setSize(Util.xImportSize,Util.yImportSize);	 
 		setImportTutor(tutor);		
 		setTableWords(tableWords);
-		setLocation(Util.xConfigPosition, Util.yConfigPosition);
-		setSize(Util.xConfigSize, Util.yConfigSize);				
-		
 		panelImport = new JPanel();
 
 		add(panelImport, BorderLayout.NORTH);
@@ -196,6 +198,7 @@ public class FrmImport extends JDialog implements ActionListener {
 		buttonCancel.setActionCommand("cancel");
 		buttonCancel.addActionListener(this);
 		panelManage.add(buttonCancel);
+		addWindowListener(this);		
 		setVisible(true);
 
 	}
@@ -208,4 +211,40 @@ public class FrmImport extends JDialog implements ActionListener {
 		FrmImport.tableWords = tableWords;
 	}
 
+	@Override
+	public void windowOpened(WindowEvent e) {
+		// TODO Auto-generated method stub		
+	}
+	@Override
+	public void windowClosing(WindowEvent e) {
+		storeConfigCoordinates();		
+	}
+	private void storeConfigCoordinates() {
+		Util.setAppProperty("X.IMPORT.POSITION", ""+this.getX());
+		Util.setAppProperty("Y.IMPORT.POSITION", ""+this.getY());
+		Util.setAppProperty("X.IMPORT.SIZE", ""+this.getWidth());
+		Util.setAppProperty("Y.IMPORT.SIZE", ""+this.getHeight());
+		Util.storeAppProperties();		
+		logger.debug("STORED: "+this.getX()+" "+this.getY()+" "+this.getWidth()+" "+this.getHeight());		
+	}
+	@Override
+	public void windowClosed(WindowEvent e) {
+		// TODO Auto-generated method stub	
+	}
+	@Override
+	public void windowIconified(WindowEvent e) {
+		// TODO Auto-generated method stub
+	}
+	@Override
+	public void windowDeiconified(WindowEvent e) {
+		// TODO Auto-generated method stub
+	}
+	@Override
+	public void windowActivated(WindowEvent e) {
+		// TODO Auto-generated method stub		
+	}
+	@Override
+	public void windowDeactivated(WindowEvent e) {
+		// TODO Auto-generated method stub		
+	}
 }
