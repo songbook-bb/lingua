@@ -466,7 +466,6 @@ public class FrmSettings extends JDialog implements ActionListener, WindowListen
 
 	@Override
 	public void windowClosing(WindowEvent e) {
-		logger.debug(" "+this.getX()+" "+this.getY()+" "+this.getWidth()+" "+this.getHeight());
 		storeConfigCoordinates();		
 	}
 
@@ -475,7 +474,8 @@ public class FrmSettings extends JDialog implements ActionListener, WindowListen
 		Util.setAppProperty("Y.CONFIG.POSITION", ""+this.getY());
 		Util.setAppProperty("X.CONFIG.SIZE", ""+this.getWidth());
 		Util.setAppProperty("Y.CONFIG.SIZE", ""+this.getHeight());
-		Util.storeAppProperties();
+		Util.storeAppProperties();		
+		logger.debug("STORED: "+this.getX()+" "+this.getY()+" "+this.getWidth()+" "+this.getHeight());		
 	}
 
 	@Override
