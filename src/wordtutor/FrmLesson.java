@@ -9,6 +9,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
 import java.text.MessageFormat;
 import java.text.Normalizer;
 import java.util.ArrayList;
@@ -29,6 +31,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
+import javax.swing.WindowConstants;
 import javax.swing.text.Caret;
 
 import org.apache.commons.lang.StringUtils;
@@ -57,8 +60,8 @@ enum ActMode {
  * 
  */
 
-public class FrmLesson extends JDialog implements ActionListener, KeyListener {
-	private static final long serialVersionUID = 1278330304433235395L;
+public class FrmLesson extends JDialog implements ActionListener, KeyListener, WindowListener {
+	private static final long serialVersionUID = 1278330304433235395L;	
 	public static String expandedAllRightAnswers = "";
 	public static int defaultTextareaRows = 4;
 	private static boolean CTRL_IS_PRESSED = false;
@@ -238,10 +241,9 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 									Util.getLocalizedString("LESSON.STAT.EXAM.FRAME.NAME"),
 									JOptionPane.PLAIN_MESSAGE, null);
 				}
-				/** TODO poprawić nakładanie się odtwarzania */
-				// utl.playSound(player, new
-				// Util().getAppProperty("CONGRATULATION.MP3"));
-				// if the lesson is over, just close the window
+				// preserve coordinates if changed
+				storeConfigCoordinates();				
+				this.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
 				this.dispose();
 			}
 		} else if (mode == ActMode.NEXT) // if the mode is Next
@@ -347,6 +349,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 	 */
 	FrmLesson(JFrame parent, String title, WordTutor tutor) throws Exception {
 		super(parent, title, true);
+		new Util();		
 		settings.loadFromXML();
 		int wave2mp3Result = new BatchConvert().runWave2mp3(null);
 		LOG.debug("wave2mp3Result= " + wave2mp3Result);
@@ -428,6 +431,7 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		questionWord.setCaretPosition(0);
 		answerWord.addKeyListener(this);
 		answerWord.setCaretPosition(0);
+		addWindowListener(this);		
 		setVisible(true);
 		answerWord.setFocusable(true);
 		answerWord.requestFocus();
@@ -829,6 +833,56 @@ public class FrmLesson extends JDialog implements ActionListener, KeyListener {
 		public void testExpandOnlyOneExpression_doubled() {
 			assertEquals("a c x;a d x;b c x;b d x;", expandOnlyOneExpression("{a/b} {c/d} x"));
 		}							
+		
+	}
+
+	@Override
+	public void windowOpened(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowClosed(WindowEvent e) {
+		// TODO Auto-generated method stub		
+	}
+
+	@Override
+	public void windowClosing(WindowEvent arg0) {
+		storeConfigCoordinates();		
+	}	
+	
+	private void storeConfigCoordinates() {
+		Util.setAppProperty("X.LESSON.POSITION", ""+this.getX());
+		Util.setAppProperty("Y.LESSON.POSITION", ""+this.getY());
+		Util.setAppProperty("X.LESSON.SIZE", ""+this.getWidth());
+		Util.setAppProperty("Y.LESSON.SIZE", ""+this.getHeight());
+		Util.storeAppProperties();
+		LOG.debug("STORED : "+this.getX()+" "+this.getY()+" "+this.getWidth()+" "+this.getHeight());		
+	}
+
+	
+	@Override
+	public void windowIconified(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowDeiconified(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowActivated(WindowEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void windowDeactivated(WindowEvent e) {
+		// TODO Auto-generated method stub
 		
 	}
 }
