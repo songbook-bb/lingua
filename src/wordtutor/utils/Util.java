@@ -34,11 +34,11 @@ import org.apache.log4j.Logger;
 
 public class Util {
 	static Logger logger = Logger.getLogger(Util.class);
-	public static final String programVersion = "1.27";
+	public static final String programVersion = "1.28";
 	public static final String appconfigproperties = "appconfig.properties";
 	public static final String authorInfo = "Tomek Nakonieczny";
 	public static final String contactEmail = "tomek.nakonieczny@gmail.com";
-	public static final String thanksList = "Paqui Garces, Zygmunt Hallman, Ludmiła Gołąbek, Mateusz Sondej, Ania Kierbedź, \n                         Paweł Studziński, Kieran Diels, Jill Lewis, Fr Brian McGinley, Madhubi Rita Gomes,\n                         Josipa Hudić, Sabine Zuch-Haischmann, Richard Baldock, Paulius Medziukevičius, \n                         Eustace Ugo, Basia Błasiak, Paul Noordveld, Eric Thierrij, Gerrit Mulder, Chantal Duijvelaar, \n                         Dennis Kasius, Alice Muhoza, Katharyn Watson, padre Cayetano Soto Diaz, \n                         Maria Garcia Diaz, Nayeli Quintero Sausedo, Karla Nuñez, Susana Ivethe González Vidales,\n                         Jesus Alonso Garcia, Cruz Antonio Lerma Patiño, Gloria Esmeralda Avila Botello, \n                         Carolina Romero Aguilar, Cristian Joel Vargas Gomes, Erik Orlando Luna Robles (Mazapan),\n                         Veronica Patiño, Rocio Patiño"; 
+	public static final String thanksList = "Paqui Garces, Zygmunt Hallman, Ludmiła Gołąbek, Mateusz Sondej, Ania Kierbedź, \n                         Paweł Studziński, Kieran Diels, Jill Lewis, Fr Brian McGinley, Madhubi Rita Gomes,\n                         Josipa Hudić, Sabine Zuch-Haischmann, Richard Baldock, Paulius Medziukevičius, \n                         Eustace Ugo, Basia Błasiak, Paul Noordveld, Eric Thierrij, Gerrit Mulder, Chantal Duijvelaar, \n                         Dennis Kasius, Alice Muhoza, Katharyn Watson, padre Cayetano Soto Diaz, \n                         Maria Garcia Diaz, Nayeli Quintero Sausedo, Karla Nuñez, Susana Ivethe González Vidales,\n                         Jesus Alonso Garcia, Cruz Antonio Lerma Patiño, Gloria Esmeralda Avila Botello, \n                         Carolina Romero Aguilar, Cristian Joel Vargas Gomes, Erik Orlando Luna Robles (Mazapan),\n                         Veronica Patiño, Rocio Patiño, Paweł Magulski"; 
 	public static int xMainPosition = 10; // 50
 	public static int yMainPosition = 10; // 220
 	public static int xMainSize = 780; // 880
